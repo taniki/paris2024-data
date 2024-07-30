@@ -1,11 +1,11 @@
 code,country,gold,silver,bronze
 JPN,Japan,7,2,4
 CHN,People's Republic of China,6,6,2
-AUS,Australia,6,4,0
+AUS,Australia,6,4,1
 FRA,France,5,9,4
 KOR,Republic of Korea,5,3,3
-USA,United States of America,4,10,11
-GBR,Great Britain,3,5,3
+USA,United States of America,4,11,11
+GBR,Great Britain,4,5,3
 ITA,Italy,3,4,4
 CAN,Canada,2,2,2
 HKG,"Hong Kong, China",2,0,1

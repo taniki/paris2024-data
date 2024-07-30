@@ -5,7 +5,7 @@ AUS,Australia,gold,6
 FRA,France,gold,5
 KOR,Republic of Korea,gold,5
 USA,United States of America,gold,4
-GBR,Great Britain,gold,3
+GBR,Great Britain,gold,4
 ITA,Italy,gold,3
 CAN,Canada,gold,2
 HKG,"Hong Kong, China",gold,2
@@ -47,7 +47,7 @@ CHN,People's Republic of China,silver,6
 AUS,Australia,silver,4
 FRA,France,silver,9
 KOR,Republic of Korea,silver,3
-USA,United States of America,silver,10
+USA,United States of America,silver,11
 GBR,Great Britain,silver,5
 ITA,Italy,silver,4
 CAN,Canada,silver,2
@@ -87,7 +87,7 @@ TJK,Tajikistan,silver,0
 UKR,Ukraine,silver,0
 JPN,Japan,bronze,4
 CHN,People's Republic of China,bronze,2
-AUS,Australia,bronze,0
+AUS,Australia,bronze,1
 FRA,France,bronze,4
 KOR,Republic of Korea,bronze,3
 USA,United States of America,bronze,11
