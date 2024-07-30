@@ -1,0 +1,44 @@
+code,country,gold,silver,bronze
+JPN,Japan,7,2,4
+CHN,People's Republic of China,6,6,2
+AUS,Australia,6,4,0
+FRA,France,5,9,4
+KOR,Republic of Korea,5,3,3
+USA,United States of America,4,10,11
+GBR,Great Britain,3,5,3
+ITA,Italy,3,4,4
+CAN,Canada,2,2,2
+HKG,"Hong Kong, China",2,0,1
+GER,Germany,2,0,0
+KAZ,Kazakhstan,1,0,2
+RSA,South Africa,1,0,2
+BEL,Belgium,1,0,1
+IRL,Ireland,1,0,1
+AZE,Azerbaijan,1,0,0
+NZL,New Zealand,1,0,0
+ROU,Romania,1,0,0
+SLO,Slovenia,1,0,0
+SRB,Serbia,1,0,0
+UZB,Uzbekistan,1,0,0
+BRA,Brazil,0,1,3
+SWE,Sweden,0,1,2
+KOS,Kosovo,0,1,1
+MEX,Mexico,0,1,1
+POL,Poland,0,1,1
+TUR,Türkiye,0,1,1
+FIJ,Fiji,0,1,0
+GEO,Georgia,0,1,0
+MGL,Mongolia,0,1,0
+PRK,Democratic People's Republic of Korea,0,1,0
+TUN,Tunisia,0,1,0
+IND,India,0,0,2
+MDA,Republic of Moldova,0,0,2
+CRO,Croatia,0,0,1
+EGY,Egypt,0,0,1
+ESP,Spain,0,0,1
+GUA,Guatemala,0,0,1
+HUN,Hungary,0,0,1
+SUI,Switzerland,0,0,1
+SVK,Slovakia,0,0,1
+TJK,Tajikistan,0,0,1
+UKR,Ukraine,0,0,1
