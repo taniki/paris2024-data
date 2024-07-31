@@ -18,7 +18,7 @@ driver = webdriver.Firefox(service=webdriver_service, options=firefox_options)
 
 driver.get(source)
 
-sleep(3)
+sleep(5)
 
 driver.find_element(By.ID, 'onetrust-reject-all-handler').click()
 
@@ -90,5 +90,7 @@ medals_countries_long
 # -
 
 medals_countries_long.to_csv('../datasets/medal_countries.long.csv', index=False)
+
+medals_countries_wide[['code', 'country']].to_csv('../extras/ioc_countries.csv', index=False)
 
 

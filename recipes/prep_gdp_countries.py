@@ -53,4 +53,6 @@ df.gdp_capita_quantile.value_counts()
     .to_csv('../extras/gdp_countries.quantiles.csv')
 )
 
+countries.to_csv('../extras/wb_countries.csv')
+
 
