@@ -1,8 +1,8 @@
 code,country,medal,quantity
+CHN,People's Republic of China,gold,7
 JPN,Japan,gold,7
-CHN,People's Republic of China,gold,6
+FRA,France,gold,6
 AUS,Australia,gold,6
-FRA,France,gold,5
 KOR,Republic of Korea,gold,5
 USA,United States of America,gold,4
 GBR,Great Britain,gold,4
@@ -20,16 +20,17 @@ ROU,Romania,gold,1
 SLO,Slovenia,gold,1
 SRB,Serbia,gold,1
 UZB,Uzbekistan,gold,1
+PRK,Democratic People's Republic of Korea,gold,0
 BRA,Brazil,gold,0
 SWE,Sweden,gold,0
 KOS,Kosovo,gold,0
 MEX,Mexico,gold,0
 POL,Poland,gold,0
+SUI,Switzerland,gold,0
 TUR,Türkiye,gold,0
 FIJ,Fiji,gold,0
 GEO,Georgia,gold,0
 MGL,Mongolia,gold,0
-PRK,Democratic People's Republic of Korea,gold,0
 TUN,Tunisia,gold,0
 IND,India,gold,0
 MDA,Republic of Moldova,gold,0
@@ -38,14 +39,13 @@ EGY,Egypt,gold,0
 ESP,Spain,gold,0
 GUA,Guatemala,gold,0
 HUN,Hungary,gold,0
-SUI,Switzerland,gold,0
 SVK,Slovakia,gold,0
 TJK,Tajikistan,gold,0
 UKR,Ukraine,gold,0
-JPN,Japan,silver,2
 CHN,People's Republic of China,silver,6
-AUS,Australia,silver,4
+JPN,Japan,silver,2
 FRA,France,silver,9
+AUS,Australia,silver,4
 KOR,Republic of Korea,silver,3
 USA,United States of America,silver,11
 GBR,Great Britain,silver,5
@@ -63,16 +63,17 @@ ROU,Romania,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
 UZB,Uzbekistan,silver,0
+PRK,Democratic People's Republic of Korea,silver,2
 BRA,Brazil,silver,1
 SWE,Sweden,silver,1
 KOS,Kosovo,silver,1
 MEX,Mexico,silver,1
 POL,Poland,silver,1
+SUI,Switzerland,silver,1
 TUR,Türkiye,silver,1
 FIJ,Fiji,silver,1
 GEO,Georgia,silver,1
 MGL,Mongolia,silver,1
-PRK,Democratic People's Republic of Korea,silver,1
 TUN,Tunisia,silver,1
 IND,India,silver,0
 MDA,Republic of Moldova,silver,0
@@ -81,17 +82,16 @@ EGY,Egypt,silver,0
 ESP,Spain,silver,0
 GUA,Guatemala,silver,0
 HUN,Hungary,silver,0
-SUI,Switzerland,silver,0
 SVK,Slovakia,silver,0
 TJK,Tajikistan,silver,0
 UKR,Ukraine,silver,0
-JPN,Japan,bronze,4
 CHN,People's Republic of China,bronze,2
-AUS,Australia,bronze,1
+JPN,Japan,bronze,4
 FRA,France,bronze,4
+AUS,Australia,bronze,1
 KOR,Republic of Korea,bronze,3
 USA,United States of America,bronze,11
-GBR,Great Britain,bronze,3
+GBR,Great Britain,bronze,5
 ITA,Italy,bronze,4
 CAN,Canada,bronze,2
 HKG,"Hong Kong, China",bronze,1
@@ -106,16 +106,17 @@ ROU,Romania,bronze,0
 SLO,Slovenia,bronze,0
 SRB,Serbia,bronze,0
 UZB,Uzbekistan,bronze,0
+PRK,Democratic People's Republic of Korea,bronze,0
 BRA,Brazil,bronze,3
 SWE,Sweden,bronze,2
 KOS,Kosovo,bronze,1
 MEX,Mexico,bronze,1
 POL,Poland,bronze,1
+SUI,Switzerland,bronze,1
 TUR,Türkiye,bronze,1
 FIJ,Fiji,bronze,0
 GEO,Georgia,bronze,0
 MGL,Mongolia,bronze,0
-PRK,Democratic People's Republic of Korea,bronze,0
 TUN,Tunisia,bronze,0
 IND,India,bronze,2
 MDA,Republic of Moldova,bronze,2
@@ -124,7 +125,6 @@ EGY,Egypt,bronze,1
 ESP,Spain,bronze,1
 GUA,Guatemala,bronze,1
 HUN,Hungary,bronze,1
-SUI,Switzerland,bronze,1
 SVK,Slovakia,bronze,1
 TJK,Tajikistan,bronze,1
 UKR,Ukraine,bronze,1
