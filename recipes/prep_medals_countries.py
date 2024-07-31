@@ -91,6 +91,6 @@ medals_countries_long
 
 medals_countries_long.to_csv('../datasets/medal_countries.long.csv', index=False)
 
-medals_countries_wide[['code', 'country']].to_csv('../extras/ioc_countries.csv', index=False)
+medals_countries_wide[['code', 'country']].sort_values('code').to_csv('../extras/ioc_countries.csv', index=False)
 
 
