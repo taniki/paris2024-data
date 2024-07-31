@@ -12,6 +12,15 @@ codes
 gdp_pp_kd.to_frame()
 
 # +
+countries = (
+    wb
+    .get_countries()
+    .query('region != "Aggregates"')
+)
+
+countries
+
+# +
 df = (
     gdp_pp_kd
     .to_frame()
@@ -25,6 +34,7 @@ df = (
         axis = 1
     )
     [['country', 'gdp_capita']]
+    .query('country.isin(@countries.name)')
     .assign(
             gdp_capita_quantile = lambda df: pd.qcut(df.gdp_capita,6).cat.codes
     )
@@ -39,7 +49,7 @@ df.gdp_capita_quantile.value_counts()
 
 (
     df
-    .query('~gdp_capita.isna()')
+    #.query('~gdp_capita.isna()')
     .to_csv('../extras/gdp_countries.quantiles.csv')
 )
 
