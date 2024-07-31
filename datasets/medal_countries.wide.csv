@@ -1,31 +1,34 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,7,6,2
+CHN,People's Republic of China,8,6,2
 JPN,Japan,7,2,4
-FRA,France,6,9,4
-AUS,Australia,6,4,1
+FRA,France,6,9,6
+GBR,Great Britain,6,6,5
+AUS,Australia,6,4,3
 KOR,Republic of Korea,5,3,3
-USA,United States of America,4,11,11
-GBR,Great Britain,4,5,5
-ITA,Italy,3,4,4
+USA,United States of America,4,12,11
+ITA,Italy,3,6,4
 CAN,Canada,2,2,2
+GER,Germany,2,0,1
 HKG,"Hong Kong, China",2,0,1
-GER,Germany,2,0,0
+NED,Netherlands,1,1,0
+NZL,New Zealand,1,1,0
 KAZ,Kazakhstan,1,0,2
 RSA,South Africa,1,0,2
 BEL,Belgium,1,0,1
+GUA,Guatemala,1,0,1
 IRL,Ireland,1,0,1
+ARG,Argentina,1,0,0
 AZE,Azerbaijan,1,0,0
-NZL,New Zealand,1,0,0
 ROU,Romania,1,0,0
 SLO,Slovenia,1,0,0
 SRB,Serbia,1,0,0
 UZB,Uzbekistan,1,0,0
 PRK,Democratic People's Republic of Korea,0,2,0
 BRA,Brazil,0,1,3
+POL,Poland,0,1,2
 SWE,Sweden,0,1,2
 KOS,Kosovo,0,1,1
 MEX,Mexico,0,1,1
-POL,Poland,0,1,1
 SUI,Switzerland,0,1,1
 TUR,Türkiye,0,1,1
 FIJ,Fiji,0,1,0
@@ -37,7 +40,6 @@ MDA,Republic of Moldova,0,0,2
 CRO,Croatia,0,0,1
 EGY,Egypt,0,0,1
 ESP,Spain,0,0,1
-GUA,Guatemala,0,0,1
 HUN,Hungary,0,0,1
 SVK,Slovakia,0,0,1
 TJK,Tajikistan,0,0,1
