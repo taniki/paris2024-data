@@ -24,7 +24,7 @@ driver.find_element(By.ID, 'onetrust-reject-all-handler').click()
 
 height = int(driver.execute_script("return document.documentElement.scrollHeight"))
 
-window_height = int(driver.execute_script("return window.innerHeight"))
+window_height = int(driver.execute_script("return window.innerHeight") *2/3)
 
 driver.execute_script("window.scrollTo(0, 0)")
 
