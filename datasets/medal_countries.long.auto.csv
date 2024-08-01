@@ -14,6 +14,7 @@ NZL,New Zealand,gold,2
 ROU,Romania,gold,2
 HKG,"Hong Kong, China",gold,2
 AZE,Azerbaijan,gold,2
+HUN,Hungary,gold,1
 GEO,Georgia,gold,1
 SWE,Sweden,gold,1
 BEL,Belgium,gold,1
@@ -28,14 +29,14 @@ ECU,Ecuador,gold,1
 SLO,Slovenia,gold,1
 SRB,Serbia,gold,1
 BRA,Brazil,gold,0
-HUN,Hungary,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 ESP,Spain,gold,0
 POL,Poland,gold,0
+SUI,Switzerland,gold,0
+GRE,Greece,gold,0
 ISR,Israel,gold,0
 KOS,Kosovo,gold,0
 MEX,Mexico,gold,0
-SUI,Switzerland,gold,0
 TUR,Türkiye,gold,0
 UKR,Ukraine,gold,0
 FIJ,Fiji,gold,0
@@ -45,7 +46,6 @@ IND,India,gold,0
 MDA,Republic of Moldova,gold,0
 AUT,Austria,gold,0
 EGY,Egypt,gold,0
-GRE,Greece,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 TJK,Tajikistan,gold,0
@@ -64,6 +64,7 @@ NZL,New Zealand,silver,2
 ROU,Romania,silver,1
 HKG,"Hong Kong, China",silver,0
 AZE,Azerbaijan,silver,0
+HUN,Hungary,silver,2
 GEO,Georgia,silver,2
 SWE,Sweden,silver,1
 BEL,Belgium,silver,0
@@ -78,14 +79,14 @@ ECU,Ecuador,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
 BRA,Brazil,silver,3
-HUN,Hungary,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 ESP,Spain,silver,1
 POL,Poland,silver,1
+SUI,Switzerland,silver,1
+GRE,Greece,silver,1
 ISR,Israel,silver,1
 KOS,Kosovo,silver,1
 MEX,Mexico,silver,1
-SUI,Switzerland,silver,1
 TUR,Türkiye,silver,1
 UKR,Ukraine,silver,1
 FIJ,Fiji,silver,1
@@ -95,7 +96,6 @@ IND,India,silver,0
 MDA,Republic of Moldova,silver,0
 AUT,Austria,silver,0
 EGY,Egypt,silver,0
-GRE,Greece,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 TJK,Tajikistan,silver,0
@@ -114,6 +114,7 @@ NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
 HKG,"Hong Kong, China",bronze,2
 AZE,Azerbaijan,bronze,0
+HUN,Hungary,bronze,1
 GEO,Georgia,bronze,0
 SWE,Sweden,bronze,2
 BEL,Belgium,bronze,2
@@ -128,14 +129,14 @@ ECU,Ecuador,bronze,0
 SLO,Slovenia,bronze,0
 SRB,Serbia,bronze,0
 BRA,Brazil,bronze,3
-HUN,Hungary,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
 ESP,Spain,bronze,3
 POL,Poland,bronze,2
+SUI,Switzerland,bronze,2
+GRE,Greece,bronze,1
 ISR,Israel,bronze,1
 KOS,Kosovo,bronze,1
 MEX,Mexico,bronze,1
-SUI,Switzerland,bronze,1
 TUR,Türkiye,bronze,1
 UKR,Ukraine,bronze,1
 FIJ,Fiji,bronze,0
@@ -145,7 +146,6 @@ IND,India,bronze,3
 MDA,Republic of Moldova,bronze,2
 AUT,Austria,bronze,1
 EGY,Egypt,bronze,1
-GRE,Greece,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
 TJK,Tajikistan,bronze,1
