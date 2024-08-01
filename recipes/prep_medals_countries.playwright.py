@@ -26,10 +26,10 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto(source)
     
-    page.wait_for_selector('#onetrust-reject-all-handler')  # Wait for 5 seconds
+    #page.wait_for_selector('#onetrust-reject-all-handler')  # Wait for 5 seconds
     
     # Accept cookies or reject (replace with the appropriate selector if needed)
-    page.click('#onetrust-reject-all-handler')
+    #page.click('#onetrust-reject-all-handler')
     
     # Get the initial scroll height
     height = page.evaluate("document.documentElement.scrollHeight")
