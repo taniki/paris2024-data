@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,11
-USA,United States of America,gold,8
+USA,United States of America,gold,9
 FRA,France,gold,8
 JPN,Japan,gold,8
 AUS,Australia,gold,7
@@ -56,7 +56,7 @@ JPN,Japan,silver,3
 AUS,Australia,silver,6
 GBR,Great Britain,silver,7
 KOR,Republic of Korea,silver,3
-ITA,Italy,silver,6
+ITA,Italy,silver,7
 CAN,Canada,silver,2
 GER,Germany,silver,2
 NED,Netherlands,silver,2
