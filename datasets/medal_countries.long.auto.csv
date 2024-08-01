@@ -2,12 +2,12 @@ code,country,medal,quantity
 CHN,People's Republic of China,gold,11
 FRA,France,gold,8
 JPN,Japan,gold,8
+USA,United States of America,gold,7
 AUS,Australia,gold,7
-USA,United States of America,gold,6
 GBR,Great Britain,gold,6
 KOR,Republic of Korea,gold,6
 ITA,Italy,gold,5
-CAN,Canada,gold,2
+CAN,Canada,gold,3
 GER,Germany,gold,2
 NED,Netherlands,gold,2
 NZL,New Zealand,gold,2
@@ -52,8 +52,8 @@ TJK,Tajikistan,gold,0
 CHN,People's Republic of China,silver,7
 FRA,France,silver,11
 JPN,Japan,silver,3
+USA,United States of America,silver,14
 AUS,Australia,silver,6
-USA,United States of America,silver,13
 GBR,Great Britain,silver,7
 KOR,Republic of Korea,silver,3
 ITA,Italy,silver,6
@@ -77,7 +77,7 @@ ARG,Argentina,silver,0
 ECU,Ecuador,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
-BRA,Brazil,silver,2
+BRA,Brazil,silver,3
 HUN,Hungary,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 ESP,Spain,silver,1
@@ -99,11 +99,11 @@ GRE,Greece,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 TJK,Tajikistan,silver,0
-CHN,People's Republic of China,bronze,4
+CHN,People's Republic of China,bronze,5
 FRA,France,bronze,8
 JPN,Japan,bronze,5
+USA,United States of America,bronze,13
 AUS,Australia,bronze,4
-USA,United States of America,bronze,12
 GBR,Great Britain,bronze,7
 KOR,Republic of Korea,bronze,3
 ITA,Italy,bronze,4
