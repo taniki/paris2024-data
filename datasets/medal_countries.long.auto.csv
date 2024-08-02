@@ -3,7 +3,7 @@ CHN,People's Republic of China,gold,13
 USA,United States of America,gold,9
 FRA,France,gold,9
 GBR,Great Britain,gold,9
-AUS,Australia,gold,8
+AUS,Australia,gold,9
 JPN,Japan,gold,8
 KOR,Republic of Korea,gold,7
 ITA,Italy,gold,5
@@ -52,7 +52,7 @@ SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,8
 USA,United States of America,silver,17
 FRA,France,silver,11
-GBR,Great Britain,silver,8
+GBR,Great Britain,silver,9
 AUS,Australia,silver,6
 JPN,Japan,silver,3
 KOR,Republic of Korea,silver,5
@@ -101,7 +101,7 @@ POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,8
 USA,United States of America,bronze,15
-FRA,France,bronze,11
+FRA,France,bronze,12
 GBR,Great Britain,bronze,8
 AUS,Australia,bronze,5
 JPN,Japan,bronze,6

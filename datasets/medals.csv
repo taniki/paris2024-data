@@ -89,6 +89,7 @@ ARG,TORRES GIL Jose,Cycling BMX Freestyle,Men's Park,G
 AUS,BROWN Grace,,,
 AUS,CAMPBELL Bronte,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
+AUS,McEVOY Cameron,Swimming,Men's 50m Freestyle,G
 AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
 AUS,PALLISTER Lani,Swimming,Women's 4 x 200m Freestyle Relay,G
@@ -315,6 +316,7 @@ GBR,GEORGE Tom,Rowing,Men's Pair,S
 GBR,GLOVER Helen,Rowing,Women's Four,S
 GBR,HENDERSON Anna,,,
 GBR,PEATY Adam,Swimming,Men's 100m Breaststroke,S
+GBR,PROUD Benjamin,Swimming,Men's 50m Freestyle,S
 GBR,REDGRAVE Sam,Rowing,Women's Four,S
 GBR,REILLY Kieran Darren David,Cycling BMX Freestyle,Men's Park,S
 GBR,SHORTEN Rebecca,Rowing,Women's Four,S
@@ -348,3 +350,4 @@ ITA,MALDINI Federico Nilo,Shooting,10m Air Pistol Men,S
 ITA,OPPO Stefano,Rowing,Lightweight Men's Double Sculls,S
 ITA,PALUMBO Francesca,Fencing,Women's Foil Team,S
 ITA,PANIZZA Andrea,Rowing,Men's Quadruple Sculls,S
+ITA,RAMBALDI Luca,Rowing,Men's Quadruple Sculls,S
