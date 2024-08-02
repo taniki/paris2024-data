@@ -1,0 +1,207 @@
+country_name_long,name,m,f
+AIN,32,15,17
+Afghanistan,6,3,3
+Albania,8,5,3
+Algeria,46,27,19
+American Samoa,2,1,1
+Andorra,2,1,1
+Angola,25,8,17
+Antigua and Barbuda,5,3,2
+Argentina,143,110,33
+Armenia,15,13,2
+Aruba,6,4,2
+Australia,478,211,267
+Austria,84,47,37
+Azerbaijan,48,28,20
+Bahamas,20,11,9
+Bahrain,15,6,9
+Bangladesh,5,4,1
+Barbados,4,2,2
+Belgium,179,91,88
+Belize,1,1,0
+Benin,5,3,2
+Bermuda,8,4,4
+Bhutan,3,2,1
+Bolivia,4,2,2
+Bosnia and Herzegovina,5,2,3
+Botswana,14,12,2
+Brazil,289,126,163
+Brunei Darussalam,3,2,1
+Bulgaria,46,21,25
+Burkina Faso,8,5,3
+Burundi,7,4,3
+Cabo Verde,7,4,3
+Cambodia,3,2,1
+Cameroon,6,2,4
+Canada,332,129,203
+Cayman Islands,4,2,2
+Central African Republic,4,2,2
+Chad,3,2,1
+Chile,48,30,18
+Chinese Taipei,60,26,34
+Colombia,88,37,51
+Comoros,4,3,1
+Congo,4,2,2
+Cook Islands,2,1,1
+Costa Rica,6,3,3
+Croatia,73,58,15
+Cuba,61,34,27
+Cyprus,15,6,9
+Czechia,111,62,49
+Côte d'Ivoire,13,4,9
+Democratic People's Republic of Korea,14,4,10
+Democratic Republic of Timor-Leste,4,2,2
+Democratic Republic of the Congo,6,3,3
+Denmark,131,57,74
+Djibouti,7,5,2
+Dominica,4,2,2
+Dominican Republic,59,34,25
+Ecuador,40,16,24
+Egypt,156,102,54
+El Salvador,8,7,1
+Equatorial Guinea,3,2,1
+Eritrea,12,9,3
+Estonia,24,16,8
+Eswatini,3,2,1
+Ethiopia,37,18,19
+Federated States of Micronesia,3,2,1
+Fiji,36,19,17
+Finland,57,23,34
+France,606,310,296
+Gabon,5,2,3
+Gambia,7,4,3
+Georgia,28,21,7
+Germany,459,232,227
+Ghana,9,7,2
+Great Britain,348,166,182
+Greece,100,59,41
+Grenada,6,4,2
+Guam,8,1,7
+Guatemala,16,10,6
+Guinea,25,20,5
+Guinea-Bissau,6,6,0
+Guyana,5,2,3
+Haiti,7,4,3
+Honduras,4,3,1
+"Hong Kong, China",34,16,18
+Hungary,180,93,87
+Iceland,5,2,3
+India,112,66,46
+Indonesia,29,16,13
+Iraq,23,23,0
+Ireland,144,74,70
+Islamic Republic of Iran,40,29,11
+Israel,90,56,34
+Italy,398,205,193
+Jamaica,70,37,33
+Japan,434,232,202
+Jordan,12,9,3
+Kazakhstan,79,54,25
+Kenya,81,44,37
+Kiribati,3,2,1
+Kosovo,9,2,7
+Kuwait,9,5,4
+Kyrgyzstan,16,11,5
+Lao People's Democratic Republic,4,1,3
+Latvia,29,16,13
+Lebanon,10,6,4
+Lesotho,3,1,2
+Liberia,8,5,3
+Libya,6,5,1
+Liechtenstein,1,1,0
+Lithuania,51,27,24
+Luxembourg,13,7,6
+Madagascar,7,3,4
+Malawi,3,1,2
+Malaysia,26,13,13
+Maldives,5,2,3
+Mali,24,22,2
+Malta,5,3,2
+Marshall Islands,4,2,2
+Mauritania,2,1,1
+Mauritius,13,7,6
+Mexico,108,45,63
+Monaco,6,3,3
+Mongolia,32,14,18
+Montenegro,19,16,3
+Morocco,60,42,18
+Mozambique,7,3,4
+Myanmar,2,1,1
+Namibia,4,2,2
+Nauru,1,1,0
+Nepal,7,3,4
+Netherlands,288,117,171
+New Zealand,208,107,101
+Nicaragua,7,1,6
+Niger,7,5,2
+Nigeria,86,23,63
+North Macedonia,6,4,2
+Norway,109,56,53
+Oman,4,3,1
+Pakistan,7,4,3
+Palau,3,1,2
+Palestine,8,6,2
+Panama,8,3,5
+Papua New Guinea,7,5,2
+Paraguay,29,23,6
+People's Republic of China,399,134,265
+Peru,26,9,17
+Philippines,22,7,15
+Poland,228,103,125
+Portugal,75,38,37
+Puerto Rico,51,27,24
+Qatar,14,13,1
+Refugee Olympic Team,37,24,13
+Republic of Korea,146,66,80
+Republic of Moldova,26,14,12
+Romania,96,49,47
+Rwanda,8,3,5
+Saint Kitts and Nevis,3,2,1
+Saint Lucia,4,3,1
+Samoa,24,20,4
+San Marino,5,2,3
+Sao Tome and Principe,3,1,2
+Saudi Arabia,9,7,2
+Senegal,11,7,4
+Serbia,115,71,44
+Seychelles,3,2,1
+Sierra Leone,4,1,3
+Singapore,23,7,16
+Slovakia,28,14,14
+Slovenia,94,47,47
+Solomon Islands,2,0,2
+Somalia,1,1,0
+South Africa,142,78,64
+South Sudan,14,13,1
+Spain,403,201,202
+Sri Lanka,6,3,3
+St Vincent and the Grenadines,4,2,2
+Sudan,4,3,1
+Suriname,5,4,1
+Sweden,125,59,66
+Switzerland,135,69,66
+Syrian Arab Republic,6,5,1
+Tajikistan,14,11,3
+Thailand,52,24,28
+Togo,5,2,3
+Tonga,4,2,2
+Trinidad and Tobago,17,10,7
+Tunisia,26,12,14
+Turkmenistan,6,3,3
+Tuvalu,2,1,1
+Türkiye,101,47,54
+Uganda,25,12,13
+Ukraine,142,73,69
+United Arab Emirates,14,10,4
+United Republic of Tanzania,7,4,3
+United States of America,638,301,337
+Uruguay,27,23,4
+Uzbekistan,89,57,32
+Vanuatu,6,2,4
+Venezuela,32,18,14
+Vietnam,16,4,12
+"Virgin Islands, British",4,3,1
+"Virgin Islands, US",5,4,1
+Yemen,4,3,1
+Zambia,31,9,22
+Zimbabwe,7,5,2
