@@ -1,9 +1,9 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,13
+FRA,France,gold,10
+AUS,Australia,gold,10
 USA,United States of America,gold,9
-FRA,France,gold,9
 GBR,Great Britain,gold,9
-AUS,Australia,gold,9
 JPN,Japan,gold,8
 KOR,Republic of Korea,gold,7
 ITA,Italy,gold,5
@@ -46,14 +46,15 @@ IND,India,gold,0
 MDA,Republic of Moldova,gold,0
 TJK,Tajikistan,gold,0
 AUT,Austria,gold,0
+CZE,Czechia,gold,0
 EGY,Egypt,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,8
-USA,United States of America,silver,17
 FRA,France,silver,11
-GBR,Great Britain,silver,9
 AUS,Australia,silver,6
+USA,United States of America,silver,18
+GBR,Great Britain,silver,10
 JPN,Japan,silver,3
 KOR,Republic of Korea,silver,5
 ITA,Italy,silver,8
@@ -96,19 +97,20 @@ IND,India,silver,0
 MDA,Republic of Moldova,silver,0
 TJK,Tajikistan,silver,0
 AUT,Austria,silver,0
+CZE,Czechia,silver,0
 EGY,Egypt,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
-CHN,People's Republic of China,bronze,8
-USA,United States of America,bronze,15
+CHN,People's Republic of China,bronze,9
 FRA,France,bronze,12
-GBR,Great Britain,bronze,8
 AUS,Australia,bronze,5
+USA,United States of America,bronze,15
+GBR,Great Britain,bronze,8
 JPN,Japan,bronze,6
 KOR,Republic of Korea,bronze,4
 ITA,Italy,bronze,4
 NED,Netherlands,bronze,2
-CAN,Canada,bronze,5
+CAN,Canada,bronze,6
 GER,Germany,bronze,2
 NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
@@ -146,6 +148,7 @@ IND,India,bronze,3
 MDA,Republic of Moldova,bronze,2
 TJK,Tajikistan,bronze,2
 AUT,Austria,bronze,1
+CZE,Czechia,bronze,1
 EGY,Egypt,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1

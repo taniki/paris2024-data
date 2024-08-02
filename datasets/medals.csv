@@ -1,10 +1,11 @@
 code,name,discipline,event,color
+FRA,MARCHAND Leon,Swimming,Men's 200m Breaststroke,G
+FRA,MARCHAND Leon,Swimming,Men's 400m Individual Medley,G
+FRA,MARCHAND Leon,Swimming,Men's 200m Individual Medley,G
+FRA,MARCHAND Leon,Swimming,Men's 200m Butterfly,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
-FRA,MARCHAND Leon,Swimming,Men's 200m Breaststroke,G
-FRA,MARCHAND Leon,Swimming,Men's 400m Individual Medley,G
-FRA,MARCHAND Leon,Swimming,Men's 200m Butterfly,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
 CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
@@ -40,6 +41,8 @@ CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
 GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
+GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
+GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
 RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
 USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
@@ -143,7 +146,6 @@ GBR,MAHER Ben,Equestrian,Jumping Team,G
 GBR,McEWEN Tom,Equestrian,Eventing Team,G
 GBR,McMILLAN Jack,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,PAGE Bryony,Trampoline Gymnastics,Women,G
-GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,SCOTT Hannah,Rowing,Women's Quadruple Sculls,G
 GEO,BEKAURI Lasha,Judo,Men -90 kg,G
 GER,JUNG Michael,Equestrian,Eventing Individual,G
@@ -306,12 +308,3 @@ ISR,LANIR Inbar,Judo,Women -78 kg,S
 ITA,CHIUMENTO Luca,Rowing,Men's Quadruple Sculls,S
 ITA,ERRIGO Arianna,Fencing,Women's Foil Team,S
 ITA,FAVARETTO Martina,Fencing,Women's Foil Team,S
-ITA,GENTILI Giacomo,Rowing,Men's Quadruple Sculls,S
-ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
-ITA,MALDINI Federico Nilo,Shooting,10m Air Pistol Men,S
-ITA,OPPO Stefano,Rowing,Lightweight Men's Double Sculls,S
-ITA,PALUMBO Francesca,Fencing,Women's Foil Team,S
-ITA,PANIZZA Andrea,Rowing,Men's Quadruple Sculls,S
-ITA,RAMBALDI Luca,Rowing,Men's Quadruple Sculls,S
-ITA,SOARES Gabriel,Rowing,Lightweight Men's Double Sculls,S
-ITA,STANCO Silvana Maria,Shooting,Trap Women,S

@@ -1,6 +1,6 @@
 code,name,gold,silver,bronze
+FRA,MARCHAND Leon,4,0,0
 AUS,O'CALLAGHAN Mollie,3,0,0
-FRA,MARCHAND Leon,3,0,0
 AUS,TITMUS Ariarne,2,1,0
 CAN,McINTOSH Summer,2,1,0
 USA,HUSKE Torri,1,2,0
@@ -19,6 +19,7 @@ USA,BILES Simone,2,0,0
 USA,KIEFER Lee,2,0,0
 CHN,HUANG Yuting,1,1,0
 GBR,RICHARDS Matthew,1,1,0
+GBR,SCOTT Duncan,1,1,0
 RSA,SMITH Tatjana,1,1,0
 USA,DOUGLASS Kate,1,1,0
 USA,GUILIANO Chris,1,1,0
@@ -116,7 +117,6 @@ GBR,McEWEN Tom,1,0,0
 GBR,McMILLAN Jack,1,0,0
 GBR,PAGE Bryony,1,0,0
 GBR,PIDCOCK Thomas,1,0,0
-GBR,SCOTT Duncan,1,0,0
 GBR,SCOTT Hannah,1,0,0
 GBR,YEE Alex,1,0,0
 GEO,BEKAURI Lasha,1,0,0
@@ -300,14 +300,3 @@ ITA,ERRIGO Arianna,0,1,0
 ITA,ESPOSITO Manila,0,1,0
 ITA,FAVARETTO Martina,0,1,0
 ITA,GANNA Filippo,0,1,0
-ITA,GENTILI Giacomo,0,1,0
-ITA,IORIO Elisa,0,1,0
-ITA,MACCHI Filippo,0,1,0
-ITA,MALDINI Federico Nilo,0,1,0
-ITA,OPPO Stefano,0,1,0
-ITA,PALUMBO Francesca,0,1,0
-ITA,PANIZZA Andrea,0,1,0
-ITA,RAMBALDI Luca,0,1,0
-ITA,SOARES Gabriel,0,1,0
-ITA,STANCO Silvana Maria,0,1,0
-ITA,VILLA Giorgia,0,1,0
