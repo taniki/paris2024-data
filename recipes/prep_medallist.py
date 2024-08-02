@@ -125,6 +125,7 @@ medals_df = (
     )
     .drop('medals', axis=1)
     .drop_duplicates()
+    .query('~discipline.isna()')
 )
 
 print(medals_df)
