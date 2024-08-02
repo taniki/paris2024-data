@@ -84,25 +84,37 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.goto(source)
     
-    page.click('button[title="Expand all rows"]')
+    print(page.evaluate("document.documentElement.scrollHeight"))
     
+    page.click('button[id="onetrust-accept-btn-handler"]')
+    page.click('button[title="Expand all rows"]')
+    page.wait_for_timeout(1000)
+
+    print(page.evaluate("document.documentElement.scrollHeight"))
+
     # Get the initial scroll height
     height = page.evaluate("document.documentElement.scrollHeight")
-    window_height = page.evaluate("window.innerHeight * 1/2")
+    window_height = page.evaluate("window.innerHeight * 1/3")
     
     medallists_total = []
     medals = []
 
     page.evaluate("window.scrollTo(0, 0)")
     
-    for y in range(0, math.ceil(height / window_height)):
+    y = 0
+    
+    while y*window_height < height:
+    #for y in range(0, math.ceil(height / window_height)):
+        height = page.evaluate("document.documentElement.scrollHeight")
         page.evaluate(f"window.scrollTo(0, {y*window_height})")
+        #page.wait_for_timeout(200)
         #page.wait_for_timeout(1000)  # Give time for the page to load
         medallists_total += get_rows(page.content())
         medals += get_rows2(page.content())
+        y += 1
 
     #print(medals)
-        
+    #page.wait_for_timeout(5000)
     browser.close()
 
 medallist_df = (
