@@ -4,14 +4,14 @@ USA,United States of America,gold,9
 FRA,France,gold,8
 AUS,Australia,gold,8
 JPN,Japan,gold,8
-GBR,Great Britain,gold,6
+GBR,Great Britain,gold,7
 KOR,Republic of Korea,gold,6
 ITA,Italy,gold,5
 CAN,Canada,gold,3
 NED,Netherlands,gold,3
+ROU,Romania,gold,2
 GER,Germany,gold,2
 NZL,New Zealand,gold,2
-ROU,Romania,gold,2
 HKG,"Hong Kong, China",gold,2
 IRL,Ireland,gold,2
 CRO,Croatia,gold,2
@@ -59,9 +59,9 @@ KOR,Republic of Korea,silver,3
 ITA,Italy,silver,8
 CAN,Canada,silver,2
 NED,Netherlands,silver,2
+ROU,Romania,silver,3
 GER,Germany,silver,2
 NZL,New Zealand,silver,2
-ROU,Romania,silver,2
 HKG,"Hong Kong, China",silver,0
 IRL,Ireland,silver,0
 CRO,Croatia,silver,0
@@ -109,9 +109,9 @@ KOR,Republic of Korea,bronze,3
 ITA,Italy,bronze,4
 CAN,Canada,bronze,3
 NED,Netherlands,bronze,2
+ROU,Romania,bronze,1
 GER,Germany,bronze,2
 NZL,New Zealand,bronze,1
-ROU,Romania,bronze,1
 HKG,"Hong Kong, China",bronze,2
 IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
@@ -133,7 +133,7 @@ BRA,Brazil,bronze,3
 MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
 ESP,Spain,bronze,3
-GRE,Greece,bronze,2
+GRE,Greece,bronze,3
 POL,Poland,bronze,2
 ISR,Israel,bronze,1
 KOS,Kosovo,bronze,1
