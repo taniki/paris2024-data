@@ -13,6 +13,7 @@ GER,Germany,gold,2
 NZL,New Zealand,gold,2
 ROU,Romania,gold,2
 HKG,"Hong Kong, China",gold,2
+IRL,Ireland,gold,2
 CRO,Croatia,gold,2
 AZE,Azerbaijan,gold,2
 HUN,Hungary,gold,1
@@ -21,7 +22,6 @@ SUI,Switzerland,gold,1
 RSA,South Africa,gold,1
 SWE,Sweden,gold,1
 BEL,Belgium,gold,1
-IRL,Ireland,gold,1
 KAZ,Kazakhstan,gold,1
 GUA,Guatemala,gold,1
 UZB,Uzbekistan,gold,1
@@ -33,8 +33,8 @@ BRA,Brazil,gold,0
 MEX,Mexico,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 ESP,Spain,gold,0
-POL,Poland,gold,0
 GRE,Greece,gold,0
+POL,Poland,gold,0
 ISR,Israel,gold,0
 KOS,Kosovo,gold,0
 TUR,Türkiye,gold,0
@@ -56,13 +56,14 @@ AUS,Australia,silver,6
 JPN,Japan,silver,3
 GBR,Great Britain,silver,8
 KOR,Republic of Korea,silver,3
-ITA,Italy,silver,7
+ITA,Italy,silver,8
 CAN,Canada,silver,2
 NED,Netherlands,silver,2
 GER,Germany,silver,2
 NZL,New Zealand,silver,2
 ROU,Romania,silver,2
 HKG,"Hong Kong, China",silver,0
+IRL,Ireland,silver,0
 CRO,Croatia,silver,0
 AZE,Azerbaijan,silver,0
 HUN,Hungary,silver,2
@@ -71,7 +72,6 @@ SUI,Switzerland,silver,1
 RSA,South Africa,silver,1
 SWE,Sweden,silver,1
 BEL,Belgium,silver,0
-IRL,Ireland,silver,0
 KAZ,Kazakhstan,silver,0
 GUA,Guatemala,silver,0
 UZB,Uzbekistan,silver,0
@@ -83,8 +83,8 @@ BRA,Brazil,silver,3
 MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 ESP,Spain,silver,1
-POL,Poland,silver,1
 GRE,Greece,silver,1
+POL,Poland,silver,1
 ISR,Israel,silver,1
 KOS,Kosovo,silver,1
 TUR,Türkiye,silver,1
@@ -113,6 +113,7 @@ GER,Germany,bronze,2
 NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
 HKG,"Hong Kong, China",bronze,2
+IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
 AZE,Azerbaijan,bronze,0
 HUN,Hungary,bronze,1
@@ -121,7 +122,6 @@ SUI,Switzerland,bronze,3
 RSA,South Africa,bronze,2
 SWE,Sweden,bronze,2
 BEL,Belgium,bronze,2
-IRL,Ireland,bronze,2
 KAZ,Kazakhstan,bronze,2
 GUA,Guatemala,bronze,1
 UZB,Uzbekistan,bronze,1
@@ -133,8 +133,8 @@ BRA,Brazil,bronze,3
 MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
 ESP,Spain,bronze,3
+GRE,Greece,bronze,2
 POL,Poland,bronze,2
-GRE,Greece,bronze,1
 ISR,Israel,bronze,1
 KOS,Kosovo,bronze,1
 TUR,Türkiye,bronze,1
