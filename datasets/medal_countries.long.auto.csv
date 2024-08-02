@@ -9,9 +9,9 @@ KOR,Republic of Korea,gold,6
 ITA,Italy,gold,5
 NED,Netherlands,gold,4
 CAN,Canada,gold,3
+NZL,New Zealand,gold,2
 ROU,Romania,gold,2
 GER,Germany,gold,2
-NZL,New Zealand,gold,2
 HKG,"Hong Kong, China",gold,2
 IRL,Ireland,gold,2
 CRO,Croatia,gold,2
@@ -19,6 +19,7 @@ AZE,Azerbaijan,gold,2
 SWE,Sweden,gold,1
 HUN,Hungary,gold,1
 GEO,Georgia,gold,1
+ESP,Spain,gold,1
 SUI,Switzerland,gold,1
 RSA,South Africa,gold,1
 BEL,Belgium,gold,1
@@ -32,7 +33,6 @@ SRB,Serbia,gold,1
 BRA,Brazil,gold,0
 MEX,Mexico,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
-ESP,Spain,gold,0
 GRE,Greece,gold,0
 POL,Poland,gold,0
 ISR,Israel,gold,0
@@ -59,9 +59,9 @@ KOR,Republic of Korea,silver,3
 ITA,Italy,silver,8
 NED,Netherlands,silver,2
 CAN,Canada,silver,2
+NZL,New Zealand,silver,3
 ROU,Romania,silver,3
 GER,Germany,silver,2
-NZL,New Zealand,silver,2
 HKG,"Hong Kong, China",silver,0
 IRL,Ireland,silver,0
 CRO,Croatia,silver,0
@@ -69,6 +69,7 @@ AZE,Azerbaijan,silver,0
 SWE,Sweden,silver,2
 HUN,Hungary,silver,2
 GEO,Georgia,silver,2
+ESP,Spain,silver,1
 SUI,Switzerland,silver,1
 RSA,South Africa,silver,1
 BEL,Belgium,silver,0
@@ -82,7 +83,6 @@ SRB,Serbia,silver,0
 BRA,Brazil,silver,3
 MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
-ESP,Spain,silver,1
 GRE,Greece,silver,1
 POL,Poland,silver,1
 ISR,Israel,silver,1
@@ -100,7 +100,7 @@ POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 TJK,Tajikistan,silver,0
 CHN,People's Republic of China,bronze,7
-USA,United States of America,bronze,13
+USA,United States of America,bronze,14
 FRA,France,bronze,9
 AUS,Australia,bronze,5
 JPN,Japan,bronze,5
@@ -109,9 +109,9 @@ KOR,Republic of Korea,bronze,3
 ITA,Italy,bronze,4
 NED,Netherlands,bronze,2
 CAN,Canada,bronze,3
+NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
 GER,Germany,bronze,2
-NZL,New Zealand,bronze,1
 HKG,"Hong Kong, China",bronze,2
 IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
@@ -119,6 +119,7 @@ AZE,Azerbaijan,bronze,0
 SWE,Sweden,bronze,2
 HUN,Hungary,bronze,1
 GEO,Georgia,bronze,0
+ESP,Spain,bronze,3
 SUI,Switzerland,bronze,3
 RSA,South Africa,bronze,2
 BEL,Belgium,bronze,2
@@ -132,7 +133,6 @@ SRB,Serbia,bronze,0
 BRA,Brazil,bronze,3
 MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
-ESP,Spain,bronze,3
 GRE,Greece,bronze,3
 POL,Poland,bronze,2
 ISR,Israel,bronze,1
