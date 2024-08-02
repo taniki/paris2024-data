@@ -30,7 +30,10 @@ jobs:
       - name: "install firefox"
         run: |
           playwright install firefox
-      - name: "scrap medals"
+      - name: "scrap medals and medallists"
+        run: |
+          cd recipes && python prep_medallist.py
+      - name: "scrap medals by countries"
         run: |
           cd recipes && python prep_medals_countries.playwright.py
       - name: "get back to root"
