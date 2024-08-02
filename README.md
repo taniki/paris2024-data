@@ -12,3 +12,8 @@
 - `datasets/medallists.csv` : liste des médaillé·es avec le nombre de médailles et le code du pays
 - `datasets/medal_countries.wide.auto.csv` : liste des pays avec le nombre de médailles
 - `datasets/medal_countries.long.auto.csv` : la même chose mais au format `long`, une ligne par combinaison de pays et couleur de médaille.
+
+## quelques usages
+
+- [Paris 2024 / duong tam kien | Observable](https://observablehq.com/collection/@taniki/paris-2024)
+- [JO, jour 7. Biles ne s’en fait plus, Lebrun marche vers l’histoire | Mediapart](https://www.mediapart.fr/journal/france/020824/jo-jour-7-biles-ne-s-en-fait-plus-lebrun-marche-vers-l-histoire)
