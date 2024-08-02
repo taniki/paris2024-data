@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,13
-FRA,France,gold,10
+FRA,France,gold,11
 AUS,Australia,gold,10
 USA,United States of America,gold,9
 GBR,Great Britain,gold,9
@@ -12,13 +12,13 @@ CAN,Canada,gold,3
 GER,Germany,gold,2
 NZL,New Zealand,gold,2
 ROU,Romania,gold,2
+HUN,Hungary,gold,2
 HKG,"Hong Kong, China",gold,2
 IRL,Ireland,gold,2
 CRO,Croatia,gold,2
 AZE,Azerbaijan,gold,2
 BRA,Brazil,gold,1
 SWE,Sweden,gold,1
-HUN,Hungary,gold,1
 GEO,Georgia,gold,1
 ESP,Spain,gold,1
 SUI,Switzerland,gold,1
@@ -51,11 +51,11 @@ EGY,Egypt,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,8
-FRA,France,silver,11
+FRA,France,silver,12
 AUS,Australia,silver,6
 USA,United States of America,silver,18
 GBR,Great Britain,silver,10
-JPN,Japan,silver,3
+JPN,Japan,silver,4
 KOR,Republic of Korea,silver,5
 ITA,Italy,silver,8
 NED,Netherlands,silver,2
@@ -63,13 +63,13 @@ CAN,Canada,silver,2
 GER,Germany,silver,3
 NZL,New Zealand,silver,3
 ROU,Romania,silver,3
+HUN,Hungary,silver,2
 HKG,"Hong Kong, China",silver,0
 IRL,Ireland,silver,0
 CRO,Croatia,silver,0
 AZE,Azerbaijan,silver,0
 BRA,Brazil,silver,3
 SWE,Sweden,silver,2
-HUN,Hungary,silver,2
 GEO,Georgia,silver,2
 ESP,Spain,silver,1
 SUI,Switzerland,silver,1
@@ -102,7 +102,7 @@ EGY,Egypt,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
-FRA,France,bronze,12
+FRA,France,bronze,13
 AUS,Australia,bronze,5
 USA,United States of America,bronze,15
 GBR,Great Britain,bronze,8
@@ -114,13 +114,13 @@ CAN,Canada,bronze,6
 GER,Germany,bronze,2
 NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
+HUN,Hungary,bronze,1
 HKG,"Hong Kong, China",bronze,2
 IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
 AZE,Azerbaijan,bronze,0
 BRA,Brazil,bronze,3
 SWE,Sweden,bronze,2
-HUN,Hungary,bronze,1
 GEO,Georgia,bronze,0
 ESP,Spain,bronze,3
 SUI,Switzerland,bronze,3

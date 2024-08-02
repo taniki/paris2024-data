@@ -43,6 +43,8 @@ GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
 GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
+JPN,KANO Koki,Fencing,Men's Épée Individual,G
+JPN,KANO Koki,Fencing,Men's Épée Team,S
 RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
 USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
@@ -116,6 +118,7 @@ CRO,SINKOVIC Martin,Rowing,Men's Pair,G
 CRO,SINKOVIC Valent,Rowing,Men's Pair,G
 FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
 FRA,BARRAQUE Jean Pascal,Rugby Sevens,Men,G
+FRA,DAUDET Joris,Cycling BMX Racing,Men,G
 FRA,DUPONT Antoine,Rugby Sevens,Men,G
 FRA,EPEE Nelson,Rugby Sevens,Men,G
 FRA,FORNER Theo,Rugby Sevens,Men,G
@@ -153,7 +156,11 @@ GER,MAERTENS Lukas,Swimming,Men's 400m Freestyle,G
 GUA,RUANO OLIVA Adriana,Shooting,Trap Women,G
 HKG,CHEUNG Ka Long,Fencing,Men's Foil Individual,G
 HKG,KONG Man Wai Vivian,Fencing,Women's Épée Individual,G
+HUN,ANDRASFI Tibor,Fencing,Men's Épée Team,G
+HUN,KOCH Mate Tamas,Fencing,Men's Épée Team,G
 HUN,KOS Hubert,Swimming,Men's 200m Backstroke,G
+HUN,NAGY David,Fencing,Men's Épée Team,G
+HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
 IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
 IRL,O DONOVAN Paul,Rowing,Lightweight Men's Double Sculls,G
 IRL,WIFFEN Daniel,Swimming,Men's 800m Freestyle,G
@@ -166,7 +173,6 @@ ITA,RIZZI Giulia,Fencing,Women's Épée Team,G
 ITA,SANTUCCIO Alberta,Fencing,Women's Épée Team,G
 JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,HORIGOME Yuto,Skateboarding,Men's Street,G
-JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
 JPN,TSUNODA Natsumi,Judo,Women -48 kg,G
 JPN,YOSHIZAWA Coco,Skateboarding,Women's Street,G
@@ -265,6 +271,7 @@ FIJ,TEBA Iowane,Rugby Sevens,Men,S
 FIJ,TUWAI Jerry,Rugby Sevens,Men,S
 FIJ,VEILAWA Terio Tamani,Rugby Sevens,Men,S
 FRA,ADDIS Baptiste,Archery,Men's Team,S
+FRA,ANDRE Sylvain,Cycling BMX Racing,Men,S
 FRA,BALZER Sara,Fencing,Women's Sabre Individual,S
 FRA,BOREL Yannick,Fencing,Men's Épée Individual,S
 FRA,CANDASSAMY Marie-Florence,Fencing,Women's Épée Team,S
@@ -319,8 +326,11 @@ ITA,SOARES Gabriel,Rowing,Lightweight Men's Double Sculls,S
 ITA,STANCO Silvana Maria,Shooting,Trap Women,S
 ITA,VOLPI Alice,Fencing,Women's Foil Team,S
 JPN,AKAMA Liz,Skateboarding,Women's Street,S
+JPN,KOMATA Akira,Fencing,Men's Épée Team,S
 JPN,MATSUSHITA Tomoyuki,Swimming,Men's 400m Individual Medley,S
+JPN,MINOBE Kazuyasu,Fencing,Men's Épée Team,S
 JPN,MURAO Sanshiro,Judo,Men -90 kg,S
+JPN,YAMADA Masaru,Fencing,Men's Épée Team,S
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,JEONG Na Eun,Badminton,Mixed Doubles,S
 KOR,KEUM Jihyeon,Shooting,10m Air Rifle Mixed Team,S
@@ -427,6 +437,7 @@ FRA,DELESTRE Simon,Equestrian,Jumping Team,B
 FRA,DICKO Romane,Judo,Women +78 kg,B
 FRA,EPAILLARD Julien,Equestrian,Jumping Team,B
 FRA,JEANJEAN Anthony,Cycling BMX Freestyle,Men's Park,B
+FRA,MAHIEU Romain,Cycling BMX Racing,Men,B
 FRA,MANAUDOU Florent,Swimming,Men's 50m Freestyle,B
 FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Men -90 kg,B
 FRA,PATRICE Jean-Philippe,Fencing,Men's Sabre Team,B
