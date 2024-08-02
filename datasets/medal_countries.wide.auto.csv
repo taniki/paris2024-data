@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,13,8,9
+CHN,People's Republic of China,13,9,9
 FRA,France,11,12,13
 AUS,Australia,11,6,5
 USA,United States of America,9,18,16
@@ -26,6 +26,7 @@ RSA,South Africa,1,1,2
 BEL,Belgium,1,0,2
 KAZ,Kazakhstan,1,0,2
 UZB,Uzbekistan,1,0,2
+CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
 ARG,Argentina,1,0,0
 ECU,Ecuador,1,0,0
@@ -48,7 +49,6 @@ IND,India,0,0,3
 MDA,Republic of Moldova,0,0,2
 TJK,Tajikistan,0,0,2
 AUT,Austria,0,0,1
-CZE,Czechia,0,0,1
 EGY,Egypt,0,0,1
 POR,Portugal,0,0,1
 SVK,Slovakia,0,0,1
