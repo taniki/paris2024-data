@@ -41,14 +41,16 @@ def parse_medal_row(row):
         discipline = a[0].text.strip()
         event = a[1].text.strip()
         color = spans[0].text.strip()
-
-        return {
+    except:
+        discipline = spans[0].text.strip()
+        event = spans[1].text.strip()
+        color = spans[2].text.strip()
+    
+    return {
             'discipline': discipline,
             'event': event,
             'color': color
-        }
-    except:
-        return
+    }
 
 
 def get_medals(row):
@@ -105,8 +107,8 @@ with sync_playwright() as p:
     
     while y*window_height < height:
     #for y in range(0, math.ceil(height / window_height)):
-        height = page.evaluate("document.documentElement.scrollHeight")
         page.evaluate(f"window.scrollTo(0, {y*window_height})")
+        height = page.evaluate("document.documentElement.scrollHeight")
         #page.wait_for_timeout(200)
         #page.wait_for_timeout(1000)  # Give time for the page to load
         medallists_total += get_rows(page.content())
