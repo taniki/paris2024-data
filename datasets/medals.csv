@@ -131,6 +131,8 @@ KOR,KIM Hayun,Judo,Women +78 kg,B
 KOR,KIM Hayun,Judo,Mixed Team,B
 KOR,LEE Joonhwan,Judo,Men -81 kg,B
 KOR,LEE Joonhwan,Judo,Mixed Team,B
+USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Team,B
+USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Pommel Horse,B
 AIN,LITVINOVICH Ivan,Trampoline Gymnastics,Men,G
 ARG,TORRES GIL Jose,Cycling BMX Freestyle,Men's Park,G
 AUS,BROWN Grace,Cycling Road,Women's Individual Time Trial,G
@@ -238,6 +240,7 @@ HUN,KOS Hubert,Swimming,Men's 200m Backstroke,G
 HUN,NAGY David,Fencing,Men's Épée Team,G
 HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
 IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
+IRL,Mc CLENAGHAN Rhys,Artistic Gymnastics,Men's Pommel Horse,G
 IRL,O DONOVAN Paul,Rowing,Lightweight Men's Double Sculls,G
 IRL,WIFFEN Daniel,Swimming,Men's 800m Freestyle,G
 ISR,REUVENY Tom,Sailing,Men's Windsurfing,G
@@ -461,6 +464,7 @@ JPN,MATSUSHITA Tomoyuki,Swimming,Men's 400m Individual Medley,S
 JPN,MINOBE Kazuyasu,Fencing,Men's Épée Team,S
 JPN,MURAO Sanshiro,Judo,Men -90 kg,S
 JPN,YAMADA Masaru,Fencing,Men's Épée Team,S
+KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
 KOR,JEONG Na Eun,Badminton,Mixed Doubles,S
 KOR,KEUM Jihyeon,Shooting,10m Air Rifle Mixed Team,S
 KOR,KIM Won Ho,Badminton,Mixed Doubles,S
@@ -743,6 +747,7 @@ SWE,RISSVEDS Jenny,Cycling Mountain Bike,Women's Cross-country,B
 TJK,MAKHMADBEKOV Somon,Judo,Men -81 kg,B
 TJK,RAKHIMOV Temur,Judo,Men +100 kg,B
 TPE,LEE Meng Yuan,Shooting,Skeet Men,B
+TPE,WU Shih Yi,Boxing,Women's 60kg,B
 TUR,GAZOZ Mete,Archery,Men's Team,B
 TUR,TUMER Berkim,Archery,Men's Team,B
 TUR,YILDIRMIS Abdullah,Archery,Men's Team,B
@@ -773,7 +778,6 @@ USA,MAHER Ilona,Rugby Sevens,Women,B
 USA,MALONE Brody,Artistic Gymnastics,Men's Team,B
 USA,MILNE Rielly,Rowing,Men's Eight,B
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
-USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Team,B
 USA,OLSEN Alena,Rugby Sevens,Women,B
 USA,OLSON Evan,Rowing,Men's Eight,B
 USA,PAUL Tommy,Tennis,Men's Doubles,B
