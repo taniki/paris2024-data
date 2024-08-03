@@ -43,6 +43,8 @@ BEL,EVENEPOEL Remco,Cycling Road,Men's Road Race,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Men,G
+FRA,RINER Teddy,Judo,Mixed Team,G
+FRA,RINER Teddy,Judo,Men +100 kg,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 KOR,KIM Woojin,Archery,Mixed Team,G
@@ -55,12 +57,22 @@ CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
+FRA,GABA Joan-Benjamin,Judo,Men -73 kg,S
+FRA,GABA Joan-Benjamin,Judo,Mixed Team,G
+FRA,MKHEIDZE Luka,Judo,Men -60 kg,S
+FRA,MKHEIDZE Luka,Judo,Mixed Team,G
 GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
 GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
+JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
+JPN,NAGASE Takanori,Judo,Men -81 kg,G
+JPN,NAGASE Takanori,Judo,Mixed Team,S
+JPN,TSUNODA Natsumi,Judo,Women -48 kg,G
+JPN,TSUNODA Natsumi,Judo,Mixed Team,S
 KOR,NAM Suhyeon,Archery,Women's Individual,S
 KOR,NAM Suhyeon,Archery,Women's Team,G
 ROU,ANGHEL Roxana,Rowing,Women's Eight,G
@@ -81,6 +93,18 @@ USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Team,G
 BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 BRA,SOUZA Beatriz,Judo,Mixed Team,B
+FRA,AGBEGNENOU Clarisse,Judo,Women -63 kg,B
+FRA,AGBEGNENOU Clarisse,Judo,Mixed Team,G
+FRA,BOUKLI Shirine,Judo,Women -48 kg,B
+FRA,BOUKLI Shirine,Judo,Mixed Team,G
+FRA,BUCHARD Amandine,Judo,Women -52 kg,B
+FRA,BUCHARD Amandine,Judo,Mixed Team,G
+FRA,CYSIQUE Sarah Leonie,Judo,Mixed Team,G
+FRA,CYSIQUE Sarah Leonie,Judo,Women -57 kg,B
+FRA,DICKO Romane,Judo,Women +78 kg,B
+FRA,DICKO Romane,Judo,Mixed Team,G
+FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Men -90 kg,B
+FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Mixed Team,G
 GBR,COLLETT Laura,Equestrian,Eventing Individual,B
 GBR,COLLETT Laura,Equestrian,Eventing Team,G
 ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
@@ -97,6 +121,8 @@ CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
+JPN,MURAO Sanshiro,Judo,Men -90 kg,S
+JPN,MURAO Sanshiro,Judo,Mixed Team,S
 USA,MANUEL Simone,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,MANUEL Simone,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,WALSH Gretchen,Swimming,Women's 4 x 100m Freestyle Relay,S
@@ -111,6 +137,12 @@ BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
+JPN,FUNAKUBO Haruka,Judo,Mixed Team,S
+JPN,FUNAKUBO Haruka,Judo,Women -57 kg,B
+JPN,HASHIMOTO Soichi,Judo,Men -73 kg,B
+JPN,HASHIMOTO Soichi,Judo,Mixed Team,S
+JPN,NAGAYAMA Ryuju,Judo,Men -60 kg,B
+JPN,NAGAYAMA Ryuju,Judo,Mixed Team,S
 KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
@@ -182,17 +214,21 @@ FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
 FRA,BARRAQUE Jean Pascal,Rugby Sevens,Men,G
 FRA,BEAUGRAND Cassandre,Triathlon,Women's Individual,G
 FRA,DAUDET Joris,Cycling BMX Racing,Men,G
+FRA,DIESSE Aurelien,Judo,Mixed Team,G
+FRA,DJALO Alpha Oumar,Judo,Mixed Team,G
 FRA,DUPONT Antoine,Rugby Sevens,Men,G
 FRA,EPEE Nelson,Rugby Sevens,Men,G
 FRA,FERRAND PREVOT Pauline,Cycling Mountain Bike,Women's Cross-country,G
 FRA,FORNER Theo,Rugby Sevens,Men,G
+FRA,GAHIE Marie Eve,Judo,Mixed Team,G
 FRA,GESTIN Nicolas,Canoe Slalom,Men's Canoe Single,G
 FRA,GRANDIDIER NKANANG Aaron,Rugby Sevens,Men,G
 FRA,JOSEPH Jefferson-Lee,Rugby Sevens,Men,G
+FRA,KHYAR Walide,Judo,Mixed Team,G
+FRA,MALONGA Madeleine,Judo,Mixed Team,G
 FRA,PAREZ EDO MARTIN Stephen,Rugby Sevens,Men,G
 FRA,PASQUET Varian,Rugby Sevens,Men,G
 FRA,REBBADJ Rayan,Rugby Sevens,Men,G
-FRA,RINER Teddy,Judo,Men +100 kg,G
 FRA,RIVA Paulin,Rugby Sevens,Men,G
 FRA,SEPHO Jordan,Rugby Sevens,Men,G
 FRA,TIMO Andy,Rugby Sevens,Men,G
@@ -253,14 +289,11 @@ ITA,MARTINENGHI Nicolo,Swimming,Men's 100m Breaststroke,G
 ITA,NAVARRIA Mara,Fencing,Women's Épée Team,G
 ITA,RIZZI Giulia,Fencing,Women's Épée Team,G
 ITA,SANTUCCIO Alberta,Fencing,Women's Épée Team,G
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,HASHIMOTO Daiki,Artistic Gymnastics,Men's Team,G
 JPN,HORIGOME Yuto,Skateboarding,Men's Street,G
 JPN,KAYA Kazuma,Artistic Gymnastics,Men's Team,G
-JPN,NAGASE Takanori,Judo,Men -81 kg,G
 JPN,SUGINO Takaaki,Artistic Gymnastics,Men's Team,G
 JPN,TANIGAWA Wataru,Artistic Gymnastics,Men's Team,G
-JPN,TSUNODA Natsumi,Judo,Women -48 kg,G
 JPN,YOSHIZAWA Coco,Skateboarding,Women's Street,G
 KAZ,SMETOV Yeldos,Judo,Men -60 kg,G
 KOR,BAN Hyojin,Shooting,10m Air Rifle Women,G
@@ -400,7 +433,6 @@ FRA,BOREL Yannick,Fencing,Men's Épée Individual,S
 FRA,CANDASSAMY Marie-Florence,Fencing,Women's Épée Team,S
 FRA,CASTRYCK Titouan,Canoe Slalom,Men's Kayak Single,S
 FRA,CHIRAULT Thomas,Archery,Men's Team,S
-FRA,GABA Joan-Benjamin,Judo,Men -73 kg,S
 FRA,JEDRZEJEWSKI Camille,Shooting,25m Pistol Women,S
 FRA,KIRPICHNIKOVA Anastasiia,Swimming,Women's 1500m Freestyle,S
 FRA,KORETZKY Victor,Cycling Mountain Bike,Men's Cross-country,S
@@ -408,7 +440,6 @@ FRA,LAGHOUAG Karim Florent,Equestrian,Eventing Team,S
 FRA,LANDOIS Stephane,Equestrian,Eventing Team,S
 FRA,LOUIS-MARIE Alexandra,Fencing,Women's Épée Team,S
 FRA,MADOUAS Valentin,Cycling Road,Men's Road Race,S
-FRA,MKHEIDZE Luka,Judo,Men -60 kg,S
 FRA,TOUZAINT Nicolas,Equestrian,Eventing Team,S
 FRA,VALLADONT Jean-Charles,Archery,Men's Team,S
 FRA,VITALIS Coraline,Fencing,Women's Épée Team,S
@@ -460,11 +491,17 @@ ITA,SOARES Gabriel,Rowing,Lightweight Men's Double Sculls,S
 ITA,STANCO Silvana Maria,Shooting,Trap Women,S
 ITA,VILLA Giorgia,Artistic Gymnastics,Women's Team,S
 ITA,VOLPI Alice,Fencing,Women's Foil Team,S
+JPN,ABE Uta,Judo,Mixed Team,S
 JPN,AKAMA Liz,Skateboarding,Women's Street,S
 JPN,KOMATA Akira,Fencing,Men's Épée Team,S
 JPN,MATSUSHITA Tomoyuki,Swimming,Men's 400m Individual Medley,S
 JPN,MINOBE Kazuyasu,Fencing,Men's Épée Team,S
-JPN,MURAO Sanshiro,Judo,Men -90 kg,S
+JPN,NIIZOE Saki,Judo,Mixed Team,S
+JPN,SAITO Tatsuru,Judo,Mixed Team,S
+JPN,SONE Akira,Judo,Mixed Team,S
+JPN,TAKAICHI Miku,Judo,Mixed Team,S
+JPN,TAKAYAMA Rika,Judo,Mixed Team,S
+JPN,WOLF Aaron,Judo,Mixed Team,S
 JPN,YAMADA Masaru,Fencing,Men's Épée Team,S
 KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
 KOR,JEONG Na Eun,Badminton,Mixed Doubles,S
@@ -594,21 +631,15 @@ EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
 ESP,ECHANIZ Pau,Canoe Slalom,Men's Kayak Single,B
 ESP,GARRIGOS Francisco,Judo,Men -60 kg,B
 ESP,MARTIN Alvaro,Athletics,Men's 20km Race Walk,B
-FRA,AGBEGNENOU Clarisse,Judo,Women -63 kg,B
 FRA,APITHY Bolade,Fencing,Men's Sabre Team,B
 FRA,BARBELIN Lisa,Archery,Women's Individual,B
 FRA,BERGERE Leo,Triathlon,Men's Individual,B
-FRA,BOUKLI Shirine,Judo,Women -48 kg,B
-FRA,BUCHARD Amandine,Judo,Women -52 kg,B
-FRA,CYSIQUE Sarah Leonie,Judo,Women -57 kg,B
 FRA,DELESTRE Simon,Equestrian,Jumping Team,B
-FRA,DICKO Romane,Judo,Women +78 kg,B
 FRA,EPAILLARD Julien,Equestrian,Jumping Team,B
 FRA,JEANJEAN Anthony,Cycling BMX Freestyle,Men's Park,B
 FRA,LAPORTE Christophe,Cycling Road,Men's Road Race,B
 FRA,MAHIEU Romain,Cycling BMX Racing,Men,B
 FRA,MANAUDOU Florent,Swimming,Men's 50m Freestyle,B
-FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Men -90 kg,B
 FRA,PATRICE Jean-Philippe,Fencing,Men's Sabre Team,B
 FRA,PATRICE Sebastien,Fencing,Men's Sabre Team,B
 FRA,PERREAU Olivier,Equestrian,Jumping Team,B
@@ -671,15 +702,12 @@ ITA,PALTRINIERI Gregorio,Swimming,Men's 800m Freestyle,B
 ITA,SAMELE Luigi,Fencing,Men's Sabre Individual,B
 ITA,ZAZZERI Lorenzo,Swimming,Men's 4 x 100m Freestyle Relay,B
 JPN,AZUMA Sera,Fencing,Women's Foil Team,B
-JPN,FUNAKUBO Haruka,Judo,Women -57 kg,B
-JPN,HASHIMOTO Soichi,Judo,Men -73 kg,B
 JPN,HAYATA Hina,Table Tennis,Women's Singles,B
 JPN,HIGASHINO Arisa,Badminton,Mixed Doubles,B
 JPN,KIKUCHI Komaki,Fencing,Women's Foil Team,B
 JPN,KITAJIMA Ryuzo,Equestrian,Eventing Team,B
 JPN,MATSUYAMA Nami,Badminton,Women's Doubles,B
 JPN,MIYAWAKI Karin,Fencing,Women's Foil Team,B
-JPN,NAGAYAMA Ryuju,Judo,Men -60 kg,B
 JPN,OIWA Yoshiaki,Equestrian,Eventing Team,B
 JPN,SHIDA Chiharu,Badminton,Women's Doubles,B
 JPN,TANAKA Toshiyuki,Equestrian,Eventing Team,B
