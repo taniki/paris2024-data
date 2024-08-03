@@ -73,6 +73,8 @@ USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Team,G
+BRA,SOUZA Beatriz,Judo,Women +78 kg,G
+BRA,SOUZA Beatriz,Judo,Mixed Team,B
 GBR,COLLETT Laura,Equestrian,Eventing Individual,B
 GBR,COLLETT Laura,Equestrian,Eventing Team,G
 ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
@@ -99,12 +101,16 @@ AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
 BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
 BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 USA,FOSTER Carson,Swimming,Men's 400m Individual Medley,B
 USA,FOSTER Carson,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 200m Freestyle,B
+BRA,PIMENTA Larissa,Judo,Women -52 kg,B
+BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 200m Freestyle Relay,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 200m Freestyle,B
@@ -128,7 +134,6 @@ AUS,WUNSCH Olivia,Swimming,Women's 4 x 100m Freestyle Relay,G
 AZE,HEYDAROV Hidayat,Judo,Men -73 kg,G
 AZE,KOTSOIEV Zelym,Judo,Men -100 kg,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
-BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 CAN,DEGUCHI Christa,Judo,Women -57 kg,G
 CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Meng,Table Tennis,Women's Singles,G
@@ -313,7 +318,6 @@ AUS,MORRIS Grae,Sailing,Men's Windsurfing,S
 AUS,STUBBLETY-COOK Zac,Swimming,Men's 200m Breaststroke,S
 AUS,YANG William,Swimming,Men's 4 x 100m Freestyle Relay,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
-BRA,LIMA Willian,Judo,Men -66 kg,S
 CAN,APPS Olivia,Rugby Sevens,Women,S
 CAN,BERMUDEZ Fancy,Rugby Sevens,Women,S
 CAN,CORRIGAN Alysha,Rugby Sevens,Women,S
@@ -529,10 +533,16 @@ AUT,POLLERES Michaela,Judo,Women -70 kg,B
 BEL,van AERT Wout,Cycling Road,Men's Individual Time Trial,B
 BEL,WILLEMS Gabriella,Judo,Women -70 kg,B
 BRA,BARBOSA Jade,Artistic Gymnastics,Women's Team,B
+BRA,CARGNIN Daniel,Judo,Mixed Team,B
+BRA,GONCALVES Leonardo,Judo,Mixed Team,B
 BRA,LEAL Rayssa,Skateboarding,Women's Street,B
+BRA,MACEDO Rafael,Judo,Mixed Team,B
 BRA,OLIVEIRA Lorrane,Artistic Gymnastics,Women's Team,B
-BRA,PIMENTA Larissa,Judo,Women -52 kg,B
+BRA,QUADROS Ketleyn,Judo,Mixed Team,B
 BRA,SARAIVA Flavia,Artistic Gymnastics,Women's Team,B
+BRA,SCHIMIDT Guilherme,Judo,Mixed Team,B
+BRA,SILVA Rafael,Judo,Mixed Team,B
+BRA,SILVA Rafaela,Judo,Mixed Team,B
 BRA,SOARES Julia,Artistic Gymnastics,Women's Team,B
 CAN,AUGER-ALIASSIME Felix,Tennis,Mixed Doubles,B
 CAN,DABROWSKI Gabriela,Tennis,Mixed Doubles,B
