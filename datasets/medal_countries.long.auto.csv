@@ -7,10 +7,10 @@ GBR,Great Britain,gold,9
 KOR,Republic of Korea,gold,8
 JPN,Japan,gold,8
 ITA,Italy,gold,5
-NED,Netherlands,gold,4
+NED,Netherlands,gold,5
 CAN,Canada,gold,3
-GER,Germany,gold,2
 NZL,New Zealand,gold,2
+GER,Germany,gold,2
 ROU,Romania,gold,2
 HUN,Hungary,gold,2
 HKG,"Hong Kong, China",gold,2
@@ -50,6 +50,7 @@ MDA,Republic of Moldova,gold,0
 TJK,Tajikistan,gold,0
 AUT,Austria,gold,0
 EGY,Egypt,gold,0
+LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,9
@@ -62,8 +63,8 @@ JPN,Japan,silver,4
 ITA,Italy,silver,8
 NED,Netherlands,silver,3
 CAN,Canada,silver,2
+NZL,New Zealand,silver,4
 GER,Germany,silver,3
-NZL,New Zealand,silver,3
 ROU,Romania,silver,3
 HUN,Hungary,silver,2
 HKG,"Hong Kong, China",silver,0
@@ -103,6 +104,7 @@ MDA,Republic of Moldova,silver,0
 TJK,Tajikistan,silver,0
 AUT,Austria,silver,0
 EGY,Egypt,silver,0
+LTU,Lithuania,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
@@ -115,8 +117,8 @@ JPN,Japan,bronze,6
 ITA,Italy,bronze,4
 NED,Netherlands,bronze,2
 CAN,Canada,bronze,6
-GER,Germany,bronze,2
 NZL,New Zealand,bronze,1
+GER,Germany,bronze,2
 ROU,Romania,bronze,1
 HUN,Hungary,bronze,2
 HKG,"Hong Kong, China",bronze,2
@@ -156,5 +158,6 @@ MDA,Republic of Moldova,bronze,2
 TJK,Tajikistan,bronze,2
 AUT,Austria,bronze,1
 EGY,Egypt,bronze,1
+LTU,Lithuania,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1

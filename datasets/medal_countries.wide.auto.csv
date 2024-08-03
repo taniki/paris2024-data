@@ -7,10 +7,10 @@ GBR,Great Britain,9,10,8
 KOR,Republic of Korea,8,5,4
 JPN,Japan,8,4,6
 ITA,Italy,5,8,4
-NED,Netherlands,4,3,2
+NED,Netherlands,5,3,2
 CAN,Canada,3,2,6
+NZL,New Zealand,2,4,1
 GER,Germany,2,3,2
-NZL,New Zealand,2,3,1
 ROU,Romania,2,3,1
 HUN,Hungary,2,2,2
 HKG,"Hong Kong, China",2,0,2
@@ -50,5 +50,6 @@ MDA,Republic of Moldova,0,0,2
 TJK,Tajikistan,0,0,2
 AUT,Austria,0,0,1
 EGY,Egypt,0,0,1
+LTU,Lithuania,0,0,1
 POR,Portugal,0,0,1
 SVK,Slovakia,0,0,1
