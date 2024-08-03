@@ -1,8 +1,8 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,16
+USA,United States of America,gold,12
 FRA,France,gold,12
 AUS,Australia,gold,12
-USA,United States of America,gold,11
 GBR,Great Britain,gold,10
 KOR,Republic of Korea,gold,9
 JPN,Japan,gold,8
@@ -53,13 +53,14 @@ TJK,Tajikistan,gold,0
 TPE,Chinese Taipei,gold,0
 AUT,Austria,gold,0
 EGY,Egypt,gold,0
+JAM,Jamaica,gold,0
 LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,11
+USA,United States of America,silver,21
 FRA,France,silver,14
 AUS,Australia,silver,7
-USA,United States of America,silver,20
 GBR,Great Britain,silver,10
 KOR,Republic of Korea,silver,7
 JPN,Japan,silver,5
@@ -110,13 +111,14 @@ TJK,Tajikistan,silver,0
 TPE,Chinese Taipei,silver,0
 AUT,Austria,silver,0
 EGY,Egypt,silver,0
+JAM,Jamaica,silver,0
 LTU,Lithuania,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
+USA,United States of America,bronze,20
 FRA,France,bronze,15
 AUS,Australia,bronze,5
-USA,United States of America,bronze,20
 GBR,Great Britain,bronze,12
 KOR,Republic of Korea,bronze,5
 JPN,Japan,bronze,9
@@ -167,6 +169,7 @@ TJK,Tajikistan,bronze,2
 TPE,Chinese Taipei,bronze,2
 AUT,Austria,bronze,1
 EGY,Egypt,bronze,1
+JAM,Jamaica,bronze,1
 LTU,Lithuania,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
