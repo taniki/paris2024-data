@@ -32,6 +32,7 @@ CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 ARG,Argentina,gold,1
 ECU,Ecuador,gold,1
+LCA,Saint Lucia,gold,1
 PHI,Philippines,gold,1
 SLO,Slovenia,gold,1
 SRB,Serbia,gold,1
@@ -58,7 +59,7 @@ LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,11
-USA,United States of America,silver,23
+USA,United States of America,silver,24
 FRA,France,silver,14
 AUS,Australia,silver,7
 GBR,Great Britain,silver,10
@@ -90,6 +91,7 @@ CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 ARG,Argentina,silver,0
 ECU,Ecuador,silver,0
+LCA,Saint Lucia,silver,0
 PHI,Philippines,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
@@ -116,7 +118,7 @@ LTU,Lithuania,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
-USA,United States of America,bronze,20
+USA,United States of America,bronze,21
 FRA,France,bronze,15
 AUS,Australia,bronze,6
 GBR,Great Britain,bronze,13
@@ -148,6 +150,7 @@ CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 ARG,Argentina,bronze,0
 ECU,Ecuador,bronze,0
+LCA,Saint Lucia,bronze,0
 PHI,Philippines,bronze,0
 SLO,Slovenia,bronze,0
 SRB,Serbia,bronze,0

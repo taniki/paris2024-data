@@ -314,16 +314,21 @@ KOR,LEE Wooseok,Archery,Men's Team,G
 KOR,OH Ye Jin,Shooting,10m Air Pistol Women,G
 KOR,PARK Sangwon,Fencing,Men's Sabre Team,G
 KOR,YANG Jiin,Shooting,25m Pistol Women,G
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOONSTRA Benthe,Rowing,Women's Four,G
 NED,CLEVERING Ymkje,Rowing,Women's Pair,G
 NED,DRENTH Hermijntje,Rowing,Women's Four,G
 NED,DUETZ Annette,Sailing,Women's Skiff,G
 NED,FLORIJN Finn,Rowing,Men's Quadruple Sculls,G
 NED,FLORIJN Karolien,Rowing,Women's Single Sculls,G
+NED,KLAVER Lieke,Athletics,4 x 400m Relay Mixed,G
+NED,KLEIN IKKINK Isaya,Athletics,4 x 400m Relay Mixed,G
 NED,MEESTER Veronique,Rowing,Women's Pair,G
 NED,METSEMAKERS Koen,Rowing,Men's Quadruple Sculls,G
 NED,OFFEREINS Tinka,Rowing,Women's Four,G
 NED,OLDENBURG Marloes,Rowing,Women's Four,G
+NED,OMALLA Eugene,Athletics,4 x 400m Relay Mixed,G
+NED,PEETERS Cathelijn,Athletics,4 x 400m Relay Mixed,G
 NED,van AANHOLT Odile,Sailing,Women's Skiff,G
 NED,van LIEROP Lennart,Rowing,Men's Quadruple Sculls,G
 NED,WIETEN Tone,Rowing,Men's Quadruple Sculls,G
@@ -573,10 +578,12 @@ UKR,KULISH Serhiy,Shooting,50m Rifle 3 Positions Men,S
 USA,BACON Sarah,Diving,Women's Synchronised 3m Springboard,S
 USA,BATTEN Haley,Cycling Mountain Bike,Women's Cross-country,S
 USA,BENEGAS Perris,Cycling BMX Freestyle,Women's Park,S
+USA,BROWN Kaylyn,Athletics,4 x 400m Relay Mixed,S
 USA,CONNOLLY Erika,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,COOK Karl,Equestrian,Jumping Team,S
 USA,COOK Kassidy,Diving,Women's Synchronised 3m Springboard,S
 USA,CURRY Brooks,Swimming,Men's 4 x 200m Freestyle Relay,S
+USA,DEADMON Bryce,Athletics,4 x 400m Relay Mixed,S
 USA,EATON Jagger,Skateboarding,Men's Street,S
 USA,FINK Nic,Swimming,Men's 100m Breaststroke,S
 USA,FINKE Bobby,Swimming,Men's 800m Freestyle,S
@@ -586,8 +593,10 @@ USA,KIBLER Drew,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,KOVACS Joe,Athletics,Men's Shot Put,S
 USA,KRAJICEK Austin,Tennis,Men's Doubles,S
 USA,KRAUT Laura,Equestrian,Jumping Team,S
+USA,LITTLE Shamier,Athletics,4 x 400m Relay Mixed,S
 USA,MADDALENA Sagen,Shooting,50m Rifle 3 Positions Women,S
 USA,MADDEN Paige,Swimming,Women's 4 x 200m Freestyle Relay,S
+USA,NORWOOD Vernon,Athletics,4 x 400m Relay Mixed,S
 USA,PEPLOWSKI Anna,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,PIERONI Blake,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,PRINCE Conner Lynn,Shooting,Skeet Men,S
@@ -665,6 +674,7 @@ FRA,PICON Charline,Sailing,Women's Skiff,B
 FRA,STEYAERT Sarah,Sailing,Women's Skiff,B
 GBR,ALDRIDGE Matt,Rowing,Men's Four,B
 GBR,AMBLER David,Rowing,Men's Four,B
+GBR,ANNING Amber,Athletics,4 x 400m Relay Mixed,B
 GBR,CAMPBELL-ORDE Annie,Rowing,Women's Eight,B
 GBR,DAVIDSON Freddie,Rowing,Men's Four,B
 GBR,DUNFORD Holly,Rowing,Women's Eight,B
@@ -673,6 +683,7 @@ GBR,FORD Emily,Rowing,Women's Eight,B
 GBR,FRY Charlotte,Equestrian,Dressage Team,B
 GBR,HARDING Anthony,Diving,Men's Synchronised 3m Springboard,B
 GBR,HARPER Yasmin,Diving,Women's Synchronised 3m Springboard,B
+GBR,HAYDOCK-WILSON Alex,Athletics,4 x 400m Relay Mixed,B
 GBR,HESTER Carl,Equestrian,Dressage Team,B
 GBR,HODGKINS BYRNE Mathilda,Rowing,Women's Double Sculls,B
 GBR,IRWIN Lauren,Rowing,Women's Eight,B
@@ -682,7 +693,9 @@ GBR,LONG Heidi,Rowing,Women's Eight,B
 GBR,McKELLAR Rowan,Rowing,Women's Eight,B
 GBR,MEW JENSEN Scarlett,Diving,Women's Synchronised 3m Springboard,B
 GBR,MOODY Becky,Equestrian,Dressage Team,B
+GBR,NIELSEN Laviai,Athletics,4 x 400m Relay Mixed,B
 GBR,POTTER Beth,Triathlon,Women's Individual,B
+GBR,REARDON Samuel,Athletics,4 x 400m Relay Mixed,B
 GBR,SPENDOLINI SIRIEIX Andrea,Diving,Women's Synchronised 10m Platform,B
 GBR,STEWART Eve,Rowing,Women's Eight,B
 GBR,TAYLOR Harriet,Rowing,Women's Eight,B
@@ -691,6 +704,7 @@ GBR,WILDE Rebecca,Rowing,Women's Double Sculls,B
 GBR,WILKES Oliver,Rowing,Men's Four,B
 GBR,WILSON Emma,Sailing,Women's Windsurfing,B
 GBR,WOODS Kimberley,Canoe Slalom,Women's Kayak Single,B
+GBR,YEARGIN Nicole,Athletics,4 x 400m Relay Mixed,B
 GER,GOSE Isabel,Swimming,Women's 1500m Freestyle,B
 GER,GREITEN Pia,Rowing,Women's Quadruple Sculls,B
 GER,MENZEL Leonie,Rowing,Women's Quadruple Sculls,B
