@@ -11,9 +11,9 @@ NED,Netherlands,gold,5
 GER,Germany,gold,4
 CAN,Canada,gold,3
 ROU,Romania,gold,3
+HUN,Hungary,gold,3
 IRL,Ireland,gold,3
 NZL,New Zealand,gold,2
-HUN,Hungary,gold,2
 CRO,Croatia,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
@@ -66,11 +66,11 @@ JPN,Japan,silver,5
 ITA,Italy,silver,8
 NED,Netherlands,silver,4
 GER,Germany,silver,3
-CAN,Canada,silver,3
+CAN,Canada,silver,4
 ROU,Romania,silver,3
+HUN,Hungary,silver,2
 IRL,Ireland,silver,0
 NZL,New Zealand,silver,4
-HUN,Hungary,silver,2
 CRO,Croatia,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
@@ -123,11 +123,11 @@ JPN,Japan,bronze,9
 ITA,Italy,bronze,4
 NED,Netherlands,bronze,4
 GER,Germany,bronze,2
-CAN,Canada,bronze,6
+CAN,Canada,bronze,7
 ROU,Romania,bronze,1
+HUN,Hungary,bronze,2
 IRL,Ireland,bronze,2
 NZL,New Zealand,bronze,1
-HUN,Hungary,bronze,2
 CRO,Croatia,bronze,1
 BEL,Belgium,bronze,2
 HKG,"Hong Kong, China",bronze,2

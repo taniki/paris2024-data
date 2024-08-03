@@ -65,6 +65,8 @@ GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
 GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
+HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
+HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
@@ -153,6 +155,8 @@ USA,HOBSON Luke,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 200m Freestyle,B
 BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
+CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
+CAN,KHARUN Ilya,Swimming,Men's 100m Butterfly,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 200m Freestyle Relay,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 200m Freestyle,B
@@ -379,6 +383,7 @@ CAN,FILMER Caileigh,Rowing,Women's Eight,S
 CAN,GRUCHALLA-WESIERSKI Kasia,Rowing,Women's Eight,S
 CAN,HOGAN-ROCHESTER Asia,Rugby Sevens,Women,S
 CAN,KIT Kristen,Rowing,Women's Eight,S
+CAN,LIENDO Josh,Swimming,Men's 100m Butterfly,S
 CAN,LOGAN Piper,Rugby Sevens,Women,S
 CAN,MESCHKULEIT Maya,Rowing,Women's Eight,S
 CAN,NORSTEN Carissa,Rugby Sevens,Women,S
@@ -464,7 +469,6 @@ GER,LILIK Elena,Canoe Slalom,Women's Canoe Single,S
 GER,UNRUH Florian,Archery,Mixed Team,S
 GRE,CHRISTOU Apostolos,Swimming,Men's 200m Backstroke,S
 HUN,GEMESI Csanad,Fencing,Men's Sabre Team,S
-HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,RABB Krisztian,Fencing,Men's Sabre Team,S
 HUN,SZATMARI Andras,Fencing,Men's Sabre Team,S
 HUN,SZILAGYI Aron,Fencing,Men's Sabre Team,S
@@ -605,7 +609,6 @@ BRA,SOARES Julia,Artistic Gymnastics,Women's Team,B
 CAN,AUGER-ALIASSIME Felix,Tennis,Mixed Doubles,B
 CAN,DABROWSKI Gabriela,Tennis,Mixed Doubles,B
 CAN,HARVEY Eleanor,Fencing,Women's Foil Individual,B
-CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
 CAN,MASSE Kylie,Swimming,Women's 200m Backstroke,B
 CAN,METHOT Sophiane,Trampoline Gymnastics,Women,B
 CAN,WIENS Rylan,Diving,Men's Synchronised 10m Platform,B
