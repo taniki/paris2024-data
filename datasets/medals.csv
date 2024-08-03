@@ -169,12 +169,20 @@ FRA,TIMO Andy,Rugby Sevens,Men,G
 FRA,ZEGHDAR Antoine,Rugby Sevens,Men,G
 GBR,ANDERSON Lola,Rowing,Women's Quadruple Sculls,G
 GBR,BIRD Kieran,Swimming,Men's 4 x 200m Freestyle Relay,G
+GBR,BOLDING Morgan,Rowing,Men's Eight,G
 GBR,BRASH Scott,Equestrian,Jumping Team,G
 GBR,BRAYSHAW Georgina,Rowing,Women's Quadruple Sculls,G
+GBR,BRIGHTMORE Harry,Rowing,Men's Eight,G
 GBR,CANTER Rosalind,Equestrian,Eventing Team,G
+GBR,CARNEGIE Sholto,Rowing,Men's Eight,G
 GBR,CHARLES Harry,Equestrian,Jumping Team,G
 GBR,CRAIG Emily,Rowing,Lightweight Women's Double Sculls,G
+GBR,DAWSON Jacob,Rowing,Men's Eight,G
 GBR,DEAN Tom,Swimming,Men's 4 x 200m Freestyle Relay,G
+GBR,DIGBY Tom,Rowing,Men's Eight,G
+GBR,ELWES Charles,Rowing,Men's Eight,G
+GBR,FORD Tom,Rowing,Men's Eight,G
+GBR,GIBBS Rory,Rowing,Men's Eight,G
 GBR,GRANT Imogen,Rowing,Lightweight Women's Double Sculls,G
 GBR,GUY James,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,HALES Nathan,Shooting,Trap Men,G
@@ -184,6 +192,7 @@ GBR,McEWEN Tom,Equestrian,Eventing Team,G
 GBR,McMILLAN Jack,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,PAGE Bryony,Trampoline Gymnastics,Women,G
 GBR,PIDCOCK Thomas,Cycling Mountain Bike,Men's Cross-country,G
+GBR,RUDKIN James,Rowing,Men's Eight,G
 GBR,SCOTT Hannah,Rowing,Women's Quadruple Sculls,G
 GBR,YEE Alex,Triathlon,Men's Individual,G
 GEO,BEKAURI Lasha,Judo,Men -90 kg,G
@@ -423,10 +432,19 @@ MEX,CELAYA HERNANDEZ Juan Manuel,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MGL,BAVUUDORJ Baasankhuu,Judo,Women -48 kg,S
 NED,BROENINK Stef,Rowing,Men's Double Sculls,S
+NED,de GRAAF Sander,Rowing,Men's Eight,S
 NED,de JONG Roos,Rowing,Women's Quadruple Sculls,S
 NED,DULLEMANS Tessa,Rowing,Women's Quadruple Sculls,S
+NED,FETTER Dieuwke,Rowing,Men's Eight,S
+NED,KNAB Ruben,Rowing,Men's Eight,S
+NED,MAKKER Mick,Rowing,Men's Eight,S
+NED,MOLENAAR Olav,Rowing,Men's Eight,S
 NED,PAULIS Bente,Rowing,Women's Quadruple Sculls,S
+NED,RIENKS Ralf,Rowing,Men's Eight,S
 NED,TWELLAAR Melvin,Rowing,Men's Double Sculls,S
+NED,van de KERKHOF Jacob,Rowing,Men's Eight,S
+NED,van der BIJ Jan,Rowing,Men's Eight,S
+NED,van DOORN Gert-Jan,Rowing,Men's Eight,S
 NED,VEENSTRA Manon,Cycling BMX Racing,Women,S
 NED,YOUSSIFOU Laila,Rowing,Women's Quadruple Sculls,S
 NZL,MACDONALD Matt,Rowing,Men's Four,S
@@ -665,11 +683,15 @@ UKR,KHARLAN Olga,Fencing,Women's Sabre Individual,B
 USA,BARROWS Ian,Sailing,Men's Skiff,B
 USA,BERKOFF Katharine,Swimming,Women's 100m Backstroke,B
 USA,CANETT Kayla,Rugby Sevens,Women,B
+USA,CARLSON Chris,Rowing,Men's Eight,B
+USA,CHATAIN Peter,Rowing,Men's Eight,B
+USA,DEAN Clark,Rowing,Men's Eight,B
 USA,DOYLE Lauren,Rugby Sevens,Women,B
 USA,DYGERT Chloe,Cycling Road,Women's Individual Time Trial,B
 USA,ELLISON Brady,Archery,Mixed Team,B
 USA,FISHER Grant,Athletics,"Men's 10,000m",B
 USA,HENKEN Hans,Sailing,Men's Skiff,B
+USA,HOLLINGSWORTH Henry,Rowing,Men's Eight,B
 USA,HONG Asher,Artistic Gymnastics,Men's Team,B
 USA,HUSTON Nyjah,Skateboarding,Men's Street,B
 USA,ITKIN Nick,Fencing,Men's Foil Individual,B
@@ -681,14 +703,19 @@ USA,LEIBFARTH Evy,Canoe Slalom,Women's Canoe Single,B
 USA,LEVY Sarah,Rugby Sevens,Women,B
 USA,MAHER Ilona,Rugby Sevens,Women,B
 USA,MALONE Brody,Artistic Gymnastics,Men's Team,B
+USA,MILNE Rielly,Rowing,Men's Eight,B
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Team,B
 USA,OLSEN Alena,Rugby Sevens,Women,B
+USA,OLSON Evan,Rowing,Men's Eight,B
+USA,QUINTON Pieter,Rowing,Men's Eight,B
 USA,RAMSEY Ariana,Rugby Sevens,Women,B
 USA,RICHARD Frederick,Artistic Gymnastics,Men's Team,B
 USA,ROVETTI Steph,Rugby Sevens,Women,B
+USA,RUSHER Nick,Rowing,Men's Eight,B
 USA,SEDRICK Alex,Rugby Sevens,Women,B
 USA,SULLIVAN Sammy,Rugby Sevens,Women,B
+USA,TABASH Christian,Rowing,Men's Eight,B
 USA,TAPPER Naya,Rugby Sevens,Women,B
 USA,WEYANT Emma,Swimming,Women's 400m Individual Medley,B
 UZB,TUROBOYEV Muzaffarbek,Judo,Men -100 kg,B
