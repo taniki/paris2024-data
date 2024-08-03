@@ -6,6 +6,9 @@ FRA,MARCHAND Leon,Swimming,Men's 200m Butterfly,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
+KOR,LIM Sihyeon,Archery,Women's Individual,G
+KOR,LIM Sihyeon,Archery,Mixed Team,G
+KOR,LIM Sihyeon,Archery,Women's Team,G
 AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
@@ -36,8 +39,6 @@ JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 KOR,KIM Woojin,Archery,Mixed Team,G
 KOR,KIM Woojin,Archery,Men's Team,G
-KOR,LIM Sihyeon,Archery,Mixed Team,G
-KOR,LIM Sihyeon,Archery,Women's Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
 USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
@@ -52,6 +53,8 @@ GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
+KOR,NAM Suhyeon,Archery,Women's Individual,S
+KOR,NAM Suhyeon,Archery,Women's Team,G
 ROU,ANGHEL Roxana,Rowing,Women's Eight,G
 ROU,ANGHEL Roxana,Rowing,Women's Pair,S
 ROU,BODNAR Ancuta,Rowing,Women's Eight,G
@@ -237,7 +240,6 @@ KOR,GU Bongil,Fencing,Men's Sabre Team,G
 KOR,JEON Hunyoung,Archery,Women's Team,G
 KOR,KIM Je Deok,Archery,Men's Team,G
 KOR,LEE Wooseok,Archery,Men's Team,G
-KOR,NAM Suhyeon,Archery,Women's Team,G
 KOR,OH Ye Jin,Shooting,10m Air Pistol Women,G
 KOR,PARK Sangwon,Fencing,Men's Sabre Team,G
 KOR,YANG Jiin,Shooting,25m Pistol Women,G

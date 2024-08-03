@@ -1,6 +1,7 @@
 code,name,gold,silver,bronze
 FRA,MARCHAND Leon,4,0,0
 AUS,O'CALLAGHAN Mollie,3,0,0
+KOR,LIM Sihyeon,3,0,0
 AUS,TITMUS Ariarne,2,1,0
 CAN,McINTOSH Summer,2,1,0
 USA,HUSKE Torri,1,2,0
@@ -13,7 +14,6 @@ AUS,McKEOWN Kaylee,2,0,0
 CHN,SHENG Lihao,2,0,0
 JPN,OKA Shinnosuke,2,0,0
 KOR,KIM Woojin,2,0,0
-KOR,LIM Sihyeon,2,0,0
 KOR,OH Sanguk,2,0,0
 USA,BILES Simone,2,0,0
 USA,KIEFER Lee,2,0,0
@@ -21,6 +21,7 @@ CHN,HUANG Yuting,1,1,0
 GBR,RICHARDS Matthew,1,1,0
 GBR,SCOTT Duncan,1,1,0
 JPN,KANO Koki,1,1,0
+KOR,NAM Suhyeon,1,1,0
 ROU,ANGHEL Roxana,1,1,0
 ROU,BODNAR Ancuta,1,1,0
 ROU,RADIS Simona,1,1,0
@@ -179,7 +180,6 @@ KOR,GU Bongil,1,0,0
 KOR,JEON Hunyoung,1,0,0
 KOR,KIM Je Deok,1,0,0
 KOR,LEE Wooseok,1,0,0
-KOR,NAM Suhyeon,1,0,0
 KOR,OH Ye Jin,1,0,0
 KOR,PARK Sangwon,1,0,0
 KOR,YANG Jiin,1,0,0
