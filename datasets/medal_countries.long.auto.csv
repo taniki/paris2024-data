@@ -26,6 +26,7 @@ SUI,Switzerland,gold,1
 ESP,Spain,gold,1
 KAZ,Kazakhstan,gold,1
 RSA,South Africa,gold,1
+UKR,Ukraine,gold,1
 UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
@@ -41,7 +42,6 @@ GRE,Greece,gold,0
 POL,Poland,gold,0
 KOS,Kosovo,gold,0
 TUR,Türkiye,gold,0
-UKR,Ukraine,gold,0
 DEN,Denmark,gold,0
 ETH,Ethiopia,gold,0
 FIJ,Fiji,gold,0
@@ -61,7 +61,7 @@ FRA,France,silver,14
 AUS,Australia,silver,7
 USA,United States of America,silver,20
 GBR,Great Britain,silver,10
-KOR,Republic of Korea,silver,6
+KOR,Republic of Korea,silver,7
 JPN,Japan,silver,5
 ITA,Italy,silver,8
 NED,Netherlands,silver,4
@@ -83,6 +83,7 @@ SUI,Switzerland,silver,1
 ESP,Spain,silver,1
 KAZ,Kazakhstan,silver,1
 RSA,South Africa,silver,1
+UKR,Ukraine,silver,1
 UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
@@ -98,7 +99,6 @@ GRE,Greece,silver,1
 POL,Poland,silver,1
 KOS,Kosovo,silver,1
 TUR,Türkiye,silver,1
-UKR,Ukraine,silver,1
 DEN,Denmark,silver,1
 ETH,Ethiopia,silver,1
 FIJ,Fiji,silver,1
@@ -140,6 +140,7 @@ SUI,Switzerland,bronze,4
 ESP,Spain,bronze,3
 KAZ,Kazakhstan,bronze,2
 RSA,South Africa,bronze,2
+UKR,Ukraine,bronze,1
 UZB,Uzbekistan,bronze,2
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
@@ -155,7 +156,6 @@ GRE,Greece,bronze,3
 POL,Poland,bronze,3
 KOS,Kosovo,bronze,1
 TUR,Türkiye,bronze,1
-UKR,Ukraine,bronze,1
 DEN,Denmark,bronze,0
 ETH,Ethiopia,bronze,0
 FIJ,Fiji,bronze,0

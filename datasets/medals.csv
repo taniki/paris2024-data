@@ -113,6 +113,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
+UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
+UKR,KHARLAN Olga,Fencing,Women's Sabre Individual,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
 USA,LEE Sunisa,Artistic Gymnastics,Women's All-Around,B
@@ -350,6 +352,9 @@ SRB,MIKEC Damir,Shooting,10m Air Pistol Mixed Team,G
 SUI,LEONE Chiara,Shooting,50m Rifle 3 Positions Women,G
 SWE,SJOESTROEM Sarah,Swimming,Women's 100m Freestyle,G
 UGA,CHEPTEGEI Joshua,Athletics,"Men's 10,000m",G
+UKR,BAKASTOVA Yuliia,Fencing,Women's Sabre Team,G
+UKR,KOMASHCHUK Alina,Fencing,Women's Sabre Team,G
+UKR,KRAVATSKA Olena,Fencing,Women's Sabre Team,G
 USA,ALEXY Jack,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,ARMSTRONG Hunter,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,BEST Justin,Rowing,Men's Four,G
@@ -508,11 +513,15 @@ JPN,TAKAYAMA Rika,Judo,Mixed Team,S
 JPN,WOLF Aaron,Judo,Mixed Team,S
 JPN,YAMADA Masaru,Fencing,Men's Épée Team,S
 KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
+KOR,CHOI Sebin,Fencing,Women's Sabre Team,S
+KOR,JEON Eunhye,Fencing,Women's Sabre Team,S
+KOR,JEON Hayoung,Fencing,Women's Sabre Team,S
 KOR,JEONG Na Eun,Badminton,Mixed Doubles,S
 KOR,KEUM Jihyeon,Shooting,10m Air Rifle Mixed Team,S
 KOR,KIM Won Ho,Badminton,Mixed Doubles,S
 KOR,KIM Yeji,Shooting,10m Air Pistol Women,S
 KOR,PARK Hajun,Shooting,10m Air Rifle Mixed Team,S
+KOR,YOON Jisu,Fencing,Women's Sabre Team,S
 KOS,KRASNIQI Distria,Judo,Women -52 kg,S
 MEX,AWITI ALCARAZ Prisca,Judo,Women -63 kg,S
 MEX,CELAYA HERNANDEZ Juan Manuel,Diving,Men's Synchronised 3m Springboard,S
@@ -788,7 +797,6 @@ TPE,WU Shih Yi,Boxing,Women's 60kg,B
 TUR,GAZOZ Mete,Archery,Men's Team,B
 TUR,TUMER Berkim,Archery,Men's Team,B
 TUR,YILDIRMIS Abdullah,Archery,Men's Team,B
-UKR,KHARLAN Olga,Fencing,Women's Sabre Individual,B
 USA,BARROWS Ian,Sailing,Men's Skiff,B
 USA,BERKOFF Katharine,Swimming,Women's 100m Backstroke,B
 USA,CANETT Kayla,Rugby Sevens,Women,B

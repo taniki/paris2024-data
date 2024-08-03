@@ -4,7 +4,7 @@ FRA,France,12,14,15
 AUS,Australia,12,7,5
 USA,United States of America,11,20,20
 GBR,Great Britain,10,10,12
-KOR,Republic of Korea,9,6,5
+KOR,Republic of Korea,9,7,5
 JPN,Japan,8,5,9
 ITA,Italy,6,8,4
 NED,Netherlands,5,4,4
@@ -26,6 +26,7 @@ SUI,Switzerland,1,1,4
 ESP,Spain,1,1,3
 KAZ,Kazakhstan,1,1,2
 RSA,South Africa,1,1,2
+UKR,Ukraine,1,1,1
 UZB,Uzbekistan,1,0,2
 CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
@@ -41,7 +42,6 @@ GRE,Greece,0,1,3
 POL,Poland,0,1,3
 KOS,Kosovo,0,1,1
 TUR,Türkiye,0,1,1
-UKR,Ukraine,0,1,1
 DEN,Denmark,0,1,0
 ETH,Ethiopia,0,1,0
 FIJ,Fiji,0,1,0
