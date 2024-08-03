@@ -7,41 +7,55 @@ CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
 CAN,McINTOSH Summer,Swimming,Women's 200m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
+AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
+AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
+AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
+AUS,O'CALLAGHAN Mollie,Swimming,Mixed 4 x 100m Medley Relay,B
 AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 800m Freestyle,S
 AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
+USA,HUSKE Torri,Swimming,Women's 4 x 100m Freestyle Relay,S
+USA,HUSKE Torri,Swimming,Mixed 4 x 100m Medley Relay,G
+USA,HUSKE Torri,Swimming,Women's 100m Freestyle,S
+USA,HUSKE Torri,Swimming,Women's 100m Butterfly,G
 USA,LEDECKY Katie,Swimming,Women's 400m Freestyle,B
 USA,LEDECKY Katie,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,LEDECKY Katie,Swimming,Women's 800m Freestyle,G
 USA,LEDECKY Katie,Swimming,Women's 1500m Freestyle,G
-AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
-AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
-AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
+AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
+AUS,McKEOWN Kaylee,Swimming,Mixed 4 x 100m Medley Relay,B
+AUS,McKEOWN Kaylee,Swimming,Women's 200m Individual Medley,B
+AUS,McKEOWN Kaylee,Swimming,Women's 200m Backstroke,G
+USA,SMITH Regan,Swimming,Women's 100m Backstroke,S
+USA,SMITH Regan,Swimming,Mixed 4 x 100m Medley Relay,G
+USA,SMITH Regan,Swimming,Women's 200m Backstroke,S
+USA,SMITH Regan,Swimming,Women's 200m Butterfly,S
+CHN,ZHANG Yufei,Swimming,Women's 4 x 100m Freestyle Relay,B
+CHN,ZHANG Yufei,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,ZHANG Yufei,Swimming,Women's 100m Butterfly,B
+CHN,ZHANG Yufei,Swimming,Women's 200m Butterfly,B
 KOR,LIM Sihyeon,Archery,Women's Individual,G
 KOR,LIM Sihyeon,Archery,Mixed Team,G
 KOR,LIM Sihyeon,Archery,Women's Team,G
 USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
 USA,BILES Simone,Artistic Gymnastics,Women's Vault,G
 USA,BILES Simone,Artistic Gymnastics,Women's Team,G
-AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
-AUS,McKEOWN Kaylee,Swimming,Women's 200m Individual Medley,B
-AUS,McKEOWN Kaylee,Swimming,Women's 200m Backstroke,G
 USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,DOUGLASS Kate,Swimming,Women's 200m Individual Medley,S
 USA,DOUGLASS Kate,Swimming,Women's 200m Breaststroke,G
-USA,HUSKE Torri,Swimming,Women's 4 x 100m Freestyle Relay,S
-USA,HUSKE Torri,Swimming,Women's 100m Freestyle,S
-USA,HUSKE Torri,Swimming,Women's 100m Butterfly,G
-USA,SMITH Regan,Swimming,Women's 100m Backstroke,S
-USA,SMITH Regan,Swimming,Women's 200m Backstroke,S
-USA,SMITH Regan,Swimming,Women's 200m Butterfly,S
+USA,WALSH Gretchen,Swimming,Women's 4 x 100m Freestyle Relay,S
+USA,WALSH Gretchen,Swimming,Mixed 4 x 100m Medley Relay,G
+USA,WALSH Gretchen,Swimming,Women's 100m Butterfly,S
+AUS,CHALMERS Kyle,Swimming,Men's 4 x 100m Freestyle Relay,S
+AUS,CHALMERS Kyle,Swimming,Men's 100m Freestyle,S
+AUS,CHALMERS Kyle,Swimming,Mixed 4 x 100m Medley Relay,B
 BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
 BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Vault,S
 BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
-CHN,ZHANG Yufei,Swimming,Women's 4 x 100m Freestyle Relay,B
-CHN,ZHANG Yufei,Swimming,Women's 100m Butterfly,B
-CHN,ZHANG Yufei,Swimming,Women's 200m Butterfly,B
+CHN,YANG Junxuan,Swimming,Women's 4 x 100m Freestyle Relay,B
+CHN,YANG Junxuan,Swimming,Women's 4 x 200m Freestyle Relay,B
+CHN,YANG Junxuan,Swimming,Mixed 4 x 100m Medley Relay,S
 AUS,FOX Jessica,Canoe Slalom,Women's Canoe Single,G
 AUS,FOX Jessica,Canoe Slalom,Women's Kayak Single,G
 AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
@@ -58,10 +72,14 @@ KOR,KIM Woojin,Archery,Mixed Team,G
 KOR,KIM Woojin,Archery,Men's Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
+USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
+USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
+CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
+CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
 FRA,GABA Joan-Benjamin,Judo,Men -73 kg,S
@@ -94,10 +112,16 @@ ROU,VRINCEANU Ioana,Rowing,Women's Eight,G
 ROU,VRINCEANU Ioana,Rowing,Women's Pair,S
 RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
+USA,FINK Nic,Swimming,Mixed 4 x 100m Medley Relay,G
+USA,FINK Nic,Swimming,Men's 100m Breaststroke,S
 USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Team,G
+USA,WEITZEIL Abbey,Swimming,Women's 4 x 100m Freestyle Relay,S
+USA,WEITZEIL Abbey,Swimming,Mixed 4 x 100m Medley Relay,G
+AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
+AUS,McKEON Emma,Swimming,Mixed 4 x 100m Medley Relay,B
 BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 BRA,SOUZA Beatriz,Judo,Mixed Team,B
 FRA,AGBEGNENOU Clarisse,Judo,Women -63 kg,B
@@ -124,8 +148,12 @@ USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
 USA,LEE Sunisa,Artistic Gymnastics,Women's All-Around,B
 USA,LEE Sunisa,Artistic Gymnastics,Women's Team,G
-AUS,CHALMERS Kyle,Swimming,Men's 4 x 100m Freestyle Relay,S
-AUS,CHALMERS Kyle,Swimming,Men's 100m Freestyle,S
+USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
+USA,MURPHY Ryan,Swimming,Mixed 4 x 100m Medley Relay,G
+CHN,TANG Qianting,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,TANG Qianting,Swimming,Women's 100m Breaststroke,S
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
+CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
@@ -134,10 +162,10 @@ JPN,MURAO Sanshiro,Judo,Men -90 kg,S
 JPN,MURAO Sanshiro,Judo,Mixed Team,S
 USA,MANUEL Simone,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,MANUEL Simone,Swimming,Women's 4 x 200m Freestyle Relay,S
-USA,WALSH Gretchen,Swimming,Women's 4 x 100m Freestyle Relay,S
-USA,WALSH Gretchen,Swimming,Women's 100m Butterfly,S
 AUS,SOUTHAM Flynn,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,SOUTHAM Flynn,Swimming,Men's 4 x 200m Freestyle Relay,B
+AUS,STUBBLETY-COOK Zac,Swimming,Men's 200m Breaststroke,S
+AUS,STUBBLETY-COOK Zac,Swimming,Mixed 4 x 100m Medley Relay,B
 AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
@@ -166,8 +194,6 @@ BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
 CAN,KHARUN Ilya,Swimming,Men's 100m Butterfly,B
-CHN,YANG Junxuan,Swimming,Women's 4 x 100m Freestyle Relay,B
-CHN,YANG Junxuan,Swimming,Women's 4 x 200m Freestyle Relay,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 200m Freestyle,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 100m Freestyle,B
 IND,BHAKER Manu,Shooting,10m Air Pistol Women,B
@@ -185,7 +211,6 @@ AUS,CAMPBELL Bronte,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,EBDEN Matthew,Tennis,Men's Doubles,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McEVOY Cameron,Swimming,Men's 50m Freestyle,G
-AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,PALLISTER Lani,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,PEERS John,Tennis,Men's Doubles,G
 AUS,PERKINS Jamie,Swimming,Women's 4 x 200m Freestyle Relay,G
@@ -206,7 +231,6 @@ CHN,JIA Yi Fan,Badminton,Women's Doubles,G
 CHN,LIAN Junjie,Diving,Men's Synchronised 10m Platform,G
 CHN,LIU Yukun,Shooting,50m Rifle 3 Positions Men,G
 CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
-CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,QUAN Hongchan,Diving,Women's Synchronised 10m Platform,G
 CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
@@ -375,7 +399,6 @@ USA,BEST Justin,Rowing,Men's Four,G
 USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 USA,CORRIGAN Liam,Rowing,Men's Four,G
 USA,CROUSER Ryan,Athletics,Men's Shot Put,G
-USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DUBROVICH Jacqueline,Fencing,Women's Foil Team,G
 USA,GRADY Michael,Rowing,Men's Four,G
 USA,HANCOCK Vincent,Shooting,Skeet Men,G
@@ -383,6 +406,7 @@ USA,HELD Ryan,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,KING Matt,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,MEAD Nick,Rowing,Men's Four,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
+USA,SWANSON Charlie,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
 AIN,BARDZILOUSKAYA Viyaleta,Trampoline Gymnastics,Women,S
@@ -390,7 +414,6 @@ AIN,ZALATY Yauheni,Rowing,Men's Single Sculls,S
 AUS,BURTON Christopher,Equestrian,Eventing Individual,S
 AUS,CARTWRIGHT Jack,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,MORRIS Grae,Sailing,Men's Windsurfing,S
-AUS,STUBBLETY-COOK Zac,Swimming,Men's 200m Breaststroke,S
 AUS,YANG William,Swimming,Men's 4 x 100m Freestyle Relay,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
 CAN,APPS Olivia,Rugby Sevens,Women,S
@@ -422,12 +445,11 @@ CHN,LI Jiaman,Archery,Women's Team,S
 CHN,LIU Sheng Shu,Badminton,Women's Doubles,S
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QI Ying,Shooting,Trap Men,S
+CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SU Weide,Artistic Gymnastics,Men's Team,S
 CHN,TAN Ning,Badminton,Women's Doubles,S
-CHN,TANG Qianting,Swimming,Women's 100m Breaststroke,S
 CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,ZHANG Zhizhen,Tennis,Mixed Doubles,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
@@ -592,7 +614,6 @@ USA,COOK Kassidy,Diving,Women's Synchronised 3m Springboard,S
 USA,CURRY Brooks,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,DEADMON Bryce,Athletics,4 x 400m Relay Mixed,S
 USA,EATON Jagger,Skateboarding,Men's Street,S
-USA,FINK Nic,Swimming,Men's 100m Breaststroke,S
 USA,FINKE Bobby,Swimming,Men's 800m Freestyle,S
 USA,GEMMELL Erin,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,GRIMES Katie,Swimming,Women's 400m Individual Medley,S
@@ -612,7 +633,7 @@ USA,SHACKELL Alex,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,SMITH Kieran,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,WARD McLain,Equestrian,Jumping Team,S
 USA,WEINSTEIN Claire,Swimming,Women's 4 x 200m Freestyle Relay,S
-USA,WEITZEIL Abbey,Swimming,Women's 4 x 100m Freestyle Relay,S
+AUS,ANDERSON Iona,Swimming,Mixed 4 x 100m Medley Relay,B
 AUS,DIEHM Natalya,Cycling BMX Freestyle,Women's Park,B
 AUS,GIULIANI Maximillian,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,INCERTI Zac,Swimming,Men's 4 x 200m Freestyle Relay,B
@@ -621,6 +642,8 @@ AUS,MONTAG Jemima,Athletics,Women's 20km Race Walk,B
 AUS,MORRISON Jess,Rowing,Women's Pair,B
 AUS,NEILL Thomas,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,SMITH Penny,Shooting,Trap Women,B
+AUS,TEMPLE Matthew,Swimming,Mixed 4 x 100m Medley Relay,B
+AUS,YONG Joshua,Swimming,Mixed 4 x 100m Medley Relay,B
 AUT,POLLERES Michaela,Judo,Women -70 kg,B
 BEL,van AERT Wout,Cycling Road,Men's Individual Time Trial,B
 BEL,WILLEMS Gabriella,Judo,Women -70 kg,B
@@ -852,7 +875,6 @@ USA,MAHER Ilona,Rugby Sevens,Women,B
 USA,MALONE Brody,Artistic Gymnastics,Men's Team,B
 USA,MILNE Rielly,Rowing,Men's Eight,B
 USA,MOORE Jasmine,Athletics,Women's Triple Jump,B
-USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,OLSEN Alena,Rugby Sevens,Women,B
 USA,OLSON Evan,Rowing,Men's Eight,B
 USA,PAUL Tommy,Tennis,Men's Doubles,B
