@@ -47,6 +47,8 @@ USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
+CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
+CHN,SUN Yingsha,Table Tennis,Women's Singles,S
 GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
 GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
@@ -129,6 +131,7 @@ BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
 BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 CAN,DEGUCHI Christa,Judo,Women -57 kg,G
 CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
+CHN,CHEN Meng,Table Tennis,Women's Singles,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Yuxi,Diving,Women's Synchronised 10m Platform,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
@@ -138,7 +141,6 @@ CHN,LIU Yukun,Shooting,50m Rifle 3 Positions Men,G
 CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
 CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,QUAN Hongchan,Diving,Women's Synchronised 10m Platform,G
-CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,XIE Yu,Shooting,10m Air Pistol Men,G
@@ -273,6 +275,7 @@ NZL,SETEFANO Theresa,Rugby Sevens,Women,G
 NZL,SPOORS Lucy,Rowing,Women's Double Sculls,G
 NZL,WAAKA Stacey,Rugby Sevens,Women,G
 NZL,WOODMAN-WICKLIFFE Portia,Rugby Sevens,Women,G
+PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Floor Exercise,G
 ROU,ADAM Adriana,Rowing,Women's Eight,G
 ROU,BERES Amalia,Rowing,Women's Eight,G
 ROU,CORNEA Andrei Sebastian,Rowing,Men's Double Sculls,G
@@ -407,6 +410,7 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,RABB Krisztian,Fencing,Men's Sabre Team,S
 HUN,SZATMARI Andras,Fencing,Men's Sabre Team,S
 HUN,SZILAGYI Aron,Fencing,Men's Sabre Team,S
+ISR,DOLGOPYAT Artem,Artistic Gymnastics,Men's Floor Exercise,S
 ISR,HERSHKO Raz,Judo,Women +78 kg,S
 ISR,KANTOR Sharon,Sailing,Women's Windsurfing,S
 ISR,LANIR Inbar,Judo,Women -78 kg,S
@@ -590,6 +594,7 @@ GBR,HARPER Yasmin,Diving,Women's Synchronised 3m Springboard,B
 GBR,HESTER Carl,Equestrian,Dressage Team,B
 GBR,HODGKINS BYRNE Mathilda,Rowing,Women's Double Sculls,B
 GBR,IRWIN Lauren,Rowing,Women's Eight,B
+GBR,JARMAN Jake,Artistic Gymnastics,Men's Floor Exercise,B
 GBR,LAUGHER Jack,Diving,Men's Synchronised 3m Springboard,B
 GBR,LONG Heidi,Rowing,Women's Eight,B
 GBR,McKELLAR Rowan,Rowing,Women's Eight,B
