@@ -18,6 +18,7 @@ IRL,Ireland,gold,2
 CRO,Croatia,gold,2
 AZE,Azerbaijan,gold,2
 BRA,Brazil,gold,1
+ISR,Israel,gold,1
 SWE,Sweden,gold,1
 GEO,Georgia,gold,1
 SUI,Switzerland,gold,1
@@ -33,7 +34,6 @@ ECU,Ecuador,gold,1
 SLO,Slovenia,gold,1
 SRB,Serbia,gold,1
 UGA,Uganda,gold,1
-ISR,Israel,gold,0
 MEX,Mexico,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 GRE,Greece,gold,0
@@ -54,7 +54,7 @@ LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,9
-AUS,Australia,silver,6
+AUS,Australia,silver,7
 FRA,France,silver,13
 GBR,Great Britain,silver,10
 USA,United States of America,silver,19
@@ -72,6 +72,7 @@ IRL,Ireland,silver,0
 CRO,Croatia,silver,0
 AZE,Azerbaijan,silver,0
 BRA,Brazil,silver,3
+ISR,Israel,silver,3
 SWE,Sweden,silver,2
 GEO,Georgia,silver,2
 SUI,Switzerland,silver,1
@@ -87,7 +88,6 @@ ECU,Ecuador,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
 UGA,Uganda,silver,0
-ISR,Israel,silver,3
 MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 GRE,Greece,silver,1
@@ -115,7 +115,7 @@ USA,United States of America,bronze,17
 KOR,Republic of Korea,bronze,4
 JPN,Japan,bronze,6
 ITA,Italy,bronze,4
-NED,Netherlands,bronze,3
+NED,Netherlands,bronze,4
 CAN,Canada,bronze,6
 GER,Germany,bronze,2
 ROU,Romania,bronze,1
@@ -126,6 +126,7 @@ IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
 AZE,Azerbaijan,bronze,0
 BRA,Brazil,bronze,3
+ISR,Israel,bronze,1
 SWE,Sweden,bronze,2
 GEO,Georgia,bronze,0
 SUI,Switzerland,bronze,4
@@ -141,7 +142,6 @@ ECU,Ecuador,bronze,0
 SLO,Slovenia,bronze,0
 SRB,Serbia,bronze,0
 UGA,Uganda,bronze,0
-ISR,Israel,bronze,1
 MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
 GRE,Greece,bronze,3
