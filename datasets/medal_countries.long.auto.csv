@@ -6,7 +6,7 @@ GBR,Great Britain,gold,10
 USA,United States of America,gold,9
 KOR,Republic of Korea,gold,8
 JPN,Japan,gold,8
-ITA,Italy,gold,5
+ITA,Italy,gold,6
 NED,Netherlands,gold,5
 CAN,Canada,gold,3
 GER,Germany,gold,3
@@ -87,7 +87,7 @@ ECU,Ecuador,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
 UGA,Uganda,silver,0
-ISR,Israel,silver,2
+ISR,Israel,silver,3
 MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 GRE,Greece,silver,1
@@ -110,7 +110,7 @@ SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
 FRA,France,bronze,13
 AUS,Australia,bronze,5
-GBR,Great Britain,bronze,9
+GBR,Great Britain,bronze,10
 USA,United States of America,bronze,17
 KOR,Republic of Korea,bronze,4
 JPN,Japan,bronze,6
