@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,15,11,9
+CHN,People's Republic of China,16,11,9
 AUS,Australia,12,7,5
 USA,United States of America,11,20,20
 FRA,France,11,14,15
@@ -14,9 +14,9 @@ ROU,Romania,3,3,1
 IRL,Ireland,3,0,2
 NZL,New Zealand,2,4,1
 HUN,Hungary,2,2,2
+CRO,Croatia,2,1,1
 BEL,Belgium,2,0,2
 HKG,"Hong Kong, China",2,0,2
-CRO,Croatia,2,0,1
 AZE,Azerbaijan,2,0,0
 BRA,Brazil,1,4,4
 ISR,Israel,1,4,1

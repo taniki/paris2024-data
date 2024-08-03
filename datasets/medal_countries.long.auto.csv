@@ -1,5 +1,5 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,15
+CHN,People's Republic of China,gold,16
 AUS,Australia,gold,12
 USA,United States of America,gold,11
 FRA,France,gold,11
@@ -14,9 +14,9 @@ ROU,Romania,gold,3
 IRL,Ireland,gold,3
 NZL,New Zealand,gold,2
 HUN,Hungary,gold,2
+CRO,Croatia,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
-CRO,Croatia,gold,2
 AZE,Azerbaijan,gold,2
 BRA,Brazil,gold,1
 ISR,Israel,gold,1
@@ -71,9 +71,9 @@ ROU,Romania,silver,3
 IRL,Ireland,silver,0
 NZL,New Zealand,silver,4
 HUN,Hungary,silver,2
+CRO,Croatia,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
-CRO,Croatia,silver,0
 AZE,Azerbaijan,silver,0
 BRA,Brazil,silver,4
 ISR,Israel,silver,4
@@ -128,9 +128,9 @@ ROU,Romania,bronze,1
 IRL,Ireland,bronze,2
 NZL,New Zealand,bronze,1
 HUN,Hungary,bronze,2
+CRO,Croatia,bronze,1
 BEL,Belgium,bronze,2
 HKG,"Hong Kong, China",bronze,2
-CRO,Croatia,bronze,1
 AZE,Azerbaijan,bronze,0
 BRA,Brazil,bronze,4
 ISR,Israel,bronze,1
