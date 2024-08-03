@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,16
-USA,United States of America,gold,13
+USA,United States of America,gold,14
 FRA,France,gold,12
 AUS,Australia,gold,12
 GBR,Great Britain,gold,10
@@ -34,6 +34,7 @@ ARG,Argentina,gold,1
 DMA,Dominica,gold,1
 ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
+NOR,Norway,gold,1
 PHI,Philippines,gold,1
 SLO,Slovenia,gold,1
 SRB,Serbia,gold,1
@@ -56,10 +57,11 @@ TJK,Tajikistan,gold,0
 TPE,Chinese Taipei,gold,0
 AUT,Austria,gold,0
 EGY,Egypt,gold,0
+GRN,Grenada,gold,0
 LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-CHN,People's Republic of China,silver,11
+CHN,People's Republic of China,silver,12
 USA,United States of America,silver,24
 FRA,France,silver,14
 AUS,Australia,silver,8
@@ -69,7 +71,7 @@ JPN,Japan,silver,5
 ITA,Italy,silver,8
 NED,Netherlands,silver,4
 CAN,Canada,silver,4
-GER,Germany,silver,3
+GER,Germany,silver,4
 ROU,Romania,silver,3
 HUN,Hungary,silver,2
 IRL,Ireland,silver,0
@@ -94,6 +96,7 @@ ARG,Argentina,silver,0
 DMA,Dominica,silver,0
 ECU,Ecuador,silver,0
 LCA,Saint Lucia,silver,0
+NOR,Norway,silver,0
 PHI,Philippines,silver,0
 SLO,Slovenia,silver,0
 SRB,Serbia,silver,0
@@ -116,13 +119,14 @@ TJK,Tajikistan,silver,0
 TPE,Chinese Taipei,silver,0
 AUT,Austria,silver,0
 EGY,Egypt,silver,0
+GRN,Grenada,silver,0
 LTU,Lithuania,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
 USA,United States of America,bronze,23
 FRA,France,bronze,15
-AUS,Australia,bronze,6
+AUS,Australia,bronze,7
 GBR,Great Britain,bronze,13
 KOR,Republic of Korea,bronze,5
 JPN,Japan,bronze,9
@@ -154,6 +158,7 @@ ARG,Argentina,bronze,0
 DMA,Dominica,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
+NOR,Norway,bronze,0
 PHI,Philippines,bronze,0
 SLO,Slovenia,bronze,0
 SRB,Serbia,bronze,0
@@ -176,6 +181,7 @@ TJK,Tajikistan,bronze,2
 TPE,Chinese Taipei,bronze,2
 AUT,Austria,bronze,1
 EGY,Egypt,bronze,1
+GRN,Grenada,bronze,1
 LTU,Lithuania,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1

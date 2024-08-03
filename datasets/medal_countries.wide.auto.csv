@@ -1,15 +1,15 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,16,11,9
-USA,United States of America,13,24,23
+CHN,People's Republic of China,16,12,9
+USA,United States of America,14,24,23
 FRA,France,12,14,15
-AUS,Australia,12,8,6
+AUS,Australia,12,8,7
 GBR,Great Britain,10,10,13
 KOR,Republic of Korea,9,7,5
 JPN,Japan,8,5,9
 ITA,Italy,6,8,5
 NED,Netherlands,6,4,4
 CAN,Canada,4,4,7
-GER,Germany,4,3,2
+GER,Germany,4,4,2
 ROU,Romania,3,3,1
 HUN,Hungary,3,2,2
 IRL,Ireland,3,0,2
@@ -34,6 +34,7 @@ ARG,Argentina,1,0,0
 DMA,Dominica,1,0,0
 ECU,Ecuador,1,0,0
 LCA,Saint Lucia,1,0,0
+NOR,Norway,1,0,0
 PHI,Philippines,1,0,0
 SLO,Slovenia,1,0,0
 SRB,Serbia,1,0,0
@@ -56,6 +57,7 @@ TJK,Tajikistan,0,0,2
 TPE,Chinese Taipei,0,0,2
 AUT,Austria,0,0,1
 EGY,Egypt,0,0,1
+GRN,Grenada,0,0,1
 LTU,Lithuania,0,0,1
 POR,Portugal,0,0,1
 SVK,Slovakia,0,0,1
