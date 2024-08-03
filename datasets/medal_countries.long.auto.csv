@@ -1,8 +1,8 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,15
 AUS,Australia,gold,12
+USA,United States of America,gold,11
 FRA,France,gold,11
-USA,United States of America,gold,10
 GBR,Great Britain,gold,10
 KOR,Republic of Korea,gold,9
 JPN,Japan,gold,8
@@ -17,8 +17,8 @@ HKG,"Hong Kong, China",gold,2
 IRL,Ireland,gold,2
 CRO,Croatia,gold,2
 AZE,Azerbaijan,gold,2
-ISR,Israel,gold,1
 BRA,Brazil,gold,1
+ISR,Israel,gold,1
 SWE,Sweden,gold,1
 GEO,Georgia,gold,1
 SUI,Switzerland,gold,1
@@ -58,8 +58,8 @@ SVK,Slovakia,gold,0
 TPE,Chinese Taipei,gold,0
 CHN,People's Republic of China,silver,11
 AUS,Australia,silver,7
-FRA,France,silver,13
 USA,United States of America,silver,20
+FRA,France,silver,13
 GBR,Great Britain,silver,10
 KOR,Republic of Korea,silver,6
 JPN,Japan,silver,4
@@ -74,8 +74,8 @@ HKG,"Hong Kong, China",silver,0
 IRL,Ireland,silver,0
 CRO,Croatia,silver,0
 AZE,Azerbaijan,silver,0
+BRA,Brazil,silver,4
 ISR,Israel,silver,4
-BRA,Brazil,silver,3
 SWE,Sweden,silver,2
 GEO,Georgia,silver,2
 SUI,Switzerland,silver,1
@@ -115,8 +115,8 @@ SVK,Slovakia,silver,0
 TPE,Chinese Taipei,silver,0
 CHN,People's Republic of China,bronze,9
 AUS,Australia,bronze,5
+USA,United States of America,bronze,19
 FRA,France,bronze,14
-USA,United States of America,bronze,18
 GBR,Great Britain,bronze,12
 KOR,Republic of Korea,bronze,4
 JPN,Japan,bronze,8
@@ -131,8 +131,8 @@ HKG,"Hong Kong, China",bronze,2
 IRL,Ireland,bronze,2
 CRO,Croatia,bronze,1
 AZE,Azerbaijan,bronze,0
-ISR,Israel,bronze,1
 BRA,Brazil,bronze,4
+ISR,Israel,bronze,1
 SWE,Sweden,bronze,2
 GEO,Georgia,bronze,0
 SUI,Switzerland,bronze,4

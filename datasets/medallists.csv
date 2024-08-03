@@ -2,11 +2,13 @@ code,name,gold,silver,bronze
 FRA,MARCHAND Leon,4,0,0
 AUS,O'CALLAGHAN Mollie,3,0,0
 KOR,LIM Sihyeon,3,0,0
+USA,BILES Simone,3,0,0
 AUS,TITMUS Ariarne,2,1,0
 CAN,McINTOSH Summer,2,1,0
 USA,HUSKE Torri,1,2,0
 USA,LEDECKY Katie,1,1,1
 USA,SMITH Regan,0,3,0
+BRA,ANDRADE Rebeca,0,2,1
 CHN,ZHANG Yufei,0,0,3
 AUS,FOX Jessica,2,0,0
 AUS,JACK Shayna,2,0,0
@@ -15,7 +17,6 @@ CHN,SHENG Lihao,2,0,0
 JPN,OKA Shinnosuke,2,0,0
 KOR,KIM Woojin,2,0,0
 KOR,OH Sanguk,2,0,0
-USA,BILES Simone,2,0,0
 USA,KIEFER Lee,2,0,0
 CHN,HUANG Yuting,1,1,0
 CHN,SUN Yingsha,1,1,0
@@ -35,6 +36,7 @@ BRA,SOUZA Beatriz,1,0,1
 GBR,COLLETT Laura,1,0,1
 ITA,CECCON Thomas,1,0,1
 ROU,POPOVICI David,1,0,1
+USA,CAREY Jade,1,0,1
 USA,LEE Sunisa,1,0,1
 AUS,CHALMERS Kyle,0,2,0
 CHN,ZHANG Boheng,0,2,0
@@ -44,7 +46,6 @@ USA,WALSH Gretchen,0,2,0
 AUS,SOUTHAM Flynn,0,1,1
 AUS,TAYLOR Kai,0,1,1
 AUS,WINNINGTON Elijah,0,1,1
-BRA,ANDRADE Rebeca,0,1,1
 BRA,LIMA Willian,0,1,1
 CHN,XIAO Ruoteng,0,1,1
 USA,FOSTER Carson,0,1,1
@@ -235,7 +236,6 @@ UGA,CHEPTEGEI Joshua,1,0,0
 USA,ALEXY Jack,1,0,0
 USA,ARMSTRONG Hunter,1,0,0
 USA,BEST Justin,1,0,0
-USA,CAREY Jade,1,0,0
 USA,CHILES Jordan,1,0,0
 USA,CORRIGAN Liam,1,0,0
 USA,DRESSEL Caeleb,1,0,0

@@ -9,6 +9,9 @@ AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
 KOR,LIM Sihyeon,Archery,Women's Individual,G
 KOR,LIM Sihyeon,Archery,Mixed Team,G
 KOR,LIM Sihyeon,Archery,Women's Team,G
+USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
+USA,BILES Simone,Artistic Gymnastics,Women's Vault,G
+USA,BILES Simone,Artistic Gymnastics,Women's Team,G
 AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
@@ -24,6 +27,9 @@ USA,LEDECKY Katie,Swimming,Women's 1500m Freestyle,G
 USA,SMITH Regan,Swimming,Women's 100m Backstroke,S
 USA,SMITH Regan,Swimming,Women's 200m Backstroke,S
 USA,SMITH Regan,Swimming,Women's 200m Butterfly,S
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Vault,S
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
 CHN,ZHANG Yufei,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,ZHANG Yufei,Swimming,Women's 100m Butterfly,B
 CHN,ZHANG Yufei,Swimming,Women's 200m Butterfly,B
@@ -41,8 +47,6 @@ KOR,KIM Woojin,Archery,Mixed Team,G
 KOR,KIM Woojin,Archery,Men's Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
-USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
-USA,BILES Simone,Artistic Gymnastics,Women's Team,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
@@ -81,6 +85,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
+USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
+USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
 USA,LEE Sunisa,Artistic Gymnastics,Women's All-Around,B
 USA,LEE Sunisa,Artistic Gymnastics,Women's Team,G
 AUS,CHALMERS Kyle,Swimming,Men's 4 x 100m Freestyle Relay,S
@@ -99,8 +105,6 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
-BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
@@ -299,7 +303,6 @@ UGA,CHEPTEGEI Joshua,Athletics,"Men's 10,000m",G
 USA,ALEXY Jack,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,ARMSTRONG Hunter,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,BEST Justin,Rowing,Men's Four,G
-USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
 USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 USA,CORRIGAN Liam,Rowing,Men's Four,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
