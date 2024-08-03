@@ -52,6 +52,14 @@ GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
+ROU,ANGHEL Roxana,Rowing,Women's Eight,G
+ROU,ANGHEL Roxana,Rowing,Women's Pair,S
+ROU,BODNAR Ancuta,Rowing,Women's Eight,G
+ROU,BODNAR Ancuta,Rowing,Women's Double Sculls,S
+ROU,RADIS Simona,Rowing,Women's Eight,G
+ROU,RADIS Simona,Rowing,Women's Double Sculls,S
+ROU,VRINCEANU Ioana,Rowing,Women's Eight,G
+ROU,VRINCEANU Ioana,Rowing,Women's Pair,S
 RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
 USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
@@ -246,8 +254,13 @@ NZL,SETEFANO Theresa,Rugby Sevens,Women,G
 NZL,SPOORS Lucy,Rowing,Women's Double Sculls,G
 NZL,WAAKA Stacey,Rugby Sevens,Women,G
 NZL,WOODMAN-WICKLIFFE Portia,Rugby Sevens,Women,G
+ROU,ADAM Adriana,Rowing,Women's Eight,G
+ROU,BERES Amalia,Rowing,Women's Eight,G
 ROU,CORNEA Andrei Sebastian,Rowing,Men's Double Sculls,G
 ROU,ENACHE Marian Florian,Rowing,Men's Double Sculls,G
+ROU,LEHACI Maria,Rowing,Women's Eight,G
+ROU,PETREANU Victoria Stefania,Rowing,Women's Eight,G
+ROU,RUSU Maria Magdalena,Rowing,Women's Eight,G
 SLO,LESKI Andreja,Judo,Women -63 kg,G
 SRB,ARUNOVIC Zorana,Shooting,10m Air Pistol Mixed Team,G
 SRB,MIKEC Damir,Shooting,10m Air Pistol Mixed Team,G
@@ -281,14 +294,23 @@ CAN,BERMUDEZ Fancy,Rugby Sevens,Women,S
 CAN,CORRIGAN Alysha,Rugby Sevens,Women,S
 CAN,CROSSLEY Caroline,Rugby Sevens,Women,S
 CAN,DANIELS Chloe,Rugby Sevens,Women,S
+CAN,DENT Abby,Rowing,Women's Eight,S
+CAN,FILMER Caileigh,Rowing,Women's Eight,S
+CAN,GRUCHALLA-WESIERSKI Kasia,Rowing,Women's Eight,S
 CAN,HOGAN-ROCHESTER Asia,Rugby Sevens,Women,S
+CAN,KIT Kristen,Rowing,Women's Eight,S
 CAN,LOGAN Piper,Rugby Sevens,Women,S
+CAN,MESCHKULEIT Maya,Rowing,Women's Eight,S
 CAN,NORSTEN Carissa,Rugby Sevens,Women,S
+CAN,PAYNE Sydney,Rowing,Women's Eight,S
 CAN,PERRY Taylor,Rugby Sevens,Women,S
 CAN,SCURFIELD Krissy,Rugby Sevens,Women,S
+CAN,SEVICK Jessica,Rowing,Women's Eight,S
 CAN,SYMONDS Florence,Rugby Sevens,Women,S
 CAN,VALENZUELA Shalaya,Rugby Sevens,Women,S
+CAN,WALKER Kristina,Rowing,Women's Eight,S
 CAN,WARDLEY Keyara,Rugby Sevens,Women,S
+CAN,WASTENEYS Avalon,Rowing,Women's Eight,S
 CAN,WILLIAMS Charity,Rugby Sevens,Women,S
 CHN,AN Qixuan,Archery,Women's Team,S
 CHN,LI Jiaman,Archery,Women's Team,S
@@ -420,12 +442,8 @@ PRK,JO Jin Mi,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Kum Yong,Table Tennis,Mixed Doubles,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,RI Jong Sik,Table Tennis,Mixed Doubles,S
-ROU,ANGHEL Roxana,Rowing,Women's Pair,S
-ROU,BODNAR Ancuta,Rowing,Women's Double Sculls,S
 ROU,COZMIUC Ionela Livia,Rowing,Lightweight Women's Double Sculls,S
-ROU,RADIS Simona,Rowing,Women's Double Sculls,S
 ROU,van GRONINGEN Gianina Elena,Rowing,Lightweight Women's Double Sculls,S
-ROU,VRINCEANU Ioana,Rowing,Women's Pair,S
 SUI,DERRON Julie,Triathlon,Women's Individual,S
 SWE,BOBECK Vilma,Sailing,Women's Skiff,S
 SWE,LINDGREN Victor,Shooting,10m Air Rifle Men,S
@@ -524,14 +542,23 @@ FRA,PICON Charline,Sailing,Women's Skiff,B
 FRA,STEYAERT Sarah,Sailing,Women's Skiff,B
 GBR,ALDRIDGE Matt,Rowing,Men's Four,B
 GBR,AMBLER David,Rowing,Men's Four,B
+GBR,CAMPBELL-ORDE Annie,Rowing,Women's Eight,B
 GBR,DAVIDSON Freddie,Rowing,Men's Four,B
+GBR,DUNFORD Holly,Rowing,Women's Eight,B
+GBR,FIELDMAN Henry,Rowing,Women's Eight,B
+GBR,FORD Emily,Rowing,Women's Eight,B
 GBR,HARDING Anthony,Diving,Men's Synchronised 3m Springboard,B
 GBR,HARPER Yasmin,Diving,Women's Synchronised 3m Springboard,B
 GBR,HODGKINS BYRNE Mathilda,Rowing,Women's Double Sculls,B
+GBR,IRWIN Lauren,Rowing,Women's Eight,B
 GBR,LAUGHER Jack,Diving,Men's Synchronised 3m Springboard,B
+GBR,LONG Heidi,Rowing,Women's Eight,B
+GBR,McKELLAR Rowan,Rowing,Women's Eight,B
 GBR,MEW JENSEN Scarlett,Diving,Women's Synchronised 3m Springboard,B
 GBR,POTTER Beth,Triathlon,Women's Individual,B
 GBR,SPENDOLINI SIRIEIX Andrea,Diving,Women's Synchronised 10m Platform,B
+GBR,STEWART Eve,Rowing,Women's Eight,B
+GBR,TAYLOR Harriet,Rowing,Women's Eight,B
 GBR,TOULSON Lois,Diving,Women's Synchronised 10m Platform,B
 GBR,WILDE Rebecca,Rowing,Women's Double Sculls,B
 GBR,WILKES Oliver,Rowing,Men's Four,B
