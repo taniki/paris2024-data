@@ -7,6 +7,14 @@ CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
 CAN,McINTOSH Summer,Swimming,Women's 200m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
+AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
+AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
+AUS,TITMUS Ariarne,Swimming,Women's 800m Freestyle,S
+AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
+USA,LEDECKY Katie,Swimming,Women's 400m Freestyle,B
+USA,LEDECKY Katie,Swimming,Women's 4 x 200m Freestyle Relay,S
+USA,LEDECKY Katie,Swimming,Women's 800m Freestyle,G
+USA,LEDECKY Katie,Swimming,Women's 1500m Freestyle,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
@@ -16,9 +24,6 @@ KOR,LIM Sihyeon,Archery,Women's Team,G
 USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
 USA,BILES Simone,Artistic Gymnastics,Women's Vault,G
 USA,BILES Simone,Artistic Gymnastics,Women's Team,G
-AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
-AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
-AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
 AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
 AUS,McKEOWN Kaylee,Swimming,Women's 200m Individual Medley,B
 AUS,McKEOWN Kaylee,Swimming,Women's 200m Backstroke,G
@@ -28,9 +33,6 @@ USA,DOUGLASS Kate,Swimming,Women's 200m Breaststroke,G
 USA,HUSKE Torri,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,HUSKE Torri,Swimming,Women's 100m Freestyle,S
 USA,HUSKE Torri,Swimming,Women's 100m Butterfly,G
-USA,LEDECKY Katie,Swimming,Women's 400m Freestyle,B
-USA,LEDECKY Katie,Swimming,Women's 4 x 200m Freestyle Relay,S
-USA,LEDECKY Katie,Swimming,Women's 1500m Freestyle,G
 USA,SMITH Regan,Swimming,Women's 100m Backstroke,S
 USA,SMITH Regan,Swimming,Women's 200m Backstroke,S
 USA,SMITH Regan,Swimming,Women's 200m Butterfly,S
@@ -158,6 +160,8 @@ USA,FOSTER Carson,Swimming,Men's 400m Individual Medley,B
 USA,FOSTER Carson,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 200m Freestyle,B
+USA,MADDEN Paige,Swimming,Women's 4 x 200m Freestyle Relay,S
+USA,MADDEN Paige,Swimming,Women's 800m Freestyle,B
 BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
@@ -596,7 +600,6 @@ USA,KRAJICEK Austin,Tennis,Men's Doubles,S
 USA,KRAUT Laura,Equestrian,Jumping Team,S
 USA,LITTLE Shamier,Athletics,4 x 400m Relay Mixed,S
 USA,MADDALENA Sagen,Shooting,50m Rifle 3 Positions Women,S
-USA,MADDEN Paige,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,NORWOOD Vernon,Athletics,4 x 400m Relay Mixed,S
 USA,PEPLOWSKI Anna,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,PIERONI Blake,Swimming,Men's 4 x 200m Freestyle Relay,S
