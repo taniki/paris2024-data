@@ -3,6 +3,10 @@ FRA,MARCHAND Leon,Swimming,Men's 200m Breaststroke,G
 FRA,MARCHAND Leon,Swimming,Men's 400m Individual Medley,G
 FRA,MARCHAND Leon,Swimming,Men's 200m Individual Medley,G
 FRA,MARCHAND Leon,Swimming,Men's 200m Butterfly,G
+CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
+CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
+CAN,McINTOSH Summer,Swimming,Women's 200m Individual Medley,G
+CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,O'CALLAGHAN Mollie,Swimming,Women's 200m Freestyle,G
@@ -15,9 +19,12 @@ USA,BILES Simone,Artistic Gymnastics,Women's Team,G
 AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 200m Freestyle,S
-CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
-CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
-CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
+AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
+AUS,McKEOWN Kaylee,Swimming,Women's 200m Individual Medley,B
+AUS,McKEOWN Kaylee,Swimming,Women's 200m Backstroke,G
+USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
+USA,DOUGLASS Kate,Swimming,Women's 200m Individual Medley,S
+USA,DOUGLASS Kate,Swimming,Women's 200m Breaststroke,G
 USA,HUSKE Torri,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,HUSKE Torri,Swimming,Women's 100m Freestyle,S
 USA,HUSKE Torri,Swimming,Women's 100m Butterfly,G
@@ -37,8 +44,6 @@ AUS,FOX Jessica,Canoe Slalom,Women's Canoe Single,G
 AUS,FOX Jessica,Canoe Slalom,Women's Kayak Single,G
 AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,JACK Shayna,Swimming,Women's 4 x 200m Freestyle Relay,G
-AUS,McKEOWN Kaylee,Swimming,Women's 100m Backstroke,G
-AUS,McKEOWN Kaylee,Swimming,Women's 200m Backstroke,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Road Race,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
@@ -87,8 +92,6 @@ ROU,VRINCEANU Ioana,Rowing,Women's Eight,G
 ROU,VRINCEANU Ioana,Rowing,Women's Pair,S
 RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
-USA,DOUGLASS Kate,Swimming,Women's 4 x 100m Freestyle Relay,S
-USA,DOUGLASS Kate,Swimming,Women's 200m Breaststroke,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S

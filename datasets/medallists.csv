@@ -1,10 +1,12 @@
 code,name,gold,silver,bronze
 FRA,MARCHAND Leon,4,0,0
+CAN,McINTOSH Summer,3,1,0
 AUS,O'CALLAGHAN Mollie,3,0,0
 KOR,LIM Sihyeon,3,0,0
 USA,BILES Simone,3,0,0
 AUS,TITMUS Ariarne,2,1,0
-CAN,McINTOSH Summer,2,1,0
+AUS,McKEOWN Kaylee,2,0,1
+USA,DOUGLASS Kate,1,2,0
 USA,HUSKE Torri,1,2,0
 USA,LEDECKY Katie,1,1,1
 USA,SMITH Regan,0,3,0
@@ -12,7 +14,6 @@ BRA,ANDRADE Rebeca,0,2,1
 CHN,ZHANG Yufei,0,0,3
 AUS,FOX Jessica,2,0,0
 AUS,JACK Shayna,2,0,0
-AUS,McKEOWN Kaylee,2,0,0
 BEL,EVENEPOEL Remco,2,0,0
 CHN,SHENG Lihao,2,0,0
 FRA,RINER Teddy,2,0,0
@@ -37,7 +38,6 @@ ROU,BODNAR Ancuta,1,1,0
 ROU,RADIS Simona,1,1,0
 ROU,VRINCEANU Ioana,1,1,0
 RSA,SMITH Tatjana,1,1,0
-USA,DOUGLASS Kate,1,1,0
 USA,GUILIANO Chris,1,1,0
 USA,SCRUGGS Lauren,1,1,0
 BRA,SOUZA Beatriz,1,0,1
