@@ -1,5 +1,5 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,14
+CHN,People's Republic of China,gold,15
 AUS,Australia,gold,12
 FRA,France,gold,11
 USA,United States of America,gold,10
@@ -56,7 +56,7 @@ LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 TPE,Chinese Taipei,gold,0
-CHN,People's Republic of China,silver,10
+CHN,People's Republic of China,silver,11
 AUS,Australia,silver,7
 FRA,France,silver,13
 USA,United States of America,silver,20
