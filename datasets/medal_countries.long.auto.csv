@@ -31,6 +31,7 @@ UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 ARG,Argentina,gold,1
+DMA,Dominica,gold,1
 ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
 PHI,Philippines,gold,1
@@ -41,6 +42,7 @@ MEX,Mexico,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 GRE,Greece,gold,0
 POL,Poland,gold,0
+JAM,Jamaica,gold,0
 KOS,Kosovo,gold,0
 TUR,Türkiye,gold,0
 DEN,Denmark,gold,0
@@ -54,7 +56,6 @@ TJK,Tajikistan,gold,0
 TPE,Chinese Taipei,gold,0
 AUT,Austria,gold,0
 EGY,Egypt,gold,0
-JAM,Jamaica,gold,0
 LTU,Lithuania,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
@@ -90,6 +91,7 @@ UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 ARG,Argentina,silver,0
+DMA,Dominica,silver,0
 ECU,Ecuador,silver,0
 LCA,Saint Lucia,silver,0
 PHI,Philippines,silver,0
@@ -100,6 +102,7 @@ MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
+JAM,Jamaica,silver,1
 KOS,Kosovo,silver,1
 TUR,Türkiye,silver,1
 DEN,Denmark,silver,1
@@ -113,12 +116,11 @@ TJK,Tajikistan,silver,0
 TPE,Chinese Taipei,silver,0
 AUT,Austria,silver,0
 EGY,Egypt,silver,0
-JAM,Jamaica,silver,0
 LTU,Lithuania,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
-USA,United States of America,bronze,22
+USA,United States of America,bronze,23
 FRA,France,bronze,15
 AUS,Australia,bronze,6
 GBR,Great Britain,bronze,13
@@ -149,6 +151,7 @@ UZB,Uzbekistan,bronze,2
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 ARG,Argentina,bronze,0
+DMA,Dominica,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
 PHI,Philippines,bronze,0
@@ -159,6 +162,7 @@ MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,0
 GRE,Greece,bronze,3
 POL,Poland,bronze,3
+JAM,Jamaica,bronze,1
 KOS,Kosovo,bronze,1
 TUR,Türkiye,bronze,1
 DEN,Denmark,bronze,0
@@ -172,7 +176,6 @@ TJK,Tajikistan,bronze,2
 TPE,Chinese Taipei,bronze,2
 AUT,Austria,bronze,1
 EGY,Egypt,bronze,1
-JAM,Jamaica,bronze,1
 LTU,Lithuania,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
