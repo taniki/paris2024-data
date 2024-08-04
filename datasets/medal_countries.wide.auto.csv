@@ -1,9 +1,9 @@
 code,country,gold,silver,bronze
 CHN,People's Republic of China,18,14,9
-USA,United States of America,14,25,24
+USA,United States of America,14,25,25
 FRA,France,12,14,16
 AUS,Australia,12,8,7
-GBR,Great Britain,10,10,14
+GBR,Great Britain,10,11,14
 KOR,Republic of Korea,10,7,6
 JPN,Japan,8,5,9
 ITA,Italy,6,8,5
@@ -32,6 +32,7 @@ CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
 ALG,Algeria,1,0,0
 ARG,Argentina,1,0,0
+CHI,Chile,1,0,0
 DMA,Dominica,1,0,0
 ECU,Ecuador,1,0,0
 LCA,Saint Lucia,1,0,0
