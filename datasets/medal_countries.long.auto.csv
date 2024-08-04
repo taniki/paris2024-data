@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,18
-USA,United States of America,gold,14
+USA,United States of America,gold,15
 FRA,France,gold,12
 AUS,Australia,gold,12
 GBR,Great Britain,gold,10
@@ -61,6 +61,7 @@ MDA,Republic of Moldova,gold,0
 TJK,Tajikistan,gold,0
 AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
+CUB,Cuba,gold,0
 EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
@@ -72,7 +73,7 @@ CHN,People's Republic of China,silver,15
 USA,United States of America,silver,25
 FRA,France,silver,14
 AUS,Australia,silver,8
-GBR,Great Britain,silver,11
+GBR,Great Britain,silver,12
 KOR,Republic of Korea,silver,7
 JPN,Japan,silver,5
 ITA,Italy,silver,8
@@ -130,6 +131,7 @@ MDA,Republic of Moldova,silver,0
 TJK,Tajikistan,silver,0
 AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
+CUB,Cuba,silver,0
 EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
@@ -143,7 +145,7 @@ FRA,France,bronze,16
 AUS,Australia,bronze,7
 GBR,Great Britain,bronze,15
 KOR,Republic of Korea,bronze,7
-JPN,Japan,bronze,9
+JPN,Japan,bronze,10
 ITA,Italy,bronze,5
 NED,Netherlands,bronze,4
 GER,Germany,bronze,2
@@ -199,6 +201,7 @@ MDA,Republic of Moldova,bronze,2
 TJK,Tajikistan,bronze,2
 AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
+CUB,Cuba,bronze,1
 EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
