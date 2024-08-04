@@ -30,6 +30,7 @@ UKR,Ukraine,gold,1
 UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
+ALG,Algeria,gold,1
 ARG,Argentina,gold,1
 DMA,Dominica,gold,1
 ECU,Ecuador,gold,1
@@ -61,9 +62,10 @@ EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
 LTU,Lithuania,gold,0
+MAS,Malaysia,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-CHN,People's Republic of China,silver,13
+CHN,People's Republic of China,silver,14
 USA,United States of America,silver,25
 FRA,France,silver,14
 AUS,Australia,silver,8
@@ -94,6 +96,7 @@ UKR,Ukraine,silver,1
 UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
+ALG,Algeria,silver,0
 ARG,Argentina,silver,0
 DMA,Dominica,silver,0
 ECU,Ecuador,silver,0
@@ -125,10 +128,11 @@ EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
 LTU,Lithuania,silver,0
+MAS,Malaysia,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,9
-USA,United States of America,bronze,23
+USA,United States of America,bronze,24
 FRA,France,bronze,16
 AUS,Australia,bronze,7
 GBR,Great Britain,bronze,14
@@ -158,6 +162,7 @@ UKR,Ukraine,bronze,1
 UZB,Uzbekistan,bronze,2
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
+ALG,Algeria,bronze,0
 ARG,Argentina,bronze,0
 DMA,Dominica,bronze,0
 ECU,Ecuador,bronze,0
@@ -189,5 +194,6 @@ EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
 LTU,Lithuania,bronze,1
+MAS,Malaysia,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1

@@ -13,6 +13,7 @@ KOR,LIM Sihyeon,3,0,0
 USA,BILES Simone,3,0,0
 USA,DOUGLASS Kate,1,2,0
 USA,WALSH Gretchen,1,2,0
+USA,LEE Sunisa,1,0,2
 AUS,CHALMERS Kyle,0,2,1
 BRA,ANDRADE Rebeca,0,2,1
 CHN,YANG Junxuan,0,1,2
@@ -64,7 +65,6 @@ KOR,LEE Wooseok,1,0,1
 ROU,POPOVICI David,1,0,1
 UKR,KHARLAN Olga,1,0,1
 USA,CAREY Jade,1,0,1
-USA,LEE Sunisa,1,0,1
 USA,MURPHY Ryan,1,0,1
 CHN,TANG Qianting,0,2,0
 CHN,XU Jiayu,0,2,0
@@ -97,6 +97,7 @@ KOR,KIM Hayun,0,0,2
 KOR,LEE Joonhwan,0,0,2
 USA,NEDOROSCIK Stephen,0,0,2
 AIN,LITVINOVICH Ivan,1,0,0
+ALG,NEMOUR Kaylia,1,0,0
 ARG,TORRES GIL Jose,1,0,0
 AUS,BROWN Grace,1,0,0
 AUS,CAMPBELL Bronte,1,0,0
@@ -335,6 +336,7 @@ CHN,LI Jiaman,0,1,0
 CHN,LIU Sheng Shu,0,1,0
 CHN,QI Ying,0,1,0
 CHN,QIN Haiyang,0,1,0
+CHN,QIU Qiyuan,0,1,0
 CHN,SU Weide,0,1,0
 CHN,TAN Ning,0,1,0
 CHN,WANG Xinyu,0,1,0
@@ -694,6 +696,8 @@ KOR,SHIN Yubin,0,0,1
 KOR,YOON Hyunji,0,0,1
 KOS,FAZLIU Laura,0,0,1
 LTU,SENKUTE Viktorija,0,0,1
+MAS,CHIA Aaron,0,0,1
+MAS,SOH Wooi Yik,0,0,1
 MDA,OSMANOV Adil,0,0,1
 MDA,VIERU Denis,0,0,1
 MEX,RUIZ Angela,0,0,1

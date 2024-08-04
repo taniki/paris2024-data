@@ -50,6 +50,9 @@ USA,DOUGLASS Kate,Swimming,Women's 200m Breaststroke,G
 USA,WALSH Gretchen,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,WALSH Gretchen,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,WALSH Gretchen,Swimming,Women's 100m Butterfly,S
+USA,LEE Sunisa,Artistic Gymnastics,Women's All-Around,B
+USA,LEE Sunisa,Artistic Gymnastics,Women's Uneven Bars,B
+USA,LEE Sunisa,Artistic Gymnastics,Women's Team,G
 AUS,CHALMERS Kyle,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,CHALMERS Kyle,Swimming,Men's 100m Freestyle,S
 AUS,CHALMERS Kyle,Swimming,Mixed 4 x 100m Medley Relay,B
@@ -155,8 +158,6 @@ UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Individual,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
-USA,LEE Sunisa,Artistic Gymnastics,Women's All-Around,B
-USA,LEE Sunisa,Artistic Gymnastics,Women's Team,G
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,MURPHY Ryan,Swimming,Mixed 4 x 100m Medley Relay,G
 CHN,TANG Qianting,Swimming,Mixed 4 x 100m Medley Relay,S
@@ -220,6 +221,7 @@ KOR,LEE Joonhwan,Judo,Mixed Team,B
 USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Team,B
 USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Pommel Horse,B
 AIN,LITVINOVICH Ivan,Trampoline Gymnastics,Men,G
+ALG,NEMOUR Kaylia,Artistic Gymnastics,Women's Uneven Bars,G
 ARG,TORRES GIL Jose,Cycling BMX Freestyle,Men's Park,G
 AUS,BROWN Grace,Cycling Road,Women's Individual Time Trial,G
 AUS,CAMPBELL Bronte,Swimming,Women's 4 x 100m Freestyle Relay,G
@@ -458,6 +460,7 @@ CHN,LI Jiaman,Archery,Women's Team,S
 CHN,LIU Sheng Shu,Badminton,Women's Doubles,S
 CHN,QI Ying,Shooting,Trap Men,S
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,QIU Qiyuan,Artistic Gymnastics,Women's Uneven Bars,S
 CHN,SU Weide,Artistic Gymnastics,Men's Team,S
 CHN,TAN Ning,Badminton,Women's Doubles,S
 CHN,WANG Xinyu,Tennis,Mixed Doubles,S
@@ -817,6 +820,8 @@ KOR,SHIN Yubin,Table Tennis,Mixed Doubles,B
 KOR,YOON Hyunji,Judo,Mixed Team,B
 KOS,FAZLIU Laura,Judo,Women -63 kg,B
 LTU,SENKUTE Viktorija,Rowing,Women's Single Sculls,B
+MAS,CHIA Aaron,Badminton,Men's Doubles,B
+MAS,SOH Wooi Yik,Badminton,Men's Doubles,B
 MDA,OSMANOV Adil,Judo,Men -73 kg,B
 MDA,VIERU Denis,Judo,Men -66 kg,B
 MEX,RUIZ Angela,Archery,Women's Team,B
