@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,18,14,9
+CHN,People's Republic of China,18,15,9
 USA,United States of America,14,25,25
 FRA,France,12,14,16
 AUS,Australia,12,8,7
@@ -29,6 +29,7 @@ SUI,Switzerland,1,1,4
 KAZ,Kazakhstan,1,1,2
 RSA,South Africa,1,1,2
 UKR,Ukraine,1,1,1
+TPE,Chinese Taipei,1,0,2
 UZB,Uzbekistan,1,0,2
 CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
@@ -58,7 +59,6 @@ IND,India,0,0,3
 DOM,Dominican Republic,0,0,2
 MDA,Republic of Moldova,0,0,2
 TJK,Tajikistan,0,0,2
-TPE,Chinese Taipei,0,0,2
 AUT,Austria,0,0,1
 CPV,Cabo Verde,0,0,1
 EGY,Egypt,0,0,1

@@ -29,6 +29,7 @@ SUI,Switzerland,gold,1
 KAZ,Kazakhstan,gold,1
 RSA,South Africa,gold,1
 UKR,Ukraine,gold,1
+TPE,Chinese Taipei,gold,1
 UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
@@ -58,7 +59,6 @@ IND,India,gold,0
 DOM,Dominican Republic,gold,0
 MDA,Republic of Moldova,gold,0
 TJK,Tajikistan,gold,0
-TPE,Chinese Taipei,gold,0
 AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
@@ -68,7 +68,7 @@ LTU,Lithuania,gold,0
 MAS,Malaysia,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-CHN,People's Republic of China,silver,14
+CHN,People's Republic of China,silver,15
 USA,United States of America,silver,25
 FRA,France,silver,14
 AUS,Australia,silver,8
@@ -98,6 +98,7 @@ SUI,Switzerland,silver,1
 KAZ,Kazakhstan,silver,1
 RSA,South Africa,silver,1
 UKR,Ukraine,silver,1
+TPE,Chinese Taipei,silver,0
 UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
@@ -127,7 +128,6 @@ IND,India,silver,0
 DOM,Dominican Republic,silver,0
 MDA,Republic of Moldova,silver,0
 TJK,Tajikistan,silver,0
-TPE,Chinese Taipei,silver,0
 AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
@@ -167,6 +167,7 @@ SUI,Switzerland,bronze,4
 KAZ,Kazakhstan,bronze,2
 RSA,South Africa,bronze,2
 UKR,Ukraine,bronze,1
+TPE,Chinese Taipei,bronze,2
 UZB,Uzbekistan,bronze,2
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
@@ -196,7 +197,6 @@ IND,India,bronze,3
 DOM,Dominican Republic,bronze,2
 MDA,Republic of Moldova,bronze,2
 TJK,Tajikistan,bronze,2
-TPE,Chinese Taipei,bronze,2
 AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
