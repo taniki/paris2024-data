@@ -1,4 +1,9 @@
 code,name,discipline,event,color
+CHN,ZHANG Yufei,Swimming,Women's 4 x 100m Freestyle Relay,B
+CHN,ZHANG Yufei,Swimming,Women's 50m Freestyle,B
+CHN,ZHANG Yufei,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,ZHANG Yufei,Swimming,Women's 100m Butterfly,B
+CHN,ZHANG Yufei,Swimming,Women's 200m Butterfly,B
 FRA,MARCHAND Leon,Swimming,Men's 200m Breaststroke,G
 FRA,MARCHAND Leon,Swimming,Men's 400m Individual Medley,G
 FRA,MARCHAND Leon,Swimming,Men's 200m Individual Medley,G
@@ -31,10 +36,6 @@ USA,SMITH Regan,Swimming,Women's 100m Backstroke,S
 USA,SMITH Regan,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,SMITH Regan,Swimming,Women's 200m Backstroke,S
 USA,SMITH Regan,Swimming,Women's 200m Butterfly,S
-CHN,ZHANG Yufei,Swimming,Women's 4 x 100m Freestyle Relay,B
-CHN,ZHANG Yufei,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,ZHANG Yufei,Swimming,Women's 100m Butterfly,B
-CHN,ZHANG Yufei,Swimming,Women's 200m Butterfly,B
 KOR,KIM Woojin,Archery,Men's Individual,G
 KOR,KIM Woojin,Archery,Mixed Team,G
 KOR,KIM Woojin,Archery,Men's Team,G
@@ -80,10 +81,14 @@ KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
 PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Vault,G
 PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Floor Exercise,G
+SWE,SJOESTROEM Sarah,Swimming,Women's 50m Freestyle,G
+SWE,SJOESTROEM Sarah,Swimming,Women's 100m Freestyle,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
+AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
+AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
 CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
@@ -228,7 +233,6 @@ ARG,TORRES GIL Jose,Cycling BMX Freestyle,Men's Park,G
 AUS,BROWN Grace,Cycling Road,Women's Individual Time Trial,G
 AUS,CAMPBELL Bronte,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,EBDEN Matthew,Tennis,Men's Doubles,G
-AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McEVOY Cameron,Swimming,Men's 50m Freestyle,G
 AUS,PALLISTER Lani,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,PEERS John,Tennis,Men's Doubles,G
@@ -406,7 +410,6 @@ SRB,ARUNOVIC Zorana,Shooting,10m Air Pistol Mixed Team,G
 SRB,DJOKOVIC Novak,Tennis,Men's Singles,G
 SRB,MIKEC Damir,Shooting,10m Air Pistol Mixed Team,G
 SUI,LEONE Chiara,Shooting,50m Rifle 3 Positions Women,G
-SWE,SJOESTROEM Sarah,Swimming,Women's 100m Freestyle,G
 TPE,LEE Yang,Badminton,Men's Doubles,G
 TPE,WANG Chi-Lin,Badminton,Men's Doubles,G
 UGA,CHEPTEGEI Joshua,Athletics,"Men's 10,000m",G
