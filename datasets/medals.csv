@@ -131,6 +131,8 @@ RSA,SMITH Tatjana,Swimming,Women's 100m Breaststroke,G
 RSA,SMITH Tatjana,Swimming,Women's 200m Breaststroke,S
 USA,FINK Nic,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,FINK Nic,Swimming,Men's 100m Breaststroke,S
+USA,FINKE Bobby,Swimming,Men's 800m Freestyle,S
+USA,FINKE Bobby,Swimming,Men's 1500m Freestyle,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
@@ -155,6 +157,8 @@ FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Men -90 kg,B
 FRA,NGAYAP HAMBOU Maxime-Gael,Judo,Mixed Team,G
 GBR,COLLETT Laura,Equestrian,Eventing Individual,B
 GBR,COLLETT Laura,Equestrian,Eventing Team,G
+IRL,WIFFEN Daniel,Swimming,Men's 800m Freestyle,G
+IRL,WIFFEN Daniel,Swimming,Men's 1500m Freestyle,B
 ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
@@ -193,6 +197,8 @@ BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
+ITA,PALTRINIERI Gregorio,Swimming,Men's 800m Freestyle,B
+ITA,PALTRINIERI Gregorio,Swimming,Men's 1500m Freestyle,S
 JPN,FUNAKUBO Haruka,Judo,Mixed Team,S
 JPN,FUNAKUBO Haruka,Judo,Women -57 kg,B
 JPN,HASHIMOTO Soichi,Judo,Men -73 kg,B
@@ -340,7 +346,6 @@ HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
 IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
 IRL,Mc CLENAGHAN Rhys,Artistic Gymnastics,Men's Pommel Horse,G
 IRL,O DONOVAN Paul,Rowing,Lightweight Men's Double Sculls,G
-IRL,WIFFEN Daniel,Swimming,Men's 800m Freestyle,G
 ISR,REUVENY Tom,Sailing,Men's Windsurfing,G
 ITA,BELLANDI Alice,Judo,Women -78 kg,G
 ITA,de GENNARO Giovanni,Canoe Slalom,Men's Kayak Single,G
@@ -646,7 +651,6 @@ USA,COOK Kassidy,Diving,Women's Synchronised 3m Springboard,S
 USA,CURRY Brooks,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,DEADMON Bryce,Athletics,4 x 400m Relay Mixed,S
 USA,EATON Jagger,Skateboarding,Men's Street,S
-USA,FINKE Bobby,Swimming,Men's 800m Freestyle,S
 USA,GEMMELL Erin,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,GRIMES Katie,Swimming,Women's 400m Individual Medley,S
 USA,KIBLER Drew,Swimming,Men's 4 x 200m Freestyle Relay,S
@@ -806,7 +810,6 @@ ITA,FRIGO Manuel,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,MIRESSI Alessandro,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,MONNA Paolo,Shooting,10m Air Pistol Men,B
 ITA,MUSETTI Lorenzo,Tennis,Men's Singles,B
-ITA,PALTRINIERI Gregorio,Swimming,Men's 800m Freestyle,B
 ITA,SAMELE Luigi,Fencing,Men's Sabre Individual,B
 ITA,ZAZZERI Lorenzo,Swimming,Men's 4 x 100m Freestyle Relay,B
 JAM,CAMPBELL Rajindra,Athletics,Men's Shot Put,B
