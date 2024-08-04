@@ -2,7 +2,7 @@ code,country,gold,silver,bronze
 CHN,People's Republic of China,19,15,11
 USA,United States of America,18,26,25
 FRA,France,12,14,18
-AUS,Australia,12,10,7
+AUS,Australia,12,11,8
 GBR,Great Britain,10,12,15
 KOR,Republic of Korea,10,7,7
 JPN,Japan,8,5,10
@@ -15,6 +15,7 @@ HUN,Hungary,3,2,2
 IRL,Ireland,3,0,3
 NZL,New Zealand,2,4,1
 SWE,Sweden,2,3,2
+UKR,Ukraine,2,1,2
 CRO,Croatia,2,1,1
 BEL,Belgium,2,0,3
 HKG,"Hong Kong, China",2,0,2
@@ -28,7 +29,6 @@ GEO,Georgia,1,2,1
 SUI,Switzerland,1,1,4
 KAZ,Kazakhstan,1,1,2
 RSA,South Africa,1,1,2
-UKR,Ukraine,1,1,1
 TPE,Chinese Taipei,1,0,2
 UZB,Uzbekistan,1,0,2
 CZE,Czechia,1,0,1
