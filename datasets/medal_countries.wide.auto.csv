@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,17,12,9
+CHN,People's Republic of China,18,13,9
 USA,United States of America,14,25,23
 FRA,France,12,14,16
 AUS,Australia,12,8,7
@@ -41,7 +41,7 @@ SRB,Serbia,1,0,0
 UGA,Uganda,1,0,0
 MEX,Mexico,0,2,1
 PRK,Democratic People's Republic of Korea,0,2,1
-GRE,Greece,0,1,3
+GRE,Greece,0,1,4
 POL,Poland,0,1,3
 JAM,Jamaica,0,1,1
 KOS,Kosovo,0,1,1

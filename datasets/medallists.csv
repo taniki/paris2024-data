@@ -27,6 +27,7 @@ KOR,OH Sanguk,2,0,0
 USA,DRESSEL Caeleb,2,0,0
 USA,KIEFER Lee,2,0,0
 CHN,HUANG Yuting,1,1,0
+CHN,LIU Yang,1,1,0
 CHN,PAN Zhanle,1,1,0
 CHN,SUN Yingsha,1,1,0
 FRA,GABA Joan-Benjamin,1,1,0
@@ -68,6 +69,7 @@ USA,MURPHY Ryan,1,0,1
 CHN,TANG Qianting,0,2,0
 CHN,XU Jiayu,0,2,0
 CHN,ZHANG Boheng,0,2,0
+CHN,ZOU Jingyuan,0,2,0
 FRA,MALLO-BRETON Auriane,0,2,0
 JPN,MURAO Sanshiro,0,2,0
 USA,MANUEL Simone,0,2,0
@@ -116,6 +118,7 @@ CHN,CHEN Qing Chen,1,0,0
 CHN,CHEN Yiwen,1,0,0
 CHN,CHEN Yuxi,1,0,0
 CHN,DENG Yawen,1,0,0
+CHN,FAN Zhendong,1,0,0
 CHN,HUANG Ya Qiong,1,0,0
 CHN,JIA Yi Fan,1,0,0
 CHN,LIAN Junjie,1,0,0
@@ -330,7 +333,6 @@ CAN,WILLIAMS Charity,0,1,0
 CHN,AN Qixuan,0,1,0
 CHN,LI Jiaman,0,1,0
 CHN,LIU Sheng Shu,0,1,0
-CHN,LIU Yang,0,1,0
 CHN,QI Ying,0,1,0
 CHN,QIN Haiyang,0,1,0
 CHN,SU Weide,0,1,0
@@ -339,7 +341,6 @@ CHN,WANG Xinyu,0,1,0
 CHN,WANG Zisai,0,1,0
 CHN,YANG Xiaolei,0,1,0
 CHN,ZHANG Zhizhen,0,1,0
-CHN,ZOU Jingyuan,0,1,0
 CRO,VEKIC Donna,0,1,0
 DEN,BACHMANN ANDERSEN Daniel,0,1,0
 DEN,LAUDRUP-DUFOUR Cathrine,0,1,0
@@ -486,6 +487,7 @@ ROU,van GRONINGEN Gianina Elena,0,1,0
 SUI,DERRON Julie,0,1,0
 SWE,BOBECK Vilma,0,1,0
 SWE,LINDGREN Victor,0,1,0
+SWE,MOREGARD Truls,0,1,0
 SWE,NETZLER Rebecca,0,1,0
 TUN,FERJANI Fares,0,1,0
 TUR,DIKEC Yusuf,0,1,0
@@ -638,6 +640,7 @@ GRE,FITSIOU Zoi,0,0,1
 GRE,GKAIDATZIS Petros,0,0,1
 GRE,KONTOU Dimitra,0,0,1
 GRE,PAPAKONSTANTINOU Antonios,0,0,1
+GRE,PETROUNIAS Eleftherios,0,0,1
 GRE,TSELIDIS Theodoros,0,0,1
 GUA,BROL CARDENAS Jean Pierre,0,0,1
 HUN,MAJOR Veronika,0,0,1

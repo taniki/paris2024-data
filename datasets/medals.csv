@@ -81,6 +81,8 @@ USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
+CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
+CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
@@ -163,6 +165,8 @@ CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
+CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
+CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
 JPN,MURAO Sanshiro,Judo,Men -90 kg,S
@@ -237,6 +241,7 @@ CHN,CHEN Qing Chen,Badminton,Women's Doubles,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Yuxi,Diving,Women's Synchronised 10m Platform,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
+CHN,FAN Zhendong,Table Tennis,Men's Singles,G
 CHN,HUANG Ya Qiong,Badminton,Mixed Doubles,G
 CHN,JIA Yi Fan,Badminton,Women's Doubles,G
 CHN,LIAN Junjie,Diving,Men's Synchronised 10m Platform,G
@@ -451,7 +456,6 @@ CAN,WILLIAMS Charity,Rugby Sevens,Women,S
 CHN,AN Qixuan,Archery,Women's Team,S
 CHN,LI Jiaman,Archery,Women's Team,S
 CHN,LIU Sheng Shu,Badminton,Women's Doubles,S
-CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QI Ying,Shooting,Trap Men,S
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SU Weide,Artistic Gymnastics,Men's Team,S
@@ -460,7 +464,6 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,ZHANG Zhizhen,Tennis,Mixed Doubles,S
-CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
 CRO,VEKIC Donna,Tennis,Women's Singles,S
 DEN,BACHMANN ANDERSEN Daniel,Equestrian,Dressage Team,S
 DEN,LAUDRUP-DUFOUR Cathrine,Equestrian,Dressage Team,S
@@ -607,6 +610,7 @@ ROU,van GRONINGEN Gianina Elena,Rowing,Lightweight Women's Double Sculls,S
 SUI,DERRON Julie,Triathlon,Women's Individual,S
 SWE,BOBECK Vilma,Sailing,Women's Skiff,S
 SWE,LINDGREN Victor,Shooting,10m Air Rifle Men,S
+SWE,MOREGARD Truls,Table Tennis,Men's Singles,S
 SWE,NETZLER Rebecca,Sailing,Women's Skiff,S
 TUN,FERJANI Fares,Fencing,Men's Sabre Individual,S
 TUR,DIKEC Yusuf,Shooting,10m Air Pistol Mixed Team,S
@@ -759,6 +763,7 @@ GRE,FITSIOU Zoi,Rowing,Lightweight Women's Double Sculls,B
 GRE,GKAIDATZIS Petros,Rowing,Lightweight Men's Double Sculls,B
 GRE,KONTOU Dimitra,Rowing,Lightweight Women's Double Sculls,B
 GRE,PAPAKONSTANTINOU Antonios,Rowing,Lightweight Men's Double Sculls,B
+GRE,PETROUNIAS Eleftherios,Artistic Gymnastics,Men's Rings,B
 GRE,TSELIDIS Theodoros,Judo,Men -90 kg,B
 GUA,BROL CARDENAS Jean Pierre,Shooting,Trap Men,B
 HUN,MAJOR Veronika,Shooting,25m Pistol Women,B
