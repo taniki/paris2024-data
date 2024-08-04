@@ -66,6 +66,8 @@ CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Men,G
 FRA,RINER Teddy,Judo,Mixed Team,G
 FRA,RINER Teddy,Judo,Men +100 kg,G
+GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Individual,G
+GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Team,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 KOR,KIM Woojin,Archery,Mixed Team,G
@@ -90,6 +92,8 @@ GBR,RICHARDS Matthew,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,RICHARDS Matthew,Swimming,Men's 200m Freestyle,S
 GBR,SCOTT Duncan,Swimming,Men's 200m Individual Medley,S
 GBR,SCOTT Duncan,Swimming,Men's 4 x 200m Freestyle Relay,G
+GER,WERTH Isabell,Equestrian,Dressage Individual,S
+GER,WERTH Isabell,Equestrian,Dressage Team,G
 HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 JPN,ABE Hifumi,Judo,Men -66 kg,G
@@ -194,6 +198,8 @@ BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
 CAN,KHARUN Ilya,Swimming,Men's 100m Butterfly,B
+GBR,FRY Charlotte,Equestrian,Dressage Individual,B
+GBR,FRY Charlotte,Equestrian,Dressage Team,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 200m Freestyle,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 100m Freestyle,B
 IND,BHAKER Manu,Shooting,10m Air Pistol Women,B
@@ -302,9 +308,7 @@ GBR,YEE Alex,Triathlon,Men's Individual,G
 GEO,BEKAURI Lasha,Judo,Men -90 kg,G
 GER,JUNG Michael,Equestrian,Eventing Individual,G
 GER,MAERTENS Lukas,Swimming,Men's 400m Freestyle,G
-GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Team,G
 GER,WANDRES Frederic,Equestrian,Dressage Team,G
-GER,WERTH Isabell,Equestrian,Dressage Team,G
 GER,ZEIDLER Oliver,Rowing,Men's Single Sculls,G
 GUA,RUANO OLIVA Adriana,Shooting,Trap Women,G
 HKG,CHEUNG Ka Long,Fencing,Men's Foil Individual,G
@@ -688,9 +692,11 @@ CZE,RUBES Martin,Fencing,Men's Épée Team,B
 DOM,ALCANTARA REYES Yunior,Boxing,Men's 51kg,B
 DOM,PINALES Cristian Javier,Boxing,Men's 80kg,B
 EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
+ESP,BUCSA Cristina,Tennis,Women's Doubles,B
 ESP,ECHANIZ Pau,Canoe Slalom,Men's Kayak Single,B
 ESP,GARRIGOS Francisco,Judo,Men -60 kg,B
 ESP,MARTIN Alvaro,Athletics,Men's 20km Race Walk,B
+ESP,SORRIBES TORMO Sara,Tennis,Women's Doubles,B
 FRA,APITHY Bolade,Fencing,Men's Sabre Team,B
 FRA,BARBELIN Lisa,Archery,Women's Individual,B
 FRA,BERGERE Leo,Triathlon,Men's Individual,B
@@ -714,7 +720,6 @@ GBR,DAVIDSON Freddie,Rowing,Men's Four,B
 GBR,DUNFORD Holly,Rowing,Women's Eight,B
 GBR,FIELDMAN Henry,Rowing,Women's Eight,B
 GBR,FORD Emily,Rowing,Women's Eight,B
-GBR,FRY Charlotte,Equestrian,Dressage Team,B
 GBR,HARDING Anthony,Diving,Men's Synchronised 3m Springboard,B
 GBR,HARPER Yasmin,Diving,Women's Synchronised 3m Springboard,B
 GBR,HAYDOCK-WILSON Alex,Athletics,4 x 400m Relay Mixed,B
