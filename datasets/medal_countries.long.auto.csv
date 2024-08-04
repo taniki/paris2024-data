@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,18
-USA,United States of America,gold,15
+USA,United States of America,gold,16
 FRA,France,gold,12
 AUS,Australia,gold,12
 GBR,Great Britain,gold,10
@@ -56,9 +56,9 @@ FIJ,Fiji,gold,0
 MGL,Mongolia,gold,0
 TUN,Tunisia,gold,0
 IND,India,gold,0
+TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
 MDA,Republic of Moldova,gold,0
-TJK,Tajikistan,gold,0
 AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
 CUB,Cuba,gold,0
@@ -77,7 +77,7 @@ GBR,Great Britain,silver,12
 KOR,Republic of Korea,silver,7
 JPN,Japan,silver,5
 ITA,Italy,silver,8
-NED,Netherlands,silver,4
+NED,Netherlands,silver,5
 GER,Germany,silver,5
 CAN,Canada,silver,4
 ROU,Romania,silver,3
@@ -126,9 +126,9 @@ FIJ,Fiji,silver,1
 MGL,Mongolia,silver,1
 TUN,Tunisia,silver,1
 IND,India,silver,0
+TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
 MDA,Republic of Moldova,silver,0
-TJK,Tajikistan,silver,0
 AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
 CUB,Cuba,silver,0
@@ -155,7 +155,7 @@ HUN,Hungary,bronze,2
 IRL,Ireland,bronze,2
 NZL,New Zealand,bronze,1
 CRO,Croatia,bronze,1
-BEL,Belgium,bronze,2
+BEL,Belgium,bronze,3
 HKG,"Hong Kong, China",bronze,2
 AZE,Azerbaijan,bronze,0
 PHI,Philippines,bronze,0
@@ -196,9 +196,9 @@ FIJ,Fiji,bronze,0
 MGL,Mongolia,bronze,0
 TUN,Tunisia,bronze,0
 IND,India,bronze,3
+TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
 MDA,Republic of Moldova,bronze,2
-TJK,Tajikistan,bronze,2
 AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
 CUB,Cuba,bronze,1
