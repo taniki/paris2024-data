@@ -1,6 +1,6 @@
 code,country,medal,quantity
+USA,United States of America,gold,19
 CHN,People's Republic of China,gold,19
-USA,United States of America,gold,18
 FRA,France,gold,12
 AUS,Australia,gold,12
 GBR,Great Britain,gold,10
@@ -42,11 +42,11 @@ LCA,Saint Lucia,gold,1
 NOR,Norway,gold,1
 SLO,Slovenia,gold,1
 UGA,Uganda,gold,1
+JAM,Jamaica,gold,0
 MEX,Mexico,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 GRE,Greece,gold,0
 POL,Poland,gold,0
-JAM,Jamaica,gold,0
 KOS,Kosovo,gold,0
 TUR,Türkiye,gold,0
 ARM,Armenia,gold,0
@@ -69,8 +69,8 @@ LTU,Lithuania,gold,0
 MAS,Malaysia,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-CHN,People's Republic of China,silver,15
 USA,United States of America,silver,26
+CHN,People's Republic of China,silver,15
 FRA,France,silver,14
 AUS,Australia,silver,11
 GBR,Great Britain,silver,12
@@ -112,11 +112,11 @@ LCA,Saint Lucia,silver,0
 NOR,Norway,silver,0
 SLO,Slovenia,silver,0
 UGA,Uganda,silver,0
+JAM,Jamaica,silver,2
 MEX,Mexico,silver,2
 PRK,Democratic People's Republic of Korea,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
-JAM,Jamaica,silver,1
 KOS,Kosovo,silver,1
 TUR,Türkiye,silver,1
 ARM,Armenia,silver,1
@@ -139,8 +139,8 @@ LTU,Lithuania,silver,0
 MAS,Malaysia,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
+USA,United States of America,bronze,26
 CHN,People's Republic of China,bronze,11
-USA,United States of America,bronze,25
 FRA,France,bronze,18
 AUS,Australia,bronze,8
 GBR,Great Britain,bronze,15
@@ -182,11 +182,11 @@ LCA,Saint Lucia,bronze,0
 NOR,Norway,bronze,0
 SLO,Slovenia,bronze,0
 UGA,Uganda,bronze,0
+JAM,Jamaica,bronze,1
 MEX,Mexico,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,1
 GRE,Greece,bronze,4
 POL,Poland,bronze,3
-JAM,Jamaica,bronze,1
 KOS,Kosovo,bronze,1
 TUR,Türkiye,bronze,1
 ARM,Armenia,bronze,0
