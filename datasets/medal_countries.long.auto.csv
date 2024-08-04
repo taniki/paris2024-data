@@ -1,5 +1,5 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,16
+CHN,People's Republic of China,gold,17
 USA,United States of America,gold,14
 FRA,France,gold,12
 AUS,Australia,gold,12
@@ -84,7 +84,7 @@ HKG,"Hong Kong, China",silver,0
 AZE,Azerbaijan,silver,0
 BRA,Brazil,silver,4
 ISR,Israel,silver,4
-SWE,Sweden,silver,2
+SWE,Sweden,silver,3
 GEO,Georgia,silver,2
 ESP,Spain,silver,1
 SUI,Switzerland,silver,1

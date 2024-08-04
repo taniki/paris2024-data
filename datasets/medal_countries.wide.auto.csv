@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,16,12,9
+CHN,People's Republic of China,17,12,9
 USA,United States of America,14,25,23
 FRA,France,12,14,16
 AUS,Australia,12,8,7
@@ -20,7 +20,7 @@ HKG,"Hong Kong, China",2,0,2
 AZE,Azerbaijan,2,0,0
 BRA,Brazil,1,4,5
 ISR,Israel,1,4,1
-SWE,Sweden,1,2,2
+SWE,Sweden,1,3,2
 GEO,Georgia,1,2,0
 ESP,Spain,1,1,5
 SUI,Switzerland,1,1,4
