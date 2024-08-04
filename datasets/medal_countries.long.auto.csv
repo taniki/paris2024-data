@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,19
-USA,United States of America,gold,17
+USA,United States of America,gold,18
 FRA,France,gold,12
 AUS,Australia,gold,12
 GBR,Great Britain,gold,10
@@ -72,7 +72,7 @@ SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,15
 USA,United States of America,silver,26
 FRA,France,silver,14
-AUS,Australia,silver,9
+AUS,Australia,silver,10
 GBR,Great Britain,silver,12
 KOR,Republic of Korea,silver,7
 JPN,Japan,silver,5
@@ -139,7 +139,7 @@ LTU,Lithuania,silver,0
 MAS,Malaysia,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
-CHN,People's Republic of China,bronze,10
+CHN,People's Republic of China,bronze,11
 USA,United States of America,bronze,25
 FRA,France,bronze,17
 AUS,Australia,bronze,7
