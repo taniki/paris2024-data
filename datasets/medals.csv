@@ -78,6 +78,8 @@ JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
+PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Vault,G
+PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Floor Exercise,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
@@ -392,7 +394,6 @@ NZL,SETEFANO Theresa,Rugby Sevens,Women,G
 NZL,SPOORS Lucy,Rowing,Women's Double Sculls,G
 NZL,WAAKA Stacey,Rugby Sevens,Women,G
 NZL,WOODMAN-WICKLIFFE Portia,Rugby Sevens,Women,G
-PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Floor Exercise,G
 ROU,ADAM Adriana,Rowing,Women's Eight,G
 ROU,BERES Amalia,Rowing,Women's Eight,G
 ROU,CORNEA Andrei Sebastian,Rowing,Men's Double Sculls,G
@@ -428,6 +429,7 @@ USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
 AIN,BARDZILOUSKAYA Viyaleta,Trampoline Gymnastics,Women,S
 AIN,ZALATY Yauheni,Rowing,Men's Single Sculls,S
+ARM,DAVTYAN Artur,Artistic Gymnastics,Men's Vault,S
 AUS,BURTON Christopher,Equestrian,Eventing Individual,S
 AUS,CARTWRIGHT Jack,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,MORRIS Grae,Sailing,Men's Windsurfing,S
@@ -699,6 +701,7 @@ CHN,WU Qingfeng,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,YAN Langyu,Trampoline Gymnastics,Men,B
 CHN,YU Yiting,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,ZHANG Qiongyue,Shooting,50m Rifle 3 Positions Women,B
+CPV,de PINA David,Boxing,Men's 51kg,B
 CRO,MARICIC Miran,Shooting,10m Air Rifle Men,B
 CZE,BERAN Jiri,Fencing,Men's Épée Team,B
 CZE,CUPR Michal,Fencing,Men's Épée Team,B
@@ -740,6 +743,7 @@ GBR,FORD Emily,Rowing,Women's Eight,B
 GBR,HARDING Anthony,Diving,Men's Synchronised 3m Springboard,B
 GBR,HARPER Yasmin,Diving,Women's Synchronised 3m Springboard,B
 GBR,HAYDOCK-WILSON Alex,Athletics,4 x 400m Relay Mixed,B
+GBR,HEPWORTH Harry,Artistic Gymnastics,Men's Vault,B
 GBR,HESTER Carl,Equestrian,Dressage Team,B
 GBR,HODGKINS BYRNE Mathilda,Rowing,Women's Double Sculls,B
 GBR,IRWIN Lauren,Rowing,Women's Eight,B
