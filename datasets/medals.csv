@@ -210,6 +210,8 @@ CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
+ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
+ITA,MACCHI Filippo,Fencing,Men's Foil Team,S
 JPN,MURAO Sanshiro,Judo,Men -90 kg,S
 JPN,MURAO Sanshiro,Judo,Mixed Team,S
 USA,MANUEL Simone,Swimming,Women's 4 x 100m Freestyle Relay,S
@@ -286,6 +288,7 @@ AUS,WUNSCH Olivia,Swimming,Women's 4 x 100m Freestyle Relay,G
 AZE,HEYDAROV Hidayat,Judo,Men -73 kg,G
 AZE,KOTSOIEV Zelym,Judo,Men -100 kg,G
 CAN,DEGUCHI Christa,Judo,Women -57 kg,G
+CAN,KATZBERG Ethan,Athletics,Men's Hammer Throw,G
 CHI,CROVETTO CHADID Francisca,Shooting,Skeet Women,G
 CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Meng,Table Tennis,Women's Singles,G
@@ -398,7 +401,11 @@ ITA,RIZZI Giulia,Fencing,Women's Épée Team,G
 ITA,SANTUCCIO Alberta,Fencing,Women's Épée Team,G
 JPN,HASHIMOTO Daiki,Artistic Gymnastics,Men's Team,G
 JPN,HORIGOME Yuto,Skateboarding,Men's Street,G
+JPN,IIMURA Kazuki,Fencing,Men's Foil Team,G
 JPN,KAYA Kazuma,Artistic Gymnastics,Men's Team,G
+JPN,MATSUYAMA Kyosuke,Fencing,Men's Foil Team,G
+JPN,NAGANO Yudai,Fencing,Men's Foil Team,G
+JPN,SHIKINE Takahiro,Fencing,Men's Foil Team,G
 JPN,SUGINO Takaaki,Artistic Gymnastics,Men's Team,G
 JPN,TANIGAWA Wataru,Artistic Gymnastics,Men's Team,G
 JPN,YOSHIZAWA Coco,Skateboarding,Women's Street,G
@@ -592,6 +599,7 @@ GER,LILIK Elena,Canoe Slalom,Women's Canoe Single,S
 GER,UNRUH Florian,Archery,Mixed Team,S
 GRE,CHRISTOU Apostolos,Swimming,Men's 200m Backstroke,S
 HUN,GEMESI Csanad,Fencing,Men's Sabre Team,S
+HUN,HALASZ Bence,Athletics,Men's Hammer Throw,S
 HUN,RABB Krisztian,Fencing,Men's Sabre Team,S
 HUN,SZATMARI Andras,Fencing,Men's Sabre Team,S
 HUN,SZILAGYI Aron,Fencing,Men's Sabre Team,S
@@ -600,16 +608,18 @@ ISR,HERSHKO Raz,Judo,Women +78 kg,S
 ISR,KANTOR Sharon,Sailing,Women's Windsurfing,S
 ISR,LANIR Inbar,Judo,Women -78 kg,S
 ITA,ANDREOLI Angela,Artistic Gymnastics,Women's Team,S
+ITA,BIANCHI Guillaume,Fencing,Men's Foil Team,S
 ITA,CHIUMENTO Luca,Rowing,Men's Quadruple Sculls,S
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
 ITA,ERRIGO Arianna,Fencing,Women's Foil Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Team,S
 ITA,FAVARETTO Martina,Fencing,Women's Foil Team,S
+ITA,FOCONI Alessio,Fencing,Men's Foil Team,S
 ITA,GANNA Filippo,Cycling Road,Men's Individual Time Trial,S
 ITA,GENTILI Giacomo,Rowing,Men's Quadruple Sculls,S
 ITA,IORIO Elisa,Artistic Gymnastics,Women's Team,S
-ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
 ITA,MALDINI Federico Nilo,Shooting,10m Air Pistol Men,S
+ITA,MARINI Tommaso,Fencing,Men's Foil Team,S
 ITA,OPPO Stefano,Rowing,Lightweight Men's Double Sculls,S
 ITA,PALUMBO Francesca,Fencing,Women's Foil Team,S
 ITA,PANIZZA Andrea,Rowing,Men's Quadruple Sculls,S
@@ -957,6 +967,7 @@ TUR,GAZOZ Mete,Archery,Men's Team,B
 TUR,TUMER Berkim,Archery,Men's Team,B
 TUR,YILDIRMIS Abdullah,Archery,Men's Team,B
 UKR,GERASHCHENKO Iryna,Athletics,Women's High Jump,B
+UKR,KOKHAN Mykhaylo,Athletics,Men's Hammer Throw,B
 USA,BARROWS Ian,Sailing,Men's Skiff,B
 USA,CANETT Kayla,Rugby Sevens,Women,B
 USA,CARLSON Chris,Rowing,Men's Eight,B
