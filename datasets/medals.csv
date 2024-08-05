@@ -702,6 +702,7 @@ JPN,TAKAYAMA Rika,Judo,Mixed Team,S
 JPN,WOLF Aaron,Judo,Mixed Team,S
 JPN,YAMADA Masaru,Fencing,Men's Épée Team,S
 KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
+KEN,KIPYEGON Faith,Athletics,Women's 5000m,S
 KOR,CHO Yeongjae,Shooting,25m Rapid Fire Pistol Men,S
 KOR,CHOI Sebin,Fencing,Women's Sabre Team,S
 KOR,JEON Eunhye,Fencing,Women's Sabre Team,S
@@ -722,7 +723,6 @@ NED,de GRAAF Sander,Rowing,Men's Eight,S
 NED,de JONG Roos,Rowing,Women's Quadruple Sculls,S
 NED,DULLEMANS Tessa,Rowing,Women's Quadruple Sculls,S
 NED,FETTER Dieuwke,Rowing,Men's Eight,S
-NED,HASSAN Sifan,Athletics,Women's 5000m,S
 NED,KNAB Ruben,Rowing,Men's Eight,S
 NED,MAKKER Mick,Rowing,Men's Eight,S
 NED,MOLENAAR Olav,Rowing,Men's Eight,S
@@ -948,7 +948,6 @@ IRL,DOYLE Philip,Rowing,Men's Double Sculls,B
 IRL,LYNCH Daire,Rowing,Men's Double Sculls,B
 IRL,Mc SHARRY Mona,Swimming,Women's 100m Breaststroke,B
 ISR,PALTCHIK Peter,Judo,Men -100 kg,B
-ITA,BATTOCLETTI Nadia,Athletics,Women's 5000m,B
 ITA,CONTE BONIN Paolo,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,DEPLANO Leonardo,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,FRIGO Manuel,Swimming,Men's 4 x 100m Freestyle Relay,B
@@ -1006,6 +1005,7 @@ MEX,RUIZ Angela,Archery,Women's Team,B
 MEX,VALENCIA Alejandra,Archery,Women's Team,B
 MEX,VAZQUEZ Ana,Archery,Women's Team,B
 NED,CORBEAU Caspar,Swimming,Men's 200m Breaststroke,B
+NED,HASSAN Sifan,Athletics,Women's 5000m,B
 NED,SCHOUTEN Tes,Swimming,Women's 200m Breaststroke,B
 NED,van DORP Simon,Rowing,Men's Single Sculls,B
 NED,van OPZEELAND Luuc,Sailing,Men's Windsurfing,B

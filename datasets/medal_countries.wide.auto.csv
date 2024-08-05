@@ -6,8 +6,8 @@ FRA,France,12,16,18
 GBR,Great Britain,12,13,17
 KOR,Republic of Korea,11,8,7
 JPN,Japan,10,5,11
-ITA,Italy,9,10,7
-NED,Netherlands,7,6,4
+ITA,Italy,9,10,6
+NED,Netherlands,7,5,5
 GER,Germany,7,5,4
 CAN,Canada,5,4,8
 NZL,New Zealand,3,5,1
@@ -29,12 +29,12 @@ GEO,Georgia,1,2,1
 SUI,Switzerland,1,1,4
 KAZ,Kazakhstan,1,1,2
 RSA,South Africa,1,1,2
+KEN,Kenya,1,1,1
 DEN,Denmark,1,1,0
 TPE,Chinese Taipei,1,0,3
 UZB,Uzbekistan,1,0,2
 CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
-KEN,Kenya,1,0,1
 ALG,Algeria,1,0,0
 ARG,Argentina,1,0,0
 CHI,Chile,1,0,0
