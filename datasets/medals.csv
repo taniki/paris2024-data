@@ -178,6 +178,8 @@ USA,FINKE Bobby,Swimming,Men's 800m Freestyle,S
 USA,FINKE Bobby,Swimming,Men's 1500m Freestyle,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
+USA,HANCOCK Vincent,Shooting,Skeet Men,G
+USA,HANCOCK Vincent,Shooting,Skeet Mixed Team,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Team,G
 USA,SHACKELL Alex,Swimming,Women's 4 x 100m Medley Relay,G
@@ -264,6 +266,8 @@ USA,HOBSON Luke,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HOBSON Luke,Swimming,Men's 200m Freestyle,B
 USA,MADDEN Paige,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,MADDEN Paige,Swimming,Women's 800m Freestyle,B
+USA,SMITH Austen Jewell,Shooting,Skeet Mixed Team,S
+USA,SMITH Austen Jewell,Shooting,Skeet Women,B
 BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
@@ -409,6 +413,7 @@ IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
 IRL,Mc CLENAGHAN Rhys,Artistic Gymnastics,Men's Pommel Horse,G
 IRL,O DONOVAN Paul,Rowing,Lightweight Men's Double Sculls,G
 ISR,REUVENY Tom,Sailing,Men's Windsurfing,G
+ITA,BACOSI Diana,Shooting,Skeet Mixed Team,G
 ITA,BELLANDI Alice,Judo,Women -78 kg,G
 ITA,de GENNARO Giovanni,Canoe Slalom,Men's Kayak Single,G
 ITA,ERRANI Sara,Tennis,Women's Doubles,G
@@ -418,6 +423,7 @@ ITA,MARTINENGHI Nicolo,Swimming,Men's 100m Breaststroke,G
 ITA,NAVARRIA Mara,Fencing,Women's Épée Team,G
 ITA,PAOLINI Jasmine,Tennis,Women's Doubles,G
 ITA,RIZZI Giulia,Fencing,Women's Épée Team,G
+ITA,ROSSETTI Gabriele,Shooting,Skeet Mixed Team,G
 ITA,SANTUCCIO Alberta,Fencing,Women's Épée Team,G
 JPN,HASHIMOTO Daiki,Artistic Gymnastics,Men's Team,G
 JPN,HORIGOME Yuto,Skateboarding,Men's Street,G
@@ -497,7 +503,6 @@ USA,CROUSER Ryan,Athletics,Men's Shot Put,G
 USA,DUBROVICH Jacqueline,Fencing,Women's Foil Team,G
 USA,FAULKNER Kristen,Cycling Road,Women's Road Race,G
 USA,GRADY Michael,Rowing,Men's Four,G
-USA,HANCOCK Vincent,Shooting,Skeet Men,G
 USA,HELD Ryan,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,KING Lilly,Swimming,Women's 4 x 100m Medley Relay,G
 USA,KING Matt,Swimming,Men's 4 x 100m Freestyle Relay,G
@@ -1038,7 +1043,6 @@ USA,RICHARD Frederick,Artistic Gymnastics,Men's Team,B
 USA,ROVETTI Steph,Rugby Sevens,Women,B
 USA,RUSHER Nick,Rowing,Men's Eight,B
 USA,SEDRICK Alex,Rugby Sevens,Women,B
-USA,SMITH Austen Jewell,Shooting,Skeet Women,B
 USA,SULLIVAN Sammy,Rugby Sevens,Women,B
 USA,TABASH Christian,Rowing,Men's Eight,B
 USA,TAPPER Naya,Rugby Sevens,Women,B
