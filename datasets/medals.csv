@@ -34,6 +34,10 @@ CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
 CAN,McINTOSH Summer,Swimming,Women's 200m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
+USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
+USA,BILES Simone,Artistic Gymnastics,Women's Vault,G
+USA,BILES Simone,Artistic Gymnastics,Women's Floor Exercise,S
+USA,BILES Simone,Artistic Gymnastics,Women's Team,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Parallel Bars,B
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
 JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
@@ -54,6 +58,10 @@ USA,LEDECKY Katie,Swimming,Women's 400m Freestyle,B
 USA,LEDECKY Katie,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,LEDECKY Katie,Swimming,Women's 800m Freestyle,G
 USA,LEDECKY Katie,Swimming,Women's 1500m Freestyle,G
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Vault,S
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Floor Exercise,G
+BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 100m Medley Relay,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 100m Freestyle Relay,B
 CHN,YANG Junxuan,Swimming,Women's 4 x 200m Freestyle Relay,B
@@ -64,9 +72,6 @@ KOR,KIM Woojin,Archery,Men's Team,G
 KOR,LIM Sihyeon,Archery,Women's Individual,G
 KOR,LIM Sihyeon,Archery,Mixed Team,G
 KOR,LIM Sihyeon,Archery,Women's Team,G
-USA,BILES Simone,Artistic Gymnastics,Women's All-Around,G
-USA,BILES Simone,Artistic Gymnastics,Women's Vault,G
-USA,BILES Simone,Artistic Gymnastics,Women's Team,G
 CHN,PAN Zhanle,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
@@ -97,9 +102,6 @@ USA,LEE Sunisa,Artistic Gymnastics,Women's Team,G
 AUS,CHALMERS Kyle,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,CHALMERS Kyle,Swimming,Men's 100m Freestyle,S
 AUS,CHALMERS Kyle,Swimming,Mixed 4 x 100m Medley Relay,B
-BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's All-Around,S
-BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Vault,S
-BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
 CHN,TANG Qianting,Swimming,Women's 4 x 100m Medley Relay,B
 CHN,TANG Qianting,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,TANG Qianting,Swimming,Women's 100m Breaststroke,S
@@ -216,6 +218,8 @@ USA,BERKOFF Katharine,Swimming,Women's 4 x 100m Medley Relay,G
 USA,BERKOFF Katharine,Swimming,Women's 100m Backstroke,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
+USA,CHILES Jordan,Artistic Gymnastics,Women's Floor Exercise,B
+USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
 ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
@@ -488,7 +492,6 @@ UKR,KOMASHCHUK Alina,Fencing,Women's Sabre Team,G
 UKR,KRAVATSKA Olena,Fencing,Women's Sabre Team,G
 UKR,MAHUCHIKH Yaroslava,Athletics,Women's High Jump,G
 USA,BEST Justin,Rowing,Men's Four,G
-USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 USA,CORRIGAN Liam,Rowing,Men's Four,G
 USA,CROUSER Ryan,Athletics,Men's Shot Put,G
 USA,DUBROVICH Jacqueline,Fencing,Women's Foil Team,G
