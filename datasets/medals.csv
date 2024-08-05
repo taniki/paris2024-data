@@ -282,6 +282,8 @@ GBR,FRY Charlotte,Equestrian,Dressage Individual,B
 GBR,FRY Charlotte,Equestrian,Dressage Team,B
 GBR,POTTER Beth,Triathlon,Mixed Relay,B
 GBR,POTTER Beth,Triathlon,Women's Individual,B
+GBR,WOODS Kimberley,Canoe Slalom,Women's Kayak Cross,B
+GBR,WOODS Kimberley,Canoe Slalom,Women's Kayak Single,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 200m Freestyle,B
 HKG,HAUGHEY Siobhan Bernadette,Swimming,Women's 100m Freestyle,B
 IND,BHAKER Manu,Shooting,10m Air Pistol Women,B
@@ -298,6 +300,7 @@ ARG,TORRES GIL Jose,Cycling BMX Freestyle,Men's Park,G
 AUS,BROWN Grace,Cycling Road,Women's Individual Time Trial,G
 AUS,CAMPBELL Bronte,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,EBDEN Matthew,Tennis,Men's Doubles,G
+AUS,FOX Noemie,Canoe Slalom,Women's Kayak Cross,G
 AUS,McEVOY Cameron,Swimming,Men's 50m Freestyle,G
 AUS,PALLISTER Lani,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,PEERS John,Tennis,Men's Doubles,G
@@ -466,6 +469,7 @@ NED,van AANHOLT Odile,Sailing,Women's Skiff,G
 NED,van LIEROP Lennart,Rowing,Men's Quadruple Sculls,G
 NED,WIETEN Tone,Rowing,Men's Quadruple Sculls,G
 NZL,BLYDE Michaela,Rugby Sevens,Women,G
+NZL,BUTCHER Finn,Canoe Slalom,Men's Kayak Cross,G
 NZL,FELIX-HOTHAM Jazmin,Rugby Sevens,Women,G
 NZL,FRANCIS Brooke,Rowing,Women's Double Sculls,G
 NZL,HIRINI Sarah,Rugby Sevens,Women,G
@@ -596,6 +600,7 @@ FRA,BOREL Yannick,Fencing,Men's Épée Individual,S
 FRA,CANDASSAMY Marie-Florence,Fencing,Women's Épée Team,S
 FRA,CASTRYCK Titouan,Canoe Slalom,Men's Kayak Single,S
 FRA,CHIRAULT Thomas,Archery,Men's Team,S
+FRA,HUG Angele,Canoe Slalom,Women's Kayak Cross,S
 FRA,JEDRZEJEWSKI Camille,Shooting,25m Pistol Women,S
 FRA,KIRPICHNIKOVA Anastasiia,Swimming,Women's 1500m Freestyle,S
 FRA,KORETZKY Victor,Cycling Mountain Bike,Men's Cross-country,S
@@ -608,6 +613,7 @@ FRA,VALLADONT Jean-Charles,Archery,Men's Team,S
 FRA,VITALIS Coraline,Fencing,Women's Épée Team,S
 GBR,BOOTH Esme,Rowing,Women's Four,S
 GBR,BURGESS Adam,Canoe Slalom,Men's Canoe Single,S
+GBR,CLARKE Joseph,Canoe Slalom,Men's Kayak Cross,S
 GBR,DALEY Thomas,Diving,Men's Synchronised 10m Platform,S
 GBR,FLEETWOOD Tommy,Golf,Men's Individual Stroke Play,S
 GBR,GEORGE Tom,Rowing,Men's Pair,S
@@ -883,11 +889,11 @@ GBR,TOULSON Lois,Diving,Women's Synchronised 10m Platform,B
 GBR,WILDE Rebecca,Rowing,Women's Double Sculls,B
 GBR,WILKES Oliver,Rowing,Men's Four,B
 GBR,WILSON Emma,Sailing,Women's Windsurfing,B
-GBR,WOODS Kimberley,Canoe Slalom,Women's Kayak Single,B
 GBR,YEARGIN Nicole,Athletics,4 x 400m Relay Mixed,B
 GEO,GURULI Lasha,Boxing,Men's 63.5kg,B
 GER,GOSE Isabel,Swimming,Women's 1500m Freestyle,B
 GER,GREITEN Pia,Rowing,Women's Quadruple Sculls,B
+GER,HEGGE Noah,Canoe Slalom,Men's Kayak Cross,B
 GER,MENZEL Leonie,Rowing,Women's Quadruple Sculls,B
 GER,SCHENDEKEHL Tabea,Rowing,Women's Quadruple Sculls,B
 GER,VOELZ Maren,Rowing,Women's Quadruple Sculls,B
