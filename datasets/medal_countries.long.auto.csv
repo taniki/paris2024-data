@@ -29,6 +29,7 @@ GEO,Georgia,gold,1
 SUI,Switzerland,gold,1
 KAZ,Kazakhstan,gold,1
 RSA,South Africa,gold,1
+DEN,Denmark,gold,1
 TPE,Chinese Taipei,gold,1
 UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
@@ -51,10 +52,10 @@ KOS,Kosovo,gold,0
 TUR,Türkiye,gold,0
 ARM,Armenia,gold,0
 COL,Colombia,gold,0
-DEN,Denmark,gold,0
 ETH,Ethiopia,gold,0
 FIJ,Fiji,gold,0
 MGL,Mongolia,gold,0
+THA,Thailand,gold,0
 TUN,Tunisia,gold,0
 IND,India,gold,0
 TJK,Tajikistan,gold,0
@@ -100,6 +101,7 @@ GEO,Georgia,silver,2
 SUI,Switzerland,silver,1
 KAZ,Kazakhstan,silver,1
 RSA,South Africa,silver,1
+DEN,Denmark,silver,1
 TPE,Chinese Taipei,silver,0
 UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
@@ -122,10 +124,10 @@ KOS,Kosovo,silver,1
 TUR,Türkiye,silver,1
 ARM,Armenia,silver,1
 COL,Colombia,silver,1
-DEN,Denmark,silver,1
 ETH,Ethiopia,silver,1
 FIJ,Fiji,silver,1
 MGL,Mongolia,silver,1
+THA,Thailand,silver,1
 TUN,Tunisia,silver,1
 IND,India,silver,0
 TJK,Tajikistan,silver,0
@@ -171,6 +173,7 @@ GEO,Georgia,bronze,1
 SUI,Switzerland,bronze,4
 KAZ,Kazakhstan,bronze,2
 RSA,South Africa,bronze,2
+DEN,Denmark,bronze,0
 TPE,Chinese Taipei,bronze,3
 UZB,Uzbekistan,bronze,2
 CZE,Czechia,bronze,1
@@ -193,10 +196,10 @@ KOS,Kosovo,bronze,1
 TUR,Türkiye,bronze,1
 ARM,Armenia,bronze,0
 COL,Colombia,bronze,0
-DEN,Denmark,bronze,0
 ETH,Ethiopia,bronze,0
 FIJ,Fiji,bronze,0
 MGL,Mongolia,bronze,0
+THA,Thailand,bronze,0
 TUN,Tunisia,bronze,0
 IND,India,bronze,3
 TJK,Tajikistan,bronze,3
