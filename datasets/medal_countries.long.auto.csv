@@ -59,6 +59,7 @@ TUN,Tunisia,gold,0
 IND,India,gold,0
 TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
+MAS,Malaysia,gold,0
 MDA,Republic of Moldova,gold,0
 AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
@@ -67,7 +68,6 @@ EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
 LTU,Lithuania,gold,0
-MAS,Malaysia,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 CHN,People's Republic of China,silver,17
@@ -130,6 +130,7 @@ TUN,Tunisia,silver,1
 IND,India,silver,0
 TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
+MAS,Malaysia,silver,0
 MDA,Republic of Moldova,silver,0
 AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
@@ -138,7 +139,6 @@ EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
 LTU,Lithuania,silver,0
-MAS,Malaysia,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 CHN,People's Republic of China,bronze,14
@@ -201,6 +201,7 @@ TUN,Tunisia,bronze,0
 IND,India,bronze,3
 TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
+MAS,Malaysia,bronze,2
 MDA,Republic of Moldova,bronze,2
 AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
@@ -209,6 +210,5 @@ EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
 LTU,Lithuania,bronze,1
-MAS,Malaysia,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
