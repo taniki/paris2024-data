@@ -1,21 +1,21 @@
 code,country,gold,silver,bronze
 CHN,People's Republic of China,21,18,14
-USA,United States of America,20,29,28
+USA,United States of America,20,30,28
 AUS,Australia,13,11,8
 FRA,France,12,15,18
 GBR,Great Britain,12,13,17
 KOR,Republic of Korea,11,8,7
 JPN,Japan,10,5,11
 ITA,Italy,9,10,7
+GER,Germany,7,5,4
 NED,Netherlands,6,6,4
-GER,Germany,6,5,4
 CAN,Canada,5,4,8
 NZL,New Zealand,3,5,1
 HUN,Hungary,3,3,2
+SWE,Sweden,3,3,2
 ROU,Romania,3,3,1
 IRL,Ireland,3,0,3
 BRA,Brazil,2,4,5
-SWE,Sweden,2,3,2
 UKR,Ukraine,2,2,3
 CRO,Croatia,2,1,2
 BEL,Belgium,2,0,3
@@ -24,7 +24,7 @@ AZE,Azerbaijan,2,0,0
 PHI,Philippines,2,0,0
 SRB,Serbia,2,0,0
 ISR,Israel,1,4,1
-ESP,Spain,1,2,5
+ESP,Spain,1,3,5
 GEO,Georgia,1,2,1
 SUI,Switzerland,1,1,4
 KAZ,Kazakhstan,1,1,2
@@ -48,7 +48,7 @@ JAM,Jamaica,0,2,1
 MEX,Mexico,0,2,1
 PRK,Democratic People's Republic of Korea,0,2,1
 ETH,Ethiopia,0,2,0
-GRE,Greece,0,1,4
+GRE,Greece,0,1,5
 POL,Poland,0,1,3
 KOS,Kosovo,0,1,1
 TUR,Türkiye,0,1,1
