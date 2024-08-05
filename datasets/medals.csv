@@ -69,12 +69,18 @@ CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Medley Relay,S
 USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Parallel Bars,B
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
 CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
+CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
+CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
 USA,FINK Nic,Swimming,Men's 4 x 100m Medley Relay,S
 USA,FINK Nic,Swimming,Mixed 4 x 100m Medley Relay,G
 USA,FINK Nic,Swimming,Men's 100m Breaststroke,S
@@ -108,8 +114,6 @@ FRA,RINER Teddy,Judo,Mixed Team,G
 FRA,RINER Teddy,Judo,Men +100 kg,G
 GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Individual,G
 GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Team,G
-JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
-JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
 PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Vault,G
@@ -208,8 +212,6 @@ USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
-CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
-CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
 ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
@@ -709,6 +711,7 @@ SWE,NETZLER Rebecca,Sailing,Women's Skiff,S
 TUN,FERJANI Fares,Fencing,Men's Sabre Individual,S
 TUR,DIKEC Yusuf,Shooting,10m Air Pistol Mixed Team,S
 TUR,TARHAN Sevval Ilayda,Shooting,10m Air Pistol Mixed Team,S
+UKR,KOVTUN Illia,Artistic Gymnastics,Men's Parallel Bars,S
 UKR,KULISH Serhiy,Shooting,50m Rifle 3 Positions Men,S
 USA,BACON Sarah,Diving,Women's Synchronised 3m Springboard,S
 USA,BATTEN Haley,Cycling Mountain Bike,Women's Cross-country,S

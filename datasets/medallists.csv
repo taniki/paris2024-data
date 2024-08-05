@@ -16,8 +16,10 @@ KOR,LIM Sihyeon,3,0,0
 USA,BILES Simone,3,0,0
 CHN,PAN Zhanle,2,1,0
 USA,DRESSEL Caeleb,2,1,0
+JPN,OKA Shinnosuke,2,0,1
 AUS,HARRIS Meg,1,2,0
 CHN,XU Jiayu,1,2,0
+CHN,ZOU Jingyuan,1,2,0
 USA,FINK Nic,1,2,0
 AUS,McKEON Emma,1,1,1
 USA,MURPHY Ryan,1,1,1
@@ -31,7 +33,6 @@ BEL,EVENEPOEL Remco,2,0,0
 CHN,SHENG Lihao,2,0,0
 FRA,RINER Teddy,2,0,0
 GER,von BREDOW-WERNDL Jessica,2,0,0
-JPN,OKA Shinnosuke,2,0,0
 KOR,OH Sanguk,2,0,0
 PHI,YULO Carlos Edriel,2,0,0
 SWE,SJOESTROEM Sarah,2,0,0
@@ -81,7 +82,6 @@ UKR,KHARLAN Olga,1,0,1
 USA,BERKOFF Katharine,1,0,1
 USA,CAREY Jade,1,0,1
 CHN,ZHANG Boheng,0,2,0
-CHN,ZOU Jingyuan,0,2,0
 FRA,MALLO-BRETON Auriane,0,2,0
 ITA,MACCHI Filippo,0,2,0
 JPN,MURAO Sanshiro,0,2,0
@@ -548,6 +548,7 @@ SWE,NETZLER Rebecca,0,1,0
 TUN,FERJANI Fares,0,1,0
 TUR,DIKEC Yusuf,0,1,0
 TUR,TARHAN Sevval Ilayda,0,1,0
+UKR,KOVTUN Illia,0,1,0
 UKR,KULISH Serhiy,0,1,0
 USA,BACON Sarah,0,1,0
 USA,BATTEN Haley,0,1,0
