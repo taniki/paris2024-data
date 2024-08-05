@@ -376,6 +376,7 @@ GBR,BRASH Scott,Equestrian,Jumping Team,G
 GBR,BRAYSHAW Georgina,Rowing,Women's Quadruple Sculls,G
 GBR,BRIGHTMORE Harry,Rowing,Men's Eight,G
 GBR,CANTER Rosalind,Equestrian,Eventing Team,G
+GBR,CAPEWELL Sophie,Cycling Track,Women's Team Sprint,G
 GBR,CARNEGIE Sholto,Rowing,Men's Eight,G
 GBR,CHARLES Harry,Equestrian,Jumping Team,G
 GBR,CRAIG Emily,Rowing,Lightweight Women's Double Sculls,G
@@ -383,6 +384,7 @@ GBR,DAWSON Jacob,Rowing,Men's Eight,G
 GBR,DEAN Tom,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,DIGBY Tom,Rowing,Men's Eight,G
 GBR,ELWES Charles,Rowing,Men's Eight,G
+GBR,FINUCANE Emma,Cycling Track,Women's Team Sprint,G
 GBR,FORD Tom,Rowing,Men's Eight,G
 GBR,GIBBS Rory,Rowing,Men's Eight,G
 GBR,GRANT Imogen,Rowing,Lightweight Women's Double Sculls,G
@@ -390,6 +392,7 @@ GBR,GUY James,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,HALES Nathan,Shooting,Trap Men,G
 GBR,HENRY Lauren,Rowing,Women's Quadruple Sculls,G
 GBR,MAHER Ben,Equestrian,Jumping Team,G
+GBR,MARCHANT Katy,Cycling Track,Women's Team Sprint,G
 GBR,McEWEN Tom,Equestrian,Eventing Team,G
 GBR,McMILLAN Jack,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,PAGE Bryony,Trampoline Gymnastics,Women,G
@@ -709,11 +712,14 @@ NED,van DOORN Gert-Jan,Rowing,Men's Eight,S
 NED,VEENSTRA Manon,Cycling BMX Racing,Women,S
 NED,VOS Marianne,Cycling Road,Women's Road Race,S
 NED,YOUSSIFOU Laila,Rowing,Women's Quadruple Sculls,S
+NZL,ANDREWS Ellesse,Cycling Track,Women's Team Sprint,S
+NZL,FULTON Shaane,Cycling Track,Women's Team Sprint,S
 NZL,MACDONALD Matt,Rowing,Men's Four,S
 NZL,MACLEAN Ollie,Rowing,Men's Four,S
 NZL,McHARDIE Isaac,Sailing,Men's Skiff,S
 NZL,McKENZIE William,Sailing,Men's Skiff,S
 NZL,MURRAY Tom,Rowing,Men's Four,S
+NZL,PETCH Rebecca,Cycling Track,Women's Team Sprint,S
 NZL,TWIGG Emma,Rowing,Women's Single Sculls,S
 NZL,ULLRICH Logan,Rowing,Men's Four,S
 NZL,WILDE Hayden,Triathlon,Men's Individual,S
@@ -891,9 +897,12 @@ GBR,WILKES Oliver,Rowing,Men's Four,B
 GBR,WILSON Emma,Sailing,Women's Windsurfing,B
 GBR,YEARGIN Nicole,Athletics,4 x 400m Relay Mixed,B
 GEO,GURULI Lasha,Boxing,Men's 63.5kg,B
+GER,FRIEDRICH Lea,Cycling Track,Women's Team Sprint,B
 GER,GOSE Isabel,Swimming,Women's 1500m Freestyle,B
+GER,GRABOSCH Pauline,Cycling Track,Women's Team Sprint,B
 GER,GREITEN Pia,Rowing,Women's Quadruple Sculls,B
 GER,HEGGE Noah,Canoe Slalom,Men's Kayak Cross,B
+GER,HINZE Emma,Cycling Track,Women's Team Sprint,B
 GER,MENZEL Leonie,Rowing,Women's Quadruple Sculls,B
 GER,SCHENDEKEHL Tabea,Rowing,Women's Quadruple Sculls,B
 GER,VOELZ Maren,Rowing,Women's Quadruple Sculls,B
