@@ -34,6 +34,10 @@ CAN,McINTOSH Summer,Swimming,Women's 400m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 400m Freestyle,S
 CAN,McINTOSH Summer,Swimming,Women's 200m Individual Medley,G
 CAN,McINTOSH Summer,Swimming,Women's 200m Butterfly,G
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Parallel Bars,B
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
+JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Horizontal Bar,G
 AUS,TITMUS Ariarne,Swimming,Women's 400m Freestyle,G
 AUS,TITMUS Ariarne,Swimming,Women's 4 x 200m Freestyle Relay,G
 AUS,TITMUS Ariarne,Swimming,Women's 800m Freestyle,S
@@ -69,9 +73,6 @@ CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Medley Relay,S
 USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
-JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Parallel Bars,B
-JPN,OKA Shinnosuke,Artistic Gymnastics,Men's All-Around,G
-JPN,OKA Shinnosuke,Artistic Gymnastics,Men's Team,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
@@ -102,6 +103,9 @@ BRA,ANDRADE Rebeca,Artistic Gymnastics,Women's Team,B
 CHN,TANG Qianting,Swimming,Women's 4 x 100m Medley Relay,B
 CHN,TANG Qianting,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,TANG Qianting,Swimming,Women's 100m Breaststroke,S
+CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
+CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
+CHN,ZHANG Boheng,Artistic Gymnastics,Men's Horizontal Bar,B
 AUS,FOX Jessica,Canoe Slalom,Women's Canoe Single,G
 AUS,FOX Jessica,Canoe Slalom,Women's Kayak Single,G
 AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
@@ -212,8 +216,6 @@ USA,BERKOFF Katharine,Swimming,Women's 4 x 100m Medley Relay,G
 USA,BERKOFF Katharine,Swimming,Women's 100m Backstroke,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Vault,B
 USA,CAREY Jade,Artistic Gymnastics,Women's Team,G
-CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
-CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Team,S
 ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
@@ -556,6 +558,7 @@ CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,ZHANG Zhizhen,Tennis,Mixed Doubles,S
 CHN,ZHOU Yaqin,Artistic Gymnastics,Women's Balance Beam,S
+COL,BARAJAS Angel,Artistic Gymnastics,Men's Horizontal Bar,S
 CRO,VEKIC Donna,Tennis,Women's Singles,S
 DEN,BACHMANN ANDERSEN Daniel,Equestrian,Dressage Team,S
 DEN,LAUDRUP-DUFOUR Cathrine,Equestrian,Dressage Team,S
@@ -987,6 +990,7 @@ TJK,BOLTAEV Davlat,Boxing,Men's 92kg,B
 TJK,MAKHMADBEKOV Somon,Judo,Men -81 kg,B
 TJK,RAKHIMOV Temur,Judo,Men +100 kg,B
 TPE,LEE Meng Yuan,Shooting,Skeet Men,B
+TPE,TANG Chia-Hung,Artistic Gymnastics,Men's Horizontal Bar,B
 TPE,WU Shih Yi,Boxing,Women's 60kg,B
 TUR,GAZOZ Mete,Archery,Men's Team,B
 TUR,TUMER Berkim,Archery,Men's Team,B
