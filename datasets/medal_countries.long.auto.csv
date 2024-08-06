@@ -9,7 +9,7 @@ JPN,Japan,gold,11
 ITA,Italy,gold,9
 NED,Netherlands,gold,8
 GER,Germany,gold,8
-CAN,Canada,gold,5
+CAN,Canada,gold,6
 NZL,New Zealand,gold,3
 HUN,Hungary,gold,3
 SWE,Sweden,gold,3
@@ -30,14 +30,15 @@ GEO,Georgia,gold,1
 KAZ,Kazakhstan,gold,1
 RSA,South Africa,gold,1
 KEN,Kenya,gold,1
+CHI,Chile,gold,1
 DEN,Denmark,gold,1
 TPE,Chinese Taipei,gold,1
 UZB,Uzbekistan,gold,1
+CUB,Cuba,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 ALG,Algeria,gold,1
 ARG,Argentina,gold,1
-CHI,Chile,gold,1
 DMA,Dominica,gold,1
 ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
@@ -66,7 +67,6 @@ MAS,Malaysia,gold,0
 MDA,Republic of Moldova,gold,0
 AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
-CUB,Cuba,gold,0
 EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
@@ -74,7 +74,7 @@ IRI,Islamic Republic of Iran,gold,0
 KGZ,Kyrgyzstan,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-USA,United States of America,silver,30
+USA,United States of America,silver,31
 CHN,People's Republic of China,silver,20
 AUS,Australia,silver,12
 FRA,France,silver,16
@@ -105,14 +105,15 @@ GEO,Georgia,silver,2
 KAZ,Kazakhstan,silver,1
 RSA,South Africa,silver,1
 KEN,Kenya,silver,1
+CHI,Chile,silver,1
 DEN,Denmark,silver,1
 TPE,Chinese Taipei,silver,0
 UZB,Uzbekistan,silver,0
+CUB,Cuba,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 ALG,Algeria,silver,0
 ARG,Argentina,silver,0
-CHI,Chile,silver,0
 DMA,Dominica,silver,0
 ECU,Ecuador,silver,0
 LCA,Saint Lucia,silver,0
@@ -141,7 +142,6 @@ MAS,Malaysia,silver,0
 MDA,Republic of Moldova,silver,0
 AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
-CUB,Cuba,silver,0
 EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
@@ -150,7 +150,7 @@ KGZ,Kyrgyzstan,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 USA,United States of America,bronze,29
-CHN,People's Republic of China,bronze,15
+CHN,People's Republic of China,bronze,16
 AUS,Australia,bronze,9
 FRA,France,bronze,19
 GBR,Great Britain,bronze,18
@@ -180,14 +180,15 @@ GEO,Georgia,bronze,1
 KAZ,Kazakhstan,bronze,2
 RSA,South Africa,bronze,2
 KEN,Kenya,bronze,1
+CHI,Chile,bronze,0
 DEN,Denmark,bronze,0
 TPE,Chinese Taipei,bronze,3
 UZB,Uzbekistan,bronze,2
+CUB,Cuba,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 ALG,Algeria,bronze,0
 ARG,Argentina,bronze,0
-CHI,Chile,bronze,0
 DMA,Dominica,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
@@ -216,7 +217,6 @@ MAS,Malaysia,bronze,2
 MDA,Republic of Moldova,bronze,2
 AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
-CUB,Cuba,bronze,1
 EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
