@@ -28,10 +28,11 @@ ESP,Spain,gold,1
 SUI,Switzerland,gold,1
 GEO,Georgia,gold,1
 KAZ,Kazakhstan,gold,1
-RSA,South Africa,gold,1
 KEN,Kenya,gold,1
+RSA,South Africa,gold,1
 CHI,Chile,gold,1
 DEN,Denmark,gold,1
+UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 UZB,Uzbekistan,gold,1
 CUB,Cuba,gold,1
@@ -39,12 +40,12 @@ CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 ALG,Algeria,gold,1
 ARG,Argentina,gold,1
+BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
 ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
 NOR,Norway,gold,1
 SLO,Slovenia,gold,1
-UGA,Uganda,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
 JAM,Jamaica,gold,0
 MEX,Mexico,gold,0
@@ -103,10 +104,11 @@ ESP,Spain,silver,3
 SUI,Switzerland,silver,2
 GEO,Georgia,silver,2
 KAZ,Kazakhstan,silver,1
-RSA,South Africa,silver,1
 KEN,Kenya,silver,1
+RSA,South Africa,silver,1
 CHI,Chile,silver,1
 DEN,Denmark,silver,1
+UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 UZB,Uzbekistan,silver,0
 CUB,Cuba,silver,0
@@ -114,12 +116,12 @@ CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 ALG,Algeria,silver,0
 ARG,Argentina,silver,0
+BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
 ECU,Ecuador,silver,0
 LCA,Saint Lucia,silver,0
 NOR,Norway,silver,0
 SLO,Slovenia,silver,0
-UGA,Uganda,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
 JAM,Jamaica,silver,2
 MEX,Mexico,silver,2
@@ -178,10 +180,11 @@ ESP,Spain,bronze,5
 SUI,Switzerland,bronze,4
 GEO,Georgia,bronze,1
 KAZ,Kazakhstan,bronze,2
+KEN,Kenya,bronze,2
 RSA,South Africa,bronze,2
-KEN,Kenya,bronze,1
 CHI,Chile,bronze,0
 DEN,Denmark,bronze,0
+UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,3
 UZB,Uzbekistan,bronze,2
 CUB,Cuba,bronze,1
@@ -189,12 +192,12 @@ CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 ALG,Algeria,bronze,0
 ARG,Argentina,bronze,0
+BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
 NOR,Norway,bronze,0
 SLO,Slovenia,bronze,0
-UGA,Uganda,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,3
 JAM,Jamaica,bronze,1
 MEX,Mexico,bronze,1
