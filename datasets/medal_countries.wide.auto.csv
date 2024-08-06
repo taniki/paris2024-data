@@ -1,6 +1,6 @@
 code,country,gold,silver,bronze
+CHN,People's Republic of China,22,19,14
 USA,United States of America,21,30,28
-CHN,People's Republic of China,21,18,14
 FRA,France,13,16,19
 AUS,Australia,13,12,8
 GBR,Great Britain,12,13,17
@@ -44,9 +44,9 @@ LCA,Saint Lucia,1,0,0
 NOR,Norway,1,0,0
 SLO,Slovenia,1,0,0
 UGA,Uganda,1,0,0
+PRK,Democratic People's Republic of Korea,0,2,2
 JAM,Jamaica,0,2,1
 MEX,Mexico,0,2,1
-PRK,Democratic People's Republic of Korea,0,2,1
 ETH,Ethiopia,0,2,0
 GRE,Greece,0,1,5
 POL,Poland,0,1,3

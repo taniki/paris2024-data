@@ -114,6 +114,8 @@ AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,JACK Shayna,Swimming,Women's 4 x 200m Freestyle Relay,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Road Race,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
+CHN,QUAN Hongchan,Diving,Women's Synchronised 10m Platform,G
+CHN,QUAN Hongchan,Diving,Women's 10m Platform,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Men,G
 FRA,RINER Teddy,Judo,Mixed Team,G
@@ -128,6 +130,8 @@ SWE,SJOESTROEM Sarah,Swimming,Women's 50m Freestyle,G
 SWE,SJOESTROEM Sarah,Swimming,Women's 100m Freestyle,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
+CHN,CHEN Yuxi,Diving,Women's Synchronised 10m Platform,G
+CHN,CHEN Yuxi,Diving,Women's 10m Platform,S
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
 CHN,HUANG Yuting,Shooting,10m Air Rifle Women,S
 CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
@@ -258,6 +262,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
+PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
+PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
 USA,ELLISON Brady,Archery,Mixed Team,B
 USA,FOSTER Carson,Swimming,Men's 400m Individual Medley,B
@@ -317,7 +323,6 @@ CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Meng,Table Tennis,Women's Singles,G
 CHN,CHEN Qing Chen,Badminton,Women's Doubles,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
-CHN,CHEN Yuxi,Diving,Women's Synchronised 10m Platform,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
 CHN,FAN Zhendong,Table Tennis,Men's Singles,G
 CHN,HUANG Ya Qiong,Badminton,Mixed Doubles,G
@@ -326,7 +331,6 @@ CHN,LI Yuehong,Shooting,25m Rapid Fire Pistol Men,G
 CHN,LIAN Junjie,Diving,Men's Synchronised 10m Platform,G
 CHN,LIU Yukun,Shooting,50m Rifle 3 Positions Men,G
 CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
-CHN,QUAN Hongchan,Diving,Women's Synchronised 10m Platform,G
 CHN,SUN Jiajun,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Changhao,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
@@ -756,7 +760,6 @@ NZL,WILDE Hayden,Triathlon,Men's Individual,S
 POL,ZWOLINSKA Klaudia,Canoe Slalom,Women's Kayak Single,S
 PRK,JO Jin Mi,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Kum Yong,Table Tennis,Mixed Doubles,S
-PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,RI Jong Sik,Table Tennis,Mixed Doubles,S
 ROU,COZMIUC Ionela Livia,Rowing,Lightweight Women's Double Sculls,S
 ROU,van GRONINGEN Gianina Elena,Rowing,Lightweight Women's Double Sculls,S

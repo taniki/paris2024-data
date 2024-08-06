@@ -31,6 +31,7 @@ CHN,ZHANG Boheng,0,2,1
 AUS,FOX Jessica,2,0,0
 AUS,JACK Shayna,2,0,0
 BEL,EVENEPOEL Remco,2,0,0
+CHN,QUAN Hongchan,2,0,0
 CHN,SHENG Lihao,2,0,0
 FRA,RINER Teddy,2,0,0
 GER,von BREDOW-WERNDL Jessica,2,0,0
@@ -38,6 +39,7 @@ KOR,OH Sanguk,2,0,0
 PHI,YULO Carlos Edriel,2,0,0
 SWE,SJOESTROEM Sarah,2,0,0
 USA,KIEFER Lee,2,0,0
+CHN,CHEN Yuxi,1,1,0
 CHN,HUANG Yuting,1,1,0
 CHN,LIU Yang,1,1,0
 CHN,QIN Haiyang,1,1,0
@@ -103,6 +105,7 @@ JPN,HASHIMOTO Soichi,0,1,1
 JPN,NAGAYAMA Ryuju,0,1,1
 KOR,HUH Mimi,0,1,1
 KOR,KIM Minjong,0,1,1
+PRK,KIM Mi Rae,0,1,1
 USA,ELLISON Brady,0,1,1
 USA,FOSTER Carson,0,1,1
 USA,HOBSON Luke,0,1,1
@@ -144,7 +147,6 @@ CHN,CHANG Yani,1,0,0
 CHN,CHEN Meng,1,0,0
 CHN,CHEN Qing Chen,1,0,0
 CHN,CHEN Yiwen,1,0,0
-CHN,CHEN Yuxi,1,0,0
 CHN,DENG Yawen,1,0,0
 CHN,FAN Zhendong,1,0,0
 CHN,HUANG Ya Qiong,1,0,0
@@ -153,7 +155,6 @@ CHN,LI Yuehong,1,0,0
 CHN,LIAN Junjie,1,0,0
 CHN,LIU Yukun,1,0,0
 CHN,LONG Daoyi,1,0,0
-CHN,QUAN Hongchan,1,0,0
 CHN,SUN Jiajun,1,0,0
 CHN,WANG Changhao,1,0,0
 CHN,WANG Chuqin,1,0,0
@@ -583,7 +584,6 @@ NZL,WILDE Hayden,0,1,0
 POL,ZWOLINSKA Klaudia,0,1,0
 PRK,JO Jin Mi,0,1,0
 PRK,KIM Kum Yong,0,1,0
-PRK,KIM Mi Rae,0,1,0
 PRK,RI Jong Sik,0,1,0
 ROU,COZMIUC Ionela Livia,0,1,0
 ROU,van GRONINGEN Gianina Elena,0,1,0
