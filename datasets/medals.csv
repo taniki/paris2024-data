@@ -164,6 +164,8 @@ JPN,TSUNODA Natsumi,Judo,Women -48 kg,G
 JPN,TSUNODA Natsumi,Judo,Mixed Team,S
 KOR,NAM Suhyeon,Archery,Women's Individual,S
 KOR,NAM Suhyeon,Archery,Women's Team,G
+LCA,ALFRED Julien,Athletics,Women's 200m,S
+LCA,ALFRED Julien,Athletics,Women's 100m,G
 ROU,ANGHEL Roxana,Rowing,Women's Eight,G
 ROU,ANGHEL Roxana,Rowing,Women's Pair,S
 ROU,BODNAR Ancuta,Rowing,Women's Eight,G
@@ -470,7 +472,6 @@ KOR,KIM Je Deok,Archery,Men's Team,G
 KOR,OH Ye Jin,Shooting,10m Air Pistol Women,G
 KOR,PARK Sangwon,Fencing,Men's Sabre Team,G
 KOR,YANG Jiin,Shooting,25m Pistol Women,G
-LCA,ALFRED Julien,Athletics,Women's 100m,G
 NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOONSTRA Benthe,Rowing,Women's Four,G
 NED,CLEVERING Ymkje,Rowing,Women's Pair,G
@@ -548,6 +549,7 @@ USA,MARKS Caroline,Surfing,Women,G
 USA,MEAD Nick,Rowing,Men's Four,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
 USA,SCHEFFLER Scottie,Golf,Men's Individual Stroke Play,G
+USA,THOMAS Gabrielle,Athletics,Women's 200m,G
 USA,WEBER Emma,Swimming,Women's 4 x 100m Medley Relay,G
 USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
@@ -1010,6 +1012,7 @@ JPN,MATSUYAMA Hideki,Golf,Men's Individual Stroke Play,B
 JPN,MATSUYAMA Nami,Badminton,Women's Doubles,B
 JPN,MIYAWAKI Karin,Fencing,Women's Foil Team,B
 JPN,OIWA Yoshiaki,Equestrian,Eventing Team,B
+JPN,OZAKI Nonoka,Wrestling,Women's Freestyle 68kg,B
 JPN,OZAKI Seri,Fencing,Women's Sabre Team,B
 JPN,SHIDA Chiharu,Badminton,Women's Doubles,B
 JPN,TAKASHIMA Risa,Fencing,Women's Sabre Team,B
@@ -1105,6 +1108,7 @@ TUR,YILDIRMIS Abdullah,Archery,Men's Team,B
 UKR,GERASHCHENKO Iryna,Athletics,Women's High Jump,B
 UKR,KOKHAN Mykhaylo,Athletics,Men's Hammer Throw,B
 USA,BARROWS Ian,Sailing,Men's Skiff,B
+USA,BROWN Brittany,Athletics,Women's 200m,B
 USA,BURDICK Cierra,3x3 Basketball,Women,B
 USA,CANETT Kayla,Rugby Sevens,Women,B
 USA,CARLSON Chris,Rowing,Men's Eight,B
@@ -1122,6 +1126,7 @@ USA,HOWARD Rhyne,3x3 Basketball,Women,B
 USA,HUSTON Nyjah,Skateboarding,Men's Street,B
 USA,ITKIN Nick,Fencing,Men's Foil Individual,B
 USA,JEFFERSON Melissa,Athletics,Women's 100m,B
+USA,JONES Omari,Boxing,Men's 71kg,B
 USA,JUDA Paul,Artistic Gymnastics,Men's Team,B
 USA,KAUFHOLD Casey,Archery,Mixed Team,B
 USA,KELTER Alev,Rugby Sevens,Women,B
