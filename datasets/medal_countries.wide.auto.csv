@@ -1,6 +1,6 @@
 code,country,gold,silver,bronze
+USA,United States of America,21,30,28
 CHN,People's Republic of China,21,18,14
-USA,United States of America,20,30,28
 FRA,France,13,16,19
 AUS,Australia,13,12,8
 GBR,Great Britain,12,13,17
@@ -15,7 +15,7 @@ HUN,Hungary,3,3,2
 SWE,Sweden,3,3,2
 ROU,Romania,3,3,1
 IRL,Ireland,3,0,3
-BRA,Brazil,2,4,6
+BRA,Brazil,2,5,6
 UKR,Ukraine,2,2,3
 CRO,Croatia,2,1,2
 BEL,Belgium,2,0,3
