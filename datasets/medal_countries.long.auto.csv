@@ -20,8 +20,8 @@ UKR,Ukraine,gold,2
 CRO,Croatia,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
-AZE,Azerbaijan,gold,2
 PHI,Philippines,gold,2
+AZE,Azerbaijan,gold,2
 SRB,Serbia,gold,2
 ISR,Israel,gold,1
 ESP,Spain,gold,1
@@ -96,8 +96,8 @@ UKR,Ukraine,silver,2
 CRO,Croatia,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
-AZE,Azerbaijan,silver,0
 PHI,Philippines,silver,0
+AZE,Azerbaijan,silver,0
 SRB,Serbia,silver,0
 ISR,Israel,silver,4
 ESP,Spain,silver,3
@@ -172,8 +172,8 @@ UKR,Ukraine,bronze,3
 CRO,Croatia,bronze,2
 BEL,Belgium,bronze,3
 HKG,"Hong Kong, China",bronze,2
+PHI,Philippines,bronze,1
 AZE,Azerbaijan,bronze,0
-PHI,Philippines,bronze,0
 SRB,Serbia,bronze,0
 ISR,Israel,bronze,1
 ESP,Spain,bronze,5
