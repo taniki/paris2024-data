@@ -1,5 +1,5 @@
 code,country,medal,quantity
-USA,United States of America,gold,23
+USA,United States of America,gold,24
 CHN,People's Republic of China,gold,22
 AUS,Australia,gold,14
 FRA,France,gold,13
@@ -53,6 +53,7 @@ MEX,Mexico,gold,0
 ETH,Ethiopia,gold,0
 POL,Poland,gold,0
 TUR,Türkiye,gold,0
+KGZ,Kyrgyzstan,gold,0
 KOS,Kosovo,gold,0
 ARM,Armenia,gold,0
 COL,Colombia,gold,0
@@ -72,7 +73,6 @@ EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
 IRI,Islamic Republic of Iran,gold,0
-KGZ,Kyrgyzstan,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 USA,United States of America,silver,31
@@ -129,6 +129,7 @@ MEX,Mexico,silver,2
 ETH,Ethiopia,silver,2
 POL,Poland,silver,1
 TUR,Türkiye,silver,1
+KGZ,Kyrgyzstan,silver,1
 KOS,Kosovo,silver,1
 ARM,Armenia,silver,1
 COL,Colombia,silver,1
@@ -148,7 +149,6 @@ EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
 IRI,Islamic Republic of Iran,silver,0
-KGZ,Kyrgyzstan,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 USA,United States of America,bronze,31
@@ -205,6 +205,7 @@ MEX,Mexico,bronze,1
 ETH,Ethiopia,bronze,0
 POL,Poland,bronze,3
 TUR,Türkiye,bronze,2
+KGZ,Kyrgyzstan,bronze,1
 KOS,Kosovo,bronze,1
 ARM,Armenia,bronze,0
 COL,Colombia,bronze,0
@@ -224,6 +225,5 @@ EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
 IRI,Islamic Republic of Iran,bronze,1
-KGZ,Kyrgyzstan,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
