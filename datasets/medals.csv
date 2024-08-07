@@ -140,6 +140,10 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
+ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
+ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
+ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
+ESP,PEREZ Maria,Athletics,Marathon Race Walk Relay Mixed,G
 FRA,GABA Joan-Benjamin,Judo,Men -73 kg,S
 FRA,GABA Joan-Benjamin,Judo,Mixed Team,G
 FRA,MKHEIDZE Luka,Judo,Men -60 kg,S
@@ -196,6 +200,8 @@ USA,WEITZEIL Abbey,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,WEITZEIL Abbey,Swimming,Mixed 4 x 100m Medley Relay,G
 BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 BRA,SOUZA Beatriz,Judo,Mixed Team,B
+ESP,MARTIN Alvaro,Athletics,Men's 20km Race Walk,B
+ESP,MARTIN Alvaro,Athletics,Marathon Race Walk Relay Mixed,G
 FRA,AGBEGNENOU Clarisse,Judo,Women -63 kg,B
 FRA,AGBEGNENOU Clarisse,Judo,Mixed Team,G
 FRA,BOUKLI Shirine,Judo,Women -48 kg,B
@@ -276,6 +282,8 @@ USA,MADDEN Paige,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,MADDEN Paige,Swimming,Women's 800m Freestyle,B
 USA,SMITH Austen Jewell,Shooting,Skeet Mixed Team,S
 USA,SMITH Austen Jewell,Shooting,Skeet Women,B
+AUS,MONTAG Jemima,Athletics,Women's 20km Race Walk,B
+AUS,MONTAG Jemima,Athletics,Marathon Race Walk Relay Mixed,B
 BRA,PIMENTA Larissa,Judo,Women -52 kg,B
 BRA,PIMENTA Larissa,Judo,Mixed Team,B
 CAN,KHARUN Ilya,Swimming,Men's 200m Butterfly,B
@@ -353,7 +361,6 @@ CZE,MACHAC Tomas,Tennis,Mixed Doubles,G
 CZE,SINIAKOVA Katerina,Tennis,Mixed Doubles,G
 DEN,AXELSEN Viktor,Badminton,Men's Singles,G
 DMA,LAFOND Thea,Athletics,Women's Triple Jump,G
-ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ESP,BOTIN le CHEVER Diego,Sailing,Men's Skiff,G
 ESP,TRITTEL PAUL Florian,Sailing,Men's Skiff,G
 FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
@@ -619,11 +626,11 @@ CRO,VEKIC Donna,Tennis,Women's Singles,S
 DEN,BACHMANN ANDERSEN Daniel,Equestrian,Dressage Team,S
 DEN,LAUDRUP-DUFOUR Cathrine,Equestrian,Dressage Team,S
 DEN,SKODBORG MERRALD Nanna,Equestrian,Dressage Team,S
+ECU,MOREJON Glenda,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,ALCARAZ Carlos,Tennis,Men's Singles,S
 ESP,ALONSO Gracia,3x3 Basketball,Women,S
 ESP,CAMILION Juana,3x3 Basketball,Women,S
 ESP,GIMENO Vega,3x3 Basketball,Women,S
-ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
 ESP,YGUERAVIDE Sandra,3x3 Basketball,Women,S
 ETH,AREGAWI Berihu,Athletics,"Men's 10,000m",S
 ETH,DUGUMA Tsige,Athletics,Women's 800m,S
@@ -834,13 +841,13 @@ USA,SMITH Kieran,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SPIVEY Taylor,Triathlon,Mixed Relay,S
 USA,WARD McLain,Equestrian,Jumping Team,S
 USA,WEINSTEIN Claire,Swimming,Women's 4 x 200m Freestyle Relay,S
+AUS,COWLEY Rhydian,Athletics,Marathon Race Walk Relay Mixed,B
 AUS,DIEHM Natalya,Cycling BMX Freestyle,Women's Park,B
 AUS,GIULIANI Maximillian,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,GLAETZER Matthew,Cycling Track,Men's Team Sprint,B
 AUS,HOFFMAN Leigh,Cycling Track,Men's Team Sprint,B
 AUS,INCERTI Zac,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,McINTYRE Annabelle,Rowing,Women's Pair,B
-AUS,MONTAG Jemima,Athletics,Women's 20km Race Walk,B
 AUS,MORRISON Jess,Rowing,Women's Pair,B
 AUS,NEILL Thomas,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,PATTERSON Eleanor,Athletics,Women's High Jump,B
@@ -905,7 +912,6 @@ EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
 ESP,BUCSA Cristina,Tennis,Women's Doubles,B
 ESP,ECHANIZ Pau,Canoe Slalom,Men's Kayak Single,B
 ESP,GARRIGOS Francisco,Judo,Men -60 kg,B
-ESP,MARTIN Alvaro,Athletics,Men's 20km Race Walk,B
 ESP,REYES PLA Enmanuel,Boxing,Men's 92kg,B
 ESP,SORRIBES TORMO Sara,Tennis,Women's Doubles,B
 FRA,APITHY Bolade,Fencing,Men's Sabre Team,B
