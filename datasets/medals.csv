@@ -344,12 +344,15 @@ CAN,DEGUCHI Christa,Judo,Women -57 kg,G
 CAN,KATZBERG Ethan,Athletics,Men's Hammer Throw,G
 CAN,ROGERS Camryn,Athletics,Women's Hammer Throw,G
 CHI,CROVETTO CHADID Francisca,Shooting,Skeet Women,G
+CHN,CHANG Hao,Artistic Swimming,Team,G
 CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Meng,Table Tennis,Women's Singles,G
 CHN,CHEN Qing Chen,Badminton,Women's Doubles,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
+CHN,CHENG Wentao,Artistic Swimming,Team,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
 CHN,FAN Zhendong,Table Tennis,Men's Singles,G
+CHN,FENG Yu,Artistic Swimming,Team,G
 CHN,HUANG Ya Qiong,Badminton,Mixed Doubles,G
 CHN,JIA Yi Fan,Badminton,Women's Doubles,G
 CHN,LI Fabin,Weightlifting,Men's 61kg,G
@@ -360,10 +363,16 @@ CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
 CHN,SUN Jiajun,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Changhao,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
+CHN,WANG Ciyue,Artistic Swimming,Team,G
+CHN,WANG Liuyi,Artistic Swimming,Team,G
+CHN,WANG Qianyi,Artistic Swimming,Team,G
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,XIANG Binxuan,Artistic Swimming,Team,G
+CHN,XIAO Yanning,Artistic Swimming,Team,G
 CHN,XIE Yu,Shooting,10m Air Pistol Men,G
 CHN,YANG Hao,Diving,Men's Synchronised 10m Platform,G
 CHN,YANG Jiayu,Athletics,Women's 20km Race Walk,G
+CHN,ZHANG Yayi,Artistic Swimming,Team,G
 CHN,ZHENG Qinwen,Tennis,Women's Singles,G
 CHN,ZHENG Si Wei,Badminton,Mixed Doubles,G
 CRO,MATIC Barbara,Judo,Women -70 kg,G
@@ -837,6 +846,7 @@ TUR,TARHAN Sevval Ilayda,Shooting,10m Air Pistol Mixed Team,S
 UGA,CHEMUTAI Peruth,Athletics,Women's 3000m Steeplechase,S
 UKR,KOVTUN Illia,Artistic Gymnastics,Men's Parallel Bars,S
 UKR,KULISH Serhiy,Shooting,50m Rifle 3 Positions Men,S
+USA,ALVAREZ Anita,Artistic Swimming,Team,S
 USA,BACON Sarah,Diving,Women's Synchronised 3m Springboard,S
 USA,BATTEN Haley,Cycling Mountain Bike,Women's Cross-country,S
 USA,BENEGAS Perris,Cycling BMX Freestyle,Women's Park,S
@@ -845,19 +855,25 @@ USA,CONNOLLY Erika,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,COOK Karl,Equestrian,Jumping Team,S
 USA,COOK Kassidy,Diving,Women's Synchronised 3m Springboard,S
 USA,CURRY Brooks,Swimming,Men's 4 x 200m Freestyle Relay,S
+USA,CZARKOWSKI Jaime,Artistic Swimming,Team,S
 USA,DEADMON Bryce,Athletics,4 x 400m Relay Mixed,S
 USA,EATON Jagger,Skateboarding,Men's Street,S
 USA,ECHIKUNWOKE Annette Nneka,Athletics,Women's Hammer Throw,S
+USA,FIELD Megumi,Artistic Swimming,Team,S
 USA,GEMMELL Erin,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,GRIMES Katie,Swimming,Women's 400m Individual Medley,S
 USA,HEILMAN Thomas,Swimming,Men's 4 x 100m Medley Relay,S
+USA,HUNTER Keana,Artistic Swimming,Team,S
 USA,KENDRICKS Sam,Athletics,Men's Pole Vault,S
 USA,KIBLER Drew,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,KNIBB Taylor,Triathlon,Mixed Relay,S
 USA,KOVACS Joe,Athletics,Men's Shot Put,S
 USA,KRAJICEK Austin,Tennis,Men's Doubles,S
 USA,KRAUT Laura,Equestrian,Jumping Team,S
+USA,KWON Audrey,Artistic Swimming,Team,S
 USA,LITTLE Shamier,Athletics,4 x 400m Relay Mixed,S
+USA,LIU Calista,Artistic Swimming,Team,S
+USA,LUU Jacklyn,Artistic Swimming,Team,S
 USA,MADDALENA Sagen,Shooting,50m Rifle 3 Positions Women,S
 USA,NORWOOD Vernon,Athletics,4 x 400m Relay Mixed,S
 USA,PEARSON Morgan,Triathlon,Mixed Relay,S
@@ -865,6 +881,8 @@ USA,PEPLOWSKI Anna,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,PIERONI Blake,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,PRINCE Conner Lynn,Shooting,Skeet Men,S
 USA,RAM Rajeev,Tennis,Men's Doubles,S
+USA,RAMIREZ Daniella,Artistic Swimming,Team,S
+USA,REMATI Ruby,Artistic Swimming,Team,S
 USA,RICHARDSON Sha'carri,Athletics,Women's 100m,S
 USA,RIDER Seth,Triathlon,Mixed Relay,S
 USA,SCHAAR Tom,Skateboarding,Men's Park,S
@@ -935,6 +953,7 @@ CPV,de PINA David,Boxing,Men's 51kg,B
 CRO,ELKASEVIC Sandra,Athletics,Women's Discus Throw,B
 CRO,MARICIC Miran,Shooting,10m Air Rifle Men,B
 CUB,LOPEZ CARDONA Arlen,Boxing,Men's 80kg,B
+CUB,ROSILLO KINDELAN Gabriel Alejandro,Wrestling,Men's Greco-Roman 97kg,B
 CZE,BERAN Jiri,Fencing,Men's Épée Team,B
 CZE,CUPR Michal,Fencing,Men's Épée Team,B
 CZE,JURKA Jakub,Fencing,Men's Épée Team,B
@@ -944,9 +963,18 @@ DOM,PINALES Cristian Javier,Boxing,Men's 80kg,B
 EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
 ESP,BUCSA Cristina,Tennis,Women's Doubles,B
 ESP,ECHANIZ Pau,Canoe Slalom,Men's Kayak Single,B
+ESP,FERRE GASET Txell,Artistic Swimming,Team,B
+ESP,GARCIA POLO Marina,Artistic Swimming,Team,B
 ESP,GARRIGOS Francisco,Judo,Men -60 kg,B
+ESP,LLUIS VALETTE Lilou,Artistic Swimming,Team,B
+ESP,MAS PUJADAS Meritxell,Artistic Swimming,Team,B
+ESP,OZHOGINA OZHOGIN Alisa,Artistic Swimming,Team,B
+ESP,RAMIREZ IBANEZ Paula,Artistic Swimming,Team,B
 ESP,REYES PLA Enmanuel,Boxing,Men's 92kg,B
+ESP,SALDANA LOPEZ Sara,Artistic Swimming,Team,B
 ESP,SORRIBES TORMO Sara,Tennis,Women's Doubles,B
+ESP,TIO CASAS Iris,Artistic Swimming,Team,B
+ESP,TOLEDANO LAUT Blanca,Artistic Swimming,Team,B
 FRA,APITHY Bolade,Fencing,Men's Sabre Team,B
 FRA,BARBELIN Lisa,Archery,Women's Individual,B
 FRA,BERGERE Leo,Triathlon,Men's Individual,B
@@ -969,6 +997,7 @@ FRA,PAUTY Maxime,Fencing,Men's Foil Team,B
 FRA,PERREAU Olivier,Equestrian,Jumping Team,B
 FRA,PIANFETTI Maxime,Fencing,Men's Sabre Team,B
 FRA,PICON Charline,Sailing,Women's Skiff,B
+FRA,RAVET Cyrian,Taekwondo,Men -58kg,B
 FRA,SECCHI Clement,Swimming,Men's 4 x 100m Medley Relay,B
 FRA,STEYAERT Sarah,Sailing,Women's Skiff,B
 GBR,ALDRIDGE Matt,Rowing,Men's Four,B
@@ -1035,6 +1064,7 @@ INA,TUNJUNG Gregoria Mariska,Badminton,Women's Singles,B
 IND,KUSALE Swapnil,Shooting,50m Rifle 3 Positions Men,B
 IND,SINGH Sarabjot,Shooting,10m Air Pistol Mixed Team,B
 IRI,MIRZAZADEH Amin,Wrestling,Men's Greco-Roman 130kg,B
+IRI,NEMATZADEH Mobina,Taekwondo,Women -49kg,B
 IRL,DOYLE Philip,Rowing,Men's Double Sculls,B
 IRL,LYNCH Daire,Rowing,Men's Double Sculls,B
 IRL,Mc SHARRY Mona,Swimming,Women's 100m Breaststroke,B
