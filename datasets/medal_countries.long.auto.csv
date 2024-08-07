@@ -1,7 +1,7 @@
 code,country,medal,quantity
 USA,United States of America,gold,24
 CHN,People's Republic of China,gold,22
-AUS,Australia,gold,14
+AUS,Australia,gold,15
 FRA,France,gold,13
 GBR,Great Britain,gold,12
 KOR,Republic of Korea,gold,11
@@ -58,6 +58,7 @@ KOS,Kosovo,gold,0
 THA,Thailand,gold,0
 ARM,Armenia,gold,0
 COL,Colombia,gold,0
+CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
 MGL,Mongolia,gold,0
 TUN,Tunisia,gold,0
@@ -73,6 +74,7 @@ EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
 IRI,Islamic Republic of Iran,gold,0
+PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 USA,United States of America,silver,31
@@ -134,6 +136,7 @@ KOS,Kosovo,silver,1
 THA,Thailand,silver,1
 ARM,Armenia,silver,1
 COL,Colombia,silver,1
+CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
 MGL,Mongolia,silver,1
 TUN,Tunisia,silver,1
@@ -149,6 +152,7 @@ EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
 IRI,Islamic Republic of Iran,silver,0
+PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 USA,United States of America,bronze,31
@@ -210,6 +214,7 @@ KOS,Kosovo,bronze,1
 THA,Thailand,bronze,1
 ARM,Armenia,bronze,0
 COL,Colombia,bronze,0
+CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
 MGL,Mongolia,bronze,0
 TUN,Tunisia,bronze,0
@@ -225,5 +230,6 @@ EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
 IRI,Islamic Republic of Iran,bronze,1
+PER,Peru,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
