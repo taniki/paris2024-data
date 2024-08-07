@@ -1,6 +1,6 @@
 code,country,medal,quantity
 USA,United States of America,gold,24
-CHN,People's Republic of China,gold,22
+CHN,People's Republic of China,gold,23
 AUS,Australia,gold,15
 FRA,France,gold,13
 GBR,Great Britain,gold,12
@@ -51,11 +51,11 @@ SLO,Slovenia,gold,1
 JAM,Jamaica,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 MEX,Mexico,gold,0
+THA,Thailand,gold,0
 ETH,Ethiopia,gold,0
 TUR,Türkiye,gold,0
 KGZ,Kyrgyzstan,gold,0
 KOS,Kosovo,gold,0
-THA,Thailand,gold,0
 ARM,Armenia,gold,0
 COL,Colombia,gold,0
 CYP,Cyprus,gold,0
@@ -129,11 +129,11 @@ SLO,Slovenia,silver,0
 JAM,Jamaica,silver,3
 PRK,Democratic People's Republic of Korea,silver,2
 MEX,Mexico,silver,2
+THA,Thailand,silver,2
 ETH,Ethiopia,silver,2
 TUR,Türkiye,silver,1
 KGZ,Kyrgyzstan,silver,1
 KOS,Kosovo,silver,1
-THA,Thailand,silver,1
 ARM,Armenia,silver,1
 COL,Colombia,silver,1
 CYP,Cyprus,silver,1
@@ -155,7 +155,7 @@ IRI,Islamic Republic of Iran,silver,0
 PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
-USA,United States of America,bronze,31
+USA,United States of America,bronze,32
 CHN,People's Republic of China,bronze,16
 AUS,Australia,bronze,10
 FRA,France,bronze,19
@@ -207,11 +207,11 @@ SLO,Slovenia,bronze,0
 JAM,Jamaica,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,3
 MEX,Mexico,bronze,1
+THA,Thailand,bronze,1
 ETH,Ethiopia,bronze,0
 TUR,Türkiye,bronze,2
 KGZ,Kyrgyzstan,bronze,1
 KOS,Kosovo,bronze,1
-THA,Thailand,bronze,1
 ARM,Armenia,bronze,0
 COL,Colombia,bronze,0
 CYP,Cyprus,bronze,0
