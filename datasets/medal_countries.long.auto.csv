@@ -28,6 +28,7 @@ ISR,Israel,gold,1
 SUI,Switzerland,gold,1
 GEO,Georgia,gold,1
 GRE,Greece,gold,1
+POL,Poland,gold,1
 KAZ,Kazakhstan,gold,1
 KEN,Kenya,gold,1
 RSA,South Africa,gold,1
@@ -51,7 +52,6 @@ JAM,Jamaica,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 MEX,Mexico,gold,0
 ETH,Ethiopia,gold,0
-POL,Poland,gold,0
 TUR,Türkiye,gold,0
 KGZ,Kyrgyzstan,gold,0
 KOS,Kosovo,gold,0
@@ -76,7 +76,7 @@ IRI,Islamic Republic of Iran,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 USA,United States of America,silver,31
-CHN,People's Republic of China,silver,21
+CHN,People's Republic of China,silver,22
 AUS,Australia,silver,12
 FRA,France,silver,16
 GBR,Great Britain,silver,15
@@ -104,6 +104,7 @@ ISR,Israel,silver,4
 SUI,Switzerland,silver,2
 GEO,Georgia,silver,2
 GRE,Greece,silver,1
+POL,Poland,silver,1
 KAZ,Kazakhstan,silver,1
 KEN,Kenya,silver,1
 RSA,South Africa,silver,1
@@ -127,7 +128,6 @@ JAM,Jamaica,silver,3
 PRK,Democratic People's Republic of Korea,silver,2
 MEX,Mexico,silver,2
 ETH,Ethiopia,silver,2
-POL,Poland,silver,1
 TUR,Türkiye,silver,1
 KGZ,Kyrgyzstan,silver,1
 KOS,Kosovo,silver,1
@@ -180,6 +180,7 @@ ISR,Israel,bronze,1
 SUI,Switzerland,bronze,4
 GEO,Georgia,bronze,1
 GRE,Greece,bronze,5
+POL,Poland,bronze,4
 KAZ,Kazakhstan,bronze,3
 KEN,Kenya,bronze,2
 RSA,South Africa,bronze,2
@@ -203,7 +204,6 @@ JAM,Jamaica,bronze,1
 PRK,Democratic People's Republic of Korea,bronze,3
 MEX,Mexico,bronze,1
 ETH,Ethiopia,bronze,0
-POL,Poland,bronze,3
 TUR,Türkiye,bronze,2
 KGZ,Kyrgyzstan,bronze,1
 KOS,Kosovo,bronze,1
