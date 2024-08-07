@@ -50,14 +50,15 @@ ALG,Algeria,gold,1
 ARG,Argentina,gold,1
 BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
+MAR,Morocco,gold,1
 SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
 ARM,Armenia,gold,0
 MEX,Mexico,gold,0
 ETH,Ethiopia,gold,0
 KGZ,Kyrgyzstan,gold,0
-LTU,Lithuania,gold,0
 TUR,Türkiye,gold,0
+LTU,Lithuania,gold,0
 KOS,Kosovo,gold,0
 TUN,Tunisia,gold,0
 COL,Colombia,gold,0
@@ -78,7 +79,7 @@ PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
-USA,United States of America,silver,34
+USA,United States of America,silver,35
 CHN,People's Republic of China,silver,23
 AUS,Australia,silver,12
 FRA,France,silver,16
@@ -129,14 +130,15 @@ ALG,Algeria,silver,0
 ARG,Argentina,silver,0
 BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
+MAR,Morocco,silver,0
 SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
 ARM,Armenia,silver,2
 MEX,Mexico,silver,2
 ETH,Ethiopia,silver,2
 KGZ,Kyrgyzstan,silver,1
-LTU,Lithuania,silver,1
 TUR,Türkiye,silver,1
+LTU,Lithuania,silver,1
 KOS,Kosovo,silver,1
 TUN,Tunisia,silver,1
 COL,Colombia,silver,1
@@ -191,7 +193,7 @@ GEO,Georgia,bronze,1
 DEN,Denmark,bronze,0
 GRE,Greece,bronze,5
 POL,Poland,bronze,4
-KEN,Kenya,bronze,2
+KEN,Kenya,bronze,3
 RSA,South Africa,bronze,2
 CHI,Chile,bronze,0
 ECU,Ecuador,bronze,0
@@ -208,14 +210,15 @@ ALG,Algeria,bronze,0
 ARG,Argentina,bronze,0
 BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
+MAR,Morocco,bronze,0
 SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,3
 ARM,Armenia,bronze,1
 MEX,Mexico,bronze,1
 ETH,Ethiopia,bronze,0
 KGZ,Kyrgyzstan,bronze,3
+TUR,Türkiye,bronze,3
 LTU,Lithuania,bronze,2
-TUR,Türkiye,bronze,2
 KOS,Kosovo,bronze,1
 TUN,Tunisia,bronze,1
 COL,Colombia,bronze,0
