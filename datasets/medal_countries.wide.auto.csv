@@ -1,9 +1,9 @@
 code,country,gold,silver,bronze
-USA,United States of America,24,32,32
+USA,United States of America,25,32,32
 CHN,People's Republic of China,23,22,16
 AUS,Australia,17,12,10
 FRA,France,13,16,19
-GBR,Great Britain,12,16,19
+GBR,Great Britain,12,16,20
 KOR,Republic of Korea,11,8,7
 JPN,Japan,11,6,12
 ITA,Italy,9,10,8
@@ -11,7 +11,7 @@ NED,Netherlands,9,5,6
 GER,Germany,8,5,4
 CAN,Canada,6,4,8
 IRL,Ireland,4,0,3
-NZL,New Zealand,3,5,1
+NZL,New Zealand,3,6,1
 HUN,Hungary,3,3,2
 SWE,Sweden,3,3,2
 ROU,Romania,3,3,1
