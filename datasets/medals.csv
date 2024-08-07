@@ -574,6 +574,7 @@ USA,CROUSER Ryan,Athletics,Men's Shot Put,G
 USA,DUBROVICH Jacqueline,Fencing,Women's Foil Team,G
 USA,ELOR Amit,Wrestling,Women's Freestyle 68kg,G
 USA,GRADY Michael,Rowing,Men's Four,G
+USA,HALL Quincy,Athletics,Men's 400m,G
 USA,HELD Ryan,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,HOCKER Cole,Athletics,Men's 1500m,G
 USA,KING Lilly,Swimming,Women's 4 x 100m Medley Relay,G
@@ -712,6 +713,7 @@ GBR,GEORGE Tom,Rowing,Men's Pair,S
 GBR,GLOVER Helen,Rowing,Women's Four,S
 GBR,HAYTER Ethan,Cycling Track,Men's Team Pursuit,S
 GBR,HENDERSON Anna,Cycling Road,Women's Individual Time Trial,S
+GBR,HUDSON-SMITH Matthew,Athletics,Men's 400m,S
 GBR,KERR Josh,Athletics,Men's 1500m,S
 GBR,LOWE Ed,Cycling Track,Men's Team Sprint,S
 GBR,PEATY Adam,Swimming,Men's 100m Breaststroke,S
@@ -1099,6 +1101,7 @@ JPN,OIWA Yoshiaki,Equestrian,Eventing Team,B
 JPN,OZAKI Nonoka,Wrestling,Women's Freestyle 68kg,B
 JPN,OZAKI Seri,Fencing,Women's Sabre Team,B
 JPN,SHIDA Chiharu,Badminton,Women's Doubles,B
+JPN,SUSAKI Yui,Wrestling,Women's Freestyle 50kg,B
 JPN,TAKASHIMA Risa,Fencing,Women's Sabre Team,B
 JPN,TANAKA Toshiyuki,Equestrian,Eventing Team,B
 JPN,TOMOTO Kazuma,Equestrian,Eventing Team,B
@@ -1194,6 +1197,7 @@ TPE,CHEN Nien Chin,Boxing,Women's 66kg,B
 TPE,LEE Meng Yuan,Shooting,Skeet Men,B
 TPE,TANG Chia-Hung,Artistic Gymnastics,Men's Horizontal Bar,B
 TPE,WU Shih Yi,Boxing,Women's 60kg,B
+TUN,JENDOUBI Mohamed Khalil,Taekwondo,Men -58kg,B
 TUR,CAVUSOGLU TOSUN Buse,Wrestling,Women's Freestyle 68kg,B
 TUR,GAZOZ Mete,Archery,Men's Team,B
 TUR,TUMER Berkim,Archery,Men's Team,B
@@ -1248,3 +1252,4 @@ USA,van LITH Hailey,3x3 Basketball,Women,B
 USA,WEYANT Emma,Swimming,Women's 400m Individual Medley,B
 UZB,TUROBOYEV Muzaffarbek,Judo,Men -100 kg,B
 UZB,YUSUPOV Alisher,Judo,Men +100 kg,B
+ZAM,SAMUKONGA Muzala,Athletics,Men's 400m,B

@@ -1,5 +1,5 @@
 code,country,medal,quantity
-USA,United States of America,gold,25
+USA,United States of America,gold,26
 CHN,People's Republic of China,gold,24
 AUS,Australia,gold,17
 FRA,France,gold,13
@@ -58,11 +58,11 @@ ETH,Ethiopia,gold,0
 KGZ,Kyrgyzstan,gold,0
 TUR,Türkiye,gold,0
 KOS,Kosovo,gold,0
+TUN,Tunisia,gold,0
 COL,Colombia,gold,0
 CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
 MGL,Mongolia,gold,0
-TUN,Tunisia,gold,0
 IND,India,gold,0
 TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
@@ -77,11 +77,12 @@ INA,Indonesia,gold,0
 PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
+ZAM,Zambia,gold,0
 USA,United States of America,silver,33
 CHN,People's Republic of China,silver,22
 AUS,Australia,silver,12
 FRA,France,silver,16
-GBR,Great Britain,silver,16
+GBR,Great Britain,silver,17
 JPN,Japan,silver,6
 KOR,Republic of Korea,silver,8
 ITA,Italy,silver,10
@@ -136,11 +137,11 @@ ETH,Ethiopia,silver,2
 KGZ,Kyrgyzstan,silver,1
 TUR,Türkiye,silver,1
 KOS,Kosovo,silver,1
+TUN,Tunisia,silver,1
 COL,Colombia,silver,1
 CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
 MGL,Mongolia,silver,1
-TUN,Tunisia,silver,1
 IND,India,silver,0
 TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
@@ -155,12 +156,13 @@ INA,Indonesia,silver,0
 PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
+ZAM,Zambia,silver,0
 USA,United States of America,bronze,32
 CHN,People's Republic of China,bronze,16
 AUS,Australia,bronze,10
 FRA,France,bronze,20
 GBR,Great Britain,bronze,20
-JPN,Japan,bronze,12
+JPN,Japan,bronze,13
 KOR,Republic of Korea,bronze,7
 ITA,Italy,bronze,8
 NED,Netherlands,bronze,6
@@ -214,11 +216,11 @@ ETH,Ethiopia,bronze,0
 KGZ,Kyrgyzstan,bronze,3
 TUR,Türkiye,bronze,2
 KOS,Kosovo,bronze,1
+TUN,Tunisia,bronze,1
 COL,Colombia,bronze,0
 CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
 MGL,Mongolia,bronze,0
-TUN,Tunisia,bronze,0
 IND,India,bronze,3
 TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
@@ -233,3 +235,4 @@ INA,Indonesia,bronze,1
 PER,Peru,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
+ZAM,Zambia,bronze,1
