@@ -1,7 +1,7 @@
 code,country,medal,quantity
 USA,United States of America,gold,24
 CHN,People's Republic of China,gold,23
-AUS,Australia,gold,15
+AUS,Australia,gold,16
 FRA,France,gold,13
 GBR,Great Britain,gold,12
 KOR,Republic of Korea,gold,11
@@ -77,7 +77,7 @@ IRI,Islamic Republic of Iran,gold,0
 PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-USA,United States of America,silver,31
+USA,United States of America,silver,32
 CHN,People's Republic of China,silver,22
 AUS,Australia,silver,12
 FRA,France,silver,16
@@ -171,7 +171,7 @@ NZL,New Zealand,bronze,1
 HUN,Hungary,bronze,2
 SWE,Sweden,bronze,2
 ROU,Romania,bronze,1
-BRA,Brazil,bronze,6
+BRA,Brazil,bronze,7
 ESP,Spain,bronze,5
 UKR,Ukraine,bronze,3
 CRO,Croatia,bronze,2
