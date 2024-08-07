@@ -19,6 +19,7 @@ BRA,Brazil,gold,2
 ESP,Spain,gold,2
 UKR,Ukraine,gold,2
 CRO,Croatia,gold,2
+CUB,Cuba,gold,2
 AZE,Azerbaijan,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
@@ -34,7 +35,6 @@ DEN,Denmark,gold,1
 GRE,Greece,gold,1
 POL,Poland,gold,1
 KEN,Kenya,gold,1
-CUB,Cuba,gold,1
 RSA,South Africa,gold,1
 CHI,Chile,gold,1
 ECU,Ecuador,gold,1
@@ -82,7 +82,7 @@ ZAM,Zambia,gold,0
 USA,United States of America,silver,35
 CHN,People's Republic of China,silver,23
 AUS,Australia,silver,12
-FRA,France,silver,16
+FRA,France,silver,17
 GBR,Great Britain,silver,17
 KOR,Republic of Korea,silver,8
 JPN,Japan,silver,6
@@ -99,6 +99,7 @@ BRA,Brazil,silver,5
 ESP,Spain,silver,3
 UKR,Ukraine,silver,2
 CRO,Croatia,silver,1
+CUB,Cuba,silver,1
 AZE,Azerbaijan,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
@@ -114,7 +115,6 @@ DEN,Denmark,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
 KEN,Kenya,silver,1
-CUB,Cuba,silver,1
 RSA,South Africa,silver,1
 CHI,Chile,silver,1
 ECU,Ecuador,silver,1
@@ -179,6 +179,7 @@ BRA,Brazil,bronze,7
 ESP,Spain,bronze,6
 UKR,Ukraine,bronze,3
 CRO,Croatia,bronze,3
+CUB,Cuba,bronze,2
 AZE,Azerbaijan,bronze,0
 BEL,Belgium,bronze,3
 HKG,"Hong Kong, China",bronze,2
@@ -194,7 +195,6 @@ DEN,Denmark,bronze,0
 GRE,Greece,bronze,5
 POL,Poland,bronze,4
 KEN,Kenya,bronze,3
-CUB,Cuba,bronze,2
 RSA,South Africa,bronze,2
 CHI,Chile,bronze,0
 ECU,Ecuador,bronze,0
