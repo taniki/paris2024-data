@@ -1,11 +1,11 @@
 code,country,medal,quantity
 USA,United States of America,gold,25
-CHN,People's Republic of China,gold,23
+CHN,People's Republic of China,gold,24
 AUS,Australia,gold,17
 FRA,France,gold,13
 GBR,Great Britain,gold,12
+JPN,Japan,gold,12
 KOR,Republic of Korea,gold,11
-JPN,Japan,gold,11
 ITA,Italy,gold,9
 NED,Netherlands,gold,9
 GER,Germany,gold,8
@@ -26,11 +26,11 @@ AZE,Azerbaijan,gold,2
 SRB,Serbia,gold,2
 ISR,Israel,gold,1
 SUI,Switzerland,gold,1
+KAZ,Kazakhstan,gold,1
 GEO,Georgia,gold,1
 DEN,Denmark,gold,1
 GRE,Greece,gold,1
 POL,Poland,gold,1
-KAZ,Kazakhstan,gold,1
 KEN,Kenya,gold,1
 RSA,South Africa,gold,1
 CHI,Chile,gold,1
@@ -38,8 +38,8 @@ ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
 UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
-UZB,Uzbekistan,gold,1
 CUB,Cuba,gold,1
+UZB,Uzbekistan,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 NOR,Norway,gold,1
@@ -65,6 +65,7 @@ TUN,Tunisia,gold,0
 IND,India,gold,0
 TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
+IRI,Islamic Republic of Iran,gold,0
 LTU,Lithuania,gold,0
 MAS,Malaysia,gold,0
 MDA,Republic of Moldova,gold,0
@@ -73,17 +74,16 @@ CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
 GRN,Grenada,gold,0
 INA,Indonesia,gold,0
-IRI,Islamic Republic of Iran,gold,0
 PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
-USA,United States of America,silver,32
+USA,United States of America,silver,33
 CHN,People's Republic of China,silver,22
 AUS,Australia,silver,12
 FRA,France,silver,16
 GBR,Great Britain,silver,16
-KOR,Republic of Korea,silver,8
 JPN,Japan,silver,6
+KOR,Republic of Korea,silver,8
 ITA,Italy,silver,10
 NED,Netherlands,silver,5
 GER,Germany,silver,5
@@ -104,11 +104,11 @@ AZE,Azerbaijan,silver,0
 SRB,Serbia,silver,0
 ISR,Israel,silver,4
 SUI,Switzerland,silver,2
+KAZ,Kazakhstan,silver,2
 GEO,Georgia,silver,2
 DEN,Denmark,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
-KAZ,Kazakhstan,silver,1
 KEN,Kenya,silver,1
 RSA,South Africa,silver,1
 CHI,Chile,silver,1
@@ -116,8 +116,8 @@ ECU,Ecuador,silver,1
 LCA,Saint Lucia,silver,1
 UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
-UZB,Uzbekistan,silver,0
 CUB,Cuba,silver,0
+UZB,Uzbekistan,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 NOR,Norway,silver,0
@@ -143,6 +143,7 @@ TUN,Tunisia,silver,1
 IND,India,silver,0
 TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
+IRI,Islamic Republic of Iran,silver,0
 LTU,Lithuania,silver,0
 MAS,Malaysia,silver,0
 MDA,Republic of Moldova,silver,0
@@ -151,7 +152,6 @@ CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
 GRN,Grenada,silver,0
 INA,Indonesia,silver,0
-IRI,Islamic Republic of Iran,silver,0
 PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
@@ -160,8 +160,8 @@ CHN,People's Republic of China,bronze,16
 AUS,Australia,bronze,10
 FRA,France,bronze,19
 GBR,Great Britain,bronze,20
-KOR,Republic of Korea,bronze,7
 JPN,Japan,bronze,12
+KOR,Republic of Korea,bronze,7
 ITA,Italy,bronze,8
 NED,Netherlands,bronze,6
 GER,Germany,bronze,4
@@ -172,7 +172,7 @@ HUN,Hungary,bronze,2
 SWE,Sweden,bronze,2
 ROU,Romania,bronze,1
 BRA,Brazil,bronze,7
-ESP,Spain,bronze,5
+ESP,Spain,bronze,6
 UKR,Ukraine,bronze,3
 CRO,Croatia,bronze,2
 BEL,Belgium,bronze,3
@@ -182,11 +182,11 @@ AZE,Azerbaijan,bronze,0
 SRB,Serbia,bronze,0
 ISR,Israel,bronze,1
 SUI,Switzerland,bronze,4
+KAZ,Kazakhstan,bronze,3
 GEO,Georgia,bronze,1
 DEN,Denmark,bronze,0
 GRE,Greece,bronze,5
 POL,Poland,bronze,4
-KAZ,Kazakhstan,bronze,3
 KEN,Kenya,bronze,2
 RSA,South Africa,bronze,2
 CHI,Chile,bronze,0
@@ -194,8 +194,8 @@ ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,4
+CUB,Cuba,bronze,2
 UZB,Uzbekistan,bronze,2
-CUB,Cuba,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 NOR,Norway,bronze,1
@@ -221,6 +221,7 @@ TUN,Tunisia,bronze,0
 IND,India,bronze,3
 TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
+IRI,Islamic Republic of Iran,bronze,2
 LTU,Lithuania,bronze,2
 MAS,Malaysia,bronze,2
 MDA,Republic of Moldova,bronze,2
@@ -229,7 +230,6 @@ CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
 INA,Indonesia,bronze,1
-IRI,Islamic Republic of Iran,bronze,1
 PER,Peru,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
