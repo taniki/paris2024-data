@@ -284,8 +284,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -1042,6 +1042,7 @@ CAN,HARVEY Eleanor,Fencing,Women's Foil Individual,B
 CAN,MASSE Kylie,Swimming,Women's 200m Backstroke,B
 CAN,METHOT Sophiane,Trampoline Gymnastics,Women,B
 CAN,NEWMAN Alysha,Athletics,Women's Pole Vault,B
+CAN,PARK Skylar,Taekwondo,Women -57kg,B
 CAN,SANFORD Wyatt,Boxing,Men's 63.5kg,B
 CAN,WIENS Rylan,Diving,Men's Synchronised 10m Platform,B
 CAN,ZSOMBOR-MURRAY Nathan,Diving,Men's Synchronised 10m Platform,B
