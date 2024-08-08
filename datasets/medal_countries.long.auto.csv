@@ -1,6 +1,6 @@
 code,country,medal,quantity
+USA,United States of America,gold,28
 CHN,People's Republic of China,gold,28
-USA,United States of America,gold,27
 AUS,Australia,gold,18
 FRA,France,gold,14
 GBR,Great Britain,gold,13
@@ -45,6 +45,7 @@ UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 UZB,Uzbekistan,gold,1
 AUT,Austria,gold,1
+BUL,Bulgaria,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 INA,Indonesia,gold,1
@@ -53,7 +54,6 @@ NOR,Norway,gold,1
 ALG,Algeria,gold,1
 BOT,Botswana,gold,1
 BRN,Bahrain,gold,1
-BUL,Bulgaria,gold,1
 DMA,Dominica,gold,1
 SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
@@ -81,8 +81,8 @@ GRN,Grenada,gold,0
 PER,Peru,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
-CHN,People's Republic of China,silver,25
 USA,United States of America,silver,36
+CHN,People's Republic of China,silver,25
 AUS,Australia,silver,14
 FRA,France,silver,18
 GBR,Great Britain,silver,17
@@ -90,7 +90,7 @@ JPN,Japan,silver,7
 KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 ITA,Italy,silver,11
-GER,Germany,silver,7
+GER,Germany,silver,8
 CAN,Canada,silver,5
 NZL,New Zealand,silver,6
 IRL,Ireland,silver,0
@@ -127,6 +127,7 @@ UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 UZB,Uzbekistan,silver,0
 AUT,Austria,silver,0
+BUL,Bulgaria,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 INA,Indonesia,silver,0
@@ -135,7 +136,6 @@ NOR,Norway,silver,0
 ALG,Algeria,silver,0
 BOT,Botswana,silver,0
 BRN,Bahrain,silver,0
-BUL,Bulgaria,silver,0
 DMA,Dominica,silver,0
 SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
@@ -163,8 +163,8 @@ GRN,Grenada,silver,0
 PER,Peru,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
+USA,United States of America,bronze,35
 CHN,People's Republic of China,bronze,19
-USA,United States of America,bronze,34
 AUS,Australia,bronze,11
 FRA,France,bronze,21
 GBR,Great Britain,bronze,21
@@ -209,6 +209,7 @@ UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
 UZB,Uzbekistan,bronze,2
 AUT,Austria,bronze,1
+BUL,Bulgaria,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 INA,Indonesia,bronze,1
@@ -217,7 +218,6 @@ NOR,Norway,bronze,1
 ALG,Algeria,bronze,0
 BOT,Botswana,bronze,0
 BRN,Bahrain,bronze,0
-BUL,Bulgaria,bronze,0
 DMA,Dominica,bronze,0
 SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
