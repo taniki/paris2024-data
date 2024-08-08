@@ -25,6 +25,7 @@ AZE,Azerbaijan,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
+UZB,Uzbekistan,gold,2
 SRB,Serbia,gold,2
 ISR,Israel,gold,1
 KAZ,Kazakhstan,gold,1
@@ -43,7 +44,6 @@ CHI,Chile,gold,1
 LCA,Saint Lucia,gold,1
 UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
-UZB,Uzbekistan,gold,1
 AUT,Austria,gold,1
 BUL,Bulgaria,gold,1
 CZE,Czechia,gold,1
@@ -55,11 +55,13 @@ ALG,Algeria,gold,1
 BOT,Botswana,gold,1
 BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
+PAK,Pakistan,gold,1
 SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
 MEX,Mexico,gold,0
 ARM,Armenia,gold,0
 ETH,Ethiopia,gold,0
+IND,India,gold,0
 KGZ,Kyrgyzstan,gold,0
 TUR,Türkiye,gold,0
 LTU,Lithuania,gold,0
@@ -69,15 +71,15 @@ TUN,Tunisia,gold,0
 COL,Colombia,gold,0
 CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
+JOR,Jordan,gold,0
 MGL,Mongolia,gold,0
-IND,India,gold,0
 TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
+GRN,Grenada,gold,0
 MAS,Malaysia,gold,0
 MDA,Republic of Moldova,gold,0
 CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
-GRN,Grenada,gold,0
 PER,Peru,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
@@ -107,6 +109,7 @@ AZE,Azerbaijan,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
+UZB,Uzbekistan,silver,0
 SRB,Serbia,silver,0
 ISR,Israel,silver,4
 KAZ,Kazakhstan,silver,3
@@ -125,7 +128,6 @@ CHI,Chile,silver,1
 LCA,Saint Lucia,silver,1
 UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
-UZB,Uzbekistan,silver,0
 AUT,Austria,silver,0
 BUL,Bulgaria,silver,0
 CZE,Czechia,silver,0
@@ -137,11 +139,13 @@ ALG,Algeria,silver,0
 BOT,Botswana,silver,0
 BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
+PAK,Pakistan,silver,0
 SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
 MEX,Mexico,silver,2
 ARM,Armenia,silver,2
 ETH,Ethiopia,silver,2
+IND,India,silver,1
 KGZ,Kyrgyzstan,silver,1
 TUR,Türkiye,silver,1
 LTU,Lithuania,silver,1
@@ -151,21 +155,21 @@ TUN,Tunisia,silver,1
 COL,Colombia,silver,1
 CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
+JOR,Jordan,silver,1
 MGL,Mongolia,silver,1
-IND,India,silver,0
 TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
+GRN,Grenada,silver,0
 MAS,Malaysia,silver,0
 MDA,Republic of Moldova,silver,0
 CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
-GRN,Grenada,silver,0
 PER,Peru,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
 USA,United States of America,bronze,35
 CHN,People's Republic of China,bronze,19
-AUS,Australia,bronze,11
+AUS,Australia,bronze,12
 FRA,France,bronze,21
 GBR,Great Britain,bronze,21
 JPN,Japan,bronze,13
@@ -189,6 +193,7 @@ AZE,Azerbaijan,bronze,1
 BEL,Belgium,bronze,4
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
+UZB,Uzbekistan,bronze,2
 SRB,Serbia,bronze,0
 ISR,Israel,bronze,1
 KAZ,Kazakhstan,bronze,3
@@ -207,7 +212,6 @@ CHI,Chile,bronze,0
 LCA,Saint Lucia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
-UZB,Uzbekistan,bronze,2
 AUT,Austria,bronze,1
 BUL,Bulgaria,bronze,1
 CZE,Czechia,bronze,1
@@ -219,11 +223,13 @@ ALG,Algeria,bronze,0
 BOT,Botswana,bronze,0
 BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
+PAK,Pakistan,bronze,0
 SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
 MEX,Mexico,bronze,2
 ARM,Armenia,bronze,1
 ETH,Ethiopia,bronze,0
+IND,India,bronze,4
 KGZ,Kyrgyzstan,bronze,3
 TUR,Türkiye,bronze,3
 LTU,Lithuania,bronze,2
@@ -233,15 +239,15 @@ TUN,Tunisia,bronze,1
 COL,Colombia,bronze,0
 CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
+JOR,Jordan,bronze,0
 MGL,Mongolia,bronze,0
-IND,India,bronze,4
 TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
+GRN,Grenada,bronze,2
 MAS,Malaysia,bronze,2
 MDA,Republic of Moldova,bronze,2
 CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
-GRN,Grenada,bronze,1
 PER,Peru,bronze,1
 SVK,Slovakia,bronze,1
 ZAM,Zambia,bronze,1
