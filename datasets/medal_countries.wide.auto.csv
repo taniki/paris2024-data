@@ -1,13 +1,13 @@
 code,country,gold,silver,bronze
 USA,United States of America,27,35,32
 CHN,People's Republic of China,25,23,17
-AUS,Australia,18,12,11
+AUS,Australia,18,13,11
 FRA,France,13,17,21
 GBR,Great Britain,12,17,20
 KOR,Republic of Korea,12,8,7
 JPN,Japan,12,6,13
-ITA,Italy,9,10,8
-NED,Netherlands,9,5,6
+NED,Netherlands,10,5,6
+ITA,Italy,9,10,9
 GER,Germany,8,5,5
 CAN,Canada,6,4,9
 IRL,Ireland,4,0,3
