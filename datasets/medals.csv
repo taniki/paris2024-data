@@ -81,8 +81,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -468,6 +468,7 @@ HUN,KOCH Mate Tamas,Fencing,Men's Épée Team,G
 HUN,KOS Hubert,Swimming,Men's 200m Backstroke,G
 HUN,NAGY David,Fencing,Men's Épée Team,G
 HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
+INA,LEONARDO Veddriq,Sport Climbing,Men's Speed,G
 IRI,SARAVI Mohammadhadi,Wrestling,Men's Greco-Roman 97kg,G
 IRL,HARRINGTON Kellie,Boxing,Women's 60kg,G
 IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
@@ -475,6 +476,7 @@ IRL,Mc CLENAGHAN Rhys,Artistic Gymnastics,Men's Pommel Horse,G
 IRL,O DONOVAN Paul,Rowing,Lightweight Men's Double Sculls,G
 ISR,REUVENY Tom,Sailing,Men's Windsurfing,G
 ITA,BACOSI Diana,Shooting,Skeet Mixed Team,G
+ITA,BANTI Caterina Marianna,Sailing,Mixed Multihull,G
 ITA,BELLANDI Alice,Judo,Women -78 kg,G
 ITA,de GENNARO Giovanni,Canoe Slalom,Men's Kayak Single,G
 ITA,ERRANI Sara,Tennis,Women's Doubles,G
@@ -486,6 +488,7 @@ ITA,PAOLINI Jasmine,Tennis,Women's Doubles,G
 ITA,RIZZI Giulia,Fencing,Women's Épée Team,G
 ITA,ROSSETTI Gabriele,Shooting,Skeet Mixed Team,G
 ITA,SANTUCCIO Alberta,Fencing,Women's Épée Team,G
+ITA,TITA Ruggero,Sailing,Mixed Multihull,G
 JAM,STONA Roje,Athletics,Men's Discus Throw,G
 JPN,FUMITA Kenichiro,Wrestling,Men's Greco-Roman 60kg,G
 JPN,HASHIMOTO Daiki,Artistic Gymnastics,Men's Team,G
@@ -606,6 +609,8 @@ AIN,ANDREEVA Mirra,Tennis,Women's Doubles,S
 AIN,BARDZILOUSKAYA Viyaleta,Trampoline Gymnastics,Women,S
 AIN,SHNAIDER Diana,Tennis,Women's Doubles,S
 AIN,ZALATY Yauheni,Rowing,Men's Single Sculls,S
+ARG,BOSCO Eugenia,Sailing,Mixed Multihull,S
+ARG,MAJDALANI Mateo,Sailing,Mixed Multihull,S
 ARM,ALEKSANYAN Artur,Wrestling,Men's Greco-Roman 97kg,S
 ARM,DAVTYAN Artur,Artistic Gymnastics,Men's Vault,S
 AUS,BURTON Christopher,Equestrian,Eventing Individual,S
@@ -662,6 +667,7 @@ CHN,TAN Ning,Badminton,Women's Doubles,S
 CHN,WANG Chang,Badminton,Men's Doubles,S
 CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
+CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,ZHANG Zhizhen,Tennis,Mixed Doubles,S
@@ -1179,9 +1185,11 @@ NED,van der VLEUTEN Maikel,Equestrian,Jumping Individual,B
 NED,van DORP Simon,Rowing,Men's Single Sculls,B
 NED,van OPZEELAND Luuc,Sailing,Men's Windsurfing,B
 NOR,HOEST Line Flem,Sailing,Women's Dinghy,B
+NZL,DAWSON Erica,Sailing,Mixed Multihull,B
 NZL,GOWLER Jackie,Rowing,Women's Four,B
 NZL,SPOORS Phoebe,Rowing,Women's Four,B
 NZL,WADDY Davina,Rowing,Women's Four,B
+NZL,WILKINSON Micah,Sailing,Mixed Multihull,B
 NZL,WILLIAMS Kerri,Rowing,Women's Four,B
 PER,PESCHIERA Stefano,Sailing,Men's Dinghy,B
 PHI,PETECIO Nesthy,Boxing,Women's 57kg,B
@@ -1285,6 +1293,7 @@ USA,SULLIVAN Sammy,Rugby Sevens,Women,B
 USA,TABASH Christian,Rowing,Men's Eight,B
 USA,TAPPER Naya,Rugby Sevens,Women,B
 USA,van LITH Hailey,3x3 Basketball,Women,B
+USA,WATSON Sam,Sport Climbing,Men's Speed,B
 USA,WEYANT Emma,Swimming,Women's 400m Individual Medley,B
 UZB,TUROBOYEV Muzaffarbek,Judo,Men -100 kg,B
 UZB,YUSUPOV Alisher,Judo,Men +100 kg,B

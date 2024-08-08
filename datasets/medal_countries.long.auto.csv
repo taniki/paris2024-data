@@ -6,8 +6,8 @@ FRA,France,gold,13
 GBR,Great Britain,gold,12
 KOR,Republic of Korea,gold,12
 JPN,Japan,gold,12
+ITA,Italy,gold,10
 NED,Netherlands,gold,10
-ITA,Italy,gold,9
 GER,Germany,gold,8
 CAN,Canada,gold,6
 IRL,Ireland,gold,4
@@ -36,6 +36,7 @@ GRE,Greece,gold,1
 POL,Poland,gold,1
 KEN,Kenya,gold,1
 RSA,South Africa,gold,1
+ARG,Argentina,gold,1
 CHI,Chile,gold,1
 ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
@@ -46,9 +47,9 @@ UZB,Uzbekistan,gold,1
 AUT,Austria,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
+INA,Indonesia,gold,1
 NOR,Norway,gold,1
 ALG,Algeria,gold,1
-ARG,Argentina,gold,1
 BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
 MAR,Morocco,gold,1
@@ -74,20 +75,19 @@ MDA,Republic of Moldova,gold,0
 CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
 GRN,Grenada,gold,0
-INA,Indonesia,gold,0
 PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 USA,United States of America,silver,35
-CHN,People's Republic of China,silver,23
+CHN,People's Republic of China,silver,24
 AUS,Australia,silver,13
 FRA,France,silver,17
 GBR,Great Britain,silver,17
 KOR,Republic of Korea,silver,8
 JPN,Japan,silver,7
-NED,Netherlands,silver,5
 ITA,Italy,silver,10
+NED,Netherlands,silver,5
 GER,Germany,silver,5
 CAN,Canada,silver,4
 IRL,Ireland,silver,0
@@ -116,6 +116,7 @@ GRE,Greece,silver,1
 POL,Poland,silver,1
 KEN,Kenya,silver,1
 RSA,South Africa,silver,1
+ARG,Argentina,silver,1
 CHI,Chile,silver,1
 ECU,Ecuador,silver,1
 LCA,Saint Lucia,silver,1
@@ -126,9 +127,9 @@ UZB,Uzbekistan,silver,0
 AUT,Austria,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
+INA,Indonesia,silver,0
 NOR,Norway,silver,0
 ALG,Algeria,silver,0
-ARG,Argentina,silver,0
 BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
 MAR,Morocco,silver,0
@@ -154,24 +155,23 @@ MDA,Republic of Moldova,silver,0
 CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
 GRN,Grenada,silver,0
-INA,Indonesia,silver,0
 PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
-USA,United States of America,bronze,32
+USA,United States of America,bronze,33
 CHN,People's Republic of China,bronze,17
 AUS,Australia,bronze,11
 FRA,France,bronze,21
 GBR,Great Britain,bronze,20
 KOR,Republic of Korea,bronze,7
 JPN,Japan,bronze,13
-NED,Netherlands,bronze,6
 ITA,Italy,bronze,9
+NED,Netherlands,bronze,6
 GER,Germany,bronze,5
 CAN,Canada,bronze,9
 IRL,Ireland,bronze,3
-NZL,New Zealand,bronze,1
+NZL,New Zealand,bronze,2
 ROU,Romania,bronze,1
 SWE,Sweden,bronze,3
 HUN,Hungary,bronze,2
@@ -196,6 +196,7 @@ GRE,Greece,bronze,5
 POL,Poland,bronze,4
 KEN,Kenya,bronze,3
 RSA,South Africa,bronze,2
+ARG,Argentina,bronze,0
 CHI,Chile,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
@@ -206,9 +207,9 @@ UZB,Uzbekistan,bronze,2
 AUT,Austria,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
+INA,Indonesia,bronze,1
 NOR,Norway,bronze,1
 ALG,Algeria,bronze,0
-ARG,Argentina,bronze,0
 BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
 MAR,Morocco,bronze,0
@@ -234,7 +235,6 @@ MDA,Republic of Moldova,bronze,2
 CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1
-INA,Indonesia,bronze,1
 PER,Peru,bronze,1
 POR,Portugal,bronze,1
 SVK,Slovakia,bronze,1
