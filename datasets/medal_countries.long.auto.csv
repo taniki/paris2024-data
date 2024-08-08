@@ -4,8 +4,8 @@ USA,United States of America,gold,27
 AUS,Australia,gold,18
 FRA,France,gold,14
 GBR,Great Britain,gold,13
+JPN,Japan,gold,13
 KOR,Republic of Korea,gold,12
-JPN,Japan,gold,12
 NED,Netherlands,gold,11
 ITA,Italy,gold,10
 GER,Germany,gold,9
@@ -33,13 +33,13 @@ SUI,Switzerland,gold,1
 THA,Thailand,gold,1
 DEN,Denmark,gold,1
 GEO,Georgia,gold,1
+ECU,Ecuador,gold,1
 GRE,Greece,gold,1
 POL,Poland,gold,1
 KEN,Kenya,gold,1
 RSA,South Africa,gold,1
 ARG,Argentina,gold,1
 CHI,Chile,gold,1
-ECU,Ecuador,gold,1
 LCA,Saint Lucia,gold,1
 UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
@@ -86,8 +86,8 @@ USA,United States of America,silver,36
 AUS,Australia,silver,14
 FRA,France,silver,18
 GBR,Great Britain,silver,17
-KOR,Republic of Korea,silver,8
 JPN,Japan,silver,7
+KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 ITA,Italy,silver,11
 GER,Germany,silver,7
@@ -115,13 +115,13 @@ SUI,Switzerland,silver,2
 THA,Thailand,silver,2
 DEN,Denmark,silver,2
 GEO,Georgia,silver,2
+ECU,Ecuador,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
 KEN,Kenya,silver,1
 RSA,South Africa,silver,1
 ARG,Argentina,silver,1
 CHI,Chile,silver,1
-ECU,Ecuador,silver,1
 LCA,Saint Lucia,silver,1
 UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
@@ -168,8 +168,8 @@ USA,United States of America,bronze,34
 AUS,Australia,bronze,11
 FRA,France,bronze,21
 GBR,Great Britain,bronze,21
-KOR,Republic of Korea,bronze,7
 JPN,Japan,bronze,13
+KOR,Republic of Korea,bronze,7
 NED,Netherlands,bronze,7
 ITA,Italy,bronze,9
 GER,Germany,bronze,5
@@ -180,7 +180,7 @@ ROU,Romania,bronze,1
 UKR,Ukraine,bronze,4
 HUN,Hungary,bronze,3
 SWE,Sweden,bronze,3
-BRA,Brazil,bronze,7
+BRA,Brazil,bronze,8
 ESP,Spain,bronze,8
 CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
@@ -197,13 +197,13 @@ SUI,Switzerland,bronze,4
 THA,Thailand,bronze,2
 DEN,Denmark,bronze,1
 GEO,Georgia,bronze,1
+ECU,Ecuador,bronze,0
 GRE,Greece,bronze,5
 POL,Poland,bronze,4
 KEN,Kenya,bronze,3
 RSA,South Africa,bronze,2
 ARG,Argentina,bronze,0
 CHI,Chile,bronze,0
-ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
