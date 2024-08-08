@@ -1,6 +1,6 @@
 code,country,medal,quantity
+CHN,People's Republic of China,gold,28
 USA,United States of America,gold,27
-CHN,People's Republic of China,gold,27
 AUS,Australia,gold,18
 FRA,France,gold,13
 GBR,Great Britain,gold,12
@@ -79,8 +79,8 @@ PER,Peru,gold,0
 POR,Portugal,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
-USA,United States of America,silver,35
 CHN,People's Republic of China,silver,25
+USA,United States of America,silver,35
 AUS,Australia,silver,14
 FRA,France,silver,17
 GBR,Great Britain,silver,17
@@ -89,7 +89,7 @@ JPN,Japan,silver,7
 ITA,Italy,silver,11
 NED,Netherlands,silver,5
 GER,Germany,silver,6
-CAN,Canada,silver,4
+CAN,Canada,silver,5
 NZL,New Zealand,silver,6
 IRL,Ireland,silver,0
 ROU,Romania,silver,4
@@ -159,8 +159,8 @@ PER,Peru,silver,0
 POR,Portugal,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
-USA,United States of America,bronze,33
 CHN,People's Republic of China,bronze,17
+USA,United States of America,bronze,33
 AUS,Australia,bronze,11
 FRA,France,bronze,21
 GBR,Great Britain,bronze,20
@@ -201,7 +201,7 @@ CHI,Chile,bronze,0
 ECU,Ecuador,bronze,0
 LCA,Saint Lucia,bronze,0
 UGA,Uganda,bronze,0
-TPE,Chinese Taipei,bronze,4
+TPE,Chinese Taipei,bronze,5
 IRI,Islamic Republic of Iran,bronze,2
 UZB,Uzbekistan,bronze,2
 AUT,Austria,bronze,1
