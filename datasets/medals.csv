@@ -142,8 +142,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -162,8 +162,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -258,8 +258,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -421,6 +421,7 @@ FRA,SEPHO Jordan,Rugby Sevens,Men,G
 FRA,TIMO Andy,Rugby Sevens,Men,G
 FRA,VAAST Kauli,Surfing,Men,G
 FRA,ZEGHDAR Antoine,Rugby Sevens,Men,G
+GBR,ALDRIDGE Eleanor,Sailing,Women's Kite,G
 GBR,ANDERSON Lola,Rowing,Women's Quadruple Sculls,G
 GBR,BIRD Kieran,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,BOLDING Morgan,Rowing,Men's Eight,G
@@ -738,6 +739,7 @@ FRA,LAGHOUAG Karim Florent,Equestrian,Eventing Team,S
 FRA,LANDOIS Stephane,Equestrian,Eventing Team,S
 FRA,LOUIS-MARIE Alexandra,Fencing,Women's Épée Team,S
 FRA,MADOUAS Valentin,Cycling Road,Men's Road Race,S
+FRA,NOLOT Lauriane,Sailing,Women's Kite,S
 FRA,OUMIHA Sofiane,Boxing,Men's 63.5kg,S
 FRA,RAMBAUT Jules,3x3 Basketball,Men,S
 FRA,SEGUELA Franck,3x3 Basketball,Men,S
@@ -1231,6 +1233,7 @@ MEX,VALENCIA Alejandra,Archery,Women's Team,B
 MEX,VAZQUEZ Ana,Archery,Women's Team,B
 NED,CORBEAU Caspar,Swimming,Men's 200m Breaststroke,B
 NED,HASSAN Sifan,Athletics,Women's 5000m,B
+NED,LAMMERTS Annelous,Sailing,Women's Kite,B
 NED,SCHOUTEN Tes,Swimming,Women's 200m Breaststroke,B
 NED,van der VLEUTEN Maikel,Equestrian,Jumping Individual,B
 NED,van DORP Simon,Rowing,Men's Single Sculls,B
