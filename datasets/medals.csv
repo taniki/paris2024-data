@@ -81,8 +81,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
+CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -160,8 +160,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -256,8 +256,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -1131,8 +1131,24 @@ HUN,MAJOR Veronika,Shooting,25m Pistol Women,B
 HUN,MUHARI Eszter,Fencing,Women's Épée Individual,B
 HUN,PUPP Noemi,Canoe Sprint,Women's Kayak Four 500m,B
 INA,TUNJUNG Gregoria Mariska,Badminton,Women's Singles,B
+IND,ABHISHEK Abhishek,Hockey,Men,B
 IND,KUSALE Swapnil,Shooting,50m Rifle 3 Positions Men,B
+IND,PAL Raj Kumar,Hockey,Men,B
+IND,PARATTU RAVEENDRAN Sreejesh,Hockey,Men,B
+IND,PRASAD Vivek Sagar,Hockey,Men,B
+IND,ROHIDAS Amit,Hockey,Men,B
+IND,SANJAY Sanjay,Hockey,Men,B
+IND,SINGH Gurjant,Hockey,Men,B
+IND,SINGH Hardik,Hockey,Men,B
+IND,SINGH Harmanpreet,Hockey,Men,B
+IND,SINGH Jarmanpreet,Hockey,Men,B
+IND,SINGH Mandeep,Hockey,Men,B
+IND,SINGH Manpreet,Hockey,Men,B
 IND,SINGH Sarabjot,Shooting,10m Air Pistol Mixed Team,B
+IND,SINGH Shamsher,Hockey,Men,B
+IND,SINGH Sukhjeet,Hockey,Men,B
+IND,SUMIT Sumit,Hockey,Men,B
+IND,UPADHYAY Lalit Kumar,Hockey,Men,B
 IRI,MIRZAZADEH Amin,Wrestling,Men's Greco-Roman 130kg,B
 IRI,NEMATZADEH Mobina,Taekwondo,Women -49kg,B
 IRL,DOYLE Philip,Rowing,Men's Double Sculls,B
