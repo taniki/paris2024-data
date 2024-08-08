@@ -48,11 +48,11 @@ AUT,Austria,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 INA,Indonesia,gold,1
+MAR,Morocco,gold,1
 NOR,Norway,gold,1
 ALG,Algeria,gold,1
 BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
-MAR,Morocco,gold,1
 SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
 MEX,Mexico,gold,0
@@ -128,11 +128,11 @@ AUT,Austria,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 INA,Indonesia,silver,0
+MAR,Morocco,silver,0
 NOR,Norway,silver,0
 ALG,Algeria,silver,0
 BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
-MAR,Morocco,silver,0
 SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
 MEX,Mexico,silver,2
@@ -179,7 +179,7 @@ UKR,Ukraine,bronze,3
 BRA,Brazil,bronze,7
 ESP,Spain,bronze,8
 CRO,Croatia,bronze,3
-CUB,Cuba,bronze,2
+CUB,Cuba,bronze,3
 AZE,Azerbaijan,bronze,1
 BEL,Belgium,bronze,3
 HKG,"Hong Kong, China",bronze,2
@@ -208,11 +208,11 @@ AUT,Austria,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 INA,Indonesia,bronze,1
+MAR,Morocco,bronze,1
 NOR,Norway,bronze,1
 ALG,Algeria,bronze,0
 BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
-MAR,Morocco,bronze,0
 SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,3
 MEX,Mexico,bronze,2
