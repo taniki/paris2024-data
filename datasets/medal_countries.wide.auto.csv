@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,28,25,18
+CHN,People's Republic of China,28,25,19
 USA,United States of America,27,36,34
 AUS,Australia,18,14,11
 FRA,France,14,18,21
@@ -56,7 +56,7 @@ BRN,Bahrain,1,0,0
 BUL,Bulgaria,1,0,0
 DMA,Dominica,1,0,0
 SLO,Slovenia,1,0,0
-PRK,Democratic People's Republic of Korea,0,2,3
+PRK,Democratic People's Republic of Korea,0,2,4
 MEX,Mexico,0,2,2
 ARM,Armenia,0,2,1
 ETH,Ethiopia,0,2,0
