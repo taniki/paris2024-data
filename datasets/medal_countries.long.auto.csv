@@ -1,6 +1,6 @@
 code,country,medal,quantity
 USA,United States of America,gold,30
-CHN,People's Republic of China,gold,28
+CHN,People's Republic of China,gold,29
 AUS,Australia,gold,18
 FRA,France,gold,14
 GBR,Great Britain,gold,13
@@ -58,12 +58,12 @@ DMA,Dominica,gold,1
 PAK,Pakistan,gold,1
 SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
+TUR,Türkiye,gold,0
 MEX,Mexico,gold,0
 ARM,Armenia,gold,0
 ETH,Ethiopia,gold,0
 IND,India,gold,0
 KGZ,Kyrgyzstan,gold,0
-TUR,Türkiye,gold,0
 LTU,Lithuania,gold,0
 KOS,Kosovo,gold,0
 POR,Portugal,gold,0
@@ -143,12 +143,12 @@ DMA,Dominica,silver,0
 PAK,Pakistan,silver,0
 SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
+TUR,Türkiye,silver,2
 MEX,Mexico,silver,2
 ARM,Armenia,silver,2
 ETH,Ethiopia,silver,2
 IND,India,silver,1
 KGZ,Kyrgyzstan,silver,1
-TUR,Türkiye,silver,1
 LTU,Lithuania,silver,1
 KOS,Kosovo,silver,1
 POR,Portugal,silver,1
@@ -228,12 +228,12 @@ DMA,Dominica,bronze,0
 PAK,Pakistan,bronze,0
 SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
+TUR,Türkiye,bronze,3
 MEX,Mexico,bronze,2
 ARM,Armenia,bronze,1
 ETH,Ethiopia,bronze,0
 IND,India,bronze,4
 KGZ,Kyrgyzstan,bronze,3
-TUR,Türkiye,bronze,3
 LTU,Lithuania,bronze,2
 KOS,Kosovo,bronze,1
 POR,Portugal,bronze,1
