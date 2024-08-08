@@ -13,8 +13,8 @@ CAN,Canada,gold,6
 IRL,Ireland,gold,4
 NZL,New Zealand,gold,3
 ROU,Romania,gold,3
-HUN,Hungary,gold,3
 SWE,Sweden,gold,3
+HUN,Hungary,gold,3
 UKR,Ukraine,gold,3
 BRA,Brazil,gold,2
 ESP,Spain,gold,2
@@ -43,6 +43,7 @@ UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 IRI,Islamic Republic of Iran,gold,1
 UZB,Uzbekistan,gold,1
+AUT,Austria,gold,1
 CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 NOR,Norway,gold,1
@@ -70,7 +71,6 @@ TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
 MAS,Malaysia,gold,0
 MDA,Republic of Moldova,gold,0
-AUT,Austria,gold,0
 CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
 GRN,Grenada,gold,0
@@ -85,7 +85,7 @@ AUS,Australia,silver,13
 FRA,France,silver,17
 GBR,Great Britain,silver,17
 KOR,Republic of Korea,silver,8
-JPN,Japan,silver,6
+JPN,Japan,silver,7
 NED,Netherlands,silver,5
 ITA,Italy,silver,10
 GER,Germany,silver,5
@@ -93,8 +93,8 @@ CAN,Canada,silver,4
 IRL,Ireland,silver,0
 NZL,New Zealand,silver,6
 ROU,Romania,silver,4
-HUN,Hungary,silver,3
 SWE,Sweden,silver,3
+HUN,Hungary,silver,3
 UKR,Ukraine,silver,2
 BRA,Brazil,silver,5
 ESP,Spain,silver,3
@@ -123,6 +123,7 @@ UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 IRI,Islamic Republic of Iran,silver,0
 UZB,Uzbekistan,silver,0
+AUT,Austria,silver,0
 CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 NOR,Norway,silver,0
@@ -150,7 +151,6 @@ TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
 MAS,Malaysia,silver,0
 MDA,Republic of Moldova,silver,0
-AUT,Austria,silver,0
 CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
 GRN,Grenada,silver,0
@@ -173,8 +173,8 @@ CAN,Canada,bronze,9
 IRL,Ireland,bronze,3
 NZL,New Zealand,bronze,1
 ROU,Romania,bronze,1
+SWE,Sweden,bronze,3
 HUN,Hungary,bronze,2
-SWE,Sweden,bronze,2
 UKR,Ukraine,bronze,3
 BRA,Brazil,bronze,7
 ESP,Spain,bronze,6
@@ -203,6 +203,7 @@ UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,4
 IRI,Islamic Republic of Iran,bronze,2
 UZB,Uzbekistan,bronze,2
+AUT,Austria,bronze,1
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 NOR,Norway,bronze,1
@@ -230,7 +231,6 @@ TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
 MAS,Malaysia,bronze,2
 MDA,Republic of Moldova,bronze,2
-AUT,Austria,bronze,1
 CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
 GRN,Grenada,bronze,1

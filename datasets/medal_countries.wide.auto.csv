@@ -5,7 +5,7 @@ AUS,Australia,18,13,11
 FRA,France,13,17,21
 GBR,Great Britain,12,17,20
 KOR,Republic of Korea,12,8,7
-JPN,Japan,12,6,13
+JPN,Japan,12,7,13
 NED,Netherlands,10,5,6
 ITA,Italy,9,10,9
 GER,Germany,8,5,5
@@ -13,8 +13,8 @@ CAN,Canada,6,4,9
 IRL,Ireland,4,0,3
 NZL,New Zealand,3,6,1
 ROU,Romania,3,4,1
+SWE,Sweden,3,3,3
 HUN,Hungary,3,3,2
-SWE,Sweden,3,3,2
 UKR,Ukraine,3,2,3
 BRA,Brazil,2,5,7
 ESP,Spain,2,3,6
@@ -43,6 +43,7 @@ UGA,Uganda,1,1,0
 TPE,Chinese Taipei,1,0,4
 IRI,Islamic Republic of Iran,1,0,2
 UZB,Uzbekistan,1,0,2
+AUT,Austria,1,0,1
 CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
 NOR,Norway,1,0,1
@@ -70,7 +71,6 @@ TJK,Tajikistan,0,0,3
 DOM,Dominican Republic,0,0,2
 MAS,Malaysia,0,0,2
 MDA,Republic of Moldova,0,0,2
-AUT,Austria,0,0,1
 CPV,Cabo Verde,0,0,1
 EGY,Egypt,0,0,1
 GRN,Grenada,0,0,1
