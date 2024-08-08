@@ -266,8 +266,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -286,8 +286,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
+MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -1029,6 +1029,7 @@ AUS,INCERTI Zac,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,McINTYRE Annabelle,Rowing,Women's Pair,B
 AUS,MORRISON Jess,Rowing,Women's Pair,B
 AUS,NEILL Thomas,Swimming,Men's 4 x 200m Freestyle Relay,B
+AUS,PARKER Caitlin,Boxing,Women's 75kg,B
 AUS,PATTERSON Eleanor,Athletics,Women's High Jump,B
 AUS,RICHARDSON Matthew,Cycling Track,Men's Team Sprint,B
 AUS,SENIOR Charlie,Boxing,Men's 57kg,B
