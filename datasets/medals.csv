@@ -142,8 +142,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -162,8 +162,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -262,8 +262,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -282,8 +282,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -1022,6 +1022,7 @@ CRO,ELKASEVIC Sandra,Athletics,Women's Discus Throw,B
 CRO,MARICIC Miran,Shooting,10m Air Rifle Men,B
 CRO,STOJKOVIC Lena,Taekwondo,Women -49kg,B
 CUB,LOPEZ CARDONA Arlen,Boxing,Men's 80kg,B
+CUB,ORTA SANCHEZ Luis Alberto,Wrestling,Men's Greco-Roman 67kg,B
 CUB,ROSILLO KINDELAN Gabriel Alejandro,Wrestling,Men's Greco-Roman 97kg,B
 CZE,BERAN Jiri,Fencing,Men's Épée Team,B
 CZE,CUPR Michal,Fencing,Men's Épée Team,B
