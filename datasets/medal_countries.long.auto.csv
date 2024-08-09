@@ -17,11 +17,11 @@ UKR,Ukraine,gold,3
 SWE,Sweden,gold,3
 ROU,Romania,gold,3
 ESP,Spain,gold,3
+BUL,Bulgaria,gold,3
 BEL,Belgium,gold,3
 UZB,Uzbekistan,gold,3
 BRA,Brazil,gold,2
 IRI,Islamic Republic of Iran,gold,2
-BUL,Bulgaria,gold,2
 CRO,Croatia,gold,2
 CUB,Cuba,gold,2
 AZE,Azerbaijan,gold,2
@@ -103,11 +103,11 @@ UKR,Ukraine,silver,4
 SWE,Sweden,silver,4
 ROU,Romania,silver,4
 ESP,Spain,silver,3
+BUL,Bulgaria,silver,1
 BEL,Belgium,silver,0
 UZB,Uzbekistan,silver,0
 BRA,Brazil,silver,6
-IRI,Islamic Republic of Iran,silver,2
-BUL,Bulgaria,silver,1
+IRI,Islamic Republic of Iran,silver,3
 CRO,Croatia,silver,1
 CUB,Cuba,silver,1
 AZE,Azerbaijan,silver,1
@@ -189,11 +189,11 @@ UKR,Ukraine,bronze,4
 SWE,Sweden,bronze,3
 ROU,Romania,bronze,1
 ESP,Spain,bronze,8
+BUL,Bulgaria,bronze,3
 BEL,Belgium,bronze,5
 UZB,Uzbekistan,bronze,3
 BRA,Brazil,bronze,8
 IRI,Islamic Republic of Iran,bronze,2
-BUL,Bulgaria,bronze,3
 CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
 AZE,Azerbaijan,bronze,1
