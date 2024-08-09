@@ -32,6 +32,7 @@ HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
 CZE,Czechia,gold,2
 INA,Indonesia,gold,2
+ALG,Algeria,gold,2
 ISR,Israel,gold,1
 KAZ,Kazakhstan,gold,1
 JAM,Jamaica,gold,1
@@ -55,7 +56,6 @@ TPE,Chinese Taipei,gold,1
 DOM,Dominican Republic,gold,1
 GUA,Guatemala,gold,1
 MAR,Morocco,gold,1
-ALG,Algeria,gold,1
 BOT,Botswana,gold,1
 DMA,Dominica,gold,1
 PAK,Pakistan,gold,1
@@ -86,7 +86,7 @@ SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 USA,United States of America,silver,39
-CHN,People's Republic of China,silver,26
+CHN,People's Republic of China,silver,27
 AUS,Australia,silver,16
 JPN,Japan,silver,8
 GBR,Great Britain,silver,20
@@ -118,6 +118,7 @@ HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
 CZE,Czechia,silver,0
 INA,Indonesia,silver,0
+ALG,Algeria,silver,0
 ISR,Israel,silver,4
 KAZ,Kazakhstan,silver,3
 JAM,Jamaica,silver,3
@@ -141,7 +142,6 @@ TPE,Chinese Taipei,silver,0
 DOM,Dominican Republic,silver,0
 GUA,Guatemala,silver,0
 MAR,Morocco,silver,0
-ALG,Algeria,silver,0
 BOT,Botswana,silver,0
 DMA,Dominica,silver,0
 PAK,Pakistan,silver,0
@@ -204,6 +204,7 @@ HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
 CZE,Czechia,bronze,1
 INA,Indonesia,bronze,1
+ALG,Algeria,bronze,0
 ISR,Israel,bronze,1
 KAZ,Kazakhstan,bronze,3
 JAM,Jamaica,bronze,2
@@ -227,7 +228,6 @@ TPE,Chinese Taipei,bronze,5
 DOM,Dominican Republic,bronze,2
 GUA,Guatemala,bronze,1
 MAR,Morocco,bronze,1
-ALG,Algeria,bronze,0
 BOT,Botswana,bronze,0
 DMA,Dominica,bronze,0
 PAK,Pakistan,bronze,0
