@@ -3,14 +3,14 @@ USA,United States of America,gold,30
 CHN,People's Republic of China,gold,30
 AUS,Australia,gold,18
 FRA,France,gold,14
-GBR,Great Britain,gold,13
-KOR,Republic of Korea,gold,13
+GBR,Great Britain,gold,14
 JPN,Japan,gold,13
+KOR,Republic of Korea,gold,13
 NED,Netherlands,gold,11
 ITA,Italy,gold,10
 GER,Germany,gold,9
+NZL,New Zealand,gold,6
 CAN,Canada,gold,6
-NZL,New Zealand,gold,5
 HUN,Hungary,gold,4
 IRL,Ireland,gold,4
 UKR,Ukraine,gold,3
@@ -89,14 +89,14 @@ CHN,People's Republic of China,silver,25
 AUS,Australia,silver,14
 FRA,France,silver,19
 GBR,Great Britain,silver,17
+JPN,Japan,silver,8
 KOR,Republic of Korea,silver,8
-JPN,Japan,silver,7
 NED,Netherlands,silver,6
 ITA,Italy,silver,11
 GER,Germany,silver,9
-CAN,Canada,silver,5
 NZL,New Zealand,silver,6
-HUN,Hungary,silver,3
+CAN,Canada,silver,5
+HUN,Hungary,silver,4
 IRL,Ireland,silver,0
 UKR,Ukraine,silver,4
 ROU,Romania,silver,4
@@ -174,14 +174,14 @@ CHN,People's Republic of China,bronze,19
 AUS,Australia,bronze,13
 FRA,France,bronze,22
 GBR,Great Britain,bronze,21
-KOR,Republic of Korea,bronze,7
 JPN,Japan,bronze,13
+KOR,Republic of Korea,bronze,7
 NED,Netherlands,bronze,8
 ITA,Italy,bronze,9
-GER,Germany,bronze,5
-CAN,Canada,bronze,11
+GER,Germany,bronze,6
 NZL,New Zealand,bronze,2
-HUN,Hungary,bronze,4
+CAN,Canada,bronze,11
+HUN,Hungary,bronze,5
 IRL,Ireland,bronze,3
 UKR,Ukraine,bronze,4
 ROU,Romania,bronze,1
@@ -216,7 +216,7 @@ LCA,Saint Lucia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
 BUL,Bulgaria,bronze,3
-AUT,Austria,bronze,1
+AUT,Austria,bronze,2
 CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 MAR,Morocco,bronze,1

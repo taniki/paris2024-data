@@ -3,15 +3,15 @@ USA,United States of America,30,38,35
 CHN,People's Republic of China,30,25,19
 AUS,Australia,18,14,13
 FRA,France,14,19,22
-GBR,Great Britain,13,17,21
+GBR,Great Britain,14,17,21
+JPN,Japan,13,8,13
 KOR,Republic of Korea,13,8,7
-JPN,Japan,13,7,13
 NED,Netherlands,11,6,8
 ITA,Italy,10,11,9
-GER,Germany,9,9,5
+GER,Germany,9,9,6
+NZL,New Zealand,6,6,2
 CAN,Canada,6,5,11
-NZL,New Zealand,5,6,2
-HUN,Hungary,4,3,4
+HUN,Hungary,4,4,5
 IRL,Ireland,4,0,3
 UKR,Ukraine,3,4,4
 ROU,Romania,3,4,1
@@ -46,7 +46,7 @@ LCA,Saint Lucia,1,1,0
 UGA,Uganda,1,1,0
 TPE,Chinese Taipei,1,0,5
 BUL,Bulgaria,1,0,3
-AUT,Austria,1,0,1
+AUT,Austria,1,0,2
 CZE,Czechia,1,0,1
 GUA,Guatemala,1,0,1
 MAR,Morocco,1,0,1
