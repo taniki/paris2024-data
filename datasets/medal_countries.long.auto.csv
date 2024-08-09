@@ -2,12 +2,12 @@ code,country,medal,quantity
 USA,United States of America,gold,32
 CHN,People's Republic of China,gold,32
 AUS,Australia,gold,18
+JPN,Japan,gold,15
 GBR,Great Britain,gold,14
 FRA,France,gold,14
-JPN,Japan,gold,14
 KOR,Republic of Korea,gold,13
+NED,Netherlands,gold,13
 GER,Germany,gold,12
-NED,Netherlands,gold,12
 ITA,Italy,gold,11
 CAN,Canada,gold,7
 NZL,New Zealand,gold,6
@@ -61,13 +61,13 @@ PAK,Pakistan,gold,1
 COL,Colombia,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
 TUR,Türkiye,gold,0
+LTU,Lithuania,gold,0
 MEX,Mexico,gold,0
 ARM,Armenia,gold,0
 POR,Portugal,gold,0
 ETH,Ethiopia,gold,0
 IND,India,gold,0
 KGZ,Kyrgyzstan,gold,0
-LTU,Lithuania,gold,0
 KOS,Kosovo,gold,0
 TUN,Tunisia,gold,0
 CYP,Cyprus,gold,0
@@ -86,14 +86,14 @@ SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 USA,United States of America,silver,39
-CHN,People's Republic of China,silver,25
+CHN,People's Republic of China,silver,26
 AUS,Australia,silver,16
+JPN,Japan,silver,8
 GBR,Great Britain,silver,20
 FRA,France,silver,20
-JPN,Japan,silver,8
 KOR,Republic of Korea,silver,8
-GER,Germany,silver,9
 NED,Netherlands,silver,6
+GER,Germany,silver,9
 ITA,Italy,silver,12
 CAN,Canada,silver,5
 NZL,New Zealand,silver,7
@@ -147,13 +147,13 @@ PAK,Pakistan,silver,0
 COL,Colombia,silver,3
 PRK,Democratic People's Republic of Korea,silver,2
 TUR,Türkiye,silver,2
+LTU,Lithuania,silver,2
 MEX,Mexico,silver,2
 ARM,Armenia,silver,2
 POR,Portugal,silver,2
 ETH,Ethiopia,silver,2
 IND,India,silver,1
 KGZ,Kyrgyzstan,silver,1
-LTU,Lithuania,silver,1
 KOS,Kosovo,silver,1
 TUN,Tunisia,silver,1
 CYP,Cyprus,silver,1
@@ -174,12 +174,12 @@ ZAM,Zambia,silver,0
 USA,United States of America,bronze,39
 CHN,People's Republic of China,bronze,23
 AUS,Australia,bronze,14
+JPN,Japan,bronze,13
 GBR,Great Britain,bronze,23
 FRA,France,bronze,22
-JPN,Japan,bronze,13
 KOR,Republic of Korea,bronze,7
-GER,Germany,bronze,8
 NED,Netherlands,bronze,10
+GER,Germany,bronze,8
 ITA,Italy,bronze,13
 CAN,Canada,bronze,11
 NZL,New Zealand,bronze,2
@@ -208,7 +208,7 @@ ISR,Israel,bronze,1
 KAZ,Kazakhstan,bronze,3
 JAM,Jamaica,bronze,2
 THA,Thailand,bronze,2
-SUI,Switzerland,bronze,4
+SUI,Switzerland,bronze,5
 DEN,Denmark,bronze,2
 RSA,South Africa,bronze,2
 ECU,Ecuador,bronze,1
@@ -233,13 +233,13 @@ PAK,Pakistan,bronze,0
 COL,Colombia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
 TUR,Türkiye,bronze,3
+LTU,Lithuania,bronze,2
 MEX,Mexico,bronze,2
 ARM,Armenia,bronze,1
 POR,Portugal,bronze,1
 ETH,Ethiopia,bronze,0
 IND,India,bronze,5
 KGZ,Kyrgyzstan,bronze,3
-LTU,Lithuania,bronze,2
 KOS,Kosovo,bronze,1
 TUN,Tunisia,bronze,1
 CYP,Cyprus,bronze,0
