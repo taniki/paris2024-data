@@ -24,6 +24,7 @@ CRO,Croatia,gold,2
 CUB,Cuba,gold,2
 AZE,Azerbaijan,gold,2
 BEL,Belgium,gold,2
+AUT,Austria,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
 CZE,Czechia,gold,2
@@ -44,10 +45,10 @@ RSA,South Africa,gold,1
 ARG,Argentina,gold,1
 CHI,Chile,gold,1
 LCA,Saint Lucia,gold,1
+SLO,Slovenia,gold,1
 UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 BUL,Bulgaria,gold,1
-AUT,Austria,gold,1
 GUA,Guatemala,gold,1
 MAR,Morocco,gold,1
 NOR,Norway,gold,1
@@ -56,7 +57,6 @@ BOT,Botswana,gold,1
 BRN,Bahrain,gold,1
 DMA,Dominica,gold,1
 PAK,Pakistan,gold,1
-SLO,Slovenia,gold,1
 PRK,Democratic People's Republic of Korea,gold,0
 TUR,Türkiye,gold,0
 MEX,Mexico,gold,0
@@ -82,6 +82,7 @@ CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
 EOR,Refugee Olympic Team,gold,0
 PER,Peru,gold,0
+SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 USA,United States of America,silver,38
@@ -109,6 +110,7 @@ CRO,Croatia,silver,1
 CUB,Cuba,silver,1
 AZE,Azerbaijan,silver,1
 BEL,Belgium,silver,0
+AUT,Austria,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
 CZE,Czechia,silver,0
@@ -129,10 +131,10 @@ RSA,South Africa,silver,1
 ARG,Argentina,silver,1
 CHI,Chile,silver,1
 LCA,Saint Lucia,silver,1
+SLO,Slovenia,silver,1
 UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 BUL,Bulgaria,silver,0
-AUT,Austria,silver,0
 GUA,Guatemala,silver,0
 MAR,Morocco,silver,0
 NOR,Norway,silver,0
@@ -141,7 +143,6 @@ BOT,Botswana,silver,0
 BRN,Bahrain,silver,0
 DMA,Dominica,silver,0
 PAK,Pakistan,silver,0
-SLO,Slovenia,silver,0
 PRK,Democratic People's Republic of Korea,silver,2
 TUR,Türkiye,silver,2
 MEX,Mexico,silver,2
@@ -167,6 +168,7 @@ CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
 EOR,Refugee Olympic Team,silver,0
 PER,Peru,silver,0
+SGP,Singapore,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
 USA,United States of America,bronze,35
@@ -194,6 +196,7 @@ CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
 AZE,Azerbaijan,bronze,1
 BEL,Belgium,bronze,4
+AUT,Austria,bronze,2
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
 CZE,Czechia,bronze,1
@@ -214,10 +217,10 @@ RSA,South Africa,bronze,2
 ARG,Argentina,bronze,0
 CHI,Chile,bronze,0
 LCA,Saint Lucia,bronze,0
+SLO,Slovenia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
 BUL,Bulgaria,bronze,3
-AUT,Austria,bronze,2
 GUA,Guatemala,bronze,1
 MAR,Morocco,bronze,1
 NOR,Norway,bronze,1
@@ -226,7 +229,6 @@ BOT,Botswana,bronze,0
 BRN,Bahrain,bronze,0
 DMA,Dominica,bronze,0
 PAK,Pakistan,bronze,0
-SLO,Slovenia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
 TUR,Türkiye,bronze,3
 MEX,Mexico,bronze,2
@@ -252,5 +254,6 @@ CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
 EOR,Refugee Olympic Team,bronze,1
 PER,Peru,bronze,1
+SGP,Singapore,bronze,1
 SVK,Slovakia,bronze,1
 ZAM,Zambia,bronze,1
