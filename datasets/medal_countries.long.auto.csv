@@ -6,9 +6,9 @@ FRA,France,gold,14
 GBR,Great Britain,gold,14
 JPN,Japan,gold,13
 KOR,Republic of Korea,gold,13
+ITA,Italy,gold,11
 GER,Germany,gold,11
 NED,Netherlands,gold,11
-ITA,Italy,gold,10
 NZL,New Zealand,gold,6
 CAN,Canada,gold,6
 HUN,Hungary,gold,4
@@ -89,12 +89,12 @@ CHN,People's Republic of China,silver,25
 USA,United States of America,silver,38
 AUS,Australia,silver,15
 FRA,France,silver,19
-GBR,Great Britain,silver,17
+GBR,Great Britain,silver,18
 JPN,Japan,silver,8
 KOR,Republic of Korea,silver,8
+ITA,Italy,silver,11
 GER,Germany,silver,9
 NED,Netherlands,silver,6
-ITA,Italy,silver,11
 NZL,New Zealand,silver,6
 CAN,Canada,silver,5
 HUN,Hungary,silver,5
@@ -178,9 +178,9 @@ FRA,France,bronze,22
 GBR,Great Britain,bronze,21
 JPN,Japan,bronze,13
 KOR,Republic of Korea,bronze,7
-GER,Germany,bronze,7
-NED,Netherlands,bronze,8
 ITA,Italy,bronze,11
+GER,Germany,bronze,7
+NED,Netherlands,bronze,9
 NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
 HUN,Hungary,bronze,5

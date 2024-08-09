@@ -248,8 +248,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -288,6 +288,8 @@ BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
+GBR,BARKER Elinor,Cycling Track,Women's Madison,S
+GBR,BARKER Elinor,Cycling Track,Women's Team Pursuit,B
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Four 500m,S
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Double 500m,B
 GER,PASZEK Paulina,Canoe Sprint,Women's Kayak Four 500m,S
@@ -540,9 +542,11 @@ ISR,REUVENY Tom,Sailing,Men's Windsurfing,G
 ITA,BACOSI Diana,Shooting,Skeet Mixed Team,G
 ITA,BANTI Caterina Marianna,Sailing,Mixed Multihull,G
 ITA,BELLANDI Alice,Judo,Women -78 kg,G
+ITA,CONSONNI Chiara,Cycling Track,Women's Madison,G
 ITA,de GENNARO Giovanni,Canoe Slalom,Men's Kayak Single,G
 ITA,ERRANI Sara,Tennis,Women's Doubles,G
 ITA,FIAMINGO Rossella,Fencing,Women's Épée Team,G
+ITA,GUAZZINI Vittoria,Cycling Track,Women's Madison,G
 ITA,MAGGETTI Marta,Sailing,Women's Windsurfing,G
 ITA,MARTINENGHI Nicolo,Swimming,Men's 100m Breaststroke,G
 ITA,NAVARRIA Mara,Fencing,Women's Épée Team,G
@@ -831,6 +835,7 @@ GBR,BURGESS Adam,Canoe Slalom,Men's Canoe Single,S
 GBR,CARLIN Jack,Cycling Track,Men's Team Sprint,S
 GBR,CLARKE Joseph,Canoe Slalom,Men's Kayak Cross,S
 GBR,DALEY Thomas,Diving,Men's Synchronised 10m Platform,S
+GBR,EVANS Neah,Cycling Track,Women's Madison,S
 GBR,FLEETWOOD Tommy,Golf,Men's Individual Stroke Play,S
 GBR,GEORGE Tom,Rowing,Men's Pair,S
 GBR,GLOVER Helen,Rowing,Women's Four,S
@@ -1225,7 +1230,6 @@ FRA,STEYAERT Sarah,Sailing,Women's Skiff,B
 GBR,ALDRIDGE Matt,Rowing,Men's Four,B
 GBR,AMBLER David,Rowing,Men's Four,B
 GBR,ANNING Amber,Athletics,4 x 400m Relay Mixed,B
-GBR,BARKER Elinor,Cycling Track,Women's Team Pursuit,B
 GBR,BROWN Sky,Skateboarding,Women's Park,B
 GBR,CAMPBELL-ORDE Annie,Rowing,Women's Eight,B
 GBR,DAVIDSON Freddie,Rowing,Men's Four,B
@@ -1426,6 +1430,8 @@ NED,CORBEAU Caspar,Swimming,Men's 200m Breaststroke,B
 NED,HASSAN Sifan,Athletics,Women's 5000m,B
 NED,LAMMERTS Annelous,Sailing,Women's Kite,B
 NED,SCHOUTEN Tes,Swimming,Women's 200m Breaststroke,B
+NED,van BELLE Lisa,Cycling Track,Women's Madison,B
+NED,van der DUIN Maike,Cycling Track,Women's Madison,B
 NED,van der VLEUTEN Maikel,Equestrian,Jumping Individual,B
 NED,van DORP Simon,Rowing,Men's Single Sculls,B
 NED,van OPZEELAND Luuc,Sailing,Men's Windsurfing,B
