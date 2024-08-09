@@ -146,6 +146,8 @@ USA,FAULKNER Kristen,Cycling Road,Women's Road Race,G
 USA,FAULKNER Kristen,Cycling Track,Women's Team Pursuit,G
 USA,KIEFER Lee,Fencing,Women's Foil Individual,G
 USA,KIEFER Lee,Fencing,Women's Foil Team,G
+USA,THOMAS Gabrielle,Athletics,Women's 200m,G
+USA,THOMAS Gabrielle,Athletics,Women's 4 x 100m Relay,G
 CHN,CHEN Yuxi,Diving,Women's Synchronised 10m Platform,G
 CHN,CHEN Yuxi,Diving,Women's 10m Platform,S
 CHN,HUANG Yuting,Shooting,10m Air Rifle Mixed Team,G
@@ -156,8 +158,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -176,8 +178,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -210,6 +212,8 @@ USA,GUILIANO Chris,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,GUILIANO Chris,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,HANCOCK Vincent,Shooting,Skeet Men,G
 USA,HANCOCK Vincent,Shooting,Skeet Mixed Team,S
+USA,RICHARDSON Sha'carri,Athletics,Women's 100m,S
+USA,RICHARDSON Sha'carri,Athletics,Women's 4 x 100m Relay,G
 USA,SCRUGGS Lauren,Fencing,Women's Foil Individual,S
 USA,SCRUGGS Lauren,Fencing,Women's Foil Team,G
 USA,SHACKELL Alex,Swimming,Women's 4 x 100m Medley Relay,G
@@ -262,6 +266,8 @@ USA,CHILES Jordan,Artistic Gymnastics,Women's Floor Exercise,B
 USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 USA,DYGERT Chloe,Cycling Track,Women's Team Pursuit,G
 USA,DYGERT Chloe,Cycling Road,Women's Individual Time Trial,B
+USA,JEFFERSON Melissa,Athletics,Women's 100m,B
+USA,JEFFERSON Melissa,Athletics,Women's 4 x 100m Relay,G
 USA,LYLES Noah,Athletics,Men's 200m,B
 USA,LYLES Noah,Athletics,Men's 100m,G
 FRA,MALLO-BRETON Auriane,Fencing,Women's Épée Individual,S
@@ -689,7 +695,7 @@ USA,McLAUGHLIN-LEVRONE Sydney,Athletics,Women's 400m Hurdles,G
 USA,MEAD Nick,Rowing,Men's Four,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
 USA,SCHEFFLER Scottie,Golf,Men's Individual Stroke Play,G
-USA,THOMAS Gabrielle,Athletics,Women's 200m,G
+USA,TERRY Twanisha,Athletics,Women's 4 x 100m Relay,G
 USA,VALENTE Jennifer,Cycling Track,Women's Team Pursuit,G
 USA,WEBER Emma,Swimming,Women's 4 x 100m Medley Relay,G
 USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
@@ -829,6 +835,7 @@ FRA,TOUZAINT Nicolas,Equestrian,Eventing Team,S
 FRA,VALLADONT Jean-Charles,Archery,Men's Team,S
 FRA,VERGIAT Timothe,3x3 Basketball,Men,S
 FRA,VITALIS Coraline,Fencing,Women's Épée Team,S
+GBR,ASHER-SMITH Dina,Athletics,Women's 4 x 100m Relay,S
 GBR,BIGHAM Daniel,Cycling Track,Men's Team Pursuit,S
 GBR,BOOTH Esme,Rowing,Women's Four,S
 GBR,BURGESS Adam,Canoe Slalom,Men's Canoe Single,S
@@ -841,9 +848,13 @@ GBR,GEORGE Tom,Rowing,Men's Pair,S
 GBR,GLOVER Helen,Rowing,Women's Four,S
 GBR,HAYTER Ethan,Cycling Track,Men's Team Pursuit,S
 GBR,HENDERSON Anna,Cycling Road,Women's Individual Time Trial,S
+GBR,HENRY Desiree,Athletics,Women's 4 x 100m Relay,S
 GBR,HUDSON-SMITH Matthew,Athletics,Men's 400m,S
+GBR,HUNT Amy,Athletics,Women's 4 x 100m Relay,S
 GBR,KERR Josh,Athletics,Men's 1500m,S
+GBR,LANSIQUOT Imani,Athletics,Women's 4 x 100m Relay,S
 GBR,LOWE Ed,Cycling Track,Men's Team Sprint,S
+GBR,NEITA Daryll,Athletics,Women's 4 x 100m Relay,S
 GBR,PEATY Adam,Swimming,Men's 100m Breaststroke,S
 GBR,PROUD Benjamin,Swimming,Men's 50m Freestyle,S
 GBR,REDGRAVE Sam,Rowing,Women's Four,S
@@ -853,6 +864,7 @@ GBR,SHORTEN Rebecca,Rowing,Women's Four,S
 GBR,TANFIELD Charlie,Cycling Track,Men's Team Pursuit,S
 GBR,TURNBULL Hamish,Cycling Track,Men's Team Sprint,S
 GBR,VERNON Ethan,Cycling Track,Men's Team Pursuit,S
+GBR,WILLIAMS Bianca,Athletics,Women's 4 x 100m Relay,S
 GBR,WILLIAMS Noah,Diving,Men's Synchronised 10m Platform,S
 GBR,WOOD Oliver,Cycling Track,Men's Team Pursuit,S
 GBR,WYNNE-GRIFFITH Oliver,Rowing,Men's Pair,S
@@ -1061,7 +1073,6 @@ USA,PRINCE Conner Lynn,Shooting,Skeet Men,S
 USA,RAM Rajeev,Tennis,Men's Doubles,S
 USA,RAMIREZ Daniella,Artistic Swimming,Team,S
 USA,REMATI Ruby,Artistic Swimming,Team,S
-USA,RICHARDSON Sha'carri,Athletics,Women's 100m,S
 USA,RIDER Seth,Triathlon,Mixed Relay,S
 USA,ROBERTS Daniel,Athletics,Men's 110m Hurdles,S
 USA,ROOKS Kenneth,Athletics,Men's 3000m Steeplechase,S
@@ -1270,6 +1281,7 @@ GER,ANYOMI Nicole,Football,Women,B
 GER,BERGER Ann-Katrin,Football,Women,B
 GER,BRAND Jule,Football,Women,B
 GER,BUEHL Klara,Football,Women,B
+GER,BURGHARDT Alexandra,Athletics,Women's 4 x 100m Relay,B
 GER,DOORSOUN Sara,Football,Women,B
 GER,ENDEMANN Vivien,Football,Women,B
 GER,FREIGANG Laura,Football,Women,B
@@ -1279,12 +1291,16 @@ GER,GOSE Isabel,Swimming,Women's 1500m Freestyle,B
 GER,GRABOSCH Pauline,Cycling Track,Women's Team Sprint,B
 GER,GREITEN Pia,Rowing,Women's Quadruple Sculls,B
 GER,GWINN Giulia,Football,Women,B
+GER,HAASE Rebekka,Athletics,Women's 4 x 100m Relay,B
 GER,HEGERING Marina,Football,Women,B
 GER,HEGGE Noah,Canoe Slalom,Men's Kayak Cross,B
 GER,HENDRICH Kathrin,Football,Women,B
 GER,HINZE Emma,Cycling Track,Women's Team Sprint,B
+GER,JUNK Sophia,Athletics,Women's 4 x 100m Relay,B
 GER,LINDER Sarai,Football,Women,B
 GER,LOHMANN Sydney,Football,Women,B
+GER,LUECKENKEMPER Gina,Athletics,Women's 4 x 100m Relay,B
+GER,MAYER Lisa,Athletics,Women's 4 x 100m Relay,B
 GER,MENZEL Leonie,Rowing,Women's Quadruple Sculls,B
 GER,MINGE Janina,Football,Women,B
 GER,NUESKEN Sjoeke,Football,Women,B
@@ -1526,7 +1542,6 @@ USA,HOWARD Rhyne,3x3 Basketball,Women,B
 USA,HUSTON Nyjah,Skateboarding,Men's Street,B
 USA,ITKIN Nick,Fencing,Men's Foil Individual,B
 USA,JAESCHKE Thomas,Volleyball,Men,B
-USA,JEFFERSON Melissa,Athletics,Women's 100m,B
 USA,JENDRYK II Jeffrey,Volleyball,Men,B
 USA,JONES Omari,Boxing,Men's 71kg,B
 USA,JUDA Paul,Artistic Gymnastics,Men's Team,B
