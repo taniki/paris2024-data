@@ -150,8 +150,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -170,8 +170,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -302,8 +302,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -1052,6 +1052,22 @@ USA,SMITH Kieran,Swimming,Men's 4 x 200m Freestyle Relay,S
 USA,SPIVEY Taylor,Triathlon,Mixed Relay,S
 USA,WARD McLain,Equestrian,Jumping Team,S
 USA,WEINSTEIN Claire,Swimming,Women's 4 x 200m Freestyle Relay,S
+ARG,ALBERTARRIO Agustina,Hockey,Women,B
+ARG,ALONSO Agostina,Hockey,Women,B
+ARG,CAIRO Sofia,Hockey,Women,B
+ARG,CAMPOY Maria,Hockey,Women,B
+ARG,CASAS Lara,Hockey,Women,B
+ARG,CASTELLARO MORELLO Juana,Hockey,Women,B
+ARG,COSENTINO Cristina,Hockey,Women,B
+ARG,DIAZ de ARMAS Zoe,Hockey,Women,B
+ARG,GORZELANY Agustina,Hockey,Women,B
+ARG,GRANATTO Maria,Hockey,Women,B
+ARG,JANKUNAS Julieta,Hockey,Women,B
+ARG,RAPOSO RUIZ de los LLANOS Valentina,Hockey,Women,B
+ARG,SANCHEZ MOCCIA Rocio,Hockey,Women,B
+ARG,SAUZE VALDEZ Victoria,Hockey,Women,B
+ARG,TOCCALINO Sofia,Hockey,Women,B
+ARG,TRINCHINETTI Eugenia,Hockey,Women,B
 ARM,AMOYAN Malkhas,Wrestling,Men's Greco-Roman 77kg,B
 AUS,COWLEY Rhydian,Athletics,Marathon Race Walk Relay Mixed,B
 AUS,DENNY Matthew,Athletics,Men's Discus Throw,B
