@@ -1,6 +1,6 @@
 code,country,medal,quantity
 USA,United States of America,gold,33
-CHN,People's Republic of China,gold,32
+CHN,People's Republic of China,gold,33
 AUS,Australia,gold,18
 JPN,Japan,gold,16
 GBR,Great Britain,gold,14
@@ -45,6 +45,7 @@ GRE,Greece,gold,1
 POL,Poland,gold,1
 ARG,Argentina,gold,1
 NOR,Norway,gold,1
+TUN,Tunisia,gold,1
 BRN,Bahrain,gold,1
 CHI,Chile,gold,1
 LCA,Saint Lucia,gold,1
@@ -58,10 +59,10 @@ ALG,Algeria,gold,1
 BOT,Botswana,gold,1
 DMA,Dominica,gold,1
 PAK,Pakistan,gold,1
+TUR,Türkiye,gold,0
 MEX,Mexico,gold,0
 COL,Colombia,gold,0
 PRK,Democratic People's Republic of Korea,gold,0
-TUR,Türkiye,gold,0
 LTU,Lithuania,gold,0
 ARM,Armenia,gold,0
 POR,Portugal,gold,0
@@ -70,7 +71,6 @@ IND,India,gold,0
 KGZ,Kyrgyzstan,gold,0
 MDA,Republic of Moldova,gold,0
 KOS,Kosovo,gold,0
-TUN,Tunisia,gold,0
 CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
 JOR,Jordan,gold,0
@@ -107,7 +107,7 @@ ROU,Romania,silver,4
 BUL,Bulgaria,silver,1
 BEL,Belgium,silver,0
 BRA,Brazil,silver,6
-IRI,Islamic Republic of Iran,silver,3
+IRI,Islamic Republic of Iran,silver,4
 CRO,Croatia,silver,1
 CUB,Cuba,silver,1
 KEN,Kenya,silver,1
@@ -131,6 +131,7 @@ GRE,Greece,silver,1
 POL,Poland,silver,1
 ARG,Argentina,silver,1
 NOR,Norway,silver,1
+TUN,Tunisia,silver,1
 BRN,Bahrain,silver,1
 CHI,Chile,silver,1
 LCA,Saint Lucia,silver,1
@@ -144,10 +145,10 @@ ALG,Algeria,silver,0
 BOT,Botswana,silver,0
 DMA,Dominica,silver,0
 PAK,Pakistan,silver,0
+TUR,Türkiye,silver,3
 MEX,Mexico,silver,3
 COL,Colombia,silver,3
 PRK,Democratic People's Republic of Korea,silver,2
-TUR,Türkiye,silver,2
 LTU,Lithuania,silver,2
 ARM,Armenia,silver,2
 POR,Portugal,silver,2
@@ -156,7 +157,6 @@ IND,India,silver,1
 KGZ,Kyrgyzstan,silver,1
 MDA,Republic of Moldova,silver,1
 KOS,Kosovo,silver,1
-TUN,Tunisia,silver,1
 CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
 JOR,Jordan,silver,1
@@ -217,6 +217,7 @@ GRE,Greece,bronze,6
 POL,Poland,bronze,5
 ARG,Argentina,bronze,1
 NOR,Norway,bronze,1
+TUN,Tunisia,bronze,1
 BRN,Bahrain,bronze,0
 CHI,Chile,bronze,0
 LCA,Saint Lucia,bronze,0
@@ -230,10 +231,10 @@ ALG,Algeria,bronze,0
 BOT,Botswana,bronze,0
 DMA,Dominica,bronze,0
 PAK,Pakistan,bronze,0
+TUR,Türkiye,bronze,3
 MEX,Mexico,bronze,2
 COL,Colombia,bronze,0
 PRK,Democratic People's Republic of Korea,bronze,4
-TUR,Türkiye,bronze,3
 LTU,Lithuania,bronze,2
 ARM,Armenia,bronze,1
 POR,Portugal,bronze,1
@@ -242,7 +243,6 @@ IND,India,bronze,5
 KGZ,Kyrgyzstan,bronze,3
 MDA,Republic of Moldova,bronze,3
 KOS,Kosovo,bronze,1
-TUN,Tunisia,bronze,1
 CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
 JOR,Jordan,bronze,0
