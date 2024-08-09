@@ -142,8 +142,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -162,8 +162,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -266,8 +266,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -286,8 +286,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -385,6 +385,7 @@ CHN,LIU Yukun,Shooting,50m Rifle 3 Positions Men,G
 CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
 CHN,LUO Shifang,Weightlifting,Women's 59kg,G
 CHN,SUN Jiajun,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,SUN Mengya,Canoe Sprint,Women's Canoe Double 500m,G
 CHN,WANG Changhao,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
 CHN,WANG Ciyue,Artistic Swimming,Team,G
@@ -394,6 +395,7 @@ CHN,XIANG Binxuan,Artistic Swimming,Team,G
 CHN,XIAO Yanning,Artistic Swimming,Team,G
 CHN,XIE Siyi,Diving,Men's 3m Springboard,G
 CHN,XIE Yu,Shooting,10m Air Pistol Men,G
+CHN,XU Shixiao,Canoe Sprint,Women's Canoe Double 500m,G
 CHN,YANG Hao,Diving,Men's Synchronised 10m Platform,G
 CHN,YANG Jiayu,Athletics,Women's 20km Race Walk,G
 CHN,ZHANG Yayi,Artistic Swimming,Team,G
@@ -974,7 +976,9 @@ TUR,TARHAN Sevval Ilayda,Shooting,10m Air Pistol Mixed Team,S
 UGA,CHEMUTAI Peruth,Athletics,Women's 3000m Steeplechase,S
 UKR,KOVTUN Illia,Artistic Gymnastics,Men's Parallel Bars,S
 UKR,KULISH Serhiy,Shooting,50m Rifle 3 Positions Men,S
+UKR,LUZAN Liudmyla,Canoe Sprint,Women's Canoe Double 500m,S
 UKR,NASIBOV Parviz,Wrestling,Men's Greco-Roman 67kg,S
+UKR,RYBACHOK Anastasiia,Canoe Sprint,Women's Canoe Double 500m,S
 USA,ALVAREZ Anita,Artistic Swimming,Team,S
 USA,BACON Sarah,Diving,Women's Synchronised 3m Springboard,S
 USA,BATTEN Haley,Cycling Mountain Bike,Women's Cross-country,S
@@ -1070,11 +1074,13 @@ BUL,KIMIA Alizadeh,Taekwondo,Women -57kg,B
 CAN,AUGER-ALIASSIME Felix,Tennis,Mixed Doubles,B
 CAN,DABROWSKI Gabriela,Tennis,Mixed Doubles,B
 CAN,HARVEY Eleanor,Fencing,Women's Foil Individual,B
+CAN,MACKENZIE Sloan,Canoe Sprint,Women's Canoe Double 500m,B
 CAN,MASSE Kylie,Swimming,Women's 200m Backstroke,B
 CAN,METHOT Sophiane,Trampoline Gymnastics,Women,B
 CAN,NEWMAN Alysha,Athletics,Women's Pole Vault,B
 CAN,PARK Skylar,Taekwondo,Women -57kg,B
 CAN,SANFORD Wyatt,Boxing,Men's 63.5kg,B
+CAN,VINCENT Katie,Canoe Sprint,Women's Canoe Double 500m,B
 CAN,WIENS Rylan,Diving,Men's Synchronised 10m Platform,B
 CAN,ZSOMBOR-MURRAY Nathan,Diving,Men's Synchronised 10m Platform,B
 CHN,CHENG Yujie,Swimming,Women's 4 x 100m Freestyle Relay,B
