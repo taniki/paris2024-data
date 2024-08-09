@@ -1,6 +1,6 @@
 code,country,medal,quantity
 USA,United States of America,gold,30
-CHN,People's Republic of China,gold,29
+CHN,People's Republic of China,gold,30
 AUS,Australia,gold,18
 FRA,France,gold,14
 GBR,Great Britain,gold,13
@@ -13,8 +13,8 @@ CAN,Canada,gold,6
 NZL,New Zealand,gold,5
 HUN,Hungary,gold,4
 IRL,Ireland,gold,4
-ROU,Romania,gold,3
 UKR,Ukraine,gold,3
+ROU,Romania,gold,3
 SWE,Sweden,gold,3
 UZB,Uzbekistan,gold,3
 BRA,Brazil,gold,2
@@ -98,8 +98,8 @@ CAN,Canada,silver,5
 NZL,New Zealand,silver,6
 HUN,Hungary,silver,3
 IRL,Ireland,silver,0
+UKR,Ukraine,silver,4
 ROU,Romania,silver,4
-UKR,Ukraine,silver,3
 SWE,Sweden,silver,3
 UZB,Uzbekistan,silver,0
 BRA,Brazil,silver,5
@@ -179,12 +179,12 @@ JPN,Japan,bronze,13
 NED,Netherlands,bronze,8
 ITA,Italy,bronze,9
 GER,Germany,bronze,5
-CAN,Canada,bronze,10
+CAN,Canada,bronze,11
 NZL,New Zealand,bronze,2
 HUN,Hungary,bronze,4
 IRL,Ireland,bronze,3
-ROU,Romania,bronze,1
 UKR,Ukraine,bronze,4
+ROU,Romania,bronze,1
 SWE,Sweden,bronze,3
 UZB,Uzbekistan,bronze,2
 BRA,Brazil,bronze,8
