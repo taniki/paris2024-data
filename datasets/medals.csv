@@ -142,8 +142,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -162,8 +162,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -492,6 +492,7 @@ HUN,ANDRASFI Tibor,Fencing,Men's Épée Team,G
 HUN,KOCH Mate Tamas,Fencing,Men's Épée Team,G
 HUN,KOS Hubert,Swimming,Men's 200m Backstroke,G
 HUN,NAGY David,Fencing,Men's Épée Team,G
+HUN,RASOVSZKY Kristof,Marathon Swimming,Men's 10km,G
 HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
 INA,JUNIANSYAH Rizki,Weightlifting,Men's 73kg,G
 INA,LEONARDO Veddriq,Sport Climbing,Men's Speed,G
@@ -827,6 +828,7 @@ GER,HELLWIG Malte,Hockey,Men,S
 GER,HINRICHS Teo,Hockey,Men,S
 GER,JAGSCH Pauline,Canoe Sprint,Women's Kayak Four 500m,S
 GER,KAUFMANN Paul-Philipp,Hockey,Men,S
+GER,KLEMET Oliver,Marathon Swimming,Men's 10km,S
 GER,KROPPEN Michelle,Archery,Mixed Team,S
 GER,LILIK Elena,Canoe Slalom,Women's Canoe Single,S
 GER,LUDWIG Moritz,Hockey,Men,S
@@ -1217,6 +1219,7 @@ GRE,TSELIDIS Theodoros,Judo,Men -90 kg,B
 GRN,PETERS Anderson,Athletics,Men's Javelin Throw,B
 GRN,VICTOR Lindon,Athletics,Men's Decathlon,B
 GUA,BROL CARDENAS Jean Pierre,Shooting,Trap Men,B
+HUN,BETLEHEM David,Marathon Swimming,Men's 10km,B
 HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Four 500m,B
 HUN,FOJT Sara,Canoe Sprint,Women's Kayak Four 500m,B
 HUN,GAZSO Alida Dora,Canoe Sprint,Women's Kayak Four 500m,B
