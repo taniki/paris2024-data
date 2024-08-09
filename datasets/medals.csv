@@ -160,8 +160,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -180,8 +180,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -294,8 +294,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -456,6 +456,7 @@ CZE,MACHAC Tomas,Tennis,Mixed Doubles,G
 CZE,SINIAKOVA Katerina,Tennis,Mixed Doubles,G
 DEN,AXELSEN Viktor,Badminton,Men's Singles,G
 DMA,LAFOND Thea,Athletics,Women's Triple Jump,G
+DOM,PAULINO Marileidy,Athletics,Women's 400m,G
 ESP,BOTIN le CHEVER Diego,Sailing,Men's Skiff,G
 ESP,TRITTEL PAUL Florian,Sailing,Men's Skiff,G
 FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
@@ -571,6 +572,7 @@ JAM,STONA Roje,Athletics,Men's Discus Throw,G
 JPN,FUJINAMI Akari,Wrestling,Women's Freestyle 53kg,G
 JPN,FUMITA Kenichiro,Wrestling,Men's Greco-Roman 60kg,G
 JPN,HASHIMOTO Daiki,Artistic Gymnastics,Men's Team,G
+JPN,HIGUCHI Rei,Wrestling,Men's Freestyle 57kg,G
 JPN,HORIGOME Yuto,Skateboarding,Men's Street,G
 JPN,IIMURA Kazuki,Fencing,Men's Foil Team,G
 JPN,KAYA Kazuma,Artistic Gymnastics,Men's Team,G
@@ -735,6 +737,7 @@ AZE,MAGOMEDOV Gashim,Taekwondo,Men -58kg,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
 BRA,QUEIROZ Isaquias,Canoe Sprint,Men's Canoe Single 1000m,S
 BRA,WESTON-WEBB Tatiana,Surfing,Women,S
+BRN,NASER Salwa Eid,Athletics,Women's 400m,S
 BUL,KALEYN Boryana,Rhythmic Gymnastics,Individual All-Around,S
 CAN,APPS Olivia,Rugby Sevens,Women,S
 CAN,BERMUDEZ Fancy,Rugby Sevens,Women,S
@@ -1064,6 +1067,7 @@ USA,KOVACS Joe,Athletics,Men's Shot Put,S
 USA,KRAJICEK Austin,Tennis,Men's Doubles,S
 USA,KRAUT Laura,Equestrian,Jumping Team,S
 USA,KWON Audrey,Artistic Swimming,Team,S
+USA,LEE Spencer Richard,Wrestling,Men's Freestyle 57kg,S
 USA,LITTLE Shamier,Athletics,4 x 400m Relay Mixed,S
 USA,LIU Calista,Artistic Swimming,Team,S
 USA,LUU Jacklyn,Artistic Swimming,Team,S
@@ -1469,6 +1473,7 @@ POL,BARANSKI Fabian,Rowing,Men's Quadruple Sculls,B
 POL,BISKUP Mateusz,Rowing,Men's Quadruple Sculls,B
 POL,CZAJA Dominik,Rowing,Men's Quadruple Sculls,B
 POL,JARECKA Aleksandra,Fencing,Women's Épée Team,B
+POL,KACZMAREK Natalia,Athletics,Women's 400m,B
 POL,KALUCKA Aleksandra,Sport Climbing,Women's Speed,B
 POL,KLASIK Alicja,Fencing,Women's Épée Team,B
 POL,KNAPIK-MIAZGA Renata,Fencing,Women's Épée Team,B
