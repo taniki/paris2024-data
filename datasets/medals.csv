@@ -160,8 +160,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -180,8 +180,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -403,6 +403,7 @@ AUT,MAEHR Lukas,Sailing,Mixed Dinghy,G
 AUT,VADLAU Lara,Sailing,Mixed Dinghy,G
 AZE,HEYDAROV Hidayat,Judo,Men -73 kg,G
 AZE,KOTSOIEV Zelym,Judo,Men -100 kg,G
+BEL,THIAM Nafissatou,Athletics,Women's Heptathlon,G
 BOT,TEBOGO Letsile,Athletics,Men's 200m,G
 BRN,YAVI Winfred,Athletics,Women's 3000m Steeplechase,G
 BUL,NASAR Karlos May,Weightlifting,Men's 89kg,G
@@ -858,6 +859,7 @@ GBR,HENDERSON Anna,Cycling Road,Women's Individual Time Trial,S
 GBR,HENRY Desiree,Athletics,Women's 4 x 100m Relay,S
 GBR,HUDSON-SMITH Matthew,Athletics,Men's 400m,S
 GBR,HUNT Amy,Athletics,Women's 4 x 100m Relay,S
+GBR,JOHNSON-THOMPSON Katarina,Athletics,Women's Heptathlon,S
 GBR,KERR Josh,Athletics,Men's 1500m,S
 GBR,LANSIQUOT Imani,Athletics,Women's 4 x 100m Relay,S
 GBR,LOWE Ed,Cycling Track,Men's Team Sprint,S
@@ -1130,6 +1132,7 @@ AZE,JAFAROV Hasrat,Wrestling,Men's Greco-Roman 67kg,B
 BEL,KOPECKY Lotte,Cycling Road,Women's Road Race,B
 BEL,van AERT Wout,Cycling Road,Men's Individual Time Trial,B
 BEL,van den BOSSCHE Fabio,Cycling Track,Men's Omnium,B
+BEL,VIDTS Noor,Athletics,Women's Heptathlon,B
 BEL,WILLEMS Gabriella,Judo,Women -70 kg,B
 BRA,AKIO Augusto,Skateboarding,Men's Park,B
 BRA,BARBOSA Jade,Artistic Gymnastics,Women's Team,B
@@ -1583,6 +1586,7 @@ USA,SMITH David,Volleyball,Men,B
 USA,SULLIVAN Sammy,Rugby Sevens,Women,B
 USA,TABASH Christian,Rowing,Men's Eight,B
 USA,TAPPER Naya,Rugby Sevens,Women,B
+USA,TEACHOUT Kristina,Taekwondo,Women -67kg,B
 USA,van LITH Hailey,3x3 Basketball,Women,B
 USA,WATSON Sam,Sport Climbing,Men's Speed,B
 USA,WEYANT Emma,Swimming,Women's 400m Individual Medley,B
