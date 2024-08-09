@@ -1,30 +1,30 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,31
+CHN,People's Republic of China,gold,32
 USA,United States of America,gold,30
 AUS,Australia,gold,18
 FRA,France,gold,14
 GBR,Great Britain,gold,14
 JPN,Japan,gold,13
 KOR,Republic of Korea,gold,13
+GER,Germany,gold,11
 NED,Netherlands,gold,11
 ITA,Italy,gold,10
-GER,Germany,gold,10
 NZL,New Zealand,gold,6
 CAN,Canada,gold,6
 HUN,Hungary,gold,4
 IRL,Ireland,gold,4
 UKR,Ukraine,gold,3
-ROU,Romania,gold,3
 SWE,Sweden,gold,3
+ROU,Romania,gold,3
 UZB,Uzbekistan,gold,3
 BRA,Brazil,gold,2
 ESP,Spain,gold,2
 IRI,Islamic Republic of Iran,gold,2
+BUL,Bulgaria,gold,2
 CRO,Croatia,gold,2
 CUB,Cuba,gold,2
 AZE,Azerbaijan,gold,2
 BEL,Belgium,gold,2
-BUL,Bulgaria,gold,2
 AUT,Austria,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
@@ -92,25 +92,25 @@ FRA,France,silver,19
 GBR,Great Britain,silver,17
 JPN,Japan,silver,8
 KOR,Republic of Korea,silver,8
+GER,Germany,silver,9
 NED,Netherlands,silver,6
 ITA,Italy,silver,11
-GER,Germany,silver,9
 NZL,New Zealand,silver,6
 CAN,Canada,silver,5
 HUN,Hungary,silver,5
 IRL,Ireland,silver,0
 UKR,Ukraine,silver,4
+SWE,Sweden,silver,4
 ROU,Romania,silver,4
-SWE,Sweden,silver,3
 UZB,Uzbekistan,silver,0
 BRA,Brazil,silver,6
 ESP,Spain,silver,3
 IRI,Islamic Republic of Iran,silver,2
+BUL,Bulgaria,silver,1
 CRO,Croatia,silver,1
 CUB,Cuba,silver,1
 AZE,Azerbaijan,silver,1
 BEL,Belgium,silver,0
-BUL,Bulgaria,silver,0
 AUT,Austria,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
@@ -172,31 +172,31 @@ SGP,Singapore,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
 CHN,People's Republic of China,bronze,20
-USA,United States of America,bronze,35
+USA,United States of America,bronze,36
 AUS,Australia,bronze,14
 FRA,France,bronze,22
 GBR,Great Britain,bronze,21
 JPN,Japan,bronze,13
 KOR,Republic of Korea,bronze,7
-NED,Netherlands,bronze,8
-ITA,Italy,bronze,10
 GER,Germany,bronze,7
+NED,Netherlands,bronze,8
+ITA,Italy,bronze,11
 NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
 HUN,Hungary,bronze,5
 IRL,Ireland,bronze,3
 UKR,Ukraine,bronze,4
-ROU,Romania,bronze,1
 SWE,Sweden,bronze,3
+ROU,Romania,bronze,1
 UZB,Uzbekistan,bronze,2
 BRA,Brazil,bronze,8
 ESP,Spain,bronze,8
 IRI,Islamic Republic of Iran,bronze,2
+BUL,Bulgaria,bronze,3
 CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
 AZE,Azerbaijan,bronze,1
 BEL,Belgium,bronze,4
-BUL,Bulgaria,bronze,3
 AUT,Austria,bronze,2
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2

@@ -116,10 +116,14 @@ BEL,EVENEPOEL Remco,Cycling Road,Men's Road Race,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Yiwen,Diving,Women's 3m Springboard,G
+CHN,FAN Zhendong,Table Tennis,Men's Team,G
+CHN,FAN Zhendong,Table Tennis,Men's Singles,G
 CHN,QUAN Hongchan,Diving,Women's Synchronised 10m Platform,G
 CHN,QUAN Hongchan,Diving,Women's 10m Platform,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Men,G
+CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
+CHN,WANG Chuqin,Table Tennis,Men's Team,G
 FRA,RINER Teddy,Judo,Mixed Team,G
 FRA,RINER Teddy,Judo,Men +100 kg,G
 GER,LEMKE Max,Canoe Sprint,Men's Kayak Four 500m,G
@@ -266,6 +270,8 @@ ITA,MACCHI Filippo,Fencing,Men's Foil Individual,S
 ITA,MACCHI Filippo,Fencing,Men's Foil Team,S
 JPN,MURAO Sanshiro,Judo,Men -90 kg,S
 JPN,MURAO Sanshiro,Judo,Mixed Team,S
+SWE,MOREGARD Truls,Table Tennis,Men's Team,S
+SWE,MOREGARD Truls,Table Tennis,Men's Singles,S
 USA,MANUEL Simone,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,MANUEL Simone,Swimming,Women's 4 x 200m Freestyle Relay,S
 AUS,ANDERSON Iona,Swimming,Women's 4 x 100m Medley Relay,S
@@ -397,7 +403,6 @@ CHN,CHEN Meng,Table Tennis,Women's Singles,G
 CHN,CHEN Qing Chen,Badminton,Women's Doubles,G
 CHN,CHENG Wentao,Artistic Swimming,Team,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
-CHN,FAN Zhendong,Table Tennis,Men's Singles,G
 CHN,FENG Yu,Artistic Swimming,Team,G
 CHN,HOU Zhihui,Weightlifting,Women's 49kg,G
 CHN,HUANG Ya Qiong,Badminton,Mixed Doubles,G
@@ -410,10 +415,10 @@ CHN,LIU Hao,Canoe Sprint,Men's Canoe Double 500m,G
 CHN,LIU Yukun,Shooting,50m Rifle 3 Positions Men,G
 CHN,LONG Daoyi,Diving,Men's Synchronised 3m Springboard,G
 CHN,LUO Shifang,Weightlifting,Women's 59kg,G
+CHN,MA Long,Table Tennis,Men's Team,G
 CHN,SUN Jiajun,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,SUN Mengya,Canoe Sprint,Women's Canoe Double 500m,G
 CHN,WANG Changhao,Swimming,Men's 4 x 100m Medley Relay,G
-CHN,WANG Chuqin,Table Tennis,Mixed Doubles,G
 CHN,WANG Ciyue,Artistic Swimming,Team,G
 CHN,WANG Liuyi,Artistic Swimming,Team,G
 CHN,WANG Qianyi,Artistic Swimming,Team,G
@@ -510,6 +515,7 @@ GER,MEVIUS Elisa,3x3 Basketball,Women,G
 GER,REICHERT Marie,3x3 Basketball,Women,G
 GER,RENDSCHMIDT Max,Canoe Sprint,Men's Kayak Four 500m,G
 GER,TERTSCH Lisa,Triathlon,Mixed Relay,G
+GER,VARFOLOMEEV Darja,Rhythmic Gymnastics,Individual All-Around,G
 GER,WANDRES Frederic,Equestrian,Dressage Team,G
 GER,ZEIDLER Oliver,Rowing,Men's Single Sculls,G
 GRE,TENTOGLOU Miltiadis,Athletics,Men's Long Jump,G
@@ -714,6 +720,7 @@ AZE,MAGOMEDOV Gashim,Taekwondo,Men -58kg,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
 BRA,QUEIROZ Isaquias,Canoe Sprint,Men's Canoe Single 1000m,S
 BRA,WESTON-WEBB Tatiana,Surfing,Women,S
+BUL,KALEYN Boryana,Rhythmic Gymnastics,Individual All-Around,S
 CAN,APPS Olivia,Rugby Sevens,Women,S
 CAN,BERMUDEZ Fancy,Rugby Sevens,Women,S
 CAN,CHARRON Maude,Weightlifting,Women's 59kg,S
@@ -992,8 +999,9 @@ SLO,VODISEK Toni,Sailing,Men's Kite,S
 SUI,DERRON Julie,Triathlon,Women's Individual,S
 SUI,GUERDAT Steve,Equestrian,Jumping Individual,S
 SWE,BOBECK Vilma,Sailing,Women's Skiff,S
+SWE,KALLBERG Anton,Table Tennis,Men's Team,S
+SWE,KARLSSON Kristian,Table Tennis,Men's Team,S
 SWE,LINDGREN Victor,Shooting,10m Air Rifle Men,S
-SWE,MOREGARD Truls,Table Tennis,Men's Singles,S
 SWE,NETZLER Rebecca,Sailing,Women's Skiff,S
 THA,SILACHAI Theerapong,Weightlifting,Men's 61kg,S
 THA,VITIDSARN Kunlavut,Badminton,Men's Singles,S
@@ -1333,6 +1341,7 @@ ITA,MIRESSI Alessandro,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,MONNA Paolo,Shooting,10m Air Pistol Men,B
 ITA,MUSETTI Lorenzo,Tennis,Men's Singles,B
 ITA,PIZZOLATO Antonino,Weightlifting,Men's 89kg,B
+ITA,RAFFAELI Sofia,Rhythmic Gymnastics,Individual All-Around,B
 ITA,SAMELE Luigi,Fencing,Men's Sabre Individual,B
 ITA,TADDEUCCI Ginevra,Marathon Swimming,Women's 10km,B
 ITA,ZAZZERI Lorenzo,Swimming,Men's 4 x 100m Freestyle Relay,B
@@ -1488,24 +1497,31 @@ TUR,YILDIZ KAHRAMAN Esra,Boxing,Women's 57kg,B
 UKR,BELENIUK Zhan,Wrestling,Men's Greco-Roman 87kg,B
 UKR,GERASHCHENKO Iryna,Athletics,Women's High Jump,B
 UKR,KOKHAN Mykhaylo,Athletics,Men's Hammer Throw,B
+USA,ANDERSON Matthew,Volleyball,Men,B
+USA,AVERILL Taylor,Volleyball,Men,B
 USA,BARROWS Ian,Sailing,Men's Skiff,B
 USA,BROWN Brittany,Athletics,Women's 200m,B
 USA,BURDICK Cierra,3x3 Basketball,Women,B
 USA,CANETT Kayla,Rugby Sevens,Women,B
 USA,CARLSON Chris,Rowing,Men's Eight,B
 USA,CHATAIN Peter,Rowing,Men's Eight,B
+USA,CHRISTENSON Micah,Volleyball,Men,B
 USA,DEAN Clark,Rowing,Men's Eight,B
+USA,DEFALCO Torey,Volleyball,Men,B
 USA,DOYLE Lauren,Rugby Sevens,Women,B
 USA,FISHER Grant,Athletics,"Men's 10,000m",B
 USA,FRITZ Taylor,Tennis,Men's Doubles,B
 USA,HAMBY Dearica,3x3 Basketball,Women,B
 USA,HENKEN Hans,Sailing,Men's Skiff,B
 USA,HOLLINGSWORTH Henry,Rowing,Men's Eight,B
+USA,HOLT Maxwell,Volleyball,Men,B
 USA,HONG Asher,Artistic Gymnastics,Men's Team,B
 USA,HOWARD Rhyne,3x3 Basketball,Women,B
 USA,HUSTON Nyjah,Skateboarding,Men's Street,B
 USA,ITKIN Nick,Fencing,Men's Foil Individual,B
+USA,JAESCHKE Thomas,Volleyball,Men,B
 USA,JEFFERSON Melissa,Athletics,Women's 100m,B
+USA,JENDRYK II Jeffrey,Volleyball,Men,B
 USA,JONES Omari,Boxing,Men's 71kg,B
 USA,JUDA Paul,Artistic Gymnastics,Men's Team,B
 USA,KAUFHOLD Casey,Archery,Mixed Team,B
@@ -1514,10 +1530,12 @@ USA,KERLEY Fred,Athletics,Men's 100m,B
 USA,KIRSHE Kristi,Rugby Sevens,Women,B
 USA,LEIBFARTH Evy,Canoe Slalom,Women's Canoe Single,B
 USA,LEVY Sarah,Rugby Sevens,Women,B
+USA,MA'A Micah,Volleyball,Men,B
 USA,MAHER Ilona,Rugby Sevens,Women,B
 USA,MALONE Brody,Artistic Gymnastics,Men's Team,B
 USA,MILNE Rielly,Rowing,Men's Eight,B
 USA,MORRIS Hampton,Weightlifting,Men's 61kg,B
+USA,MUAGUTUTIA Garrett,Volleyball,Men,B
 USA,NUGUSE Yared,Athletics,Men's 1500m,B
 USA,OLSEN Alena,Rugby Sevens,Women,B
 USA,OLSON Evan,Rowing,Men's Eight,B
@@ -1527,7 +1545,10 @@ USA,RAMSEY Ariana,Rugby Sevens,Women,B
 USA,RICHARD Frederick,Artistic Gymnastics,Men's Team,B
 USA,ROVETTI Steph,Rugby Sevens,Women,B
 USA,RUSHER Nick,Rowing,Men's Eight,B
+USA,RUSSELL Aaron,Volleyball,Men,B
 USA,SEDRICK Alex,Rugby Sevens,Women,B
+USA,SHOJI Erik,Volleyball,Men,B
+USA,SMITH David,Volleyball,Men,B
 USA,SULLIVAN Sammy,Rugby Sevens,Women,B
 USA,TABASH Christian,Rowing,Men's Eight,B
 USA,TAPPER Naya,Rugby Sevens,Women,B
