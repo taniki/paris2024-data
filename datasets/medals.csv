@@ -274,8 +274,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Four 500m,S
@@ -374,6 +374,7 @@ AUS,TREW Arisa,Skateboarding,Women's Park,G
 AUS,WEARN Matt,Sailing,Men's Dinghy,G
 AUS,WELSFORD Sam,Cycling Track,Men's Team Pursuit,G
 AUS,WUNSCH Olivia,Swimming,Women's 4 x 100m Freestyle Relay,G
+AUT,BONTUS Valentin,Sailing,Men's Kite,G
 AUT,MAEHR Lukas,Sailing,Mixed Dinghy,G
 AUT,VADLAU Lara,Sailing,Mixed Dinghy,G
 AZE,HEYDAROV Hidayat,Judo,Men -73 kg,G
@@ -982,6 +983,7 @@ PRK,RI Jong Sik,Table Tennis,Mixed Doubles,S
 ROU,CAMBEI Mihaela Valentina,Weightlifting,Women's 49kg,S
 ROU,COZMIUC Ionela Livia,Rowing,Lightweight Women's Double Sculls,S
 ROU,van GRONINGEN Gianina Elena,Rowing,Lightweight Women's Double Sculls,S
+SLO,VODISEK Toni,Sailing,Men's Kite,S
 SUI,DERRON Julie,Triathlon,Women's Individual,S
 SUI,GUERDAT Steve,Equestrian,Jumping Individual,S
 SWE,BOBECK Vilma,Sailing,Women's Skiff,S
@@ -1414,6 +1416,7 @@ RSA,SPECMAN Rosko,Rugby Sevens,Men,B
 RSA,van WYK Shilton,Rugby Sevens,Men,B
 RSA,VISSER Impi,Rugby Sevens,Men,B
 RSA,WILLIAMS Shaun,Rugby Sevens,Men,B
+SGP,MAEDER Maximilian,Sailing,Men's Kite,B
 SUI,CLAESSENS Zoe,Cycling BMX Racing,Women,B
 SUI,GOGNIAT Audrey,Shooting,10m Air Rifle Women,B
 SUI,GULICH Andrin,Rowing,Men's Pair,B
