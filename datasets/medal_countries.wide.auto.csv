@@ -1,15 +1,15 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,32,25,20
+CHN,People's Republic of China,32,25,21
 USA,United States of America,31,39,38
 AUS,Australia,18,16,14
 FRA,France,14,20,22
 GBR,Great Britain,14,20,22
 JPN,Japan,14,8,13
 KOR,Republic of Korea,13,8,7
+GER,Germany,12,9,8
 NED,Netherlands,12,6,9
-ITA,Italy,11,11,11
-GER,Germany,11,9,8
-NZL,New Zealand,6,6,2
+ITA,Italy,11,11,12
+NZL,New Zealand,6,7,2
 CAN,Canada,6,5,11
 HUN,Hungary,4,5,5
 IRL,Ireland,4,0,3

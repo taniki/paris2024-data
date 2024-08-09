@@ -294,8 +294,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -458,8 +458,30 @@ CZE,SINIAKOVA Katerina,Tennis,Mixed Doubles,G
 DEN,AXELSEN Viktor,Badminton,Men's Singles,G
 DMA,LAFOND Thea,Athletics,Women's Triple Jump,G
 DOM,PAULINO Marileidy,Athletics,Women's 400m,G
+ESP,BAENA Alex,Football,Men,G
+ESP,BARRIOS Pablo,Football,Men,G
+ESP,BERNABE Adrian,Football,Men,G
 ESP,BOTIN le CHEVER Diego,Sailing,Men's Skiff,G
+ESP,CAMELLO Sergio,Football,Men,G
+ESP,CUBARSI Pau,Football,Men,G
+ESP,GARCIA Eric,Football,Men,G
+ESP,GARCIA Joan,Football,Men,G
+ESP,GOMEZ Sergio,Football,Men,G
+ESP,GUTIERREZ Miguel,Football,Men,G
+ESP,ITURBE Alejandro,Football,Men,G
+ESP,LOPEZ Diego,Football,Men,G
+ESP,LOPEZ Fermin,Football,Men,G
+ESP,MIRANDA Juan,Football,Men,G
+ESP,MOSQUERA Cristhian,Football,Men,G
+ESP,OMORODION Samu,Football,Men,G
+ESP,OROZ Aimar,Football,Men,G
+ESP,PACHECO Jon,Football,Men,G
+ESP,PUBILL Marc,Football,Men,G
+ESP,RUIZ Abel,Football,Men,G
+ESP,SANCHEZ Juanlu,Football,Men,G
+ESP,TENAS Arnau,Football,Men,G
 ESP,TRITTEL PAUL Florian,Sailing,Men's Skiff,G
+ESP,TURRIENTES Benat,Football,Men,G
 FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
 FRA,BARRAQUE Jean Pascal,Rugby Sevens,Men,G
 FRA,BEAUGRAND Cassandre,Triathlon,Women's Individual,G
@@ -528,6 +550,7 @@ GER,LINDEMANN Laura,Triathlon,Mixed Relay,G
 GER,LUEHRS Lasse,Triathlon,Mixed Relay,G
 GER,MAERTENS Lukas,Swimming,Men's 400m Freestyle,G
 GER,MEVIUS Elisa,3x3 Basketball,Women,G
+GER,OGUNLEYE Yemisi,Athletics,Women's Shot Put,G
 GER,REICHERT Marie,3x3 Basketball,Women,G
 GER,RENDSCHMIDT Max,Canoe Sprint,Men's Kayak Four 500m,G
 GER,TERTSCH Lisa,Triathlon,Mixed Relay,G
@@ -820,27 +843,48 @@ FIJ,TEBA Iowane,Rugby Sevens,Men,S
 FIJ,TUWAI Jerry,Rugby Sevens,Men,S
 FIJ,VEILAWA Terio Tamani,Rugby Sevens,Men,S
 FRA,ADDIS Baptiste,Archery,Men's Team,S
+FRA,AKLIOUCHE Maghnes,Football,Men,S
 FRA,ANDRE Sylvain,Cycling BMX Racing,Men,S
+FRA,BADE Loic,Football,Men,S
 FRA,BALZER Sara,Fencing,Women's Sabre Individual,S
 FRA,BENNAMA Billal,Boxing,Men's 51kg,S
 FRA,BOREL Yannick,Fencing,Men's Épée Individual,S
 FRA,CANDASSAMY Marie-Florence,Fencing,Women's Épée Team,S
 FRA,CASTRYCK Titouan,Canoe Slalom,Men's Kayak Single,S
+FRA,CHERKI Rayan,Football,Men,S
 FRA,CHIRAULT Thomas,Archery,Men's Team,S
+FRA,CHOTARD Joris,Football,Men,S
+FRA,DIOUF Andy,Football,Men,S
+FRA,DOUE Desire,Football,Men,S
 FRA,DUSSOULIER Lucas,3x3 Basketball,Men,S
 FRA,HUG Angele,Canoe Slalom,Women's Kayak Cross,S
 FRA,JEDRZEJEWSKI Camille,Shooting,25m Pistol Women,S
+FRA,KALIMUENDO Arnaud,Football,Men,S
 FRA,KIRPICHNIKOVA Anastasiia,Swimming,Women's 1500m Freestyle,S
+FRA,KONE Manu,Football,Men,S
 FRA,KORETZKY Victor,Cycling Mountain Bike,Men's Cross-country,S
+FRA,LACAZETTE Alexandre,Football,Men,S
 FRA,LAGHOUAG Karim Florent,Equestrian,Eventing Team,S
 FRA,LANDOIS Stephane,Equestrian,Eventing Team,S
+FRA,LEPENANT Johann,Football,Men,S
+FRA,LOCKO Bradley,Football,Men,S
 FRA,LOUIS-MARIE Alexandra,Fencing,Women's Épée Team,S
+FRA,LUKEBA Castello,Football,Men,S
 FRA,MADOUAS Valentin,Cycling Road,Men's Road Race,S
+FRA,MAGASSA Soungoutou,Football,Men,S
+FRA,MATETA Jean-Philippe,Football,Men,S
+FRA,MATSIMA Chrislain,Football,Men,S
+FRA,MILLOT Enzo,Football,Men,S
+FRA,NKAMBADIO Obed,Football,Men,S
 FRA,NOLOT Lauriane,Sailing,Women's Kite,S
+FRA,OLISE Michael,Football,Men,S
 FRA,OUMIHA Sofiane,Boxing,Men's 63.5kg,S
 FRA,RAMBAUT Jules,3x3 Basketball,Men,S
+FRA,RESTES Guillaume,Football,Men,S
 FRA,SEGUELA Franck,3x3 Basketball,Men,S
+FRA,SILDILLIA Kiliann,Football,Men,S
 FRA,TOUZAINT Nicolas,Equestrian,Eventing Team,S
+FRA,TRUFFERT Adrien,Football,Men,S
 FRA,VALLADONT Jean-Charles,Archery,Men's Team,S
 FRA,VERGIAT Timothe,3x3 Basketball,Men,S
 FRA,VITALIS Coraline,Fencing,Women's Épée Team,S
@@ -1011,6 +1055,7 @@ NZL,SHEARMAN Emily,Cycling Track,Women's Team Pursuit,S
 NZL,SHIELDS Nicole,Cycling Track,Women's Team Pursuit,S
 NZL,TWIGG Emma,Rowing,Women's Single Sculls,S
 NZL,ULLRICH Logan,Rowing,Men's Four,S
+NZL,WESCHE Maddison-Lee,Athletics,Women's Shot Put,S
 NZL,WILDE Hayden,Triathlon,Men's Individual,S
 NZL,WOLLASTON Ally,Cycling Track,Women's Team Pursuit,S
 POL,ZWOLINSKA Klaudia,Canoe Slalom,Women's Kayak Single,S
@@ -1177,6 +1222,7 @@ CHN,LYU Jianlin,Shooting,Skeet Mixed Team,B
 CHN,MA Zhenzhao,Judo,Women -78 kg,B
 CHN,MENG Lingzhe,Wrestling,Men's Greco-Roman 130kg,B
 CHN,PANG Qianyu,Wrestling,Women's Freestyle 53kg,B
+CHN,SONG Jiayuan,Athletics,Women's Shot Put,B
 CHN,TANG Muhan,Swimming,Women's 4 x 200m Freestyle Relay,B
 CHN,WAN Letian,Swimming,Women's 4 x 100m Medley Relay,B
 CHN,WANG Shun,Swimming,Men's 200m Individual Medley,B
@@ -1326,6 +1372,7 @@ GRE,FITSIOU Zoi,Rowing,Lightweight Women's Double Sculls,B
 GRE,GKAIDATZIS Petros,Rowing,Lightweight Men's Double Sculls,B
 GRE,KARALIS Emmanouil,Athletics,Men's Pole Vault,B
 GRE,KONTOU Dimitra,Rowing,Lightweight Women's Double Sculls,B
+GRE,KURUGLIEV Dauren,Wrestling,Men's Freestyle 86kg,B
 GRE,PAPAKONSTANTINOU Antonios,Rowing,Lightweight Men's Double Sculls,B
 GRE,PETROUNIAS Eleftherios,Artistic Gymnastics,Men's Rings,B
 GRE,TSELIDIS Theodoros,Judo,Men -90 kg,B
