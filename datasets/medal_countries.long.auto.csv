@@ -26,6 +26,7 @@ AZE,Azerbaijan,gold,2
 BEL,Belgium,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
+CZE,Czechia,gold,2
 INA,Indonesia,gold,2
 SRB,Serbia,gold,2
 ISR,Israel,gold,1
@@ -47,7 +48,6 @@ UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 BUL,Bulgaria,gold,1
 AUT,Austria,gold,1
-CZE,Czechia,gold,1
 GUA,Guatemala,gold,1
 MAR,Morocco,gold,1
 NOR,Norway,gold,1
@@ -73,11 +73,11 @@ CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
 JOR,Jordan,gold,0
 MGL,Mongolia,gold,0
+MDA,Republic of Moldova,gold,0
 TJK,Tajikistan,gold,0
 DOM,Dominican Republic,gold,0
 GRN,Grenada,gold,0
 MAS,Malaysia,gold,0
-MDA,Republic of Moldova,gold,0
 CPV,Cabo Verde,gold,0
 EGY,Egypt,gold,0
 EOR,Refugee Olympic Team,gold,0
@@ -102,7 +102,7 @@ UKR,Ukraine,silver,4
 ROU,Romania,silver,4
 SWE,Sweden,silver,3
 UZB,Uzbekistan,silver,0
-BRA,Brazil,silver,5
+BRA,Brazil,silver,6
 ESP,Spain,silver,3
 IRI,Islamic Republic of Iran,silver,2
 CRO,Croatia,silver,1
@@ -111,6 +111,7 @@ AZE,Azerbaijan,silver,1
 BEL,Belgium,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
+CZE,Czechia,silver,0
 INA,Indonesia,silver,0
 SRB,Serbia,silver,0
 ISR,Israel,silver,4
@@ -132,7 +133,6 @@ UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 BUL,Bulgaria,silver,0
 AUT,Austria,silver,0
-CZE,Czechia,silver,0
 GUA,Guatemala,silver,0
 MAR,Morocco,silver,0
 NOR,Norway,silver,0
@@ -158,11 +158,11 @@ CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
 JOR,Jordan,silver,1
 MGL,Mongolia,silver,1
+MDA,Republic of Moldova,silver,0
 TJK,Tajikistan,silver,0
 DOM,Dominican Republic,silver,0
 GRN,Grenada,silver,0
 MAS,Malaysia,silver,0
-MDA,Republic of Moldova,silver,0
 CPV,Cabo Verde,silver,0
 EGY,Egypt,silver,0
 EOR,Refugee Olympic Team,silver,0
@@ -196,6 +196,7 @@ AZE,Azerbaijan,bronze,1
 BEL,Belgium,bronze,4
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
+CZE,Czechia,bronze,1
 INA,Indonesia,bronze,1
 SRB,Serbia,bronze,0
 ISR,Israel,bronze,1
@@ -217,7 +218,6 @@ UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
 BUL,Bulgaria,bronze,3
 AUT,Austria,bronze,2
-CZE,Czechia,bronze,1
 GUA,Guatemala,bronze,1
 MAR,Morocco,bronze,1
 NOR,Norway,bronze,1
@@ -243,11 +243,11 @@ CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
 JOR,Jordan,bronze,0
 MGL,Mongolia,bronze,0
+MDA,Republic of Moldova,bronze,3
 TJK,Tajikistan,bronze,3
 DOM,Dominican Republic,bronze,2
 GRN,Grenada,bronze,2
 MAS,Malaysia,bronze,2
-MDA,Republic of Moldova,bronze,2
 CPV,Cabo Verde,bronze,1
 EGY,Egypt,bronze,1
 EOR,Refugee Olympic Team,bronze,1
