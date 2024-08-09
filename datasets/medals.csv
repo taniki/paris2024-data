@@ -120,6 +120,10 @@ CHN,SHENG Lihao,Shooting,10m Air Rifle Mixed Team,G
 CHN,SHENG Lihao,Shooting,10m Air Rifle Men,G
 FRA,RINER Teddy,Judo,Mixed Team,G
 FRA,RINER Teddy,Judo,Men +100 kg,G
+GER,LEMKE Max,Canoe Sprint,Men's Kayak Four 500m,G
+GER,LEMKE Max,Canoe Sprint,Men's Kayak Double 500m,G
+GER,SCHOPF Jacob,Canoe Sprint,Men's Kayak Four 500m,G
+GER,SCHOPF Jacob,Canoe Sprint,Men's Kayak Double 500m,G
 GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Individual,G
 GER,von BREDOW-WERNDL Jessica,Equestrian,Dressage Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Team,G
@@ -270,8 +274,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Four 500m,S
@@ -298,8 +302,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
+MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -493,7 +497,6 @@ GER,GREINACHER Sonja,3x3 Basketball,Women,G
 GER,HELLWIG Tim,Triathlon,Mixed Relay,G
 GER,JUNG Michael,Equestrian,Eventing Individual,G
 GER,KUKUK Christian,Equestrian,Jumping Individual,G
-GER,LEMKE Max,Canoe Sprint,Men's Kayak Four 500m,G
 GER,LIEBSCHER-LUCZ Tom,Canoe Sprint,Men's Kayak Four 500m,G
 GER,LINDEMANN Laura,Triathlon,Mixed Relay,G
 GER,LUEHRS Lasse,Triathlon,Mixed Relay,G
@@ -501,7 +504,6 @@ GER,MAERTENS Lukas,Swimming,Men's 400m Freestyle,G
 GER,MEVIUS Elisa,3x3 Basketball,Women,G
 GER,REICHERT Marie,3x3 Basketball,Women,G
 GER,RENDSCHMIDT Max,Canoe Sprint,Men's Kayak Four 500m,G
-GER,SCHOPF Jacob,Canoe Sprint,Men's Kayak Four 500m,G
 GER,TERTSCH Lisa,Triathlon,Mixed Relay,G
 GER,WANDRES Frederic,Equestrian,Dressage Team,G
 GER,ZEIDLER Oliver,Rowing,Men's Single Sculls,G
@@ -866,9 +868,11 @@ GER,ZWICKER Martin,Hockey,Men,S
 GRE,CHRISTOU Apostolos,Swimming,Men's 200m Backstroke,S
 HUN,GEMESI Csanad,Fencing,Men's Sabre Team,S
 HUN,HALASZ Bence,Athletics,Men's Hammer Throw,S
+HUN,NADAS Bence,Canoe Sprint,Men's Kayak Double 500m,S
 HUN,RABB Krisztian,Fencing,Men's Sabre Team,S
 HUN,SZATMARI Andras,Fencing,Men's Sabre Team,S
 HUN,SZILAGYI Aron,Fencing,Men's Sabre Team,S
+HUN,TOTKA Sandor,Canoe Sprint,Men's Kayak Double 500m,S
 IND,CHOPRA Neeraj,Athletics,Men's Javelin Throw,S
 IRI,KIYANICHANDEH Nahid,Taekwondo,Women -57kg,S
 IRI,MOHMADIPIANI Alireza,Wrestling,Men's Greco-Roman 87kg,S
@@ -1050,6 +1054,7 @@ AUS,DENNY Matthew,Athletics,Men's Discus Throw,B
 AUS,DIEHM Natalya,Cycling BMX Freestyle,Women's Park,B
 AUS,GIULIANI Maximillian,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,GLAETZER Matthew,Cycling Track,Men's Team Sprint,B
+AUS,GREEN Tom,Canoe Sprint,Men's Kayak Double 500m,B
 AUS,HOFFMAN Leigh,Cycling Track,Men's Team Sprint,B
 AUS,INCERTI Zac,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,McINTYRE Annabelle,Rowing,Women's Pair,B
@@ -1061,6 +1066,7 @@ AUS,RICHARDSON Matthew,Cycling Track,Men's Team Sprint,B
 AUS,SENIOR Charlie,Boxing,Men's 57kg,B
 AUS,SMITH Penny,Shooting,Trap Women,B
 AUS,TEMPLE Matthew,Swimming,Mixed 4 x 100m Medley Relay,B
+AUS,van der WESTHUYZEN Jean,Canoe Sprint,Men's Kayak Double 500m,B
 AUS,YONG Joshua,Swimming,Mixed 4 x 100m Medley Relay,B
 AUT,POLLERES Michaela,Judo,Women -70 kg,B
 AUT,SCHUBERT Jakob,Sport Climbing,Men's Boulder & Lead,B
