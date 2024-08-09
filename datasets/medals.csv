@@ -81,8 +81,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -236,8 +236,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -270,8 +270,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Four 500m,S
@@ -484,6 +484,7 @@ GBR,McEWEN Tom,Equestrian,Eventing Team,G
 GBR,McMILLAN Jack,Swimming,Men's 4 x 200m Freestyle Relay,G
 GBR,PAGE Bryony,Trampoline Gymnastics,Women,G
 GBR,PIDCOCK Thomas,Cycling Mountain Bike,Men's Cross-country,G
+GBR,ROBERTS Toby,Sport Climbing,Men's Boulder & Lead,G
 GBR,RUDKIN James,Rowing,Men's Eight,G
 GBR,SCOTT Hannah,Rowing,Women's Quadruple Sculls,G
 GEO,BEKAURI Lasha,Judo,Men -90 kg,G
@@ -901,6 +902,7 @@ JAM,THOMPSON Kishane,Athletics,Men's 100m,S
 JOR,KAREEM Zaid,Taekwondo,Men -68kg,S
 JPN,ABE Uta,Judo,Mixed Team,S
 JPN,AKAMA Liz,Skateboarding,Women's Street,S
+JPN,ANRAKU Sorato,Sport Climbing,Men's Boulder & Lead,S
 JPN,HIRAKI Cocona,Skateboarding,Women's Park,S
 JPN,KOMATA Akira,Fencing,Men's Épée Team,S
 JPN,MATSUSHITA Tomoyuki,Swimming,Men's 400m Individual Medley,S
@@ -1061,6 +1063,7 @@ AUS,SMITH Penny,Shooting,Trap Women,B
 AUS,TEMPLE Matthew,Swimming,Mixed 4 x 100m Medley Relay,B
 AUS,YONG Joshua,Swimming,Mixed 4 x 100m Medley Relay,B
 AUT,POLLERES Michaela,Judo,Women -70 kg,B
+AUT,SCHUBERT Jakob,Sport Climbing,Men's Boulder & Lead,B
 AZE,JAFAROV Hasrat,Wrestling,Men's Greco-Roman 67kg,B
 BEL,KOPECKY Lotte,Cycling Road,Women's Road Race,B
 BEL,van AERT Wout,Cycling Road,Men's Individual Time Trial,B
