@@ -9,8 +9,8 @@ KOR,Republic of Korea,gold,13
 NED,Netherlands,gold,13
 GER,Germany,gold,12
 ITA,Italy,gold,11
+NZL,New Zealand,gold,7
 CAN,Canada,gold,7
-NZL,New Zealand,gold,6
 HUN,Hungary,gold,5
 UZB,Uzbekistan,gold,5
 ESP,Spain,gold,4
@@ -95,9 +95,9 @@ KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 GER,Germany,silver,9
 ITA,Italy,silver,12
-CAN,Canada,silver,6
 NZL,New Zealand,silver,7
-HUN,Hungary,silver,5
+CAN,Canada,silver,6
+HUN,Hungary,silver,6
 UZB,Uzbekistan,silver,0
 ESP,Spain,silver,3
 IRL,Ireland,silver,0
@@ -181,8 +181,8 @@ KOR,Republic of Korea,bronze,8
 NED,Netherlands,bronze,11
 GER,Germany,bronze,8
 ITA,Italy,bronze,13
-CAN,Canada,bronze,11
 NZL,New Zealand,bronze,2
+CAN,Canada,bronze,11
 HUN,Hungary,bronze,5
 UZB,Uzbekistan,bronze,3
 ESP,Spain,bronze,8
@@ -210,7 +210,7 @@ KAZ,Kazakhstan,bronze,3
 JAM,Jamaica,bronze,2
 THA,Thailand,bronze,2
 SUI,Switzerland,bronze,5
-DEN,Denmark,bronze,3
+DEN,Denmark,bronze,4
 RSA,South Africa,bronze,2
 ECU,Ecuador,bronze,1
 GEO,Georgia,bronze,1

@@ -72,6 +72,9 @@ KOR,KIM Woojin,Archery,Men's Team,G
 KOR,LIM Sihyeon,Archery,Women's Individual,G
 KOR,LIM Sihyeon,Archery,Mixed Team,G
 KOR,LIM Sihyeon,Archery,Women's Team,G
+NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Single 500m,G
+NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Four 500m,G
+NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Double 500m,G
 CHN,PAN Zhanle,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
@@ -108,6 +111,9 @@ CHN,TANG Qianting,Swimming,Women's 100m Breaststroke,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's All-Around,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Team,S
 CHN,ZHANG Boheng,Artistic Gymnastics,Men's Horizontal Bar,B
+HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Single 500m,S
+HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Four 500m,B
+HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Double 500m,S
 AUS,FOX Jessica,Canoe Slalom,Women's Canoe Single,G
 AUS,FOX Jessica,Canoe Slalom,Women's Kayak Single,G
 AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
@@ -138,8 +144,6 @@ KOR,OH Sanguk,Fencing,Men's Sabre Team,G
 KOR,OH Sanguk,Fencing,Men's Sabre Individual,G
 NED,LAVREYSEN Harrie,Cycling Track,Men's Team Sprint,G
 NED,LAVREYSEN Harrie,Cycling Track,Men's Sprint,G
-NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Four 500m,G
-NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Double 500m,G
 NZL,HOSKIN Alicia,Canoe Sprint,Women's Kayak Four 500m,G
 NZL,HOSKIN Alicia,Canoe Sprint,Women's Kayak Double 500m,G
 PHI,YULO Carlos Edriel,Artistic Gymnastics,Men's Vault,G
@@ -162,8 +166,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -182,8 +186,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -296,8 +300,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -308,8 +312,6 @@ GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Four 500m,S
 GER,HAKE Jule Marie,Canoe Sprint,Women's Kayak Double 500m,B
 GER,PASZEK Paulina,Canoe Sprint,Women's Kayak Four 500m,S
 GER,PASZEK Paulina,Canoe Sprint,Women's Kayak Double 500m,B
-HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Four 500m,B
-HUN,CSIPES Tamara,Canoe Sprint,Women's Kayak Double 500m,S
 HUN,GAZSO Alida Dora,Canoe Sprint,Women's Kayak Four 500m,B
 HUN,GAZSO Alida Dora,Canoe Sprint,Women's Kayak Double 500m,S
 ITA,ESPOSITO Manila,Artistic Gymnastics,Women's Balance Beam,B
@@ -1335,6 +1337,7 @@ DEN,HOEJLUND Mie,Handball,Women,B
 DEN,HRNIC Edi,Taekwondo,Men -80kg,B
 DEN,IVERSEN Rikke,Handball,Women,B
 DEN,JOERGENSEN Kristina,Handball,Women,B
+DEN,JORGENSEN Emma Aastrand,Canoe Sprint,Women's Kayak Single 500m,B
 DEN,MOELLER Michala,Handball,Women,B
 DEN,OESTERGAARD Trine,Handball,Women,B
 DEN,REINHARDT Althea,Handball,Women,B
@@ -1669,6 +1672,18 @@ RSA,van WYK Shilton,Rugby Sevens,Men,B
 RSA,VISSER Impi,Rugby Sevens,Men,B
 RSA,WILLIAMS Shaun,Rugby Sevens,Men,B
 SGP,MAEDER Maximilian,Sailing,Men's Kite,B
+SRB,AVRAMOVIC Aleksa,Basketball,Men,B
+SRB,BOGDANOVIC Bogdan,Basketball,Men,B
+SRB,DAVIDOVAC Dejan,Basketball,Men,B
+SRB,DOBRIC Ognjen,Basketball,Men,B
+SRB,GUDURIC Marko,Basketball,Men,B
+SRB,JOKIC Nikola,Basketball,Men,B
+SRB,JOVIC Nikola,Basketball,Men,B
+SRB,MARINKOVIC Vanja,Basketball,Men,B
+SRB,MICIC Vasilije,Basketball,Men,B
+SRB,MILUTINOV Nikola,Basketball,Men,B
+SRB,PETRUSEV Filip,Basketball,Men,B
+SRB,PLAVSIC Uros,Basketball,Men,B
 SUI,BRUNNER Nina,Beach Volleyball,Women,B
 SUI,CLAESSENS Zoe,Cycling BMX Racing,Women,B
 SUI,GOGNIAT Audrey,Shooting,10m Air Rifle Women,B
