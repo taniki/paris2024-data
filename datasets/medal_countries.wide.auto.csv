@@ -4,14 +4,14 @@ USA,United States of America,37,42,42
 AUS,Australia,18,18,14
 JPN,Japan,18,12,13
 FRA,France,15,23,22
-GBR,Great Britain,14,21,27
+GBR,Great Britain,14,22,27
 KOR,Republic of Korea,13,8,9
 NED,Netherlands,13,7,12
 GER,Germany,12,10,8
 ITA,Italy,11,13,15
 CAN,Canada,9,7,11
 NZL,New Zealand,9,7,2
-UZB,Uzbekistan,6,1,3
+UZB,Uzbekistan,7,1,3
 HUN,Hungary,5,7,6
 ESP,Spain,5,3,8
 KEN,Kenya,4,2,4
@@ -19,12 +19,12 @@ NOR,Norway,4,1,3
 IRL,Ireland,4,0,3
 BRA,Brazil,3,7,10
 UKR,Ukraine,3,5,4
+IRI,Islamic Republic of Iran,3,5,2
 SWE,Sweden,3,4,3
 ROU,Romania,3,4,1
 BEL,Belgium,3,1,6
 BUL,Bulgaria,3,1,3
 CZE,Czechia,3,0,2
-IRI,Islamic Republic of Iran,2,5,2
 AZE,Azerbaijan,2,2,2
 GEO,Georgia,2,2,1
 CUB,Cuba,2,1,5
@@ -65,11 +65,11 @@ PAK,Pakistan,1,0,0
 TUR,Türkiye,0,3,5
 MEX,Mexico,0,3,2
 COL,Colombia,0,3,0
+KGZ,Kyrgyzstan,0,2,4
 PRK,Democratic People's Republic of Korea,0,2,4
 LTU,Lithuania,0,2,2
 ARM,Armenia,0,2,1
 IND,India,0,1,5
-KGZ,Kyrgyzstan,0,1,4
 MDA,Republic of Moldova,0,1,3
 KOS,Kosovo,0,1,1
 CYP,Cyprus,0,1,0
