@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,38
-USA,United States of America,gold,36
+USA,United States of America,gold,37
 AUS,Australia,gold,18
 JPN,Japan,gold,17
 FRA,France,gold,15
@@ -80,6 +80,7 @@ TJK,Tajikistan,gold,0
 GRN,Grenada,gold,0
 MAS,Malaysia,gold,0
 ALB,Albania,gold,0
+CIV,Côte d'Ivoire,gold,0
 CPV,Cabo Verde,gold,0
 EOR,Refugee Olympic Team,gold,0
 PER,Peru,gold,0
@@ -95,7 +96,7 @@ JPN,Japan,silver,12
 FRA,France,silver,22
 GBR,Great Britain,silver,21
 KOR,Republic of Korea,silver,8
-NED,Netherlands,silver,6
+NED,Netherlands,silver,7
 GER,Germany,silver,10
 ITA,Italy,silver,13
 NZL,New Zealand,silver,7
@@ -169,6 +170,7 @@ TJK,Tajikistan,silver,0
 GRN,Grenada,silver,0
 MAS,Malaysia,silver,0
 ALB,Albania,silver,0
+CIV,Côte d'Ivoire,silver,0
 CPV,Cabo Verde,silver,0
 EOR,Refugee Olympic Team,silver,0
 PER,Peru,silver,0
@@ -178,11 +180,11 @@ SGP,Singapore,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
 CHN,People's Republic of China,bronze,24
-USA,United States of America,bronze,41
+USA,United States of America,bronze,42
 AUS,Australia,bronze,14
 JPN,Japan,bronze,13
 FRA,France,bronze,22
-GBR,Great Britain,bronze,26
+GBR,Great Britain,bronze,27
 KOR,Republic of Korea,bronze,9
 NED,Netherlands,bronze,12
 GER,Germany,bronze,8
@@ -193,7 +195,7 @@ UZB,Uzbekistan,bronze,3
 HUN,Hungary,bronze,6
 ESP,Spain,bronze,8
 KEN,Kenya,bronze,4
-NOR,Norway,bronze,1
+NOR,Norway,bronze,2
 IRL,Ireland,bronze,3
 BRA,Brazil,bronze,10
 UKR,Ukraine,bronze,4
@@ -258,6 +260,7 @@ TJK,Tajikistan,bronze,3
 GRN,Grenada,bronze,2
 MAS,Malaysia,bronze,2
 ALB,Albania,bronze,1
+CIV,Côte d'Ivoire,bronze,1
 CPV,Cabo Verde,bronze,1
 EOR,Refugee Olympic Team,bronze,1
 PER,Peru,bronze,1
