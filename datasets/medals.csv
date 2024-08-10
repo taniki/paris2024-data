@@ -169,8 +169,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -189,8 +189,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -267,8 +267,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -307,8 +307,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -343,8 +343,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -847,6 +847,7 @@ USA,NIGHSWONGER Jenna,Football,Women,G
 USA,REEVES Olivia,Weightlifting,Women's 71kg,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
 USA,RODMAN Trinity,Football,Women,G
+USA,RUSSELL Masai,Athletics,Women's 100m Hurdles,G
 USA,SAMS Emily,Football,Women,G
 USA,SCHEFFLER Scottie,Golf,Men's Individual Stroke Play,G
 USA,SHAW Jaedyn,Football,Women,G
@@ -987,8 +988,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1085,6 +1086,7 @@ FRA,OUMIHA Sofiane,Boxing,Men's 63.5kg,S
 FRA,RAMBAUT Jules,3x3 Basketball,Men,S
 FRA,RESTES Guillaume,Football,Men,S
 FRA,SAKO Hatadou,Handball,Women,S
+FRA,SAMBA-MAYELA Cyrena,Athletics,Women's 100m Hurdles,S
 FRA,SEGUELA Franck,3x3 Basketball,Men,S
 FRA,SILDILLIA Kiliann,Football,Men,S
 FRA,TOUBLANC Alicia,Handball,Women,S
@@ -1849,6 +1851,7 @@ POR,SAMPAIO Patricia,Judo,Women -78 kg,B
 PRK,CHOE Hyo Gyong,Wrestling,Women's Freestyle 53kg,B
 PRK,PANG Cholmi,Boxing,Women's 54kg,B
 PRK,RI Se Ung,Wrestling,Men's Greco-Roman 60kg,B
+PUR,CAMACHO-QUINN Jasmine,Athletics,Women's 100m Hurdles,B
 RSA,BROWN Ronald,Rugby Sevens,Men,B
 RSA,DAVIDS Selvyn,Rugby Sevens,Men,B
 RSA,DAVIDS Zain,Rugby Sevens,Men,B
@@ -1917,6 +1920,7 @@ USA,CANETT Kayla,Rugby Sevens,Women,B
 USA,CARLSON Chris,Rowing,Men's Eight,B
 USA,CHATAIN Peter,Rowing,Men's Eight,B
 USA,CHRISTENSON Micah,Volleyball,Men,B
+USA,DAKE Kyle Douglas,Wrestling,Men's Freestyle 74kg,B
 USA,DEAN Clark,Rowing,Men's Eight,B
 USA,DEFALCO Torey,Volleyball,Men,B
 USA,DOYLE Lauren,Rugby Sevens,Women,B
