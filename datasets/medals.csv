@@ -169,8 +169,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -189,8 +189,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -305,8 +305,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -767,6 +767,7 @@ NZL,FELIX-HOTHAM Jazmin,Rugby Sevens,Women,G
 NZL,FRANCIS Brooke,Rowing,Women's Double Sculls,G
 NZL,HIRINI Sarah,Rugby Sevens,Women,G
 NZL,KING Tyla,Rugby Sevens,Women,G
+NZL,KO Lydia,Golf,Women's Individual Stroke Play,G
 NZL,MILLER Jorja,Rugby Sevens,Women,G
 NZL,NUKU Manaia,Rugby Sevens,Women,G
 NZL,PAUL Mahina,Rugby Sevens,Women,G
@@ -935,8 +936,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1083,6 +1084,7 @@ GER,GRAMBUSCH Mats,Hockey,Men,S
 GER,GRAMBUSCH Tom,Hockey,Men,S
 GER,GROSSE Johannes,Hockey,Men,S
 GER,HELLWIG Malte,Hockey,Men,S
+GER,HENSELEIT Esther,Golf,Women's Individual Stroke Play,S
 GER,HINRICHS Teo,Hockey,Men,S
 GER,JAGSCH Pauline,Canoe Sprint,Women's Kayak Four 500m,S
 GER,KAUFMANN Paul-Philipp,Hockey,Men,S
@@ -1414,6 +1416,7 @@ CHN,JIANG Yiting,Shooting,Skeet Mixed Team,B
 CHN,KONG Yaqi,Swimming,Women's 4 x 200m Freestyle Relay,B
 CHN,LI Bingjie,Swimming,Women's 4 x 200m Freestyle Relay,B
 CHN,LIANG Yushuai,Taekwondo,Men -68kg,B
+CHN,LIN Xiyu Janet,Golf,Women's Individual Stroke Play,B
 CHN,LIU Yaxin,Swimming,Women's 4 x 200m Freestyle Relay,B
 CHN,LYU Jianlin,Shooting,Skeet Mixed Team,B
 CHN,MA Zhenzhao,Judo,Women -78 kg,B
