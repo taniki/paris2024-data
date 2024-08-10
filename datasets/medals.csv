@@ -232,6 +232,8 @@ USA,WEITZEIL Abbey,Swimming,Women's 4 x 100m Freestyle Relay,S
 USA,WEITZEIL Abbey,Swimming,Mixed 4 x 100m Medley Relay,G
 BRA,SOUZA Beatriz,Judo,Women +78 kg,G
 BRA,SOUZA Beatriz,Judo,Mixed Team,B
+CAN,VINCENT Katie,Canoe Sprint,Women's Canoe Double 500m,B
+CAN,VINCENT Katie,Canoe Sprint,Women's Canoe Single 200m,G
 CHN,CHANG Yani,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHANG Yani,Diving,Women's 3m Springboard,B
 ESP,MARTIN Alvaro,Athletics,Men's 20km Race Walk,B
@@ -300,8 +302,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -1189,6 +1191,7 @@ USA,ECHIKUNWOKE Annette Nneka,Athletics,Women's Hammer Throw,S
 USA,FIELD Megumi,Artistic Swimming,Team,S
 USA,GEMMELL Erin,Swimming,Women's 4 x 200m Freestyle Relay,S
 USA,GRIMES Katie,Swimming,Women's 400m Individual Medley,S
+USA,HARRISON Nevin,Canoe Sprint,Women's Canoe Single 200m,S
 USA,HEILMAN Thomas,Swimming,Men's 4 x 100m Medley Relay,S
 USA,HUNTER Keana,Artistic Swimming,Team,S
 USA,KENDRICKS Sam,Athletics,Men's Pole Vault,S
@@ -1297,7 +1300,6 @@ CAN,METHOT Sophiane,Trampoline Gymnastics,Women,B
 CAN,NEWMAN Alysha,Athletics,Women's Pole Vault,B
 CAN,PARK Skylar,Taekwondo,Women -57kg,B
 CAN,SANFORD Wyatt,Boxing,Men's 63.5kg,B
-CAN,VINCENT Katie,Canoe Sprint,Women's Canoe Double 500m,B
 CAN,WIENS Rylan,Diving,Men's Synchronised 10m Platform,B
 CAN,ZSOMBOR-MURRAY Nathan,Diving,Men's Synchronised 10m Platform,B
 CHN,671,Breaking,B-Girls,B
@@ -1327,6 +1329,7 @@ CPV,de PINA David,Boxing,Men's 51kg,B
 CRO,ELKASEVIC Sandra,Athletics,Women's Discus Throw,B
 CRO,MARICIC Miran,Shooting,10m Air Rifle Men,B
 CRO,STOJKOVIC Lena,Taekwondo,Women -49kg,B
+CUB,CIRILO DUBOYS Yarisleidis,Canoe Sprint,Women's Canoe Single 200m,B
 CUB,LOPEZ CARDONA Arlen,Boxing,Men's 80kg,B
 CUB,ORTA SANCHEZ Luis Alberto,Wrestling,Men's Greco-Roman 67kg,B
 CUB,ROSILLO KINDELAN Gabriel Alejandro,Wrestling,Men's Greco-Roman 97kg,B
