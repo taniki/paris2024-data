@@ -81,8 +81,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
+CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -256,8 +256,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -296,8 +296,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -1605,14 +1605,27 @@ MDA,VIERU Denis,Judo,Men -66 kg,B
 MEX,RUIZ Angela,Archery,Women's Team,B
 MEX,VALENCIA Alejandra,Archery,Women's Team,B
 MEX,VAZQUEZ Ana,Archery,Women's Team,B
+NED,AARTS Laura,Water Polo,Women,B
+NED,BUIS Sarah,Water Polo,Women,B
 NED,CORBEAU Caspar,Swimming,Men's 200m Breaststroke,B
+NED,JOUSTRA Kittylynn,Water Polo,Women,B
+NED,KEUNING Maartje,Water Polo,Women,B
 NED,LAMMERTS Annelous,Sailing,Women's Kite,B
+NED,MOOLHUIJZEN Lola,Water Polo,Women,B
+NED,ROGGE Bente,Water Polo,Women,B
+NED,ROGGE Lieke,Water Polo,Women,B
 NED,SCHOUTEN Tes,Swimming,Women's 200m Breaststroke,B
+NED,SEVENICH Vivian,Water Polo,Women,B
+NED,SLEEKING Brigitte,Water Polo,Women,B
+NED,TEN BROEK Nina,Water Polo,Women,B
 NED,van BELLE Lisa,Cycling Track,Women's Madison,B
+NED,van de KRAATS Simone,Water Polo,Women,B
 NED,van der DUIN Maike,Cycling Track,Women's Madison,B
+NED,van der SLOOT Sabrina,Water Polo,Women,B
 NED,van der VLEUTEN Maikel,Equestrian,Jumping Individual,B
 NED,van DORP Simon,Rowing,Men's Single Sculls,B
 NED,van OPZEELAND Luuc,Sailing,Men's Windsurfing,B
+NED,WOLVES Iris,Water Polo,Women,B
 NOR,HOEST Line Flem,Sailing,Women's Dinghy,B
 NZL,DAWSON Erica,Sailing,Mixed Multihull,B
 NZL,GOWLER Jackie,Rowing,Women's Four,B
