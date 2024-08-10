@@ -162,8 +162,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -182,8 +182,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -496,6 +496,7 @@ ESP,SANCHEZ Juanlu,Football,Men,G
 ESP,TENAS Arnau,Football,Men,G
 ESP,TRITTEL PAUL Florian,Sailing,Men's Skiff,G
 ESP,TURRIENTES Benat,Football,Men,G
+ETH,TOLA Tamirat,Athletics,Men's Marathon,G
 FRA,APITHY-BRUNET Manon,Fencing,Women's Sabre Individual,G
 FRA,BARRAQUE Jean Pascal,Rugby Sevens,Men,G
 FRA,BEAUGRAND Cassandre,Triathlon,Women's Individual,G
@@ -797,6 +798,7 @@ AUS,van der WESTHUYZEN Pierre,Canoe Sprint,Men's Kayak Four 500m,S
 AUS,YANG William,Swimming,Men's 4 x 100m Freestyle Relay,S
 AZE,ALFONSO DOMINGUEZ Loren Berto,Boxing,Men's 92kg,S
 AZE,MAGOMEDOV Gashim,Taekwondo,Men -58kg,S
+BEL,ABDI Bashir,Athletics,Men's Marathon,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
 BRA,QUEIROZ Isaquias,Canoe Sprint,Men's Canoe Single 1000m,S
 BRA,WESTON-WEBB Tatiana,Surfing,Women,S
@@ -858,8 +860,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1538,6 +1540,7 @@ KAZ,LE Alexandra,Shooting,10m Air Rifle Mixed Team,B
 KAZ,SATPAYEV Islam,Shooting,10m Air Rifle Mixed Team,B
 KEN,CHEROTICH Faith,Athletics,Women's 3000m Steeplechase,B
 KEN,KIBIWOT Abraham,Athletics,Men's 3000m Steeplechase,B
+KEN,KIPRUTO Benson,Athletics,Men's Marathon,B
 KEN,MORAA Mary,Athletics,Women's 800m,B
 KGZ,DZHUZUPBEKOV Uzur,Wrestling,Men's Greco-Roman 97kg,B
 KGZ,MAKHMUDOV Akzhol,Wrestling,Men's Greco-Roman 77kg,B
