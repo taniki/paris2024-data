@@ -9,8 +9,8 @@ KOR,Republic of Korea,gold,13
 NED,Netherlands,gold,13
 GER,Germany,gold,12
 ITA,Italy,gold,11
+CAN,Canada,gold,8
 NZL,New Zealand,gold,7
-CAN,Canada,gold,7
 HUN,Hungary,gold,5
 UZB,Uzbekistan,gold,5
 ESP,Spain,gold,4
@@ -24,9 +24,9 @@ BUL,Bulgaria,gold,3
 CZE,Czechia,gold,3
 IRI,Islamic Republic of Iran,gold,2
 AZE,Azerbaijan,gold,2
+CUB,Cuba,gold,2
 KEN,Kenya,gold,2
 CRO,Croatia,gold,2
-CUB,Cuba,gold,2
 SRB,Serbia,gold,2
 SLO,Slovenia,gold,2
 AUT,Austria,gold,2
@@ -86,7 +86,7 @@ SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 CHN,People's Republic of China,silver,27
-USA,United States of America,silver,40
+USA,United States of America,silver,41
 AUS,Australia,silver,16
 JPN,Japan,silver,8
 GBR,Great Britain,silver,20
@@ -95,8 +95,8 @@ KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 GER,Germany,silver,9
 ITA,Italy,silver,12
-NZL,New Zealand,silver,7
 CAN,Canada,silver,6
+NZL,New Zealand,silver,7
 HUN,Hungary,silver,7
 UZB,Uzbekistan,silver,1
 ESP,Spain,silver,3
@@ -110,9 +110,9 @@ BUL,Bulgaria,silver,1
 CZE,Czechia,silver,0
 IRI,Islamic Republic of Iran,silver,4
 AZE,Azerbaijan,silver,2
+CUB,Cuba,silver,1
 KEN,Kenya,silver,1
 CRO,Croatia,silver,1
-CUB,Cuba,silver,1
 SRB,Serbia,silver,1
 SLO,Slovenia,silver,1
 AUT,Austria,silver,0
@@ -181,8 +181,8 @@ KOR,Republic of Korea,bronze,8
 NED,Netherlands,bronze,11
 GER,Germany,bronze,8
 ITA,Italy,bronze,13
-NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
+NZL,New Zealand,bronze,2
 HUN,Hungary,bronze,6
 UZB,Uzbekistan,bronze,3
 ESP,Spain,bronze,8
@@ -196,9 +196,9 @@ BUL,Bulgaria,bronze,3
 CZE,Czechia,bronze,1
 IRI,Islamic Republic of Iran,bronze,2
 AZE,Azerbaijan,bronze,1
+CUB,Cuba,bronze,4
 KEN,Kenya,bronze,4
 CRO,Croatia,bronze,3
-CUB,Cuba,bronze,3
 SRB,Serbia,bronze,1
 SLO,Slovenia,bronze,0
 AUT,Austria,bronze,3
