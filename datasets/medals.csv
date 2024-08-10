@@ -169,8 +169,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -189,8 +189,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -343,8 +343,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
+MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -861,6 +861,7 @@ USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 USA,WILLIAMS Lily,Cycling Track,Women's Team Pursuit,G
 USA,WILLIAMS Lynn,Football,Women,G
 UZB,DUSMATOV Hasanboy,Boxing,Men's 51kg,G
+UZB,JAMALOV Razambek Salambekovitch,Wrestling,Men's Freestyle 74kg,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
 UZB,MULLOJONOV Lazizbek,Boxing,Men's 92kg,G
 UZB,MUYDINKHUJAEV Asadkhuja,Boxing,Men's 71kg,G
@@ -1223,6 +1224,7 @@ JPN,SAITO Tatsuru,Judo,Mixed Team,S
 JPN,SATO Taishu,Modern Pentathlon,Men's Individual,S
 JPN,SONE Akira,Judo,Mixed Team,S
 JPN,TAKAICHI Miku,Judo,Mixed Team,S
+JPN,TAKATANI Daichi,Wrestling,Men's Freestyle 74kg,S
 JPN,TAKAYAMA Rika,Judo,Mixed Team,S
 JPN,TAMAI Rikuto,Diving,Men's 10m Platform,S
 JPN,WOLF Aaron,Judo,Mixed Team,S
@@ -1386,6 +1388,7 @@ USA,WARD McLain,Equestrian,Jumping Team,S
 USA,WEINSTEIN Claire,Swimming,Women's 4 x 200m Freestyle Relay,S
 UZB,DJURAEV Akbar,Weightlifting,Men's 102kg,S
 AIN,TSIKHANTSOU Yauheni,Weightlifting,Men's 102kg,B
+ALB,VALIEV Chermen,Wrestling,Men's Freestyle 74kg,B
 ALG,SEDJATI Djamel,Athletics,Men's 800m,B
 ARG,ALBERTARRIO Agustina,Hockey,Women,B
 ARG,ALONSO Agostina,Hockey,Women,B
