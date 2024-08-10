@@ -19,13 +19,13 @@ BRA,Brazil,gold,3
 UKR,Ukraine,gold,3
 SWE,Sweden,gold,3
 ROU,Romania,gold,3
-BUL,Bulgaria,gold,3
 BEL,Belgium,gold,3
+BUL,Bulgaria,gold,3
 IRI,Islamic Republic of Iran,gold,2
 AZE,Azerbaijan,gold,2
+KEN,Kenya,gold,2
 CRO,Croatia,gold,2
 CUB,Cuba,gold,2
-KEN,Kenya,gold,2
 SRB,Serbia,gold,2
 AUT,Austria,gold,2
 HKG,"Hong Kong, China",gold,2
@@ -42,6 +42,7 @@ DEN,Denmark,gold,1
 RSA,South Africa,gold,1
 ECU,Ecuador,gold,1
 GEO,Georgia,gold,1
+ETH,Ethiopia,gold,1
 GRE,Greece,gold,1
 POL,Poland,gold,1
 ARG,Argentina,gold,1
@@ -66,7 +67,6 @@ PRK,Democratic People's Republic of Korea,gold,0
 LTU,Lithuania,gold,0
 ARM,Armenia,gold,0
 POR,Portugal,gold,0
-ETH,Ethiopia,gold,0
 IND,India,gold,0
 KGZ,Kyrgyzstan,gold,0
 MDA,Republic of Moldova,gold,0
@@ -105,13 +105,13 @@ BRA,Brazil,silver,6
 UKR,Ukraine,silver,4
 SWE,Sweden,silver,4
 ROU,Romania,silver,4
+BEL,Belgium,silver,1
 BUL,Bulgaria,silver,1
-BEL,Belgium,silver,0
 IRI,Islamic Republic of Iran,silver,4
 AZE,Azerbaijan,silver,2
+KEN,Kenya,silver,1
 CRO,Croatia,silver,1
 CUB,Cuba,silver,1
-KEN,Kenya,silver,1
 SRB,Serbia,silver,1
 AUT,Austria,silver,0
 HKG,"Hong Kong, China",silver,0
@@ -128,6 +128,7 @@ DEN,Denmark,silver,2
 RSA,South Africa,silver,2
 ECU,Ecuador,silver,2
 GEO,Georgia,silver,2
+ETH,Ethiopia,silver,2
 GRE,Greece,silver,1
 POL,Poland,silver,1
 ARG,Argentina,silver,1
@@ -152,7 +153,6 @@ PRK,Democratic People's Republic of Korea,silver,2
 LTU,Lithuania,silver,2
 ARM,Armenia,silver,2
 POR,Portugal,silver,2
-ETH,Ethiopia,silver,2
 IND,India,silver,1
 KGZ,Kyrgyzstan,silver,1
 MDA,Republic of Moldova,silver,1
@@ -191,13 +191,13 @@ BRA,Brazil,bronze,9
 UKR,Ukraine,bronze,4
 SWE,Sweden,bronze,3
 ROU,Romania,bronze,1
-BUL,Bulgaria,bronze,3
 BEL,Belgium,bronze,6
+BUL,Bulgaria,bronze,3
 IRI,Islamic Republic of Iran,bronze,2
 AZE,Azerbaijan,bronze,1
+KEN,Kenya,bronze,4
 CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
-KEN,Kenya,bronze,3
 SRB,Serbia,bronze,0
 AUT,Austria,bronze,2
 HKG,"Hong Kong, China",bronze,2
@@ -214,6 +214,7 @@ DEN,Denmark,bronze,2
 RSA,South Africa,bronze,2
 ECU,Ecuador,bronze,1
 GEO,Georgia,bronze,1
+ETH,Ethiopia,bronze,0
 GRE,Greece,bronze,6
 POL,Poland,bronze,5
 ARG,Argentina,bronze,1
@@ -238,7 +239,6 @@ PRK,Democratic People's Republic of Korea,bronze,4
 LTU,Lithuania,bronze,2
 ARM,Armenia,bronze,1
 POR,Portugal,bronze,1
-ETH,Ethiopia,bronze,0
 IND,India,bronze,5
 KGZ,Kyrgyzstan,bronze,3
 MDA,Republic of Moldova,bronze,3

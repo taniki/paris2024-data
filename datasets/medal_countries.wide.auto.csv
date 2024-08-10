@@ -19,13 +19,13 @@ BRA,Brazil,3,6,9
 UKR,Ukraine,3,4,4
 SWE,Sweden,3,4,3
 ROU,Romania,3,4,1
+BEL,Belgium,3,1,6
 BUL,Bulgaria,3,1,3
-BEL,Belgium,3,0,6
 IRI,Islamic Republic of Iran,2,4,2
 AZE,Azerbaijan,2,2,1
+KEN,Kenya,2,1,4
 CRO,Croatia,2,1,3
 CUB,Cuba,2,1,3
-KEN,Kenya,2,1,3
 SRB,Serbia,2,1,0
 AUT,Austria,2,0,2
 HKG,"Hong Kong, China",2,0,2
@@ -42,6 +42,7 @@ DEN,Denmark,1,2,2
 RSA,South Africa,1,2,2
 ECU,Ecuador,1,2,1
 GEO,Georgia,1,2,1
+ETH,Ethiopia,1,2,0
 GRE,Greece,1,1,6
 POL,Poland,1,1,5
 ARG,Argentina,1,1,1
@@ -66,7 +67,6 @@ PRK,Democratic People's Republic of Korea,0,2,4
 LTU,Lithuania,0,2,2
 ARM,Armenia,0,2,1
 POR,Portugal,0,2,1
-ETH,Ethiopia,0,2,0
 IND,India,0,1,5
 KGZ,Kyrgyzstan,0,1,3
 MDA,Republic of Moldova,0,1,3
