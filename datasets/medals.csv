@@ -78,6 +78,9 @@ NZL,CARRINGTON Lisa,Canoe Sprint,Women's Kayak Double 500m,G
 CHN,PAN Zhanle,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,PAN Zhanle,Swimming,Men's 100m Freestyle,G
 CHN,PAN Zhanle,Swimming,Mixed 4 x 100m Medley Relay,S
+CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
+CHN,SUN Yingsha,Table Tennis,Women's Singles,S
+CHN,SUN Yingsha,Table Tennis,Women's Team,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,DRESSEL Caeleb,Swimming,Men's 4 x 100m Medley Relay,S
 USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
@@ -120,6 +123,8 @@ AUS,JACK Shayna,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,JACK Shayna,Swimming,Women's 4 x 200m Freestyle Relay,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Road Race,G
 BEL,EVENEPOEL Remco,Cycling Road,Men's Individual Time Trial,G
+CHN,CHEN Meng,Table Tennis,Women's Singles,G
+CHN,CHEN Meng,Table Tennis,Women's Team,G
 CHN,CHEN Yiwen,Diving,Women's Synchronised 3m Springboard,G
 CHN,CHEN Yiwen,Diving,Women's 3m Springboard,G
 CHN,FAN Zhendong,Table Tennis,Men's Team,G
@@ -164,8 +169,6 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
-CHN,SUN Yingsha,Table Tennis,Women's Singles,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
@@ -328,14 +331,16 @@ JPN,FUNAKUBO Haruka,Judo,Mixed Team,S
 JPN,FUNAKUBO Haruka,Judo,Women -57 kg,B
 JPN,HASHIMOTO Soichi,Judo,Men -73 kg,B
 JPN,HASHIMOTO Soichi,Judo,Mixed Team,S
+JPN,HAYATA Hina,Table Tennis,Women's Singles,B
+JPN,HAYATA Hina,Table Tennis,Women's Team,S
 JPN,NAGAYAMA Ryuju,Judo,Men -60 kg,B
 JPN,NAGAYAMA Ryuju,Judo,Mixed Team,S
 KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
+MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -435,7 +440,6 @@ CHI,CROVETTO CHADID Francisca,Shooting,Skeet Women,G
 CHN,CAO Yuan,Diving,Men's 10m Platform,G
 CHN,CHANG Hao,Artistic Swimming,Team,G
 CHN,CHANG Yuan,Boxing,Women's 54kg,G
-CHN,CHEN Meng,Table Tennis,Women's Singles,G
 CHN,CHEN Qing Chen,Badminton,Women's Doubles,G
 CHN,CHENG Wentao,Artistic Swimming,Team,G
 CHN,DENG Yawen,Cycling BMX Freestyle,Women's Park,G
@@ -463,6 +467,7 @@ CHN,WANG Changhao,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,WANG Ciyue,Artistic Swimming,Team,G
 CHN,WANG Lanjing,Rhythmic Gymnastics,Group All-Around,G
 CHN,WANG Liuyi,Artistic Swimming,Team,G
+CHN,WANG Manyu,Table Tennis,Women's Team,G
 CHN,WANG Qianyi,Artistic Swimming,Team,G
 CHN,WU Yu,Boxing,Women's 50kg,G
 CHN,XIANG Binxuan,Artistic Swimming,Team,G
@@ -930,8 +935,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Boxing,Women's 66kg,S
 CHN,YANG Liu,Hockey,Women,S
+CHN,YANG Liu,Boxing,Women's 66kg,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1149,7 +1154,9 @@ JOR,KAREEM Zaid,Taekwondo,Men -68kg,S
 JPN,ABE Uta,Judo,Mixed Team,S
 JPN,AKAMA Liz,Skateboarding,Women's Street,S
 JPN,ANRAKU Sorato,Sport Climbing,Men's Boulder & Lead,S
+JPN,HARIMOTO Miwa,Table Tennis,Women's Team,S
 JPN,HIRAKI Cocona,Skateboarding,Women's Park,S
+JPN,HIRANO Miu,Table Tennis,Women's Team,S
 JPN,KOMATA Akira,Fencing,Men's Épée Team,S
 JPN,MATSUSHITA Tomoyuki,Swimming,Men's 400m Individual Medley,S
 JPN,MINOBE Kazuyasu,Fencing,Men's Épée Team,S
@@ -1650,7 +1657,6 @@ JAM,CAMPBELL Rajindra,Athletics,Men's Shot Put,B
 JPN,AZUMA Sera,Fencing,Women's Foil Team,B
 JPN,EMURA Misaki,Fencing,Women's Sabre Team,B
 JPN,FUKUSHIMA Shihomi,Fencing,Women's Sabre Team,B
-JPN,HAYATA Hina,Table Tennis,Women's Singles,B
 JPN,HIGASHINO Arisa,Badminton,Mixed Doubles,B
 JPN,KIKUCHI Komaki,Fencing,Women's Foil Team,B
 JPN,KITAJIMA Ryuzo,Equestrian,Eventing Team,B

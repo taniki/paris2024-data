@@ -1,5 +1,5 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,36
+CHN,People's Republic of China,gold,37
 USA,United States of America,gold,33
 AUS,Australia,gold,18
 JPN,Japan,gold,16
@@ -88,7 +88,7 @@ ZAM,Zambia,gold,0
 CHN,People's Republic of China,silver,27
 USA,United States of America,silver,41
 AUS,Australia,silver,17
-JPN,Japan,silver,9
+JPN,Japan,silver,10
 FRA,France,silver,21
 GBR,Great Britain,silver,20
 KOR,Republic of Korea,silver,8
