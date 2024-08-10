@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,37
-USA,United States of America,gold,33
+USA,United States of America,gold,34
 AUS,Australia,gold,18
 JPN,Japan,gold,16
 FRA,France,gold,15
@@ -101,7 +101,7 @@ HUN,Hungary,silver,7
 ESP,Spain,silver,3
 UZB,Uzbekistan,silver,1
 IRL,Ireland,silver,0
-BRA,Brazil,silver,6
+BRA,Brazil,silver,7
 UKR,Ukraine,silver,4
 SWE,Sweden,silver,4
 ROU,Romania,silver,4

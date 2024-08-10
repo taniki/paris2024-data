@@ -87,8 +87,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
+CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -265,8 +265,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,Women's 400m Hurdles,B
 NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
+NED,BOL Femke,Athletics,Women's 400m Hurdles,B
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -805,33 +805,53 @@ UKR,KHYZHNIAK Oleksandr,Boxing,Men's 80kg,G
 UKR,KOMASHCHUK Alina,Fencing,Women's Sabre Team,G
 UKR,KRAVATSKA Olena,Fencing,Women's Sabre Team,G
 UKR,MAHUCHIKH Yaroslava,Athletics,Women's High Jump,G
+USA,ALBERT Korbin,Football,Women,G
 USA,ALLMAN Valarie,Athletics,Women's Discus Throw,G
 USA,BENJAMIN Rai,Athletics,Men's 400m Hurdles,G
 USA,BEST Justin,Rowing,Men's Four,G
+USA,BETHUNE Croix,Football,Women,G
+USA,COFFEY Samantha,Football,Women,G
 USA,CORRIGAN Liam,Rowing,Men's Four,G
 USA,CROUSER Ryan,Athletics,Men's Shot Put,G
+USA,DAVIDSON Tierna,Football,Women,G
 USA,DAVIS-WOODHALL Tara,Athletics,Women's Long Jump,G
 USA,DUBROVICH Jacqueline,Fencing,Women's Foil Team,G
+USA,DUNN Crystal,Football,Women,G
 USA,ELOR Amit,Wrestling,Women's Freestyle 68kg,G
+USA,FOX Emily,Football,Women,G
+USA,GIRMA Naomi,Football,Women,G
 USA,GRADY Michael,Rowing,Men's Four,G
 USA,HALL Quincy,Athletics,Men's 400m,G
 USA,HELD Ryan,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,HILDEBRANDT Sarah Ann,Wrestling,Women's Freestyle 50kg,G
 USA,HOCKER Cole,Athletics,Men's 1500m,G
 USA,HOLLOWAY Grant,Athletics,Men's 110m Hurdles,G
+USA,HORAN Lindsey,Football,Women,G
 USA,KING Lilly,Swimming,Women's 4 x 100m Medley Relay,G
 USA,KING Matt,Swimming,Men's 4 x 100m Freestyle Relay,G
+USA,KRUEGER Casey,Football,Women,G
+USA,LAVELLE Rose,Football,Women,G
 USA,MARKS Caroline,Surfing,Women,G
 USA,McLAUGHLIN-LEVRONE Sydney,Athletics,Women's 400m Hurdles,G
 USA,MEAD Nick,Rowing,Men's Four,G
+USA,MURPHY Casey,Football,Women,G
+USA,NAEHER Alyssa,Football,Women,G
+USA,NIGHSWONGER Jenna,Football,Women,G
 USA,REEVES Olivia,Weightlifting,Women's 71kg,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
+USA,RODMAN Trinity,Football,Women,G
+USA,SAMS Emily,Football,Women,G
 USA,SCHEFFLER Scottie,Golf,Men's Individual Stroke Play,G
+USA,SHAW Jaedyn,Football,Women,G
+USA,SMITH Sophia,Football,Women,G
+USA,SONNETT Emily,Football,Women,G
+USA,SWANSON Mallory,Football,Women,G
 USA,TERRY Twanisha,Athletics,Women's 4 x 100m Relay,G
 USA,VALENTE Jennifer,Cycling Track,Women's Team Pursuit,G
 USA,WEBER Emma,Swimming,Women's 4 x 100m Medley Relay,G
 USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 USA,WILLIAMS Lily,Cycling Track,Women's Team Pursuit,G
+USA,WILLIAMS Lynn,Football,Women,G
 UZB,DUSMATOV Hasanboy,Boxing,Men's 51kg,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
 UZB,MULLOJONOV Lazizbek,Boxing,Men's 92kg,G
@@ -876,9 +896,31 @@ AUS,YANG William,Swimming,Men's 4 x 100m Freestyle Relay,S
 AZE,ALFONSO DOMINGUEZ Loren Berto,Boxing,Men's 92kg,S
 AZE,MAGOMEDOV Gashim,Taekwondo,Men -58kg,S
 BEL,ABDI Bashir,Athletics,Men's Marathon,S
+BRA,ADRIANA,Football,Women,S
+BRA,ANA VITORIA,Football,Women,S
+BRA,ANGELINA,Football,Women,S
+BRA,ANTONIA,Football,Women,S
 BRA,BONFIM Caio,Athletics,Men's 20km Race Walk,S
+BRA,DUDA SAMPAIO,Football,Women,S
+BRA,GABI NUNES,Football,Women,S
+BRA,GABI PORTILHO,Football,Women,S
+BRA,JHENIFFER,Football,Women,S
+BRA,KEROLIN,Football,Women,S
+BRA,LAUREN,Football,Women,S
+BRA,LORENA,Football,Women,S
+BRA,LUCIANA,Football,Women,S
+BRA,LUDMILA,Football,Women,S
+BRA,MARTA,Football,Women,S
+BRA,PRISCILA,Football,Women,S
 BRA,QUEIROZ Isaquias,Canoe Sprint,Men's Canoe Single 1000m,S
+BRA,RAFAELLE,Football,Women,S
+BRA,TAINA,Football,Women,S
+BRA,TAMIRES,Football,Women,S
+BRA,TARCIANE,Football,Women,S
+BRA,THAIS,Football,Women,S
+BRA,VITORIA YAYA,Football,Women,S
 BRA,WESTON-WEBB Tatiana,Surfing,Women,S
+BRA,YASMIM,Football,Women,S
 BRN,NASER Salwa Eid,Athletics,Women's 400m,S
 BUL,KALEYN Boryana,Rhythmic Gymnastics,Individual All-Around,S
 CAN,APPS Olivia,Rugby Sevens,Women,S
