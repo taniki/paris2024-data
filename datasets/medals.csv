@@ -169,8 +169,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -189,8 +189,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -305,8 +305,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -750,6 +750,7 @@ NOR,BREISTOEL Kristine,Handball,Women,G
 NOR,HERREM Camilla,Handball,Women,G
 NOR,INGSTAD Vilde,Handball,Women,G
 NOR,JACOBSEN Marit,Handball,Women,G
+NOR,KOANDA Solfrid Eila Amena,Weightlifting,Women's 81kg,G
 NOR,KRISTIANSEN Veronica,Handball,Women,G
 NOR,LUNDE Katrine,Handball,Women,G
 NOR,MOERK Nora,Handball,Women,G
@@ -936,8 +937,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Boxing,Women's 66kg,S
 CHN,YANG Liu,Hockey,Women,S
+CHN,YANG Liu,Boxing,Women's 66kg,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -959,6 +960,7 @@ DEN,RINDOM Anne-Marie,Sailing,Women's Dinghy,S
 DEN,SKODBORG MERRALD Nanna,Equestrian,Dressage Team,S
 ECU,MOREJON Glenda,Athletics,Marathon Race Walk Relay Mixed,S
 ECU,YEPEZ GUZMAN Lucia Yamileth,Wrestling,Women's Freestyle 53kg,S
+EGY,AHMED Sara,Weightlifting,Women's 81kg,S
 ESP,ALCARAZ Carlos,Tennis,Men's Singles,S
 ESP,ALONSO Gracia,3x3 Basketball,Women,S
 ESP,CAMILION Juana,3x3 Basketball,Women,S
@@ -1463,6 +1465,7 @@ DEN,TRANBORG Mette,Handball,Women,B
 DEN,VINTER BURGAARD Louise,Handball,Women,B
 DOM,ALCANTARA REYES Yunior,Boxing,Men's 51kg,B
 DOM,PINALES Cristian Javier,Boxing,Men's 80kg,B
+ECU,DAJOMES BARRERA Neisi Patricia,Weightlifting,Women's 81kg,B
 ECU,PALACIOS DAJOMES Angie Paola,Weightlifting,Women's 71kg,B
 EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
 EOR,DJANKEU NGAMBA Cindy Winner,Boxing,Women's 75kg,B
