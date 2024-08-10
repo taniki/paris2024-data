@@ -169,8 +169,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -189,8 +189,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -343,8 +343,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -393,6 +393,8 @@ KOR,SHIN Yubin,Table Tennis,Mixed Doubles,B
 KOR,SHIN Yubin,Table Tennis,Women's Team,B
 NED,HASSAN Sifan,Athletics,Women's 5000m,B
 NED,HASSAN Sifan,Athletics,"Women's 10,000m",B
+USA,FISHER Grant,Athletics,Men's 5000m,B
+USA,FISHER Grant,Athletics,"Men's 10,000m",B
 USA,MOORE Jasmine,Athletics,Women's Triple Jump,B
 USA,MOORE Jasmine,Athletics,Women's Long Jump,B
 USA,NEDOROSCIK Stephen,Artistic Gymnastics,Men's Team,B
@@ -754,6 +756,7 @@ NOR,AARDAHL Maren,Handball,Women,G
 NOR,BRATTSET DALE Kari,Handball,Women,G
 NOR,BREISTOEL Kristine,Handball,Women,G
 NOR,HERREM Camilla,Handball,Women,G
+NOR,INGEBRIGTSEN Jakob,Athletics,Men's 5000m,G
 NOR,INGSTAD Vilde,Handball,Women,G
 NOR,JACOBSEN Marit,Handball,Women,G
 NOR,KOANDA Solfrid Eila Amena,Weightlifting,Women's 81kg,G
@@ -989,8 +992,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1234,6 +1237,7 @@ KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
 KAZ,ORALBAY Nurbek,Boxing,Men's 80kg,S
 KAZ,ZHADRAYEV Demeu,Wrestling,Men's Greco-Roman 77kg,S
 KEN,KIPYEGON Faith,Athletics,Women's 5000m,S
+KEN,KWEMOI Ronald,Athletics,Men's 5000m,S
 KGZ,ZHUMANAZAROVA Meerim,Wrestling,Women's Freestyle 68kg,S
 KOR,CHO Yeongjae,Shooting,25m Rapid Fire Pistol Men,S
 KOR,CHOI Sebin,Fencing,Women's Sabre Team,S
@@ -1927,7 +1931,6 @@ USA,DAKE Kyle Douglas,Wrestling,Men's Freestyle 74kg,B
 USA,DEAN Clark,Rowing,Men's Eight,B
 USA,DEFALCO Torey,Volleyball,Men,B
 USA,DOYLE Lauren,Rugby Sevens,Women,B
-USA,FISHER Grant,Athletics,"Men's 10,000m",B
 USA,FRITZ Taylor,Tennis,Men's Doubles,B
 USA,HAMBY Dearica,3x3 Basketball,Women,B
 USA,HENKEN Hans,Sailing,Men's Skiff,B
