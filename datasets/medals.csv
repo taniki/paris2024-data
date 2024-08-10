@@ -166,8 +166,8 @@ CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,SUN Yingsha,Table Tennis,Mixed Doubles,G
 CHN,SUN Yingsha,Table Tennis,Women's Singles,S
-CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
+CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -186,8 +186,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,ABE Hifumi,Judo,Men -66 kg,G
+JPN,ABE Hifumi,Judo,Mixed Team,S
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -302,8 +302,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Mixed Team,B
 BRA,LIMA Willian,Judo,Men -66 kg,S
+BRA,LIMA Willian,Judo,Mixed Team,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -334,8 +334,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
+MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -492,24 +492,37 @@ ESP,BARRIOS Pablo,Football,Men,G
 ESP,BERNABE Adrian,Football,Men,G
 ESP,BOTIN le CHEVER Diego,Sailing,Men's Skiff,G
 ESP,CAMELLO Sergio,Football,Men,G
+ESP,CAMUS Paula,Water Polo,Women,G
+ESP,CRESPI BARRIGA Paula,Water Polo,Women,G
 ESP,CUBARSI Pau,Football,Men,G
 ESP,DIAZ FORTUN Jordan Alejandro,Athletics,Men's Triple Jump,G
+ESP,ESPAR LLAQUET Anni,Water Polo,Women,G
+ESP,ESTER RAMOS Laura,Water Polo,Women,G
+ESP,FORCA ARIZA Judith,Water Polo,Women,G
 ESP,GARCIA Eric,Football,Men,G
+ESP,GARCIA GODOY Maica,Water Polo,Women,G
 ESP,GARCIA Joan,Football,Men,G
 ESP,GOMEZ Sergio,Football,Men,G
 ESP,GUTIERREZ Miguel,Football,Men,G
 ESP,ITURBE Alejandro,Football,Men,G
+ESP,LEITON ARRONES Paula,Water Polo,Women,G
 ESP,LOPEZ Diego,Football,Men,G
 ESP,LOPEZ Fermin,Football,Men,G
 ESP,MIRANDA Juan,Football,Men,G
 ESP,MOSQUERA Cristhian,Football,Men,G
 ESP,OMORODION Samu,Football,Men,G
 ESP,OROZ Aimar,Football,Men,G
+ESP,ORTIZ Bea,Water Polo,Women,G
 ESP,PACHECO Jon,Football,Men,G
+ESP,PENA Pili,Water Polo,Women,G
+ESP,PEREZ VIVAS Nona,Water Polo,Women,G
+ESP,PIRALKOVA COELLO Isabel,Water Polo,Women,G
 ESP,PUBILL Marc,Football,Men,G
 ESP,RUIZ Abel,Football,Men,G
+ESP,RUIZ BARRIL Elena,Water Polo,Women,G
 ESP,SANCHEZ Juanlu,Football,Men,G
 ESP,TENAS Arnau,Football,Men,G
+ESP,TERRE Martina,Water Polo,Women,G
 ESP,TRITTEL PAUL Florian,Sailing,Men's Skiff,G
 ESP,TURRIENTES Benat,Football,Men,G
 ETH,TOLA Tamirat,Athletics,Men's Marathon,G
@@ -825,20 +838,33 @@ ARG,BOSCO Eugenia,Sailing,Mixed Multihull,S
 ARG,MAJDALANI Mateo,Sailing,Mixed Multihull,S
 ARM,ALEKSANYAN Artur,Wrestling,Men's Greco-Roman 97kg,S
 ARM,DAVTYAN Artur,Artistic Gymnastics,Men's Vault,S
+AUS,ANDREWS Abby,Water Polo,Women,S
+AUS,ANDREWS Charlize,Water Polo,Women,S
+AUS,ARANCINI Zoe,Water Polo,Women,S
+AUS,ARMIT Elle,Water Polo,Women,S
 AUS,BURTON Christopher,Equestrian,Eventing Individual,S
 AUS,CARTWRIGHT Jack,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,COLLINS Jackson,Canoe Sprint,Men's Kayak Four 500m,S
 AUS,FITZSIMMONS Riley,Canoe Sprint,Men's Kayak Four 500m,S
+AUS,GOFERS Keesja,Water Polo,Women,S
+AUS,GREEN Sienna,Water Polo,Women,S
+AUS,HALLIGAN Bronte,Water Polo,Women,S
 AUS,HAVARD Noah,Canoe Sprint,Men's Kayak Four 500m,S
+AUS,HEARN Sienna,Water Polo,Women,S
+AUS,JACKOVICH Danijela,Water Polo,Women,S
 AUS,JOHNSON Moesha,Marathon Swimming,Women's 10km,S
+AUS,KEARNS Tilly,Water Polo,Women,S
 AUS,KEENEY Maddison,Diving,Women's 3m Springboard,S
+AUS,LONGMAN Genevieve,Water Polo,Women,S
 AUS,MORRIS Grae,Sailing,Men's Windsurfing,S
 AUS,OLYSLAGERS Nicola,Athletics,Women's High Jump,S
+AUS,PALM Gabriella,Water Polo,Women,S
 AUS,PERKINS Alexandria,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,RAMSAY Ella,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,ROBINSON Jack,Surfing,Men,S
 AUS,STRAUCH Jenna,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,van der WESTHUYZEN Pierre,Canoe Sprint,Men's Kayak Four 500m,S
+AUS,WILLIAMS Alice,Water Polo,Women,S
 AUS,YANG William,Swimming,Men's 4 x 100m Freestyle Relay,S
 AZE,ALFONSO DOMINGUEZ Loren Berto,Boxing,Men's 92kg,S
 AZE,MAGOMEDOV Gashim,Taekwondo,Men -58kg,S
