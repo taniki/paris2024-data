@@ -1,5 +1,5 @@
 code,country,medal,quantity
-CHN,People's Republic of China,gold,38
+CHN,People's Republic of China,gold,39
 USA,United States of America,gold,37
 AUS,Australia,gold,18
 JPN,Japan,gold,18
@@ -76,6 +76,7 @@ CYP,Cyprus,gold,0
 FIJ,Fiji,gold,0
 JOR,Jordan,gold,0
 MGL,Mongolia,gold,0
+PAN,Panama,gold,0
 TJK,Tajikistan,gold,0
 GRN,Grenada,gold,0
 MAS,Malaysia,gold,0
@@ -166,6 +167,7 @@ CYP,Cyprus,silver,1
 FIJ,Fiji,silver,1
 JOR,Jordan,silver,1
 MGL,Mongolia,silver,1
+PAN,Panama,silver,1
 TJK,Tajikistan,silver,0
 GRN,Grenada,silver,0
 MAS,Malaysia,silver,0
@@ -256,6 +258,7 @@ CYP,Cyprus,bronze,0
 FIJ,Fiji,bronze,0
 JOR,Jordan,bronze,0
 MGL,Mongolia,bronze,0
+PAN,Panama,bronze,0
 TJK,Tajikistan,bronze,3
 GRN,Grenada,bronze,2
 MAS,Malaysia,bronze,2

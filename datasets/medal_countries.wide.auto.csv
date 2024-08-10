@@ -1,5 +1,5 @@
 code,country,gold,silver,bronze
-CHN,People's Republic of China,38,27,24
+CHN,People's Republic of China,39,27,24
 USA,United States of America,37,42,42
 AUS,Australia,18,18,14
 JPN,Japan,18,12,13
@@ -76,6 +76,7 @@ CYP,Cyprus,0,1,0
 FIJ,Fiji,0,1,0
 JOR,Jordan,0,1,0
 MGL,Mongolia,0,1,0
+PAN,Panama,0,1,0
 TJK,Tajikistan,0,0,3
 GRN,Grenada,0,0,2
 MAS,Malaysia,0,0,2
