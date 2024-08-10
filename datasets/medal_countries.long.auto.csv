@@ -9,8 +9,8 @@ KOR,Republic of Korea,gold,13
 NED,Netherlands,gold,13
 GER,Germany,gold,12
 ITA,Italy,gold,11
-NZL,New Zealand,gold,8
 CAN,Canada,gold,8
+NZL,New Zealand,gold,8
 HUN,Hungary,gold,5
 ESP,Spain,gold,5
 UZB,Uzbekistan,gold,5
@@ -20,21 +20,21 @@ UKR,Ukraine,gold,3
 SWE,Sweden,gold,3
 ROU,Romania,gold,3
 BEL,Belgium,gold,3
+KEN,Kenya,gold,3
 BUL,Bulgaria,gold,3
 NOR,Norway,gold,3
 CZE,Czechia,gold,3
 IRI,Islamic Republic of Iran,gold,2
 AZE,Azerbaijan,gold,2
 CUB,Cuba,gold,2
-KEN,Kenya,gold,2
 CRO,Croatia,gold,2
 SRB,Serbia,gold,2
 SLO,Slovenia,gold,2
 AUT,Austria,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
-INA,Indonesia,gold,2
 ALG,Algeria,gold,2
+INA,Indonesia,gold,2
 ISR,Israel,gold,1
 KAZ,Kazakhstan,gold,1
 JAM,Jamaica,gold,1
@@ -95,8 +95,8 @@ KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 GER,Germany,silver,10
 ITA,Italy,silver,12
+CAN,Canada,silver,7
 NZL,New Zealand,silver,7
-CAN,Canada,silver,6
 HUN,Hungary,silver,7
 ESP,Spain,silver,3
 UZB,Uzbekistan,silver,1
@@ -106,21 +106,21 @@ UKR,Ukraine,silver,4
 SWE,Sweden,silver,4
 ROU,Romania,silver,4
 BEL,Belgium,silver,1
+KEN,Kenya,silver,1
 BUL,Bulgaria,silver,1
 NOR,Norway,silver,1
 CZE,Czechia,silver,0
 IRI,Islamic Republic of Iran,silver,4
 AZE,Azerbaijan,silver,2
 CUB,Cuba,silver,1
-KEN,Kenya,silver,1
 CRO,Croatia,silver,1
 SRB,Serbia,silver,1
 SLO,Slovenia,silver,1
 AUT,Austria,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
-INA,Indonesia,silver,0
 ALG,Algeria,silver,0
+INA,Indonesia,silver,0
 ISR,Israel,silver,5
 KAZ,Kazakhstan,silver,3
 JAM,Jamaica,silver,3
@@ -181,32 +181,32 @@ KOR,Republic of Korea,bronze,8
 NED,Netherlands,bronze,11
 GER,Germany,bronze,8
 ITA,Italy,bronze,14
-NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
+NZL,New Zealand,bronze,2
 HUN,Hungary,bronze,6
 ESP,Spain,bronze,8
 UZB,Uzbekistan,bronze,3
 IRL,Ireland,bronze,3
-BRA,Brazil,bronze,9
+BRA,Brazil,bronze,10
 UKR,Ukraine,bronze,4
 SWE,Sweden,bronze,3
 ROU,Romania,bronze,1
 BEL,Belgium,bronze,6
+KEN,Kenya,bronze,4
 BUL,Bulgaria,bronze,3
 NOR,Norway,bronze,1
 CZE,Czechia,bronze,1
 IRI,Islamic Republic of Iran,bronze,2
 AZE,Azerbaijan,bronze,1
 CUB,Cuba,bronze,4
-KEN,Kenya,bronze,4
 CRO,Croatia,bronze,3
 SRB,Serbia,bronze,1
 SLO,Slovenia,bronze,0
 AUT,Austria,bronze,3
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
+ALG,Algeria,bronze,1
 INA,Indonesia,bronze,1
-ALG,Algeria,bronze,0
 ISR,Israel,bronze,1
 KAZ,Kazakhstan,bronze,3
 JAM,Jamaica,bronze,2

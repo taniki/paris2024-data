@@ -87,8 +87,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -265,8 +265,8 @@ ITA,CECCON Thomas,Swimming,Men's 4 x 100m Freestyle Relay,B
 ITA,CECCON Thomas,Swimming,Men's 100m Backstroke,G
 KOR,LEE Wooseok,Archery,Men's Individual,B
 KOR,LEE Wooseok,Archery,Men's Team,G
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 ROU,POPOVICI David,Swimming,Men's 100m Freestyle,B
 ROU,POPOVICI David,Swimming,Men's 200m Freestyle,G
 UKR,KHARLAN Olga,Fencing,Women's Sabre Team,G
@@ -979,8 +979,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1421,18 +1421,31 @@ BEL,van den BOSSCHE Fabio,Cycling Track,Men's Omnium,B
 BEL,VIDTS Noor,Athletics,Women's Heptathlon,B
 BEL,WILLEMS Gabriella,Judo,Women -70 kg,B
 BRA,AKIO Augusto,Skateboarding,Men's Park,B
+BRA,ALEXANDRE COSTA NUNES Nyeme Victor.,Volleyball,Women,B
+BRA,ARAUJO Natalia,Volleyball,Women,B
 BRA,BARBOSA Jade,Artistic Gymnastics,Women's Team,B
+BRA,BERGMANN Julia Isabelle,Volleyball,Women,B
+BRA,BRAGA GUIMARAES Gabriela,Volleyball,Women,B
 BRA,CARGNIN Daniel,Judo,Mixed Team,B
+BRA,da SILVA Ana Carolina,Volleyball,Women,B
+BRA,DAHER de MENEZES Thaisa,Volleyball,Women,B
 BRA,dos SANTOS Alison,Athletics,Men's 400m Hurdles,B
+BRA,DUARTE ALECRIM Diana,Volleyball,Women,B
+BRA,GERALDO TEIXEIRA Lorenne,Volleyball,Women,B
 BRA,GONCALVES Leonardo,Judo,Mixed Team,B
 BRA,LEAL Rayssa,Skateboarding,Women's Street,B
+BRA,LEMES SANTOS Tainara,Volleyball,Women,B
 BRA,MACEDO Rafael,Judo,Mixed Team,B
 BRA,MEDINA Gabriel,Surfing,Men,B
+BRA,MENEZES OLIVEIRA de SOUZA Ana Cris.,Volleyball,Women,B
+BRA,MONTIBELLER Rosamaria,Volleyball,Women,B
 BRA,OLIVEIRA Lorrane,Artistic Gymnastics,Women's Team,B
 BRA,PONTES Edival,Taekwondo,Men -68kg,B
 BRA,QUADROS Ketleyn,Judo,Mixed Team,B
+BRA,RATZKE Roberta Silva,Volleyball,Women,B
 BRA,SARAIVA Flavia,Artistic Gymnastics,Women's Team,B
 BRA,SCHIMIDT Guilherme,Judo,Mixed Team,B
+BRA,SILVA CARNEIRO Macris Fernanda,Volleyball,Women,B
 BRA,SILVA Rafael,Judo,Mixed Team,B
 BRA,SILVA Rafaela,Judo,Mixed Team,B
 BRA,SOARES FERREIRA Beatriz Iasmin,Boxing,Women's 60kg,B
