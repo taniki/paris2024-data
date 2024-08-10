@@ -1,6 +1,6 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,37
-USA,United States of America,gold,35
+USA,United States of America,gold,36
 AUS,Australia,gold,18
 JPN,Japan,gold,17
 FRA,France,gold,15
@@ -9,8 +9,8 @@ KOR,Republic of Korea,gold,13
 NED,Netherlands,gold,13
 GER,Germany,gold,12
 ITA,Italy,gold,11
+NZL,New Zealand,gold,9
 CAN,Canada,gold,8
-NZL,New Zealand,gold,8
 UZB,Uzbekistan,gold,6
 HUN,Hungary,gold,5
 ESP,Spain,gold,5
@@ -51,6 +51,7 @@ GRE,Greece,gold,1
 ARG,Argentina,gold,1
 EGY,Egypt,gold,1
 TUN,Tunisia,gold,1
+BOT,Botswana,gold,1
 BRN,Bahrain,gold,1
 CHI,Chile,gold,1
 LCA,Saint Lucia,gold,1
@@ -59,7 +60,6 @@ TPE,Chinese Taipei,gold,1
 DOM,Dominican Republic,gold,1
 GUA,Guatemala,gold,1
 MAR,Morocco,gold,1
-BOT,Botswana,gold,1
 DMA,Dominica,gold,1
 PAK,Pakistan,gold,1
 TUR,Türkiye,gold,0
@@ -84,11 +84,12 @@ CPV,Cabo Verde,gold,0
 EOR,Refugee Olympic Team,gold,0
 PER,Peru,gold,0
 PUR,Puerto Rico,gold,0
+QAT,Qatar,gold,0
 SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 CHN,People's Republic of China,silver,27
-USA,United States of America,silver,41
+USA,United States of America,silver,42
 AUS,Australia,silver,18
 JPN,Japan,silver,12
 FRA,France,silver,22
@@ -97,8 +98,8 @@ KOR,Republic of Korea,silver,8
 NED,Netherlands,silver,6
 GER,Germany,silver,10
 ITA,Italy,silver,13
-CAN,Canada,silver,7
 NZL,New Zealand,silver,7
+CAN,Canada,silver,7
 UZB,Uzbekistan,silver,1
 HUN,Hungary,silver,7
 ESP,Spain,silver,3
@@ -139,6 +140,7 @@ GRE,Greece,silver,1
 ARG,Argentina,silver,1
 EGY,Egypt,silver,1
 TUN,Tunisia,silver,1
+BOT,Botswana,silver,1
 BRN,Bahrain,silver,1
 CHI,Chile,silver,1
 LCA,Saint Lucia,silver,1
@@ -147,7 +149,6 @@ TPE,Chinese Taipei,silver,0
 DOM,Dominican Republic,silver,0
 GUA,Guatemala,silver,0
 MAR,Morocco,silver,0
-BOT,Botswana,silver,0
 DMA,Dominica,silver,0
 PAK,Pakistan,silver,0
 TUR,Türkiye,silver,3
@@ -172,6 +173,7 @@ CPV,Cabo Verde,silver,0
 EOR,Refugee Olympic Team,silver,0
 PER,Peru,silver,0
 PUR,Puerto Rico,silver,0
+QAT,Qatar,silver,0
 SGP,Singapore,silver,0
 SVK,Slovakia,silver,0
 ZAM,Zambia,silver,0
@@ -180,13 +182,13 @@ USA,United States of America,bronze,41
 AUS,Australia,bronze,14
 JPN,Japan,bronze,13
 FRA,France,bronze,22
-GBR,Great Britain,bronze,25
-KOR,Republic of Korea,bronze,8
+GBR,Great Britain,bronze,26
+KOR,Republic of Korea,bronze,9
 NED,Netherlands,bronze,11
 GER,Germany,bronze,8
 ITA,Italy,bronze,15
-CAN,Canada,bronze,11
 NZL,New Zealand,bronze,2
+CAN,Canada,bronze,11
 UZB,Uzbekistan,bronze,3
 HUN,Hungary,bronze,6
 ESP,Spain,bronze,8
@@ -227,6 +229,7 @@ GRE,Greece,bronze,6
 ARG,Argentina,bronze,1
 EGY,Egypt,bronze,1
 TUN,Tunisia,bronze,1
+BOT,Botswana,bronze,0
 BRN,Bahrain,bronze,0
 CHI,Chile,bronze,0
 LCA,Saint Lucia,bronze,0
@@ -235,7 +238,6 @@ TPE,Chinese Taipei,bronze,5
 DOM,Dominican Republic,bronze,2
 GUA,Guatemala,bronze,1
 MAR,Morocco,bronze,1
-BOT,Botswana,bronze,0
 DMA,Dominica,bronze,0
 PAK,Pakistan,bronze,0
 TUR,Türkiye,bronze,4
@@ -260,6 +262,7 @@ CPV,Cabo Verde,bronze,1
 EOR,Refugee Olympic Team,bronze,1
 PER,Peru,bronze,1
 PUR,Puerto Rico,bronze,1
+QAT,Qatar,bronze,1
 SGP,Singapore,bronze,1
 SVK,Slovakia,bronze,1
 ZAM,Zambia,bronze,1
