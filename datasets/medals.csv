@@ -183,8 +183,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -203,8 +203,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -676,6 +676,7 @@ HUN,SIKLOSI Gergely,Fencing,Men's Épée Team,G
 INA,JUNIANSYAH Rizki,Weightlifting,Men's 73kg,G
 INA,LEONARDO Veddriq,Sport Climbing,Men's Speed,G
 IRI,ESMAEILI LEIVESI Saeid,Wrestling,Men's Greco-Roman 67kg,G
+IRI,SALIMI Arian,Taekwondo,Men +80kg,G
 IRI,SARAVI Mohammadhadi,Wrestling,Men's Greco-Roman 97kg,G
 IRL,HARRINGTON Kellie,Boxing,Women's 60kg,G
 IRL,Mc CARTHY Fintan,Rowing,Lightweight Men's Double Sculls,G
@@ -908,6 +909,7 @@ USA,WILSON Quincy,Athletics,Men's 4 x 400m Relay,G
 UZB,DUSMATOV Hasanboy,Boxing,Men's 51kg,G
 UZB,JAMALOV Razambek Salambekovitch,Wrestling,Men's Freestyle 74kg,G
 UZB,KELDIYOROVA Diyora,Judo,Women -52 kg,G
+UZB,KHALOKOV Abdumalik,Boxing,Men's 57kg,G
 UZB,MULLOJONOV Lazizbek,Boxing,Men's 92kg,G
 UZB,MUYDINKHUJAEV Asadkhuja,Boxing,Men's 71kg,G
 UZB,RASHITOV Ulugbek,Taekwondo,Men -68kg,G
@@ -1038,8 +1040,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1153,6 +1155,7 @@ GBR,BIGHAM Daniel,Cycling Track,Men's Team Pursuit,S
 GBR,BOOTH Esme,Rowing,Women's Four,S
 GBR,BURGESS Adam,Canoe Slalom,Men's Canoe Single,S
 GBR,CLARKE Joseph,Canoe Slalom,Men's Kayak Cross,S
+GBR,CUNNINGHAM Caden,Taekwondo,Men +80kg,S
 GBR,DALEY Thomas,Diving,Men's Synchronised 10m Platform,S
 GBR,EVANS Neah,Cycling Track,Women's Madison,S
 GBR,FLEETWOOD Tommy,Golf,Men's Individual Stroke Play,S
@@ -1286,6 +1289,7 @@ KAZ,KURBANOV Nariman,Artistic Gymnastics,Men's Pommel Horse,S
 KAZ,ORALBAY Nurbek,Boxing,Men's 80kg,S
 KAZ,ZHADRAYEV Demeu,Wrestling,Men's Greco-Roman 77kg,S
 KEN,KWEMOI Ronald,Athletics,Men's 5000m,S
+KGZ,SEIITBEK UULU Munarbek,Boxing,Men's 57kg,S
 KGZ,ZHUMANAZAROVA Meerim,Wrestling,Women's Freestyle 68kg,S
 KOR,CHO Yeongjae,Shooting,25m Rapid Fire Pistol Men,S
 KOR,CHOI Sebin,Fencing,Women's Sabre Team,S
