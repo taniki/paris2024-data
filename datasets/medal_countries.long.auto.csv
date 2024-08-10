@@ -21,16 +21,17 @@ SWE,Sweden,gold,3
 ROU,Romania,gold,3
 BEL,Belgium,gold,3
 BUL,Bulgaria,gold,3
+CZE,Czechia,gold,3
 IRI,Islamic Republic of Iran,gold,2
 AZE,Azerbaijan,gold,2
 KEN,Kenya,gold,2
 CRO,Croatia,gold,2
 CUB,Cuba,gold,2
 SRB,Serbia,gold,2
+SLO,Slovenia,gold,2
 AUT,Austria,gold,2
 HKG,"Hong Kong, China",gold,2
 PHI,Philippines,gold,2
-CZE,Czechia,gold,2
 INA,Indonesia,gold,2
 ALG,Algeria,gold,2
 ISR,Israel,gold,1
@@ -51,7 +52,6 @@ TUN,Tunisia,gold,1
 BRN,Bahrain,gold,1
 CHI,Chile,gold,1
 LCA,Saint Lucia,gold,1
-SLO,Slovenia,gold,1
 UGA,Uganda,gold,1
 TPE,Chinese Taipei,gold,1
 DOM,Dominican Republic,gold,1
@@ -85,7 +85,7 @@ PER,Peru,gold,0
 SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
-USA,United States of America,silver,39
+USA,United States of America,silver,40
 CHN,People's Republic of China,silver,27
 AUS,Australia,silver,16
 JPN,Japan,silver,8
@@ -97,7 +97,7 @@ GER,Germany,silver,9
 ITA,Italy,silver,12
 NZL,New Zealand,silver,7
 CAN,Canada,silver,6
-HUN,Hungary,silver,6
+HUN,Hungary,silver,7
 UZB,Uzbekistan,silver,0
 ESP,Spain,silver,3
 IRL,Ireland,silver,0
@@ -107,16 +107,17 @@ SWE,Sweden,silver,4
 ROU,Romania,silver,4
 BEL,Belgium,silver,1
 BUL,Bulgaria,silver,1
+CZE,Czechia,silver,0
 IRI,Islamic Republic of Iran,silver,4
 AZE,Azerbaijan,silver,2
 KEN,Kenya,silver,1
 CRO,Croatia,silver,1
 CUB,Cuba,silver,1
 SRB,Serbia,silver,1
+SLO,Slovenia,silver,1
 AUT,Austria,silver,0
 HKG,"Hong Kong, China",silver,0
 PHI,Philippines,silver,0
-CZE,Czechia,silver,0
 INA,Indonesia,silver,0
 ALG,Algeria,silver,0
 ISR,Israel,silver,4
@@ -137,7 +138,6 @@ TUN,Tunisia,silver,1
 BRN,Bahrain,silver,1
 CHI,Chile,silver,1
 LCA,Saint Lucia,silver,1
-SLO,Slovenia,silver,1
 UGA,Uganda,silver,1
 TPE,Chinese Taipei,silver,0
 DOM,Dominican Republic,silver,0
@@ -183,7 +183,7 @@ GER,Germany,bronze,8
 ITA,Italy,bronze,13
 NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
-HUN,Hungary,bronze,5
+HUN,Hungary,bronze,6
 UZB,Uzbekistan,bronze,3
 ESP,Spain,bronze,8
 IRL,Ireland,bronze,3
@@ -193,16 +193,17 @@ SWE,Sweden,bronze,3
 ROU,Romania,bronze,1
 BEL,Belgium,bronze,6
 BUL,Bulgaria,bronze,3
+CZE,Czechia,bronze,1
 IRI,Islamic Republic of Iran,bronze,2
 AZE,Azerbaijan,bronze,1
 KEN,Kenya,bronze,4
 CRO,Croatia,bronze,3
 CUB,Cuba,bronze,3
 SRB,Serbia,bronze,1
-AUT,Austria,bronze,2
+SLO,Slovenia,bronze,0
+AUT,Austria,bronze,3
 HKG,"Hong Kong, China",bronze,2
 PHI,Philippines,bronze,2
-CZE,Czechia,bronze,1
 INA,Indonesia,bronze,1
 ALG,Algeria,bronze,0
 ISR,Israel,bronze,1
@@ -223,7 +224,6 @@ TUN,Tunisia,bronze,1
 BRN,Bahrain,bronze,0
 CHI,Chile,bronze,0
 LCA,Saint Lucia,bronze,0
-SLO,Slovenia,bronze,0
 UGA,Uganda,bronze,0
 TPE,Chinese Taipei,bronze,5
 DOM,Dominican Republic,bronze,2
