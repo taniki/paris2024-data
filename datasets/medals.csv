@@ -183,8 +183,8 @@ CHN,LIU Yang,Artistic Gymnastics,Men's Rings,G
 CHN,LIU Yang,Artistic Gymnastics,Men's Team,S
 CHN,QIN Haiyang,Swimming,Men's 4 x 100m Medley Relay,G
 CHN,QIN Haiyang,Swimming,Mixed 4 x 100m Medley Relay,S
-CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 CHN,WANG Zongyuan,Diving,Men's Synchronised 3m Springboard,G
+CHN,WANG Zongyuan,Diving,Men's 3m Springboard,S
 ECU,PINTADO Brian Daniel,Athletics,Men's 20km Race Walk,G
 ECU,PINTADO Brian Daniel,Athletics,Marathon Race Walk Relay Mixed,S
 ESP,PEREZ Maria,Athletics,Women's 20km Race Walk,S
@@ -203,8 +203,8 @@ HUN,MILAK Kristof,Swimming,Men's 200m Butterfly,S
 HUN,MILAK Kristof,Swimming,Men's 100m Butterfly,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Balance Beam,G
 ITA,D'AMATO Alice,Artistic Gymnastics,Women's Team,S
-JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,ABE Hifumi,Judo,Mixed Team,S
+JPN,ABE Hifumi,Judo,Men -66 kg,G
 JPN,KANO Koki,Fencing,Men's Épée Individual,G
 JPN,KANO Koki,Fencing,Men's Épée Team,S
 JPN,NAGASE Takanori,Judo,Men -81 kg,G
@@ -371,8 +371,8 @@ KOR,HUH Mimi,Judo,Mixed Team,B
 KOR,HUH Mimi,Judo,Women -57 kg,S
 KOR,KIM Minjong,Judo,Mixed Team,B
 KOR,KIM Minjong,Judo,Men +100 kg,S
-MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 MEX,OLVERA IBARRA Osmar,Diving,Men's 3m Springboard,B
+MEX,OLVERA IBARRA Osmar,Diving,Men's Synchronised 3m Springboard,S
 PRK,KIM Mi Rae,Diving,Women's Synchronised 10m Platform,S
 PRK,KIM Mi Rae,Diving,Women's 10m Platform,B
 USA,ELLISON Brady,Archery,Men's Individual,S
@@ -1643,22 +1643,37 @@ EGY,ELSAYED Mohamed,Fencing,Men's Épée Individual,B
 EOR,DJANKEU NGAMBA Cindy Winner,Boxing,Women's 75kg,B
 ESP,AREVALO Carlos,Canoe Sprint,Men's Kayak Four 500m,B
 ESP,BUCSA Cristina,Tennis,Women's Doubles,B
+ESP,CASADO Agustin,Handball,Men,B
 ESP,COOPER Marcus,Canoe Sprint,Men's Kayak Four 500m,B
+ESP,CORRALES Rodrigo,Handball,Men,B
 ESP,CRAVIOTTO Saul,Canoe Sprint,Men's Kayak Four 500m,B
 ESP,DOMINGUEZ Diego,Canoe Sprint,Men's Canoe Double 500m,B
+ESP,DUJSHEBAEV Alex,Handball,Men,B
+ESP,DUJSHEBAEV Daniel,Handball,Men,B
 ESP,ECHANIZ Pau,Canoe Slalom,Men's Kayak Single,B
+ESP,FERNANDEZ Daniel,Handball,Men,B
 ESP,FERRE GASET Txell,Artistic Swimming,Team,B
+ESP,FIGUERAS Adrian,Handball,Men,B
 ESP,GARCIA POLO Marina,Artistic Swimming,Team,B
+ESP,GARCIANDIA Imanol,Handball,Men,B
 ESP,GARRIGOS Francisco,Judo,Men -60 kg,B
 ESP,GERMADE Rodrigo,Canoe Sprint,Men's Kayak Four 500m,B
+ESP,GOMEZ Aleix,Handball,Men,B
 ESP,LLUIS VALETTE Lilou,Artistic Swimming,Team,B
+ESP,MAQUEDA Jorge,Handball,Men,B
 ESP,MAS PUJADAS Meritxell,Artistic Swimming,Team,B
 ESP,MORENO Joan Antoni,Canoe Sprint,Men's Canoe Double 500m,B
+ESP,ODRIOZOLA Kauldi,Handball,Men,B
 ESP,OZHOGINA OZHOGIN Alisa,Artistic Swimming,Team,B
+ESP,PEREZ de VARGAS Gonzalo,Handball,Men,B
 ESP,RAMIREZ IBANEZ Paula,Artistic Swimming,Team,B
 ESP,REYES PLA Enmanuel,Boxing,Men's 92kg,B
+ESP,RODRIGUEZ Javier,Handball,Men,B
 ESP,SALDANA LOPEZ Sara,Artistic Swimming,Team,B
+ESP,SANCHEZ-MIGALLON Miguel,Handball,Men,B
+ESP,SERDIO Abel,Handball,Men,B
 ESP,SORRIBES TORMO Sara,Tennis,Women's Doubles,B
+ESP,TARRAFETA Ian,Handball,Men,B
 ESP,TIO CASAS Iris,Artistic Swimming,Team,B
 ESP,TOLEDANO LAUT Blanca,Artistic Swimming,Team,B
 FRA,ABOUDOU MOINDZE Djamili-Dini,Boxing,Men's +92kg,B
