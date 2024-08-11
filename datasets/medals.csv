@@ -103,8 +103,8 @@ AUS,McKEON Emma,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McKEON Emma,Swimming,Mixed 4 x 100m Medley Relay,B
 NED,BOL Femke,Athletics,Women's 4 x 400m Relay,S
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,MURPHY Ryan,Swimming,Men's 4 x 100m Medley Relay,S
 USA,MURPHY Ryan,Swimming,Mixed 4 x 100m Medley Relay,G
@@ -1063,8 +1063,8 @@ CHN,WANG Xinyu,Tennis,Mixed Doubles,S
 CHN,WANG Zisai,Trampoline Gymnastics,Men,S
 CHN,WU Peng,Sport Climbing,Men's Speed,S
 CHN,XU Wenyu,Hockey,Women,S
-CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Liu,Boxing,Women's 66kg,S
+CHN,YANG Liu,Hockey,Women,S
 CHN,YANG Wenlu,Boxing,Women's 60kg,S
 CHN,YANG Xiaolei,Archery,Women's Team,S
 CHN,YE Jiao,Hockey,Women,S
@@ -1511,23 +1511,35 @@ ARG,SAUZE VALDEZ Victoria,Hockey,Women,B
 ARG,TOCCALINO Sofia,Hockey,Women,B
 ARG,TRINCHINETTI Eugenia,Hockey,Women,B
 ARM,AMOYAN Malkhas,Wrestling,Men's Greco-Roman 77kg,B
+AUS,ATWELL Amy,Basketball,Women,B
+AUS,BORLASE Isobel,Basketball,Women,B
 AUS,COWLEY Rhydian,Athletics,Marathon Race Walk Relay Mixed,B
 AUS,DENNY Matthew,Athletics,Men's Discus Throw,B
 AUS,DIEHM Natalya,Cycling BMX Freestyle,Women's Park,B
+AUS,GEORGE Cayla,Basketball,Women,B
 AUS,GIULIANI Maximillian,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,GLAETZER Matthew,Cycling Track,Men's Team Sprint,B
 AUS,GREEN Tom,Canoe Sprint,Men's Kayak Double 500m,B
 AUS,HOFFMAN Leigh,Cycling Track,Men's Team Sprint,B
 AUS,INCERTI Zac,Swimming,Men's 4 x 200m Freestyle Relay,B
+AUS,JACKSON Lauren,Basketball,Women,B
+AUS,MADGEN Tess,Basketball,Women,B
+AUS,MAGBEGOR Ezi,Basketball,Women,B
 AUS,McINTYRE Annabelle,Rowing,Women's Pair,B
+AUS,MELBOURNE Jade,Basketball,Women,B
 AUS,MORRISON Jess,Rowing,Women's Pair,B
 AUS,NEILL Thomas,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,PARKER Caitlin,Boxing,Women's 75kg,B
 AUS,PATTERSON Eleanor,Athletics,Women's High Jump,B
 AUS,SENIOR Charlie,Boxing,Men's 57kg,B
+AUS,SMITH Alanna,Basketball,Women,B
 AUS,SMITH Penny,Shooting,Trap Women,B
+AUS,TALBOT Steph,Basketball,Women,B
 AUS,TEMPLE Matthew,Swimming,Mixed 4 x 100m Medley Relay,B
+AUS,TOLO Marianna,Basketball,Women,B
 AUS,van der WESTHUYZEN Jean,Canoe Sprint,Men's Kayak Double 500m,B
+AUS,WALLACE Kristy,Basketball,Women,B
+AUS,WHITCOMB Sami,Basketball,Women,B
 AUS,YONG Joshua,Swimming,Mixed 4 x 100m Medley Relay,B
 AUT,PILZ Jessica,Sport Climbing,Women's Boulder & Lead,B
 AUT,POLLERES Michaela,Judo,Women -70 kg,B
