@@ -1,14 +1,14 @@
 code,country,medal,quantity
 CHN,People's Republic of China,gold,40
 USA,United States of America,gold,38
-JPN,Japan,gold,19
+JPN,Japan,gold,20
 AUS,Australia,gold,18
 FRA,France,gold,16
 NED,Netherlands,gold,15
 GBR,Great Britain,gold,14
 KOR,Republic of Korea,gold,13
+ITA,Italy,gold,12
 GER,Germany,gold,12
-ITA,Italy,gold,11
 NZL,New Zealand,gold,10
 CAN,Canada,gold,9
 UZB,Uzbekistan,gold,8
@@ -91,15 +91,15 @@ SGP,Singapore,gold,0
 SVK,Slovakia,gold,0
 ZAM,Zambia,gold,0
 CHN,People's Republic of China,silver,27
-USA,United States of America,silver,42
+USA,United States of America,silver,44
 JPN,Japan,silver,12
 AUS,Australia,silver,19
 FRA,France,silver,25
 NED,Netherlands,silver,7
 GBR,Great Britain,silver,22
 KOR,Republic of Korea,silver,9
-GER,Germany,silver,12
 ITA,Italy,silver,13
+GER,Germany,silver,12
 NZL,New Zealand,silver,7
 CAN,Canada,silver,7
 UZB,Uzbekistan,silver,2
@@ -189,8 +189,8 @@ FRA,France,bronze,22
 NED,Netherlands,bronze,12
 GBR,Great Britain,bronze,29
 KOR,Republic of Korea,bronze,10
-GER,Germany,bronze,8
 ITA,Italy,bronze,15
+GER,Germany,bronze,8
 NZL,New Zealand,bronze,2
 CAN,Canada,bronze,11
 UZB,Uzbekistan,bronze,3
