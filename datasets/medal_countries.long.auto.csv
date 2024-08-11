@@ -25,13 +25,13 @@ ROU,Romania,gold,3
 GEO,Georgia,gold,3
 BEL,Belgium,gold,3
 BUL,Bulgaria,gold,3
+SRB,Serbia,gold,3
 CZE,Czechia,gold,3
 DEN,Denmark,gold,2
 AZE,Azerbaijan,gold,2
-CUB,Cuba,gold,2
 CRO,Croatia,gold,2
+CUB,Cuba,gold,2
 BRN,Bahrain,gold,2
-SRB,Serbia,gold,2
 SLO,Slovenia,gold,2
 TPE,Chinese Taipei,gold,2
 AUT,Austria,gold,2
@@ -116,13 +116,13 @@ ROU,Romania,silver,4
 GEO,Georgia,silver,3
 BEL,Belgium,silver,1
 BUL,Bulgaria,silver,1
+SRB,Serbia,silver,1
 CZE,Czechia,silver,0
 DEN,Denmark,silver,2
 AZE,Azerbaijan,silver,2
+CRO,Croatia,silver,2
 CUB,Cuba,silver,1
-CRO,Croatia,silver,1
 BRN,Bahrain,silver,1
-SRB,Serbia,silver,1
 SLO,Slovenia,silver,1
 TPE,Chinese Taipei,silver,0
 AUT,Austria,silver,0
@@ -207,13 +207,13 @@ ROU,Romania,bronze,2
 GEO,Georgia,bronze,1
 BEL,Belgium,bronze,6
 BUL,Bulgaria,bronze,3
+SRB,Serbia,bronze,1
 CZE,Czechia,bronze,2
 DEN,Denmark,bronze,5
 AZE,Azerbaijan,bronze,3
-CUB,Cuba,bronze,6
 CRO,Croatia,bronze,3
+CUB,Cuba,bronze,6
 BRN,Bahrain,bronze,1
-SRB,Serbia,bronze,1
 SLO,Slovenia,bronze,0
 TPE,Chinese Taipei,bronze,5
 AUT,Austria,bronze,3

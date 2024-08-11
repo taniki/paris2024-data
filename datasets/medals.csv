@@ -109,8 +109,8 @@ AUS,McKEON Emma,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McKEON Emma,Swimming,Mixed 4 x 100m Medley Relay,B
 NED,BOL Femke,Athletics,Women's 4 x 400m Relay,S
-NED,BOL Femke,Athletics,Women's 400m Hurdles,B
 NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
+NED,BOL Femke,Athletics,Women's 400m Hurdles,B
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,MURPHY Ryan,Swimming,Men's 4 x 100m Medley Relay,S
 USA,MURPHY Ryan,Swimming,Mixed 4 x 100m Medley Relay,G
@@ -340,8 +340,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -888,8 +888,21 @@ ROU,RUSU Maria Magdalena,Rowing,Women's Eight,G
 SLO,GARNBRET Janja,Sport Climbing,Women's Boulder & Lead,G
 SLO,LESKI Andreja,Judo,Women -63 kg,G
 SRB,ARUNOVIC Zorana,Shooting,10m Air Pistol Mixed Team,G
+SRB,CUK Milos,Water Polo,Men,G
+SRB,DEDOVIC Nikola,Water Polo,Men,G
 SRB,DJOKOVIC Novak,Tennis,Men's Singles,G
+SRB,DRASOVIC Radomir,Water Polo,Men,G
+SRB,FILIPOVIC Radoslav,Water Polo,Men,G
+SRB,JAKSIC Nikola,Water Polo,Men,G
+SRB,JAKSIC Petar,Water Polo,Men,G
+SRB,MANDIC Dusan,Water Polo,Men,G
 SRB,MIKEC Damir,Shooting,10m Air Pistol Mixed Team,G
+SRB,MISOVIC Vladimir,Water Polo,Men,G
+SRB,RANDELOVIC Sava,Water Polo,Men,G
+SRB,RASOVIC Strahinja,Water Polo,Men,G
+SRB,RASOVIC Viktor,Water Polo,Men,G
+SRB,UBOVIC Nemanja,Water Polo,Men,G
+SRB,VICO Nemanja,Water Polo,Men,G
 SUI,LEONE Chiara,Shooting,50m Rifle 3 Positions Women,G
 SWE,AHMAN David,Beach Volleyball,Men,G
 SWE,DUPLANTIS Armand,Athletics,Men's Pole Vault,G
@@ -1118,7 +1131,20 @@ CHN,ZOU Meirong,Hockey,Women,S
 COL,BARAJAS Angel,Artistic Gymnastics,Men's Horizontal Bar,S
 COL,LOPEZ Yeison,Weightlifting,Men's 89kg,S
 COL,SANCHEZ Mari Leivis,Weightlifting,Women's 71kg,S
+CRO,BIJAC Marko,Water Polo,Men,S
+CRO,BILJAKA Matias,Water Polo,Men,S
+CRO,BUKIC Luka,Water Polo,Men,S
+CRO,BURIC Rino,Water Polo,Men,S
+CRO,FATOVIC Loren,Water Polo,Men,S
+CRO,JOKOVIC Maro,Water Polo,Men,S
+CRO,KHARKOV Konstantin,Water Polo,Men,S
+CRO,LONCAR Luka,Water Polo,Men,S
+CRO,MARINIC KRAGIC Jerko,Water Polo,Men,S
+CRO,POPADIC Toni,Water Polo,Men,S
 CRO,VEKIC Donna,Tennis,Women's Singles,S
+CRO,VRLIC Josip,Water Polo,Men,S
+CRO,VUKICEVIC Ante,Water Polo,Men,S
+CRO,ZUVELA Marko,Water Polo,Men,S
 CUB,GUZMAN LOPEZ Yusneylis,Wrestling,Women's Freestyle 50kg,S
 CYP,KONTIDES Pavlos,Sailing,Men's Dinghy,S
 DEN,BACHMANN ANDERSEN Daniel,Equestrian,Dressage Team,S
