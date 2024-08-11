@@ -90,8 +90,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -469,6 +469,7 @@ AZE,KOTSOIEV Zelym,Judo,Men -100 kg,G
 BEL,THIAM Nafissatou,Athletics,Women's Heptathlon,G
 BRA,SANTOS LISBOA Eduarda,Beach Volleyball,Women,G
 BRA,SILVA RAMOS Ana Patricia,Beach Volleyball,Women,G
+BRN,TAZHUDINOV Akhmed,Wrestling,Men's Freestyle 97kg,G
 BRN,YAVI Winfred,Athletics,Women's 3000m Steeplechase,G
 BUL,NASAR Karlos May,Weightlifting,Men's 89kg,G
 BUL,NOVIKOV Semen Sergeevich,Wrestling,Men's Greco-Roman 87kg,G
@@ -1222,6 +1223,7 @@ GBR,WILLIAMS Bianca,Athletics,Women's 4 x 100m Relay,S
 GBR,WOOD Oliver,Cycling Track,Men's Team Pursuit,S
 GBR,WYNNE-GRIFFITH Oliver,Rowing,Men's Pair,S
 GEO,GRIGALASHVILI Tato,Judo,Men -81 kg,S
+GEO,MATCHARASHVILI Givi,Wrestling,Men's Freestyle 97kg,S
 GEO,SULAMANIDZE Ilia,Judo,Men -100 kg,S
 GER,BRUESSLER Sarah,Canoe Sprint,Women's Kayak Four 500m,S
 GER,BUTKEREIT Miriam,Judo,Women -70 kg,S
