@@ -928,6 +928,8 @@ USA,BOOKER Devin,Basketball,Men,G
 USA,BUTLER Aaliyah,Athletics,Women's 4 x 400m Relay,G
 USA,CHILES Jordan,Artistic Gymnastics,Women's Team,G
 USA,COFFEY Samantha,Football,Women,G
+USA,COLLIER Napheesa,Basketball,Women,G
+USA,COPPER Kahleah,Basketball,Women,G
 USA,CORRIGAN Liam,Rowing,Men's Four,G
 USA,CROUSER Ryan,Athletics,Men's Shot Put,G
 USA,CURRY Stephen,Basketball,Men,G
@@ -943,6 +945,8 @@ USA,EMBIID Joel,Basketball,Men,G
 USA,FOX Emily,Football,Women,G
 USA,GIRMA Naomi,Football,Women,G
 USA,GRADY Michael,Rowing,Men's Four,G
+USA,GRAY Chelsea,Basketball,Women,G
+USA,GRINER Brittney,Basketball,Women,G
 USA,HALIBURTON Tyrese,Basketball,Men,G
 USA,HALL Quincy,Athletics,Men's 400m,G
 USA,HAYES Quanera,Athletics,Women's 4 x 400m Relay,G
@@ -953,16 +957,19 @@ USA,HOLIDAY Jrue,Basketball,Men,G
 USA,HOLLOWAY Grant,Athletics,Men's 110m Hurdles,G
 USA,HOLMES Alexis,Athletics,Women's 4 x 400m Relay,G
 USA,HORAN Lindsey,Football,Women,G
+USA,IONESCU Sabrina,Basketball,Women,G
 USA,JAMES LeBron,Basketball,Men,G
 USA,KING Lilly,Swimming,Women's 4 x 100m Medley Relay,G
 USA,KING Matt,Swimming,Men's 4 x 100m Freestyle Relay,G
 USA,KRUEGER Casey,Football,Women,G
 USA,LAVELLE Rose,Football,Women,G
+USA,LOYD Jewell,Basketball,Women,G
 USA,MARKS Caroline,Surfing,Women,G
 USA,MEAD Nick,Rowing,Men's Four,G
 USA,MURPHY Casey,Football,Women,G
 USA,NAEHER Alyssa,Football,Women,G
 USA,NIGHSWONGER Jenna,Football,Women,G
+USA,PLUM Kelsey,Basketball,Women,G
 USA,REEVES Olivia,Weightlifting,Women's 71kg,G
 USA,RIVERA Hezly,Artistic Gymnastics,Women's Team,G
 USA,RODMAN Trinity,Football,Women,G
@@ -972,15 +979,20 @@ USA,SCHEFFLER Scottie,Golf,Men's Individual Stroke Play,G
 USA,SHAW Jaedyn,Football,Women,G
 USA,SMITH Sophia,Football,Women,G
 USA,SONNETT Emily,Football,Women,G
+USA,STEWART Breanna,Basketball,Women,G
 USA,SWANSON Mallory,Football,Women,G
 USA,TATUM Jayson,Basketball,Men,G
+USA,TAURASI Diana,Basketball,Women,G
 USA,TERRY Twanisha,Athletics,Women's 4 x 100m Relay,G
+USA,THOMAS Alyssa,Basketball,Women,G
 USA,WEBER Emma,Swimming,Women's 4 x 100m Medley Relay,G
 USA,WEINTRAUB Maia Mei,Fencing,Women's Foil Team,G
 USA,WHITE Derrick,Basketball,Men,G
 USA,WILLIAMS Lily,Cycling Track,Women's Team Pursuit,G
 USA,WILLIAMS Lynn,Football,Women,G
+USA,WILSON A'ja,Basketball,Women,G
 USA,WILSON Quincy,Athletics,Men's 4 x 400m Relay,G
+USA,YOUNG Jackie,Basketball,Women,G
 UZB,DUSMATOV Hasanboy,Boxing,Men's 51kg,G
 UZB,JALOLOV Bakhodir,Boxing,Men's +92kg,G
 UZB,JAMALOV Razambek Salambekovitch,Wrestling,Men's Freestyle 74kg,G
@@ -1181,15 +1193,19 @@ FRA,ADDIS Baptiste,Archery,Men's Team,S
 FRA,AKLIOUCHE Maghnes,Football,Men,S
 FRA,ALBICY Andrew,Basketball,Men,S
 FRA,ANDRE Sylvain,Cycling BMX Racing,Men,S
+FRA,AYAYI Valeriane,Basketball,Women,S
 FRA,BADE Loic,Football,Men,S
+FRA,BADIANE Marieme,Basketball,Women,S
 FRA,BALZER Sara,Fencing,Women's Sabre Individual,S
 FRA,BATUM Nicolas,Basketball,Men,S
 FRA,BENNAMA Billal,Boxing,Men's 51kg,S
+FRA,BERNIES Romane,Basketball,Women,S
 FRA,BOREL Yannick,Fencing,Men's Épée Individual,S
 FRA,BOUKTIT Sarah,Handball,Women,S
 FRA,CANDASSAMY Marie-Florence,Fencing,Women's Épée Team,S
 FRA,CASTRYCK Titouan,Canoe Slalom,Men's Kayak Single,S
 FRA,CHERKI Rayan,Football,Men,S
+FRA,CHERY Alexia,Basketball,Women,S
 FRA,CHIRAULT Thomas,Archery,Men's Team,S
 FRA,CHOTARD Joris,Football,Men,S
 FRA,CLOUVEL Elodie,Modern Pentathlon,Women's Individual,S
@@ -1201,6 +1217,7 @@ FRA,de COLO Nando,Basketball,Men,S
 FRA,DIOUF Andy,Football,Men,S
 FRA,DOUE Desire,Football,Men,S
 FRA,DUSSOULIER Lucas,3x3 Basketball,Men,S
+FRA,FAUTHOUX Marine,Basketball,Women,S
 FRA,FLIPPES Laura,Handball,Women,S
 FRA,FOPPA Pauletta,Handball,Women,S
 FRA,FOURNIER Evan,Basketball,Men,S
@@ -1211,11 +1228,13 @@ FRA,GRANIER Lucie,Handball,Women,S
 FRA,HORACEK Tamara,Handball,Women,S
 FRA,HUG Angele,Canoe Slalom,Women's Kayak Cross,S
 FRA,JEDRZEJEWSKI Camille,Shooting,25m Pistol Women,S
+FRA,JOHANNES Marine,Basketball,Women,S
 FRA,KALIMUENDO Arnaud,Football,Men,S
 FRA,KANOR Orlane,Handball,Women,S
 FRA,KIRPICHNIKOVA Anastasiia,Swimming,Women's 1500m Freestyle,S
 FRA,KONE Manu,Football,Men,S
 FRA,KORETZKY Victor,Cycling Mountain Bike,Men's Cross-country,S
+FRA,LACAN Leila,Basketball,Women,S
 FRA,LACAZETTE Alexandre,Football,Men,S
 FRA,LAGHOUAG Karim Florent,Equestrian,Eventing Team,S
 FRA,LANDOIS Stephane,Equestrian,Eventing Team,S
@@ -1227,8 +1246,10 @@ FRA,LOUIS-MARIE Alexandra,Fencing,Women's Épée Team,S
 FRA,LUKEBA Castello,Football,Men,S
 FRA,MADOUAS Valentin,Cycling Road,Men's Road Race,S
 FRA,MAGASSA Soungoutou,Football,Men,S
+FRA,MALONGA Dominique,Basketball,Women,S
 FRA,MATETA Jean-Philippe,Football,Men,S
 FRA,MATSIMA Chrislain,Football,Men,S
+FRA,MICHEL BOURY Sarah,Basketball,Women,S
 FRA,MILLOT Enzo,Football,Men,S
 FRA,NKAMBADIO Obed,Football,Men,S
 FRA,NOCANDY Meline,Handball,Women,S
@@ -1240,7 +1261,9 @@ FRA,ONDONO Onacia,Handball,Women,S
 FRA,OUMIHA Sofiane,Boxing,Men's 63.5kg,S
 FRA,RAMBAUT Jules,3x3 Basketball,Men,S
 FRA,RESTES Guillaume,Football,Men,S
+FRA,RUPERT Iliana,Basketball,Women,S
 FRA,SAKO Hatadou,Handball,Women,S
+FRA,SALAUN Janelle,Basketball,Women,S
 FRA,SAMBA-MAYELA Cyrena,Athletics,Women's 100m Hurdles,S
 FRA,SEGUELA Franck,3x3 Basketball,Men,S
 FRA,SILDILLIA Kiliann,Football,Men,S
@@ -1253,6 +1276,7 @@ FRA,VALLADONT Jean-Charles,Archery,Men's Team,S
 FRA,VERGIAT Timothe,3x3 Basketball,Men,S
 FRA,VITALIS Coraline,Fencing,Women's Épée Team,S
 FRA,WEMBANYAMA Victor,Basketball,Men,S
+FRA,WILLIAMS Gabby,Basketball,Women,S
 FRA,YABUSELE Guerschon,Basketball,Men,S
 FRA,ZAADI DEUNA Grace,Handball,Women,S
 GBR,ASHER-SMITH Dina,Athletics,Women's 4 x 100m Relay,S
