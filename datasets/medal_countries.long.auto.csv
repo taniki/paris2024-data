@@ -4,8 +4,8 @@ USA,United States of America,gold,38
 JPN,Japan,gold,19
 AUS,Australia,gold,18
 FRA,France,gold,16
+NED,Netherlands,gold,15
 GBR,Great Britain,gold,14
-NED,Netherlands,gold,14
 KOR,Republic of Korea,gold,13
 GER,Germany,gold,12
 ITA,Italy,gold,11
@@ -93,10 +93,10 @@ ZAM,Zambia,gold,0
 CHN,People's Republic of China,silver,27
 USA,United States of America,silver,42
 JPN,Japan,silver,12
-AUS,Australia,silver,18
+AUS,Australia,silver,19
 FRA,France,silver,25
-GBR,Great Britain,silver,22
 NED,Netherlands,silver,7
+GBR,Great Britain,silver,22
 KOR,Republic of Korea,silver,9
 GER,Germany,silver,12
 ITA,Italy,silver,13
@@ -184,10 +184,10 @@ ZAM,Zambia,silver,0
 CHN,People's Republic of China,bronze,24
 USA,United States of America,bronze,43
 JPN,Japan,bronze,13
-AUS,Australia,bronze,15
+AUS,Australia,bronze,16
 FRA,France,bronze,22
-GBR,Great Britain,bronze,29
 NED,Netherlands,bronze,12
+GBR,Great Britain,bronze,29
 KOR,Republic of Korea,bronze,10
 GER,Germany,bronze,8
 ITA,Italy,bronze,15
@@ -209,7 +209,7 @@ BEL,Belgium,bronze,6
 BUL,Bulgaria,bronze,3
 CZE,Czechia,bronze,2
 AZE,Azerbaijan,bronze,3
-CUB,Cuba,bronze,5
+CUB,Cuba,bronze,6
 CRO,Croatia,bronze,3
 BRN,Bahrain,bronze,1
 SRB,Serbia,bronze,1

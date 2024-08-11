@@ -2,10 +2,10 @@ code,country,gold,silver,bronze
 CHN,People's Republic of China,40,27,24
 USA,United States of America,38,42,43
 JPN,Japan,19,12,13
-AUS,Australia,18,18,15
+AUS,Australia,18,19,16
 FRA,France,16,25,22
+NED,Netherlands,15,7,12
 GBR,Great Britain,14,22,29
-NED,Netherlands,14,7,12
 KOR,Republic of Korea,13,9,10
 GER,Germany,12,12,8
 ITA,Italy,11,13,15
@@ -27,7 +27,7 @@ BEL,Belgium,3,1,6
 BUL,Bulgaria,3,1,3
 CZE,Czechia,3,0,2
 AZE,Azerbaijan,2,2,3
-CUB,Cuba,2,1,5
+CUB,Cuba,2,1,6
 CRO,Croatia,2,1,3
 BRN,Bahrain,2,1,1
 SRB,Serbia,2,1,1

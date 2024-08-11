@@ -93,8 +93,8 @@ USA,DRESSEL Caeleb,Swimming,Mixed 4 x 100m Medley Relay,G
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,HARRIS Meg,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,HARRIS Meg,Swimming,Women's 50m Freestyle,S
-CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Men's 4 x 100m Medley Relay,G
+CHN,XU Jiayu,Swimming,Men's 100m Backstroke,S
 CHN,XU Jiayu,Swimming,Mixed 4 x 100m Medley Relay,S
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Parallel Bars,G
 CHN,ZOU Jingyuan,Artistic Gymnastics,Men's Rings,S
@@ -106,8 +106,8 @@ AUS,McKEON Emma,Swimming,Women's 4 x 100m Medley Relay,S
 AUS,McKEON Emma,Swimming,Women's 4 x 100m Freestyle Relay,G
 AUS,McKEON Emma,Swimming,Mixed 4 x 100m Medley Relay,B
 NED,BOL Femke,Athletics,Women's 4 x 400m Relay,S
-NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 NED,BOL Femke,Athletics,Women's 400m Hurdles,B
+NED,BOL Femke,Athletics,4 x 400m Relay Mixed,G
 USA,MURPHY Ryan,Swimming,Men's 100m Backstroke,B
 USA,MURPHY Ryan,Swimming,Men's 4 x 100m Medley Relay,S
 USA,MURPHY Ryan,Swimming,Mixed 4 x 100m Medley Relay,G
@@ -1636,6 +1636,7 @@ CRO,STOJKOVIC Lena,Taekwondo,Women -49kg,B
 CUB,ALBA Rafael,Taekwondo,Men +80kg,B
 CUB,CIRILO DUBOYS Yarisleidis,Canoe Sprint,Women's Canoe Single 200m,B
 CUB,LOPEZ CARDONA Arlen,Boxing,Men's 80kg,B
+CUB,MARIN POTRILLE Milaimy de la Carid.,Wrestling,Women's Freestyle 76kg,B
 CUB,ORTA SANCHEZ Luis Alberto,Wrestling,Men's Greco-Roman 67kg,B
 CUB,ROSILLO KINDELAN Gabriel Alejandro,Wrestling,Men's Greco-Roman 97kg,B
 CZE,BERAN Jiri,Fencing,Men's Épée Team,B
