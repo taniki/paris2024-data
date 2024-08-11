@@ -336,8 +336,8 @@ AUS,TAYLOR Kai,Swimming,Men's 4 x 100m Freestyle Relay,S
 AUS,TAYLOR Kai,Swimming,Men's 4 x 200m Freestyle Relay,B
 AUS,WINNINGTON Elijah,Swimming,Men's 400m Freestyle,S
 AUS,WINNINGTON Elijah,Swimming,Men's 4 x 200m Freestyle Relay,B
-BRA,LIMA Willian,Judo,Men -66 kg,S
 BRA,LIMA Willian,Judo,Mixed Team,B
+BRA,LIMA Willian,Judo,Men -66 kg,S
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's All-Around,B
 CHN,XIAO Ruoteng,Artistic Gymnastics,Men's Team,S
 GBR,BARKER Elinor,Cycling Track,Women's Madison,S
@@ -1485,6 +1485,7 @@ USA,WEINSTEIN Claire,Swimming,Women's 4 x 200m Freestyle Relay,S
 UZB,DJURAEV Akbar,Weightlifting,Men's 102kg,S
 UZB,OSIPOVA Svetlana,Taekwondo,Women +67kg,S
 AIN,TSIKHANTSOU Yauheni,Weightlifting,Men's 102kg,B
+ALB,DUDAEV Islam,Wrestling,Men's Freestyle 65kg,B
 ALB,VALIEV Chermen,Wrestling,Men's Freestyle 74kg,B
 ALG,SEDJATI Djamel,Athletics,Men's 800m,B
 ARG,ALBERTARRIO Agustina,Hockey,Women,B
